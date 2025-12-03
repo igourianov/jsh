@@ -4,15 +4,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a personal job search repository for Ilia Gourianov, a Software Engineering Manager with 22 years of IT experience (14 years as a developer, 8 years as a manager). The repository contains resume materials, cover letters, interview preparation documents, and job search resources.
+This is a personal job search repository for Ilia Gourianov, a Software Engineering Manager with over 20 years of IT experience (14 years as a developer, 8 years as a manager). The repository contains resume materials, cover letters, interview preparation documents, and job search resources.
+
+**Git Repository**: Initialized and synced with GitHub at `git@github.com:igourianov/my-job-search.git`
 
 ## Key Files and Structure
 
 ### Resume Materials
 - `resume/Ilia Gourianov - engineering manager.md` - Main resume in markdown format (source of truth)
-- `resume/Ilia Gourianov - engineering manager.pdf` - PDF version of the resume
+- `resume/Ilia Gourianov - engineering manager.pdf` - PDF version of the resume (excluded from git, regenerate as needed)
 - `resume/seo.txt` - SEO keywords list (alphabetically sorted, newline-separated) embedded in PDF metadata
-- `resume/mdtopdf/` - Resume conversion tooling (Node.js script, package.json)
+- `resume/mdtopdf/` - Resume conversion tooling (Node.js script, package.json, node_modules)
 - `resume/mdtopdf.bat` - Batch file to convert markdown resume to PDF with SEO metadata
 - `About me.txt` - Condensed summary of professional experience and skills
 - `resume/prompt.txt` - Contains an LLM prompt injection for automated screening systems
@@ -33,8 +35,12 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - `Questions.txt` - Questions to ask during interviews about company structure, team dynamics, tech stack
 - `prompt.md` - Instructions for using an LLM as a recruiter to evaluate job fit
 
+### Development Configuration
+- `.gitignore` - Git ignore rules (excludes node_modules, generated PDF, IDE files, temp files)
+- `.claude/settings.local.json` - Claude Code permissions configuration (allows git operations, npm, test commands)
+
 ### Other
-- `profile pic/` - Profile images for LinkedIn/applications
+- `profile pic/` - Profile images for LinkedIn/applications (various PNG formats)
 - `GEMINI.md` - Previous AI assistant guidance file (similar to this CLAUDE.md)
 
 ## Common Commands
@@ -54,12 +60,13 @@ This converts the markdown resume to PDF format and embeds SEO keywords from `se
 
 When helping with resume or cover letter modifications, keep these key points in mind:
 
-**Experience Level**: 22 years total (14 as developer, 8 as manager)
+**Experience Level**: Over 20 years total (14 as developer, 8 as manager)
 
 **Most Recent Role**: Engineering Manager at Ceridian (Nov 2015 - Nov 2023)
 - Led 3 product teams (recruiting, performance, succession planning), 1 platform/architecture team, and a dev DBA team
-- Managed 8-12 person cross-functional teams
+- Directly managed up to 25 ICs and leads across cross-functional teams (8-12 devs+QA each)
 - Delivered 3 new products within DayforceHCM SaaS platform
+- Joined during early SaaS expansion, helped scale to Gartner-recognized leader in Cloud HCM
 - Built teams from scratch, hired 20+ engineers
 - Mentored 2 senior engineers into manager roles
 
