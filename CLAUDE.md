@@ -74,31 +74,7 @@ publish.bat
 
 ## Candidate Profile Context
 
-When helping with resume or cover letter modifications, keep these key points in mind:
-
-**Experience Level**: Over 20 years total (14 as developer, 8 as manager)
-
-**Most Recent Role**: Engineering Manager at Ceridian (Nov 2015 - Nov 2023)
-- Led 3 product teams (recruiting, performance, succession planning), 1 platform/architecture team, and a dev DBA team
-- Directly managed up to 25 ICs and leads across cross-functional teams (8-12 devs+QA each)
-- Delivered 3 new products within DayforceHCM SaaS platform
-- Joined during early SaaS expansion, helped scale to Gartner-recognized leader in Cloud HCM
-- Built teams from scratch, hired 20+ engineers
-- Mentored 2 senior engineers into manager roles
-
-**Technical Background**:
-- Backend: C#, .NET Core, SQL Server
-- Frontend: JavaScript/TypeScript, ReactJS, Angular
-- Architecture: Microservices, SOA, REST APIs
-- Cloud/DevOps: Azure, Kubernetes (AKS), Docker, Terraform, CI/CD
-- Data: Redis, Kafka, ElasticSearch, Prometheus+Grafana
-
-**Management Expertise**:
-- Full-stack management: people, product, technical, processes, cross-functional collaboration
-- Team building, hiring, 1:1s, mentorship, performance reviews
-- Product roadmap, OKRs, DORA metrics, SDLC ownership
-- Agile/Scrum facilitation
-- Architecture oversight and hands-on contribution when needed
+Use 'Ilia Gourianov - engineering manager.md' as the source of truth regardin candidate's experience
 
 **Job Search Focus**: Remote Software Engineering Manager role, preferably in SaaS companies
 
