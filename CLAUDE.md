@@ -13,10 +13,12 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 ### Resume Materials
 - `resume/Ilia Gourianov - engineering manager.md` - Main resume in markdown format (source of truth)
 - `resume/Ilia Gourianov - engineering manager.pdf` - PDF version of the resume (excluded from git, regenerate as needed)
-- `resume/public/` - **Separate git repository** for public resume (connected to `git@github.com:igourianov/resume.git`)
+- `resume/publish/` - **Separate git repository** for published resume (connected to `git@gist.github.com:17c7ea00a40cdc436bc5fb7913382d10.git`)
+- `resume/publish.bat` - Main publishing script (sanitizes, generates PDF, commits, and pushes to Gist)
 - `resume/seo.txt` - SEO keywords list (alphabetically sorted, newline-separated) embedded in PDF metadata
-- `resume/mdtopdf/` - Resume conversion tooling (Node.js script, package.json, node_modules)
-- `resume/mdtopdf.bat` - Batch file to convert markdown resume to PDF with SEO metadata
+- `resume/mdtopdf/` - Resume conversion tooling (Node.js scripts, package.json, node_modules)
+- `resume/mdtopdf.bat` - Batch file to convert markdown resume to PDF with SEO metadata (for local use)
+- `resume/mdtopdf/convert-to-pdf.js` - Generic PDF converter with keyword injection (used by publish.bat)
 - `About me.txt` - Condensed summary of professional experience and skills
 - `resume/prompt.txt` - Contains an LLM prompt injection for automated screening systems
 
@@ -59,35 +61,28 @@ This converts the markdown resume to PDF format and embeds SEO keywords from `se
 
 ### Publish Resume (Make Public)
 
-**Definition**: "Publishing the resume" means making it publicly available via the GitHub public repository at `git@github.com:igourianov/resume.git`
+**Definition**: "Publishing the resume" means making it publicly available via the GitHub Gist at `git@gist.github.com:17c7ea00a40cdc436bc5fb7913382d10.git`
 
-**Steps to publish resume:**
-1. Generate PDF from markdown (see above)
-2. Copy both MD and PDF files to `resume/public/` folder
-3. Commit both files in the public repo
-4. Push to GitHub public repository
-
-**Commands:**
+**One-Command Publishing:**
 ```bash
-# 1. Generate PDF
 cd resume
-mdtopdf.bat
-
-# 2. Copy files to public folder
-cp "Ilia Gourianov - engineering manager.md" public/
-cp "Ilia Gourianov - engineering manager.pdf" public/
-
-# 3. Commit and push
-cd public
-git add "Ilia Gourianov - engineering manager.md" "Ilia Gourianov - engineering manager.pdf"
-git commit -m "Update resume"
-git push origin master
+publish.bat
 ```
 
+**What publish.bat does (fully automated):**
+1. **Copy**: Copies markdown to `publish/` folder
+2. **Generate PDF**: Creates PDF with SEO keywords embedded (650 keywords)
+3. **Analyze changes**: Checks git diff to detect what changed in the markdown
+4. **Commit**: Automatically stages and commits both MD and PDF files
+5. **Push**: Pushes to GitHub Gist
+6. **Open PDF**: Opens the generated PDF for review
+
 **Important Notes:**
-- `resume/public/` is a separate git repository (not tracked by main JobSearch repo)
-- Public repo remote: `git@github.com:igourianov/resume.git`
-- Always regenerate PDF before publishing to ensure MD and PDF are in sync
+- `resume/publish/` is a separate git repository (not tracked by main JobSearch repo)
+- Public Gist URL: https://gist.github.com/17c7ea00a40cdc436bc5fb7913382d10
+- Git remote: `git@gist.github.com:17c7ea00a40cdc436bc5fb7913382d10.git`
+- If no changes detected, script exits early and just opens the PDF
+- Resume is published with full contact information including email and phone
 
 ## Candidate Profile Context
 

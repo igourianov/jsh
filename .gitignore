@@ -39,5 +39,5 @@ build/
 *.pdf.tmp
 resume/Ilia Gourianov - engineering manager.pdf
 
-# Separate git repository (public resume)
-resume/public/
+# Separate git repository (published resume)
+resume/publish/
