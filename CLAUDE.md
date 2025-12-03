@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a personal job search repository for Ilia Gourianov, a Software Engineering Manager with over 20 years of IT experience (14 years as a developer, 8 years as a manager). The repository contains resume materials, cover letters, interview preparation documents, and job search resources.
 
-**Git Repository**: Initialized and synced with GitHub at `git@github.com:igourianov/my-job-search.git`
+**Git Repository**: Local repo
 
 ## Key Files and Structure
 
@@ -17,7 +17,6 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - `resume/publish.bat` - Main publishing script (sanitizes, generates PDF, commits, and pushes to Gist)
 - `resume/seo.txt` - SEO keywords list (alphabetically sorted, newline-separated) embedded in PDF metadata
 - `resume/mdtopdf/` - Resume conversion tooling (Node.js scripts, package.json, node_modules)
-- `resume/mdtopdf.bat` - Batch file to convert markdown resume to PDF with SEO metadata (for local use)
 - `resume/mdtopdf/convert-to-pdf.js` - Generic PDF converter with keyword injection (used by publish.bat)
 - `About me.txt` - Condensed summary of professional experience and skills
 - `resume/prompt.txt` - Contains an LLM prompt injection for automated screening systems
@@ -47,17 +46,6 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - `GEMINI.md` - Previous AI assistant guidance file (similar to this CLAUDE.md)
 
 ## Common Commands
-
-### Generate PDF from Resume
-```batch
-cd resume
-mdtopdf.bat
-```
-This converts the markdown resume to PDF format and embeds SEO keywords from `seo.txt` as PDF metadata. The script:
-- Reads 650+ keywords from `resume/seo.txt` (alphabetically sorted, newline-separated)
-- Converts `resume/Ilia Gourianov - engineering manager.md` to PDF
-- Embeds keywords in PDF metadata for ATS parser visibility
-- Uses `md-to-pdf` (Node.js) via tooling in `resume/mdtopdf/`
 
 ### Publish Resume (Make Public)
 
@@ -118,7 +106,7 @@ When helping with resume or cover letter modifications, keep these key points in
 
 ### Resume Updates
 - The markdown file (`resume/Ilia Gourianov - engineering manager.md`) is the source of truth
-- After updating the markdown, regenerate the PDF using `mdtopdf.bat`
+- After updating the markdown, use `publish.bat` to generate PDF and publish
 - Maintain consistent formatting and structure
 
 ### Cover Letter Customization
