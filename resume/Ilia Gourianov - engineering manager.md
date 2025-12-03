@@ -24,7 +24,7 @@ Engineering Leader with over 20 years of experience, including 8 years building 
 
 # Experience
 
-### Engineering Manager @ [Ceridian Inc](https://www.linkedin.com/company/ceridian/) | Nov 2015 \- Nov 2023
+### Engineering Manager @ [Ceridian Inc](https://www.linkedin.com/company/ceridian/) | Nov 2015 \- Oct 2025
 
 *Product:* [DayforceHCM](https://www.dayforce.com/). Global SaaS Human Capital Management platform for mid and large size companies. Joined during early SaaS expansion into HRTech space and helped scale from emerging product to Gartner-recognized leader in Cloud HCM.
 
@@ -75,20 +75,9 @@ Engineering Leader with over 20 years of experience, including 8 years building 
 
 ### Application Developer @ Antibex Software | Dec 2003 \- Sept 2005
 
-*Responsibilities:*
-* Developed and supported software for doctor's offices
-* Developed data migration tools from legacy third-party applications
-* Performed on-site setup and support
-
 *Technologies/tools:* VB.NET, C\#, WinForms, SQL Server, Network sockets 
 
 ### Application Developer @ Otiumation Inc | Apr 2001 \- Dec 2003
-
-*Responsibilities:*
-* Developed and supported a security/home entertainment software
-* Led a small software development team Windows installation/packaging management
-* Developed integrations with a variety of hardware devices (webcams, modem/fax, etc.)
-* Developed integration with MS voice recognition API 
 
 *Technologies/tools:* VisualBasic, Windows API, SQL Server 
 
