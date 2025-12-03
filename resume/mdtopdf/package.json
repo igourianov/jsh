@@ -1,0 +1,13 @@
+{
+  "name": "resume-converter",
+  "version": "1.0.0",
+  "description": "Convert markdown resume to PDF with SEO keywords metadata",
+  "private": true,
+  "scripts": {
+    "convert": "node convert-resume.js"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4",
+    "pdf-lib": "^1.17.1"
+  }
+}

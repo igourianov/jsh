@@ -1,0 +1,10 @@
+# query
+("software development" OR "Application Development" OR "Engineering")
+AND ("Manager" OR "mgr" OR "Director" OR "Leader")
+AND NOT ("Affirm" OR "Canonical" OR "CrowdStrike" OR "1Password" OR "Coinbase")
+
+# date range
+last 24 hours
+
+# location
+Canada, remote

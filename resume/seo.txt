@@ -1,0 +1,650 @@
+.NET Developer
+able
+Ability to adapt
+Ability to collaborate
+Ability to lead
+abstraction
+acceptance tests
+access
+Accomplished
+Accountability
+Accountable
+accounting
+achieve
+across
+actively participate
+activity
+Adaptability
+adept
+Adoption
+advocate
+affect
+agency
+aggressive
+Agile development
+agile methodology
+Algorithms
+aligned
+Alignment
+ambiguous
+ambitious
+Analytical skills
+Analytics
+Annual salary review
+API
+APIs
+Application Architecture
+apply
+Approach
+Architecture engineering
+Architectures
+Articulate
+Attention to detail
+authenticity
+automate processes
+AWS
+AzDO
+Azure DevOps
+B2B (Business-to-Business)
+Back end
+Back-end
+Backend
+balance
+benefits
+Best practices
+bias
+bold
+Brand
+broadly
+Budget
+budgeting
+Build relationships
+Business continuity
+business priorities
+Business requirements
+Business stakeholders
+Canada
+Canadian
+Canadians
+candidate
+Capacity Planning
+career advancement
+Career Development
+CD
+challenge
+Change management
+character
+CI
+CI/CD
+Clean coding
+Clients
+Cloud Native Computing Foundation
+cloud native infrastructure
+coaching new leaders
+coaching success
+Code refactoring
+Collaborating
+collaborative
+Collaboratively
+collaborator
+Combine
+Commitment
+Committed
+Communicate
+Communication skills
+Company
+compensation
+competing priorities
+competition
+Competitive
+Complex architecture
+Complex projects
+complexities
+comprehensive
+computer science
+computer skills
+conditions
+conduct
+confidence
+Confident
+connect
+Connected
+Consistent
+Consulting
+consumer experiences
+Consumers
+continuous delivery
+continuous deployment
+Continuous improvement
+continuous integration
+Continuous Integration/Continuous Deployment (CI/CD)
+Contribute
+Cooperative
+coordinate
+Coordination
+Counseling
+coworkers
+Creative
+critical thinking
+Cross-functional Collaboration
+Cross-functional team
+culture of excellence
+Customer experience
+customer service
+Customer requirements
+Customer-facing
+customers
+daily
+Data Migration
+Data Privacy
+Database design
+database management
+Datasets
+debugging
+Decision Making
+Decisions
+Dedicated
+Dedication
+deeply
+define
+Deliverable
+Delivering
+demonstrated
+deploy
+design reviews
+Designed
+detail-oriented
+develop
+Development Manager
+Development processes
+difficult
+digital risk
+direct reports
+directly
+distributed teams
+Diverse
+Document
+Documentation
+Documenting
+Domain-Driven Development (DDD)
+drive
+driven
+driving
+Dynamic environment
+E2E testing
+Education
+Effective communication
+effectively
+efficiently
+effort
+elegant
+Emerging technologies
+Employee engagement
+employees
+employers
+empower
+enable
+End user
+engaged
+engagement score
+Engaging
+Engine
+engineering community
+Engineering culture
+Engineering excellence
+Engineering leader
+Engineering leadership
+Engineering management
+Engineering manager
+Engineering team
+English
+ensure
+Ensuring
+Enterprise Software
+Equal
+Equality
+Equity
+establish
+established
+even
+ever
+every
+evolve
+Excellent communication
+execution
+Executive team
+expand current capabilities
+Expenses
+experienced
+experimentation
+Experiments
+Expert knowledge
+extraordinary
+extremely challenging
+Family
+Fast-paced environment
+fault tolerant
+Feature
+Features
+feedback
+Flex
+flexibility
+Flexible
+Focus
+Focused
+Foster
+frictionless
+Friendly
+Front end
+Front-end
+Frontend
+Full stack
+Full-stack Developer
+Full-stack Development
+Fullstack
+fun
+functional testing
+fundamentals
+Future
+gaps
+GCP
+Gender
+Gitflow
+Github
+global
+globally
+Goals
+Good
+Great
+Grow
+growing
+growth-focused
+GTA
+Guidance
+guide
+HA
+Hands-on
+Head of Engineering
+Healthcare
+help
+High availability
+High quality
+high-performing
+Highly motivated
+Hiring
+HR Tech (Human Resources Technology)
+Human resources
+hybrid
+idea generation
+ideal
+Ideally
+identify
+Identity
+Impactful
+implement
+Implementing
+Important
+Improve Efficiency
+improve team efficiency
+In-depth knowledge
+inclusion
+Inclusive
+increase
+individual
+Industry experience
+Industry standard
+Industry Terms:
+Industry trends
+influence
+influencer
+Influencing
+influential role
+info-tech
+Information security
+Information systems
+Information technology
+infotech
+Innovation
+Innovations
+Innovative
+inquisitive
+Inspire
+Instrumentation
+integral
+integration  tests
+Integration Testing
+Integrity
+interested
+Interfaces
+intermediate
+Internet
+interpersonal skills
+Interview
+introduced
+invest
+iterative
+Java
+Jira
+junior
+Kanban
+Key metrics
+Key performance indicators
+know-how
+Knowledge sharing
+KPI
+KPIs
+lead critical initiatives
+Leadership experience
+Leadership skills
+leading
+Lean
+Learning
+Legacy Modernization
+Legal
+leverage
+local
+looking for
+made
+maintain
+Maintenance
+make an impact
+Manage competing priorities
+Manage projects
+Management experience
+Management skills
+Managing
+meaningful
+meet expectations
+mentor developers
+mentor direct reports
+Mentoring
+mentorship
+Microsoft Azure
+minimum
+mission
+mission-driven
+Modeling
+Monitor
+Monitoring
+more
+Motivate
+Multi-tenant Architecture
+need
+needs
+Negotiating
+Negotiation
+Networking
+never
+Node
+North America
+object-oriented design
+Object-Oriented Programming (OOP)
+objectively evaluate
+Objectives
+OKRs
+operate
+Operational excellence
+Operational issues
+Opportunities
+Opportunity
+oral
+order
+organization
+Organizational Development
+organizational skills
+Outcomes
+outstanding
+Oversaw
+Oversee
+ownership
+pair programming
+Participation
+partner
+Partnership
+partnerships
+Passion
+Passionate
+People Management
+Performance metrics
+Performance Optimization
+persistence
+personal connection
+personal growth
+Plan
+Platform Engineering
+Policies
+policy
+Portfolio
+Position
+Positioning
+positive impact
+potential
+powerful
+Presentation
+prevent
+principal
+prior
+prioritize
+Proactive
+Proactively
+Problem solving
+Problem-solving skills
+problems
+Process improvement
+Process improvements
+Product design
+product growth
+Product management
+Product quality
+productive relationships
+Professional
+Proficient
+Program Management
+Programming languages
+Project delivery
+Project management
+Project management skills
+Project planning
+Project requirements
+proposal
+prosperity
+protect
+Proven track record
+provide
+public speaking
+purpose
+pursuit
+Quality assurance
+Quality Standards
+Quick learner
+react
+Real-time
+real-world
+Reconcile
+Recruit
+Recruiter
+recruiting
+Recruitment process
+Refining
+Regulations
+Regulatory requirements
+Related
+Relationship building
+Reliability
+remain
+Remote teams
+remote work
+Reporting
+Requirements Analysis
+research alternatives
+Resilience
+Resource Management
+Resourceful
+responsibility
+responsible
+results-driven
+Retention
+reward
+rigor
+Risk assessment
+Risk management
+risks
+Road mapping
+roadblocks
+Role model
+SaaS compliance
+SaaS development
+Safety
+sales
+scalability
+Scalable architecture
+scale
+Scaling
+Scrum Master
+SDLC
+seamlessly onboard
+security protocols
+seek
+segment
+self-motivated
+senior
+Sensitive
+share
+Shared
+significant shift
+small business
+Smart
+software architecture
+Software design
+software development
+Software development life cycle
+Software Development Life Cycle (SDLC)
+Software development lifecycle
+Software Development Manager
+software engineering
+Software engineering standards
+software engineers
+software lifecycle
+Solve
+some
+Specifications
+stability
+Staff Development
+Staffing
+Stakeholder Management
+start-up spirit
+Startup
+Status
+Strategic direction
+Strategic initiatives
+Strategic planning
+Strategic plans
+Strategic thinker
+strategic thinking
+Strategy
+streamline operations deliver exceptional results
+Strong analytical skills
+Strong understanding
+successfully
+suite
+support
+sustainable
+System Architecture
+System Integration
+System Testing
+Systems Development Life Cycle
+Systems engineering
+tactics
+take
+Talent acquisition
+Talent management
+Talent Management (implied by HCM)
+Talented
+TDD
+Team Building
+team engagement
+Team Lead
+Team leadership
+Team members
+teamwork
+Technical ability
+technical acumen
+Technical background
+technical debt
+technical direction
+technical expertise
+Technical issues
+Technical knowledge
+Technical Lead
+technical leader
+Technical leadership
+technical manager
+technical mentor
+technical roadmap
+Technical skills
+technical solutions
+technical vision
+Technology roadmap
+technology solution
+technology stack
+test automation
+test coverage
+Test-Driven Development (TDD)
+testing frameworks
+their
+them
+they
+things
+think
+thoughtful
+threat
+Throughout
+Tight deadlines
+time to market
+time zones
+Timelines
+Together
+Tooling
+Toronto
+towards
+track record
+tradeoffs
+Training
+transparency
+transparent communication
+Troubleshoot
+troubleshooting
+trust
+trusted
+Typescript
+UI
+unit testing
+up-to-date
+Usability
+Use Case
+User experience
+User Story
+Users
+UX
+Value
+values
+various technical backgrounds
+Vendors
+version control
+virtually
+want
+Waterfall
+Web application
+Web applications
+Web Developer
+Web development
+Web services
+Well
+what
+where
+Willingness to learn
+Workers
+Workflows
+workforce
+Writing
+Written communications
