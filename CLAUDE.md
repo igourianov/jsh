@@ -13,6 +13,7 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 ### Resume Materials
 - `resume/Ilia Gourianov - engineering manager.md` - Main resume in markdown format (source of truth)
 - `resume/Ilia Gourianov - engineering manager.pdf` - PDF version of the resume (excluded from git, regenerate as needed)
+- `resume/public/` - **Separate git repository** for public resume (connected to `git@github.com:igourianov/resume.git`)
 - `resume/seo.txt` - SEO keywords list (alphabetically sorted, newline-separated) embedded in PDF metadata
 - `resume/mdtopdf/` - Resume conversion tooling (Node.js script, package.json, node_modules)
 - `resume/mdtopdf.bat` - Batch file to convert markdown resume to PDF with SEO metadata
@@ -55,6 +56,38 @@ This converts the markdown resume to PDF format and embeds SEO keywords from `se
 - Converts `resume/Ilia Gourianov - engineering manager.md` to PDF
 - Embeds keywords in PDF metadata for ATS parser visibility
 - Uses `md-to-pdf` (Node.js) via tooling in `resume/mdtopdf/`
+
+### Publish Resume (Make Public)
+
+**Definition**: "Publishing the resume" means making it publicly available via the GitHub public repository at `git@github.com:igourianov/resume.git`
+
+**Steps to publish resume:**
+1. Generate PDF from markdown (see above)
+2. Copy both MD and PDF files to `resume/public/` folder
+3. Commit both files in the public repo
+4. Push to GitHub public repository
+
+**Commands:**
+```bash
+# 1. Generate PDF
+cd resume
+mdtopdf.bat
+
+# 2. Copy files to public folder
+cp "Ilia Gourianov - engineering manager.md" public/
+cp "Ilia Gourianov - engineering manager.pdf" public/
+
+# 3. Commit and push
+cd public
+git add "Ilia Gourianov - engineering manager.md" "Ilia Gourianov - engineering manager.pdf"
+git commit -m "Update resume"
+git push origin master
+```
+
+**Important Notes:**
+- `resume/public/` is a separate git repository (not tracked by main JobSearch repo)
+- Public repo remote: `git@github.com:igourianov/resume.git`
+- Always regenerate PDF before publishing to ensure MD and PDF are in sync
 
 ## Candidate Profile Context
 

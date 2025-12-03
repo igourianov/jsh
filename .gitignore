@@ -38,3 +38,6 @@ dist/
 build/
 *.pdf.tmp
 resume/Ilia Gourianov - engineering manager.pdf
+
+# Separate git repository (public resume)
+resume/public/
