@@ -7,9 +7,7 @@
       "Bash(move package.json mdtopdf)",
       "Bash(test:*)",
       "Bash(npm install:*)",
-      "Bash(git init:*)",
-      "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git:*)"
     ],
     "deny": [],
     "ask": []
