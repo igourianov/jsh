@@ -1,13 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:jobs.ashbyhq.com)",
-      "WebFetch(domain:engineering-interviewing.zapier.app)",
-      "Bash(move convert-resume.js mdtopdf )",
-      "Bash(move package.json mdtopdf)",
-      "Bash(test:*)",
-      "Bash(npm install:*)",
-      "Bash(git:*)"
+      "WebFetch(domain:*)",
+      "Bash"
     ],
     "deny": [],
     "ask": []
