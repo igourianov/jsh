@@ -58,7 +58,7 @@ Engineering Leader with over 20 years of experience, including 8 years building 
 
 *Technologies/tools:* C\#, ASP.NET MVC, EntityFramework/Dapper, SQL Server, Javascript/Typescript, HTML/CSS, jQuery/Dojo/ReactJS/Angular, Git, REST APIs, NUnit/xUnit, Selenium 
 
-### Application Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2005 \- Mar 2013
+### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2005 \- Mar 2013
 
 *Responsibilities:*
 * Designed and developed intranet, e-commerce and marketing web applications
@@ -77,7 +77,7 @@ Engineering Leader with over 20 years of experience, including 8 years building 
 
 *Technologies/tools:* VB.NET, C\#, WinForms, SQL Server, Network sockets 
 
-### Application Developer @ Otiumation Inc | Apr 2001 \- Dec 2003
+### Programmer @ Otiumation Inc | Apr 2001 \- Dec 2003
 
 *Technologies/tools:* VisualBasic, Windows API, SQL Server 
 
