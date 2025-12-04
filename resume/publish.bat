@@ -52,11 +52,6 @@ if %ERRORLEVEL% EQU 0 (
     exit /b 0
 )
 
-REM Generate commit message from git diff
-echo Generating commit message from changes...
-git diff "Ilia Gourianov - engineering manager.md" > diff.tmp
-
-REM Create a simple commit message (can be enhanced later)
 set COMMIT_MSG=Update resume
 echo ✓ Changes detected
 echo.
@@ -69,12 +64,10 @@ REM Use heredoc for proper formatting
 git commit -m "!COMMIT_MSG!" -m "Updated resume with latest changes"
 if %ERRORLEVEL% NEQ 0 (
     echo ✗ Failed to commit changes
-    del diff.tmp 2>nul
     cd ..
     exit /b 1
 )
 echo ✓ Changes committed
-del diff.tmp 2>nul
 echo.
 
 REM Step 5: Push to GitHub Gist
