@@ -7,7 +7,7 @@
 
 # Summary
 
-Engineering Leader with over 20 years of experience, including 8 years building and scaling high-performing engineering teams in fast-growth SaaS environments. A former engineer who moved into management to amplify impact, with a proven track record of empowering teams to own product vision, technical strategy, and execution end-to-end. Passionate about rethinking engineering norms to unlock velocity and quality. Tinkering with AI tooling.
+Engineering Leader with over 20 years of experience, including 8 years building and scaling high-performing engineering teams in fast-growth SaaS environments. A former engineer who moved into management to amplify impact, with a proven track record of empowering teams to own product vision, technical strategy, and execution end-to-end. Passionate about rethinking engineering norms to unlock velocity and quality. AI tooling enthusiast.
 
 # Core Competencies
 
@@ -42,7 +42,7 @@ Engineering Leader with over 20 years of experience, including 8 years building 
 * Redesigned DB schema upgrade process for the monolith to reduce merge conflicts and improve upgrade time by orders of magnitude.
 * Reworked data structures that hold localized strings in order to reduce conflicts, speed up UI load times for individual products and allow uploading new localization without redeployment.
 
-*Technologies/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, Javascript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
+*Technologies/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
 
 
 ### Lead Developer @ [Ceridian Inc](https://www.linkedin.com/company/ceridian/) | Mar 2013 \- Nov 2015
@@ -56,7 +56,7 @@ Engineering Leader with over 20 years of experience, including 8 years building 
 * Executed investigation and prototyping for new technologies and tools
 * Optimized critical code paths for high throughput
 
-*Technologies/tools:* C\#, ASP.NET MVC, EntityFramework/Dapper, SQL Server, Javascript/Typescript, HTML/CSS, jQuery/Dojo/ReactJS/Angular, Git, REST APIs, NUnit/xUnit, Selenium 
+*Technologies/tools:* C\#, ASP.NET MVC, EntityFramework/Dapper, SQL Server, JavaScript/TypeScript, HTML/CSS, jQuery/Dojo/ReactJS/Angular, Git, REST APIs, NUnit/xUnit, Selenium 
 
 ### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2005 \- Mar 2013
 
@@ -67,11 +67,11 @@ Engineering Leader with over 20 years of experience, including 8 years building 
 * Acted as a technical lead and mentored junior developers
 * Performed code review, revision control and release management
 * Contributed to the development of the in-house built CMS
-* Developed integration with variety of third-party web APIs
+* Developed integration with a variety of third-party web APIs
 * Provided development estimates
 * Participated on client calls to provide technical expertise 
 
-*Technologies/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, Javascript, HTML/CSS 
+*Technologies/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS 
 
 ### Application Developer @ Antibex Software | Dec 2003 \- Sept 2005
 
