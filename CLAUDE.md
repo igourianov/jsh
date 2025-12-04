@@ -101,54 +101,11 @@ When scraping or saving job descriptions from the web, ALWAYS use this format:
 
 ### Job Application Evaluation
 
-When comparing Ilia's resume against job postings, use this methodology:
-
-**Output Format:**
-- Match: [Percentage]%
-- Coding: [Percentage]% (as required by the role)
-- Salary: [Range] (take from values the job posting, or estime if not available - explicitly state if it's an estimate)
-- Gaps: [bullet points]
-
-**CRITICAL: Understanding Hands-on vs Coding**
-
-These are two SEPARATE concepts when assessing job requirements:
-
-1. **Hands-on Technical Work** (assumed for all EM roles, do NOT include in output):
-   - Code reviews
-   - Architectural decisions
-   - Technical strategy and evaluation
-   - System design
-   - Infrastructure/DevOps oversight
-   - Technology evaluation
-   - Establishing quality standards
-
-2. **Coding Requirement** (estimate and include in output): Estimate what % of the JOB requires writing production code (not the candidate's abilities):
-   - Look for explicit mentions of "writing code", "implementing features", "shipping code"
-   - "Participating in code reviews" = reviewing, NOT writing (does not count as coding)
-   - "Technical fundamentals" or "past coding experience" = requirement for background, not active coding
-   - "Leverage experience" language = technical credibility, NOT active coding
-   - Pure people-focused EM roles: 0% coding
-   - People-focused EM roles with some IC work: 10-20% coding
-   - Tech-lead hybrid EM roles: 40-60% coding
-
-**Key signals for NO coding (0%):**
-- Broad tech stack options listed interchangeably (e.g., "Java, Python, C#, C++")
-- Language like "leverage experience" rather than "implement" or "build"
-- Focus primarily on team building, coaching, and leadership
-- No specific tech stack requirements
-
-**Key signals FOR coding:**
-- Specific tech stack required (e.g., "must have Python experience")
-- Explicit mentions: "writing code", "implementing features", "shipping code"
-- Tech-lead or IC+Manager hybrid language
-
-**Base coding estimate on the job posting's responsibilities, not the candidate's abilities.**
-
-**Evaluation Approach:**
-- Compare with bias towards rejection to identify genuine gaps
-- Highlight tech stack mismatches (e.g., C#/.NET vs Python, Azure vs AWS)
-- Note both strong alignments and critical gaps
-- Be realistic about ramp-up time requirements
+When comparing Ilia's resume against job postings, refer to `jobs/evaluation-guide.md` for detailed methodology including:
+- Output format (Match %, Coding %, Salary, Gaps)
+- Critical distinction between hands-on technical work vs coding
+- Key signals for identifying 0% coding roles vs IC+Manager hybrids
+- Evaluation approach and tech stack mismatch considerations
 
 ### Tone and Style
 When generating content for this candidate:
