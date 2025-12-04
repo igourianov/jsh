@@ -7,7 +7,7 @@
 
 # Summary
 
-Engineering Leader with over 20 years of experience, including 8 years building and scaling high-performing engineering teams in fast-growth SaaS environments. A former engineer who moved into management to amplify impact, with a proven track record of empowering teams to own product vision, technical strategy, and execution end-to-end. Passionate about rethinking engineering norms to unlock velocity and quality. AI tooling enthusiast.
+Engineering Leader with over 20 years of experience, including a decade of building and scaling high-performing engineering teams in fast-growth SaaS environments. A former engineer who moved into management to amplify impact, with a proven track record of empowering teams to own product vision, technical strategy, and execution end-to-end. Passionate about rethinking engineering norms to unlock velocity and quality. AI tooling enthusiast.
 
 # Core Competencies
 
