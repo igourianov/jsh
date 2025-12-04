@@ -126,8 +126,21 @@ These are two SEPARATE concepts when assessing job requirements:
    - Look for explicit mentions of "writing code", "implementing features", "shipping code"
    - "Participating in code reviews" = reviewing, NOT writing (does not count as coding)
    - "Technical fundamentals" or "past coding experience" = requirement for background, not active coding
-   - People-focused EM roles typically: 10-20% coding
-   - Tech-lead hybrid EM roles typically: 40-60% coding
+   - "Leverage experience" language = technical credibility, NOT active coding
+   - Pure people-focused EM roles: 0% coding
+   - People-focused EM roles with some IC work: 10-20% coding
+   - Tech-lead hybrid EM roles: 40-60% coding
+
+**Key signals for NO coding (0%):**
+- Broad tech stack options listed interchangeably (e.g., "Java, Python, C#, C++")
+- Language like "leverage experience" rather than "implement" or "build"
+- Focus primarily on team building, coaching, and leadership
+- No specific tech stack requirements
+
+**Key signals FOR coding:**
+- Specific tech stack required (e.g., "must have Python experience")
+- Explicit mentions: "writing code", "implementing features", "shipping code"
+- Tech-lead or IC+Manager hybrid language
 
 **Base coding estimate on the job posting's responsibilities, not the candidate's abilities.**
 
