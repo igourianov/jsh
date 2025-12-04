@@ -52,7 +52,6 @@ if %ERRORLEVEL% EQU 0 (
     exit /b 0
 )
 
-set COMMIT_MSG=Update resume
 echo ✓ Changes detected
 echo.
 
@@ -61,7 +60,7 @@ echo [4/6] Committing changes...
 git add "Ilia Gourianov - engineering manager.md" "Ilia Gourianov - engineering manager.pdf"
 
 REM Use heredoc for proper formatting
-git commit -m "!COMMIT_MSG!" -m "Updated resume with latest changes"
+git commit -m "Updated resume with latest changes"
 if %ERRORLEVEL% NEQ 0 (
     echo ✗ Failed to commit changes
     cd ..
