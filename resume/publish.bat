@@ -12,7 +12,7 @@ echo.
 
 REM Step 1: Copy markdown to publish folder
 echo [!STEP!/%TOTAL%] Copying resume to publish folder...
-copy /Y "Ilia Gourianov - engineering manager.md" "publish\Ilia Gourianov - engineering manager.md" >nul
+copy /Y "resume.md" "publish\Ilia Gourianov - engineering manager.md" >nul
 
 if %ERRORLEVEL% NEQ 0 (
     echo ✗ Failed to copy resume
@@ -41,6 +41,7 @@ if %ERRORLEVEL% NEQ 0 (
     exit /b 1
 )
 cd ..
+echo ✓ PDF generated
 echo.
 
 REM Step 3: Check for changes and generate commit message

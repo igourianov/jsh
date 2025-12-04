@@ -37,7 +37,7 @@ ehthumbs.db
 dist/
 build/
 *.pdf.tmp
-resume/Ilia Gourianov - engineering manager.pdf
+resume/*.pdf
 
 # Separate git repository (published resume)
 resume/publish/

@@ -11,10 +11,10 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 ## Key Files and Structure
 
 ### Resume Materials
-- `resume/Ilia Gourianov - engineering manager.md` - Main resume in markdown format (source of truth)
-- `resume/Ilia Gourianov - engineering manager.pdf` - PDF version of the resume (excluded from git, regenerate as needed)
+- `resume/resume.md` - Main resume in markdown format (source of truth)
 - `resume/publish/` - **Separate git repository** for published resume (connected to `git@gist.github.com:17c7ea00a40cdc436bc5fb7913382d10.git`)
-- `resume/publish.bat` - Main publishing script (sanitizes, generates PDF, commits, and pushes to Gist)
+  - Published as `Ilia Gourianov - engineering manager.md` with full contact info
+- `resume/publish.bat` - Main publishing script (copies resume.md to publish folder as "Ilia Gourianov - engineering manager.md", generates PDF, commits, and pushes to Gist)
 - `resume/seo.txt` - SEO keywords list (alphabetically sorted, newline-separated) embedded in PDF metadata
 - `resume/mdtopdf/` - Resume conversion tooling (Node.js scripts, package.json, node_modules)
 - `resume/mdtopdf/convert-to-pdf.js` - Generic PDF converter with keyword injection (used by publish.bat)
@@ -74,15 +74,16 @@ publish.bat
 
 ## Candidate Profile Context
 
-Use 'Ilia Gourianov - engineering manager.md' as the source of truth regardin candidate's experience
+Use `resume/resume.md` as the source of truth regarding candidate's experience
 
 **Job Search Focus**: Remote Software Engineering Manager role, preferably in SaaS companies
 
 ## Working with This Repository
 
 ### Resume Updates
-- The markdown file (`resume/Ilia Gourianov - engineering manager.md`) is the source of truth
+- The markdown file (`resume/resume.md`) is the source of truth
 - After updating the markdown, use `publish.bat` to generate PDF and publish
+- When published, it's copied to the publish folder as `Ilia Gourianov - engineering manager.md`
 - Maintain consistent formatting and structure
 
 ### Cover Letter Customization
