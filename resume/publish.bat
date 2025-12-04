@@ -6,8 +6,25 @@ echo Resume Publishing Process
 echo ========================================
 echo.
 
-REM Step 1: Copy markdown to publish folder
-echo [1/6] Copying resume to publish folder...
+REM Step 1: Commit local changes to main repo
+echo [1/7] Checking for local changes in main repo...
+git diff --exit-code "Ilia Gourianov - engineering manager.md" >nul 2>&1
+if %ERRORLEVEL% EQU 0 (
+    echo No local changes to commit
+) else (
+    echo Committing local changes...
+    git add "Ilia Gourianov - engineering manager.md"
+    git commit -m "Update resume" -m "" -m "Generated with [Claude Code](https://claude.com/claude-code)" -m "" -m "Co-Authored-By: Claude <noreply@anthropic.com>"
+    if %ERRORLEVEL% NEQ 0 (
+        echo ✗ Failed to commit local changes
+        exit /b 1
+    )
+    echo ✓ Local changes committed
+)
+echo.
+
+REM Step 2: Copy markdown to publish folder
+echo [2/7] Copying resume to publish folder...
 copy /Y "Ilia Gourianov - engineering manager.md" "publish\Ilia Gourianov - engineering manager.md" >nul
 
 if %ERRORLEVEL% NEQ 0 (
@@ -17,8 +34,8 @@ if %ERRORLEVEL% NEQ 0 (
 echo ✓ Resume copied
 echo.
 
-REM Step 2: Generate PDF with SEO keywords
-echo [2/6] Generating PDF with SEO keywords...
+REM Step 3: Generate PDF with SEO keywords
+echo [3/7] Generating PDF with SEO keywords...
 cd /d "%~dp0mdtopdf"
 
 if not exist "node_modules" (
@@ -38,8 +55,8 @@ if %ERRORLEVEL% NEQ 0 (
 cd ..
 echo.
 
-REM Step 3: Check for changes and generate commit message
-echo [3/6] Analyzing changes...
+REM Step 4: Check for changes and generate commit message
+echo [4/7] Analyzing changes...
 cd publish
 
 git diff --exit-code "Ilia Gourianov - engineering manager.md" >nul 2>&1
@@ -55,9 +72,9 @@ if %ERRORLEVEL% EQU 0 (
 echo ✓ Changes detected
 echo.
 
-REM Step 4: Stage and commit files
-echo [4/6] Committing changes...
-git add "Ilia Gourianov - engineering manager.md" "Ilia Gourianov - engineering manager.pdf"
+REM Step 5: Stage and commit files
+echo [5/7] Committing changes...
+git add "Ilia Gourianov - engineering manager.md"
 
 REM Use heredoc for proper formatting
 git commit -m "Updated resume with latest changes"
@@ -69,8 +86,8 @@ if %ERRORLEVEL% NEQ 0 (
 echo ✓ Changes committed
 echo.
 
-REM Step 5: Push to GitHub Gist
-echo [5/6] Pushing to GitHub Gist...
+REM Step 6: Push to GitHub Gist
+echo [6/7] Pushing to GitHub Gist...
 git push origin main
 if %ERRORLEVEL% NEQ 0 (
     echo ✗ Failed to push to GitHub Gist
@@ -81,8 +98,8 @@ echo ✓ Pushed to GitHub Gist
 cd ..
 echo.
 
-REM Step 6: Open PDF
-echo [6/6] Opening PDF...
+REM Step 7: Open PDF
+echo [7/7] Opening PDF...
 start "" "publish\Ilia Gourianov - engineering manager.pdf"
 echo.
 
