@@ -37,6 +37,7 @@ dist/
 build/
 *.pdf.tmp
 resume/*.pdf
+jobs/**/*.pdf
 
 # Separate git repository (published resume)
 resume/publish/

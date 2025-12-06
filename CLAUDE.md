@@ -45,6 +45,24 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - `profile pic/` - Profile images for LinkedIn/applications (various PNG formats)
 - `GEMINI.md` - Previous AI assistant guidance file (similar to this CLAUDE.md)
 
+## Git Workflow
+
+### Committing Changes
+
+When creating commits:
+- **Skip `git log` checks** - Don't run `git log -3 --oneline` to check recent commits; the commit style is already established
+- **Use minimal commands**: Only run `git status` and `git diff` to understand what's being committed
+- **Follow standard format**:
+  ```
+  [Concise summary line]
+
+  [Detailed description with bullet points if needed]
+
+  🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+  Co-Authored-By: Claude <noreply@anthropic.com>
+  ```
+
 ## Common Commands
 
 ### Publish Resume (Make Public)
@@ -107,6 +125,29 @@ When comparing Ilia's resume against job postings, refer to `jobs/evaluation-gui
 - Key signals for identifying 0% coding roles vs IC+Manager hybrids
 - Evaluation approach and tech stack mismatch considerations
 - Save results into the company folder as `match.md`. e.g. `jobs/Zapier/match.md`
+
+### Tailored Resume Creation
+
+When creating a tailored resume for a specific company:
+
+**File naming convention:**
+- Markdown source: `jobs/{Company}/resume.md`
+- PDF output: `jobs/{Company}/Ilia Gourianov - engineering manager.pdf`
+
+**Process:**
+1. Copy base resume from `resume/resume.md`
+2. Apply company-specific modifications based on job posting analysis
+3. Save markdown as `jobs/{Company}/resume.md`
+4. Generate PDF with proper naming using resume conversion tool
+5. The markdown keeps simple filename for editing while PDF has professional filename for applications
+
+**Common tailoring strategies:**
+- Emphasize relevant technical background (e.g., backend, distributed systems)
+- Add specific accomplishments that align with job requirements
+- Quantify metrics and KPIs where applicable
+- Highlight domain-relevant experience (enterprise-scale, SaaS, etc.)
+- Add remote team leadership details if relevant
+- Adjust competencies section to match preferred qualifications
 
 ### Tone and Style
 When generating content for this candidate:
