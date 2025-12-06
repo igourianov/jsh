@@ -41,27 +41,20 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 ### Development Configuration
 - `.gitignore` - Git ignore rules (excludes node_modules, generated PDF, IDE files, temp files)
 - `.claude/settings.local.json` - Claude Code permissions configuration (allows git operations, npm, test commands)
+- `Git.md` - Git workflow documentation (repository structure, commit guidelines, gist publishing)
 
 ### Other
 - `profile pic/` - Profile images for LinkedIn/applications (various PNG formats)
 
 ## Git Workflow
 
-### Committing Changes
+For detailed git workflows, repository structure, and commit guidelines, see **[Git.md](Git.md)**.
 
-When creating commits:
-- **Skip `git log` checks** - Don't run `git log -3 --oneline` to check recent commits; the commit style is already established
-- **Use minimal commands**: Only run `git status` and `git diff` to understand what's being committed
-- **Follow standard format**:
-  ```
-  [Concise summary line]
-
-  [Detailed description with bullet points if needed]
-
-  🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-  Co-Authored-By: Claude <noreply@anthropic.com>
-  ```
+**Quick reference:**
+- **Skip `git log` checks** - Commit style is already established
+- **Use minimal commands**: Only run `git status` and `git diff`
+- **Commit format**: Concise summary + detailed description + Claude Code attribution
+- **Two repositories**: Main repo (local) + Gist repo (public resume)
 
 ## Common Commands
 
