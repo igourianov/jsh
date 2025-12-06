@@ -1,11 +1,11 @@
 {
-  "permissions": {
-    "allow": [
-      "Bash",
-      "WebFetch",
-      "WebSearch"
-    ],
-    "deny": [],
-    "ask": []
-  }
+	"permissions": {
+		"allow": [
+			"Bash",
+			"WebFetch",
+			"WebSearch"
+		],
+		"deny": [],
+		"ask": []
+	}
 }
