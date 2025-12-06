@@ -19,7 +19,6 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - `resume/mdtopdf/` - Resume conversion tooling (Node.js scripts, package.json, node_modules)
 - `resume/mdtopdf/convert-to-pdf.js` - Generic PDF converter with keyword injection (used by publish.bat)
 - `About me.txt` - Condensed summary of professional experience and skills
-- `resume/prompt.txt` - Contains an LLM prompt injection for automated screening systems
 
 ### Cover Letters
 - `coverletter.txt` - Base cover letter template highlighting product delivery achievements
