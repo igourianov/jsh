@@ -26,7 +26,7 @@ Engineering Leader with over 20 years of experience, including a decade of build
 
 ### Engineering Manager @ [Ceridian Inc](https://www.linkedin.com/company/ceridian/) | Nov 2015 \- Oct 2025
 
-*Product:* [DayforceHCM](https://www.dayforce.com/). Global SaaS Human Capital Management platform for mid and large size companies. Joined during early SaaS expansion into HRTech space and helped scale from emerging product to Gartner-recognized leader in Cloud HCM.
+*Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale SaaS Human Capital Management platform serving mid-market to Fortune 500 companies. Joined during early SaaS expansion into HRTech space and helped scale from emerging product to Gartner-recognized leader in Cloud HCM.
 
 *Led following engineering teams/projects:*
 * Three cross-functional product development teams (8-12 devs+QA each) engaged in developing products as a part of the larger DayforceHCM product. Directly managing up to 25 ICs and leads.
