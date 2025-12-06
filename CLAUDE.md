@@ -14,10 +14,12 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - `resume/resume.md` - Main resume in markdown format (source of truth)
 - `resume/gist/` - **Separate git repository** for published resume (connected to `git@gist.github.com:17c7ea00a40cdc436bc5fb7913382d10.git`)
   - Published as `Ilia Gourianov - engineering manager.md` with full contact info
-- `resume/publish.bat` - Main publishing script (copies resume.md to gist folder as "Ilia Gourianov - engineering manager.md", generates PDF, commits, and pushes to Gist)
+- `resume/publish-pdf.bat` - Generates PDF locally from resume.md (outputs to resume/ folder)
+- `resume/publish-gist.bat` - Publishes to GitHub Gist (copies to gist folder, generates PDF, commits, and pushes)
+- `resume/publish.bat` - Legacy script (use publish-pdf.bat or publish-gist.bat instead)
 - `resume/seo.txt` - SEO keywords list (alphabetically sorted, newline-separated) embedded in PDF metadata
 - `resume/mdtopdf/` - Resume conversion tooling (Node.js scripts, package.json, node_modules)
-- `resume/mdtopdf/convert-to-pdf.js` - Generic PDF converter with keyword injection (used by publish.bat)
+- `resume/mdtopdf/convert-to-pdf.js` - Generic PDF converter with keyword injection (used by publish scripts)
 - `About me.txt` - Condensed summary of professional experience and skills
 
 ### Cover Letters
@@ -63,17 +65,33 @@ When creating commits:
 
 ## Common Commands
 
-### Publish Resume (Make Public)
+### Generate PDF Locally
+
+**Purpose**: Generate a PDF version of the resume in the local resume/ folder for testing or local use.
+
+**Command:**
+```bash
+cd resume
+publish-pdf.bat
+```
+
+**What publish-pdf.bat does:**
+1. **Generate PDF**: Creates PDF from resume.md with SEO keywords embedded (650 keywords)
+2. **Open PDF**: Opens the generated PDF for review
+
+**Output:** `resume/Ilia Gourianov - engineering manager.pdf`
+
+### Publish Resume to GitHub Gist (Make Public)
 
 **Definition**: "Publishing the resume" means making it publicly available via the GitHub Gist at `git@gist.github.com:17c7ea00a40cdc436bc5fb7913382d10.git`
 
-**One-Command Publishing:**
+**Command:**
 ```bash
 cd resume
-publish.bat
+publish-gist.bat
 ```
 
-**What publish.bat does (fully automated):**
+**What publish-gist.bat does (fully automated):**
 1. **Copy**: Copies markdown to `gist/` folder
 2. **Generate PDF**: Creates PDF with SEO keywords embedded (650 keywords)
 3. **Analyze changes**: Checks git diff to detect what changed in the markdown
@@ -98,7 +116,8 @@ Use `resume/resume.md` as the source of truth regarding candidate's experience
 
 ### Resume Updates
 - The markdown file (`resume/resume.md`) is the source of truth
-- After updating the markdown, use `publish.bat` to generate PDF and publish
+- Use `publish-pdf.bat` to generate PDF locally for testing
+- Use `publish-gist.bat` to publish to GitHub Gist (makes it public)
 - When published, it's copied to the gist folder as `Ilia Gourianov - engineering manager.md`
 - Maintain consistent formatting and structure
 
