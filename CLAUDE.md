@@ -106,6 +106,7 @@ When comparing Ilia's resume against job postings, refer to `jobs/evaluation-gui
 - Critical distinction between hands-on technical work vs coding
 - Key signals for identifying 0% coding roles vs IC+Manager hybrids
 - Evaluation approach and tech stack mismatch considerations
+- Save results into the company folder as `match.md`. e.g. `jobs/Zapier/match.md`
 
 ### Tone and Style
 When generating content for this candidate:
