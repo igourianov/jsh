@@ -10,9 +10,9 @@ echo Resume Publishing Process
 echo ========================================
 echo.
 
-REM Step 1: Copy markdown to publish folder
-echo [!STEP!/%TOTAL%] Copying resume to publish folder...
-copy /Y "resume.md" "publish\Ilia Gourianov - engineering manager.md" >nul
+REM Step 1: Copy markdown to gist folder
+echo [!STEP!/%TOTAL%] Copying resume to gist folder...
+copy /Y "resume.md" "gist\Ilia Gourianov - engineering manager.md" >nul
 
 if %ERRORLEVEL% NEQ 0 (
     echo ✗ Failed to copy resume
@@ -35,7 +35,7 @@ if not exist "node_modules" (
     )
 )
 
-node convert-to-pdf.js "..\publish\Ilia Gourianov - engineering manager.md"
+node convert-to-pdf.js "..\gist\Ilia Gourianov - engineering manager.md"
 if %ERRORLEVEL% NEQ 0 (
     echo ✗ Failed to generate PDF
     exit /b 1
@@ -47,7 +47,7 @@ echo.
 REM Step 3: Check for changes and generate commit message
 set /a STEP+=1
 echo [!STEP!/%TOTAL%] Analyzing changes...
-cd publish
+cd gist
 
 git diff --exit-code "Ilia Gourianov - engineering manager.md" >nul 2>&1
 if %ERRORLEVEL% EQU 0 (
@@ -93,7 +93,7 @@ echo.
 REM Step 6: Open PDF
 set /a STEP+=1
 echo [!STEP!/%TOTAL%] Opening PDF...
-start "" "publish\Ilia Gourianov - engineering manager.pdf"
+start "" "gist\Ilia Gourianov - engineering manager.pdf"
 echo.
 
 echo ========================================

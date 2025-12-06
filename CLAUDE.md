@@ -12,9 +12,9 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 
 ### Resume Materials
 - `resume/resume.md` - Main resume in markdown format (source of truth)
-- `resume/publish/` - **Separate git repository** for published resume (connected to `git@gist.github.com:17c7ea00a40cdc436bc5fb7913382d10.git`)
+- `resume/gist/` - **Separate git repository** for published resume (connected to `git@gist.github.com:17c7ea00a40cdc436bc5fb7913382d10.git`)
   - Published as `Ilia Gourianov - engineering manager.md` with full contact info
-- `resume/publish.bat` - Main publishing script (copies resume.md to publish folder as "Ilia Gourianov - engineering manager.md", generates PDF, commits, and pushes to Gist)
+- `resume/publish.bat` - Main publishing script (copies resume.md to gist folder as "Ilia Gourianov - engineering manager.md", generates PDF, commits, and pushes to Gist)
 - `resume/seo.txt` - SEO keywords list (alphabetically sorted, newline-separated) embedded in PDF metadata
 - `resume/mdtopdf/` - Resume conversion tooling (Node.js scripts, package.json, node_modules)
 - `resume/mdtopdf/convert-to-pdf.js` - Generic PDF converter with keyword injection (used by publish.bat)
@@ -42,7 +42,6 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 
 ### Other
 - `profile pic/` - Profile images for LinkedIn/applications (various PNG formats)
-- `GEMINI.md` - Previous AI assistant guidance file (similar to this CLAUDE.md)
 
 ## Git Workflow
 
@@ -75,7 +74,7 @@ publish.bat
 ```
 
 **What publish.bat does (fully automated):**
-1. **Copy**: Copies markdown to `publish/` folder
+1. **Copy**: Copies markdown to `gist/` folder
 2. **Generate PDF**: Creates PDF with SEO keywords embedded (650 keywords)
 3. **Analyze changes**: Checks git diff to detect what changed in the markdown
 4. **Commit**: Automatically stages and commits both MD and PDF files
@@ -83,7 +82,7 @@ publish.bat
 6. **Open PDF**: Opens the generated PDF for review
 
 **Important Notes:**
-- `resume/publish/` is a separate git repository (not tracked by main JobSearch repo)
+- `resume/gist/` is a separate git repository (not tracked by main JobSearch repo)
 - Public Gist URL: https://gist.github.com/17c7ea00a40cdc436bc5fb7913382d10
 - Git remote: `git@gist.github.com:17c7ea00a40cdc436bc5fb7913382d10.git`
 - If no changes detected, script exits early and just opens the PDF
@@ -100,7 +99,7 @@ Use `resume/resume.md` as the source of truth regarding candidate's experience
 ### Resume Updates
 - The markdown file (`resume/resume.md`) is the source of truth
 - After updating the markdown, use `publish.bat` to generate PDF and publish
-- When published, it's copied to the publish folder as `Ilia Gourianov - engineering manager.md`
+- When published, it's copied to the gist folder as `Ilia Gourianov - engineering manager.md`
 - Maintain consistent formatting and structure
 
 ### Cover Letter Customization
