@@ -87,7 +87,7 @@ cd resume
 ### Making Resume Updates
 
 1. Edit `resume/resume.md` (source of truth)
-2. Use `./publish-pdf.sh` to generate PDF locally for testing
+2. Use `./publish-pdf.sh` to generate PDF locally
 3. Use `./publish-gist.sh` to publish to GitHub Gist (makes it public)
 4. When published, it's copied to the gist folder with filename dynamically generated from resume content (e.g., `{Name} - {Title}.md`)
 5. Maintain consistent formatting and structure

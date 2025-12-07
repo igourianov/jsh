@@ -1,6 +1,6 @@
 # Ilia Gourianov
 
-### Software Engineering Manager
+### Engineering Manager
 
 *Contacts*: [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [LinkedIn](https://www.linkedin.com/in/ilia-gourianov/) \
 *Location*: Fort Erie, Ontario, Canada
