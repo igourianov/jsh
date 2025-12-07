@@ -3,7 +3,9 @@
 		"allow": [
 			"Bash",
 			"WebFetch",
-			"WebSearch"
+			"WebSearch",
+			"Edit",
+			"Read"
 		],
 		"deny": [],
 		"ask": []
