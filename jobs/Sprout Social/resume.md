@@ -63,7 +63,6 @@ Passionate about rethinking engineering norms to unlock velocity and quality. AI
 
 ### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2005 \- Mar 2013
 
-
 *Technologies/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS
 
 ### Application Developer @ Antibex Software | Dec 2003 \- Sept 2005
