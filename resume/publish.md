@@ -11,39 +11,40 @@ This document explains how to generate and publish the resume.
 **Command:**
 ```bash
 cd resume
-./publish-pdf.sh <source-file> <output-file>
+./publish-pdf.sh <source-file> <name> <title>
 ```
 
 **Parameters:**
 - `source-file` (required): Path to source markdown file
-- `output-file` (required): Target filename for PDF (should be `{Name} - {Title}.pdf` based on resume content)
-  - If relative path: placed in same directory as source file
-  - If absolute path: placed at specified location
+- `name` (required): Person's name (extracted from line 1 of resume markdown)
+- `title` (required): Job title (extracted from line 3 of resume markdown)
 
 **What publish-pdf.sh does:**
-1. **Validate inputs**: Ensures both source and output parameters are provided
-2. **Resolve paths**: Converts source to absolute path; resolves output relative to source directory if needed
-3. **Generate PDF**: Creates PDF with specified filename
+1. **Verify source**: Checks that source file exists and converts to absolute path
+2. **Check dependencies**: Verifies/installs node dependencies if needed
+3. **Generate PDF**: Creates PDF as `{name} - {title}.pdf` in same directory as source file
 4. **Inject metadata**: Embeds SEO keywords from `resume/seo.txt` (650 keywords) and Author metadata
 5. **Open PDF**: Opens the generated PDF in OS default viewer (supports macOS, Linux, Windows Git Bash)
 
 **Examples:**
 ```bash
-# Generate PDF from base resume with proper naming
-./publish-pdf.sh resume.md "Ilia Gourianov - Engineering Manager.pdf"
+# Generate PDF from base resume
+./publish-pdf.sh resume.md "Ilia Gourianov" "Engineering Manager"
 
 # Generate PDF from tailored resume
-./publish-pdf.sh ../jobs/Zapier/resume.md "Ilia Gourianov - Senior Engineering Manager.pdf"
+./publish-pdf.sh ../jobs/Zapier/resume.md "Ilia Gourianov" "Senior Engineering Manager"
 
-# Using absolute path for output
-./publish-pdf.sh resume.md "/d/Projects/JobSearch/resume/Ilia Gourianov - Engineering Manager.pdf"
+# Generate PDF from Sprout Social resume
+./publish-pdf.sh ../jobs/Sprout\ Social/resume.md "Ilia Gourianov" "Software Engineering Manager"
 ```
 
 **Important Notes:**
-- Both parameters are required - no defaults
-- Extract Name and Title from resume markdown (lines 1 and 3) to determine the output filename
-- Output filename format should always be: `{Name} - {Title}.pdf`
-- Relative output paths are resolved relative to the source file's directory
+- All three parameters are required
+- Output PDF is always placed in the same directory as the source file
+- Output filename format: `{name} - {title}.pdf`
+- Extract Name and Title from resume markdown before calling the script:
+  - Name: Line 1 (# Name) - strip the `#` and whitespace
+  - Title: Line 3 (### Title) - strip the `###` and whitespace
 
 ### Publish Resume to GitHub Gist (Make Public)
 

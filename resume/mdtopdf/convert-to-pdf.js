@@ -3,19 +3,20 @@ const path = require('path');
 const { mdToPdf } = require('md-to-pdf');
 const { PDFDocument } = require('pdf-lib');
 
-// Get input file from command line argument
-const inputFile = process.argv[2];
+// Get input file path, name, and title from command line arguments
+const inputPath = process.argv[2];
+const authorName = process.argv[3];
+const title = process.argv[4];
 
-if (!inputFile) {
-  console.error('Usage: node convert-to-pdf.js <markdown-file>');
-  process.exit(1);
-}
-
-const inputPath = path.resolve(inputFile);
-const outputPath = inputPath.replace(/\.md$/, '.pdf');
+// Generate output path in the same directory as input
+const inputDir = path.dirname(inputPath);
+const outputPath = path.join(inputDir, `${authorName} - ${title}.pdf`);
 const seoPath = path.join(__dirname, '..', 'seo.txt');
+  // Generate metadata text
+const titleText = `${authorName} - ${title} Resume`;
 
 async function convertToPdf() {
+
   // Read keywords from seo.txt
   let keywords = '';
   try {
@@ -26,10 +27,8 @@ async function convertToPdf() {
       .filter(line => line.length > 0);
 
     keywords = keywordArray.join(', ');
-    console.log(`Loaded ${keywordArray.length} keywords from seo.txt`);
   } catch (error) {
-    console.error('Error reading seo.txt:', error.message);
-    console.log('Continuing without keywords...');
+    // Silent failure - continue without keywords
   }
 
   // Configure PDF options
@@ -49,7 +48,6 @@ async function convertToPdf() {
   };
 
   try {
-    console.log(`Converting ${path.basename(inputPath)} to PDF...`);
     const pdf = await mdToPdf(
       { path: inputPath },
       pdfOptions
@@ -60,9 +58,9 @@ async function convertToPdf() {
       const pdfDoc = await PDFDocument.load(pdf.content);
 
       // Set metadata with keywords
-      pdfDoc.setTitle('Ilia Gourianov - Software Engineering Manager Resume');
-      pdfDoc.setAuthor('Ilia Gourianov');
-      pdfDoc.setSubject('Software Engineering Manager Resume');
+      pdfDoc.setTitle(titleText);
+      pdfDoc.setAuthor(authorName);
+      pdfDoc.setSubject(titleText);
       pdfDoc.setKeywords([keywords]);
       pdfDoc.setProducer('md-to-pdf with pdf-lib');
       pdfDoc.setCreator('md-to-pdf');
@@ -73,12 +71,9 @@ async function convertToPdf() {
       const pdfBytes = await pdfDoc.save();
       fs.writeFileSync(outputPath, pdfBytes);
 
-      console.log(`✓ PDF generated successfully!`);
-      console.log(`  Output: ${outputPath}`);
-      console.log(`  Keywords embedded: ${keywords.length} characters`);
+      console.log(`✓ PDF generated: ${outputPath}`);
     }
   } catch (error) {
-    console.error('Error converting to PDF:', error.message);
     process.exit(1);
   }
 }
