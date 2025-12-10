@@ -34,10 +34,10 @@ Engineering Leader with extensive experience building and scaling high-performin
 * Database administration team of 2 senior DBAs engaged in daily operations of thousands of dev/test SQL databases, dev solutions, provisioning and data compliance.
 
 *Accomplishments:*
-* Delivered three new products as a part of the DayforceHCM product, pushing DayforceHCM into Gartner's leaders quadrant in the Cloud HCM Suites space.
-* Created two brand new teams, hired over 20 engineers and testers and successfully mentored 2 senior engineers into manager roles to meet the demands of the rapidly growing product.
-* Championed transition to the modern dev practices to eliminate testing delays due to build and deployment failures, increasing team's autonomy.
-* Implemented strategy to eliminate global product downtime when deploying core MDM service to production.
+* Delivered three enterprise HCM products, directly contributing to DayforceHCM achieving Gartner Leaders Quadrant recognition in Cloud HCM Suites.
+* Spearheaded two brand new teams, hired over 20 engineers and testers and successfully mentored 2 senior engineers into manager roles, who now lead their own teams.
+* Eliminated 90%+ of test evironment deployment failures by modernizing CI/CD practices, enabling teams to deploy independently and reducing release cycle time from weeks to days.
+* Achieved zero-downtime deployments for core MDM service, eliminating previous 12-hours maintenance windows affecting global customers.
 
 *Technologies/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
 
@@ -45,8 +45,8 @@ Engineering Leader with extensive experience building and scaling high-performin
 ### Lead Developer @ [Ceridian Inc](https://www.linkedin.com/company/ceridian/) | Mar 2013 \- Nov 2015
 
 *Accomplishments:*
-* Redesigned DB schema upgrade process for the monolith to reduce merge conflicts and improve upgrade time by orders of magnitude.
-* Reworked data structures that hold localized strings in order to reduce conflicts, speed up UI load times for individual products and allow uploading new localization without redeployment.
+* Redesigned database schema upgrade process, reducing deployment time from 8+ hours to under 30 minutes and eliminating 90% of merge conflicts.
+* Optimized localization architecture enabling rapid internationalization updates without deployment - reducing time-to-market for new language support from weeks to hours.
 
 *Responsibilities:*
 * Led a team of software developers
@@ -73,6 +73,3 @@ Engineering Leader with extensive experience building and scaling high-performin
 * Participated on client calls to provide technical expertise 
 
 *Technologies/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS 
-
-
-
