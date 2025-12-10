@@ -27,10 +27,11 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 ### Job Search Resources
 - `jobs/` - Directory containing specific job postings being tracked (organized by company)
   - **Format**: `jobs/{Company}/{Title}.md` - Save job descriptions in company-specific subfolders
-- `LinkedIn/` - LinkedIn search resources
+- `LinkedIn/` - LinkedIn search resources and content
   - `LinkedIn/LinkedIn AI search.md` - AI-optimized search query for finding remote Engineering Manager roles
   - `LinkedIn/LinkedIn search.md` - Additional LinkedIn search resources
   - `LinkedIn/LInkedIn search syntax.md` - Guide on LinkedIn's advanced search syntax
+  - `LinkedIn/posts/` - Source files for LinkedIn posts (drafts and editorial versions)
 
 ### Interview Preparation
 - `Questions.txt` - Questions to ask during interviews about company structure, team dynamics, tech stack
@@ -105,6 +106,18 @@ When asked to convert .md files (especially resumes) to text format, follow this
 - Add visual separators for readability
 
 **Example:** `resume/resume.md` → `resume/resume.txt`
+
+**LinkedIn Post Editorial Process:**
+
+When asked to edit LinkedIn posts for publication, follow this process:
+- **Do not overwrite original text** - Add editorial version below the original, separated by a line
+- **Maximize engagement** - Structure content to drive comments, shares, and discussion
+- **Be brief and concise** - LinkedIn readers scan quickly; get to the point
+- **Use unicode emojis sparingly** - 2-4 emojis max for visual emphasis, not decoration
+- **Use plain text only** - No markdown formatting (no **, *, #, etc.), no em dashes
+- Focus on: hook → value → call-to-action
+
+**Source file location:** `LinkedIn/posts/` - All LinkedIn post drafts and editorial versions are stored here
 
 ### Tone and Style
 When generating content for this candidate:
