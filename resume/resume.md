@@ -34,10 +34,10 @@ Engineering Leader with extensive experience building and scaling high-performin
 * Database administration team of 2 senior DBAs engaged in daily operations of thousands of dev/test SQL databases, dev solutions, provisioning and data compliance.
 
 *Accomplishments:*
-* Delivered three enterprise HCM products, directly contributing to DayforceHCM achieving Gartner Leaders Quadrant recognition in Cloud HCM Suites.
-* Spearheaded two brand new teams, hired over 20 engineers and testers and successfully mentored 2 senior engineers into manager roles, who now lead their own teams.
-* Eliminated 90%+ of test evironment deployment failures by modernizing CI/CD practices, enabling teams to deploy independently and reducing release cycle time from weeks to days.
-* Achieved zero-downtime deployments for core MDM service, eliminating previous 12-hours maintenance windows affecting global customers.
+* Delivered three enterprise HCM products that helped position DayforceHCM as a Gartner Leaders Quadrant recipient in Cloud HCM Suites, serving Fortune 500 customers.
+* Scaled from one team to three high-performing cross-functional teams (30+ engineers total), hiring 20+ engineers and developing 2 senior engineers into engineering managers now leading their own teams.
+* Redesigned git branching model to eliminate test environment deployment conflicts from other teams using trunk-based development, reducing deployment failures by 90%—enabling autonomous team deployments and faster iteration cycles.
+* Eliminated product downtime caused by core MDM service deployments by implementing zero-downtime deployment strategy, removing 12-hour maintenance windows that previously affected all customers globally.
 
 *Technologies/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
 
@@ -45,8 +45,8 @@ Engineering Leader with extensive experience building and scaling high-performin
 ### Lead Developer @ [Ceridian Inc](https://www.linkedin.com/company/ceridian/) | Mar 2013 \- Nov 2015
 
 *Accomplishments:*
-* Redesigned database schema upgrade process, reducing deployment time from 8+ hours to under 30 minutes and eliminating 90% of merge conflicts.
-* Optimized localization architecture enabling rapid internationalization updates without deployment - reducing time-to-market for new language support from weeks to hours.
+* Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts—accelerating feature releases and reducing developer blockers.
+* Optimized localization data architecture, enabling zero-downtime language updates—reducing internationalization time-to-market from weeks to hours.
 
 *Responsibilities:*
 * Led a team of software developers
