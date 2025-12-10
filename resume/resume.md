@@ -7,7 +7,7 @@
 
 # Summary
 
-Engineering Leader with over 20 years of experience, including a decade of building and scaling high-performing engineering teams in fast-growth SaaS environments. A former engineer who moved into management to amplify impact, with a proven track record of empowering teams to own product vision, technical strategy, and execution end-to-end. Passionate about rethinking engineering norms to unlock velocity and quality. AI tooling enthusiast.
+Engineering Leader with extensive experience building and scaling high-performing engineering teams in fast-growth SaaS environments. A former engineer who moved into management to amplify impact, with a proven track record of empowering teams to own product vision, technical strategy, and execution end-to-end. Passionate about rethinking engineering norms to unlock velocity and quality. AI tooling enthusiast.
 
 # Core Competencies
 
@@ -73,11 +73,5 @@ Engineering Leader with over 20 years of experience, including a decade of build
 
 *Technologies/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS 
 
-### Application Developer @ Antibex Software | Dec 2003 \- Sept 2005
 
-*Technologies/tools:* VB.NET, C\#, WinForms, SQL Server, Network sockets 
-
-### Programmer @ Otiumation Inc | Apr 2001 \- Dec 2003
-
-*Technologies/tools:* VisualBasic, Windows API, SQL Server 
 
