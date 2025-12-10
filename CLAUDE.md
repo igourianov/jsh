@@ -92,6 +92,20 @@ When comparing Ilia's resume against job postings, refer to `jobs/evaluation-gui
 
 For detailed instructions on creating tailored resumes for specific companies, see **[resume/publish.md](resume/publish.md)**.
 
+### File Format Conversions
+
+**Converting Markdown to Plain Text:**
+
+When asked to convert .md files (especially resumes) to text format, follow this process:
+- Create a new file in the same folder with the same name and `.txt` extension
+- Replace markdown formatting with plain text equivalents
+- Use unicode bullet characters (•, ─, ═) in place of markdown bullets and for visual separation
+- Strip markdown links but preserve URLs where relevant
+- Remove bold/italic markers while keeping the text
+- Add visual separators for readability
+
+**Example:** `resume/resume.md` → `resume/resume.txt`
+
 ### Tone and Style
 When generating content for this candidate:
 - Professional but approachable
