@@ -5,7 +5,8 @@
 			"WebFetch",
 			"WebSearch",
 			"Edit",
-			"Read"
+			"Read",
+			"Write"
 		],
 		"deny": [],
 		"ask": []
