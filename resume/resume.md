@@ -34,18 +34,19 @@ Engineering Leader with extensive experience building and scaling high-performin
 * Database administration team of 2 senior DBAs engaged in daily operations of thousands of dev/test SQL databases, dev solutions, provisioning and data compliance.
 
 *Accomplishments:*
-* Delivered three new products as a part of the DayforceHCM product.
-* Created two brand new teams, hired over 20 engineers and testers and successfully mentored 2 senior engineers into manager roles to meet demands of the rapidly growing product.
-* Pushed DayforceHCM into Gartner's leaders quadrant in the Cloud HCM Suites space.
+* Delivered three new products as a part of the DayforceHCM product, pushing DayforceHCM into Gartner's leaders quadrant in the Cloud HCM Suites space.
+* Created two brand new teams, hired over 20 engineers and testers and successfully mentored 2 senior engineers into manager roles to meet the demands of the rapidly growing product.
 * Championed transition to the modern dev practices to eliminate testing delays due to build and deployment failures, increasing team's autonomy.
 * Implemented strategy to eliminate global product downtime when deploying core MDM service to production.
-* Redesigned DB schema upgrade process for the monolith to reduce merge conflicts and improve upgrade time by orders of magnitude.
-* Reworked data structures that hold localized strings in order to reduce conflicts, speed up UI load times for individual products and allow uploading new localization without redeployment.
 
 *Technologies/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
 
 
 ### Lead Developer @ [Ceridian Inc](https://www.linkedin.com/company/ceridian/) | Mar 2013 \- Nov 2015
+
+*Accomplishments:*
+* Redesigned DB schema upgrade process for the monolith to reduce merge conflicts and improve upgrade time by orders of magnitude.
+* Reworked data structures that hold localized strings in order to reduce conflicts, speed up UI load times for individual products and allow uploading new localization without redeployment.
 
 *Responsibilities:*
 * Led a team of software developers
