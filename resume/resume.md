@@ -11,16 +11,13 @@ Engineering Leader with extensive experience building and scaling high-performin
 
 # Core Competencies
 
-* Hiring, career coaching, team building, including remote and distributed teams.
-* Mentoring engineers to emphasize shared ownership, customer empathy and inclusive workspace.
-* Technology omnivore, able to read code in any language and evaluate new tech.
-* Hands-on through system design, code reviews, debugging and developer experience initiatives.
-* Product roadmap, OKRs, requirement decomposition, dependency analysis and high level estimates.
-* Ownership of product delivery, quality and the corresponding SDLC, KPIs, DORA metrics.
-* Balancing work streams between product commitments, bugs and tech debt, capacity planning.
-* Facilitating Agile processes within the team and Agile coaching.
-* Collaborating with internal stakeholders and across functions (Architecture, Product, Design, etc).
-* Continuous improvement, reducing procedural overheads, championing the culture of high-performance.
+* **Engineering team leadership:** hiring, scaling, performance management, and developing managers from ICs
+* **Technical hands-on leadership:** system design, code reviews, architecture decisions, technical mentorship
+* **Full-stack & cloud expertise:** .NET/C#, React/TypeScript, SQL, Kubernetes, microservices, AWS/Azure
+* **Product delivery:** roadmap planning, OKRs, SDLC ownership, CI/CD, DORA metrics, release management
+* **Agile & process:** Scrum facilitation, capacity planning, balancing feature/debt/ops work streams
+* **Cross-functional collaboration:** Product, Design, Architecture, and executive stakeholder partnership
+* **High-performance culture:** shared ownership, continuous improvement, eliminating process overhead
 
 # Experience
 
