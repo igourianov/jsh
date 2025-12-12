@@ -69,8 +69,9 @@ Estimate what % of the **JOB** requires writing production code (not the candida
 ---
 
 ## Evaluation Approach
-
+- Assume recruiter role
 - Compare with bias towards rejection to identify genuine gaps
+- Be critical, but don't invent non-existent gaps
 - Highlight tech stack mismatches (e.g., C#/.NET vs Python, Azure vs AWS)
 - Note both strong alignments and critical gaps
 - Be realistic about ramp-up time requirements

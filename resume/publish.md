@@ -134,19 +134,19 @@ When creating a tailored resume for a specific company:
 
 **File naming convention:**
 - Markdown source: `jobs/{Company}/resume.md`
-- PDF output: `jobs/{Company}/Ilia Gourianov - engineering manager.pdf`
 
 **Process:**
 1. Copy base resume from `resume/resume.md`
 2. Apply company-specific modifications based on job posting analysis
 3. Save markdown as `jobs/{Company}/resume.md`
-4. Generate PDF with proper naming using resume conversion tool
-5. The markdown keeps simple filename for editing while PDF has professional filename for applications
+4. **Do not generate PDF automatically** - only generate PDF when explicitly requested by user
+5. When PDF generation is requested, use `./publish-pdf.sh` with proper naming
 
 **Common tailoring strategies:**
+- Use the base resume as the source of truth. Re-arrange/emphasize content, but don't invent new data points.
 - Emphasize relevant technical background (e.g., backend, distributed systems)
 - Add specific accomplishments that align with job requirements
 - Quantify metrics and KPIs where applicable
 - Highlight domain-relevant experience (enterprise-scale, SaaS, etc.)
-- Add remote team leadership details if relevant
 - Adjust competencies section to match preferred qualifications
+- Be mindful of ageism, do not over-emphasize ears of experience
