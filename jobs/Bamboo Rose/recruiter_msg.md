@@ -36,3 +36,26 @@ Looking forward to our conversation.
 
 Best,
 Ilia
+
+---
+
+Michael Ames
+3:29 PM (28 minutes ago)
+to Ilia
+
+Hi Ilia,
+
+I sent us out an invite for Thursday at 10 AM EST. Look forward to speaking with you
+
+BR
+
+Mike
+
+---
+
+**Response:**
+
+Perfect, thanks Mike! I've accepted the invite. See you Thursday at 10 AM EST.
+
+Best,
+Ilia
