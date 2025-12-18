@@ -13,6 +13,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 
 * **Engineering team leadership:** hiring, scaling, performance management, and developing managers from ICs
 * **Technical hands-on leadership:** system design, code reviews, architecture decisions, technical mentorship
+* **AI-augmented development:** Practical experience integrating AI tooling (Claude Code) into development workflows for personal projects, experimenting with AI-assisted system design, code generation and refactoring
 * **Full-stack & cloud expertise:** .NET/C#, React/TypeScript, SQL, Kubernetes, microservices, AWS/Azure
 * **Product delivery:** roadmap planning, OKRs, SDLC ownership, CI/CD, DORA metrics, release management
 * **Agile & process:** Scrum facilitation, capacity planning, balancing feature/debt/ops work streams
