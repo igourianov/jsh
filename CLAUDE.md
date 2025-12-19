@@ -89,8 +89,8 @@ For complete instructions, see **[job-screen.md](job-screen.md)**.
 **Quick reference:**
 - **Path**: `jobs/{Company}/{Title}.md` (create company subfolder if needed)
 - **Extract metadata**: title, location, salary (estimate if not present), coding %, qualifications, summary, company info
-- **Evaluate**: Match %, Gaps, and Strengths appended to bottom of file
-- **Example**: `jobs/Instacart/Software Engineering Manager - Catalog Interfaces.md`
+- **Evaluate**: Match % and Gaps appended to bottom of file
+- **Example**: `jobs/Instacart/Software Engineering Manager, Catalog Interfaces.md`
 
 ### Tailored Resume Creation
 

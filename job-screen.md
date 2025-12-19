@@ -31,11 +31,19 @@ When given a job posting URL or text file:
 Extract the following information from the job posting:
 
 ### Title
-The official job title as listed in the posting, as well as normalized job title, e.g.
-- For the title "Software Engineering Manager, Catalog Interfaces" the normalized title is "Engineering Manager"
-- For "Senior Engineering Manager - Signals Team" normalized: "Senior Engineering Manager"
+Extract both the full original job title and the normalized job title:
 
-### Conceptual Job Domain
+**Full original title** - Used for filename
+- Keep complete title as listed in posting including team/product area
+- Example: "Software Engineering Manager, Catalog Interfaces"
+- Example: "Senior Engineering Manager - Signals Team"
+
+**Normalized title** - Used for H1 heading in file (strips team/product area, keeps only role level)
+- "Software Engineering Manager, Catalog Interfaces" → normalized: "Software Engineering Manager"
+- "Senior Engineering Manager - Signals Team" → normalized: "Senior Engineering Manager"
+- "Engineering Manager, Ads Platform" → normalized: "Engineering Manager"
+
+### Job Domain
 The area in which this role operates, e.g.:
 - Fintech product engineering
 - Sales growth engineering
@@ -56,23 +64,37 @@ Work location (e.g., "Remote - US", "San Francisco, CA", "Hybrid - New York")
 - Senior Engineering Manager (San Francisco): $180,000 - $260,000 (estimated)
 - Director of Engineering (Remote, US): $200,000 - $300,000 (estimated)
 
-### Coding Requirement
-**Estimate what % of the job requires writing production code:**
+### Hands-on and Coding Requirements
+
+Estimate two separate percentages that describe the technical nature of the role:
 
 #### Understanding Hands-on vs Coding
 
 These are two SEPARATE concepts:
 
-**1. Hands-on Technical Work** (Assumed for all EM roles, NOT part of coding %)
+**1. Hands-on Technical Work** (Technology-focused activities)
+Estimate what % of the role involves working on technology aspects (as opposed to people management, product management, communication, scheduling, administrative work).
+
+Hands-on activities include:
+- Writing code (production code)
 - Code reviews
-- Architectural decisions
-- Technical strategy and evaluation
+- Technical discussions with team
+- Architectural evaluation and planning
 - System design
+- Technical strategy and evaluation
 - Infrastructure/DevOps oversight
 - Technology evaluation
 - Establishing quality standards
 
-**2. Coding Requirement** (Estimate this percentage)
+**Typical Hands-on Percentages:**
+- People-focused EM roles: **20-40% hands-on** (mostly code reviews, architecture discussions)
+- Balanced EM roles: **40-60% hands-on** (mix of technical and people leadership)
+- Tech-lead EM roles: **60-80% hands-on** (heavy technical involvement)
+
+**2. Coding Requirement** (Subset of hands-on work)
+Estimate what % of the role specifically requires writing production code.
+
+Key signals:
 - Look for explicit mentions of "writing code", "implementing features", "shipping code"
 - "Participating in code reviews" = reviewing, NOT writing (does not count as coding)
 - "Technical fundamentals" or "past coding experience" = requirement for background, not active coding
@@ -128,7 +150,6 @@ After parsing the job posting, evaluate it against Ilia's resume.
 - Compare with bias towards rejection to identify genuine gaps
 - Be critical, but don't invent non-existent gaps
 - Highlight tech stack mismatches (e.g., C#/.NET vs Python, Azure vs AWS)
-- Note both strong alignments and critical gaps
 - Be realistic about ramp-up time requirements
 
 ## Evaluation Output
@@ -142,8 +163,6 @@ Calculate a **Match %** and identify **Gaps**:
   - Note missing domain experience where relevant
   - Consider degree requirements if absent
 
-Also note **Strengths** where the candidate exceeds requirements or has strong alignment.
-
 ---
 
 # Complete File Format
@@ -151,11 +170,20 @@ Also note **Strengths** where the candidate exceeds requirements or has strong a
 ```markdown
 # {Normalized Job Title} | {Job domain}
 
-**Company:** {Company Name}
-**Location:** {Location}
-**Salary Range:** {Range or "Not specified" or "Estimated: $X-$Y (estimated)"}
-**Coding:** {X}% (brief explanation of coding requirement estimate)
+**Company:** {Company Name} \
+**Location:** {Location} \
+**Salary Range:** {Range or "Not specified" or "Estimated: $X-$Y (estimated)"} \
+**Hands-on:** {Z}% | **Coding:** {X}% \
 **Posted:** {Date if available}
+**Match:** {X}%
+
+### Gaps
+
+- {Critical gap 1}
+- {Critical gap 2}
+- {Technical mismatch}
+- {Domain/experience gap}
+...
 
 ## Summary
 
@@ -179,43 +207,27 @@ Also note **Strengths** where the candidate exceeds requirements or has strong a
 
 {200-word description of company, products, projects, industry. Do not include company name as heading}
 
----
-
-## Evaluation
-
-**Match:** {X}%
-
-### Gaps
-
-- {Critical gap 1}
-- {Critical gap 2}
-- {Technical mismatch}
-- {Domain/experience gap}
-...
-
-### Strengths
-
-- {Area where candidate exceeds requirements}
-- {Strong alignment point}
-- {Relevant experience highlight}
-...
 ```
 
 ---
 
 ## File Naming Convention
 
-- **Path format**: `jobs\{Company}\{Title}.md`
+- **Path format**: `jobs\{Company}\{Full Original Job Title}.md`
 - **Company folder**: Use clean company name (e.g., "Meta", "Google", "Bamboo Rose", "Instacart")
-- **File name**: Use clean, readable job title
-  - Remove special characters
+- **File name**: Use full original job title from the posting
+  - Keep team/product area context (e.g., "Catalog Interfaces", "Infrastructure", "Signals Team")
+  - Only remove unsafe filesystem characters (e.g., `/`, `\`, `:`, `*`, `?`, `"`, `<`, `>`, `|`)
+  - Preserve commas, hyphens, and other safe punctuation
   - Use title case
-  - Example: `Engineering Manager - Platform.md`
-  - Example: `Software Engineering Manager - Catalog Interfaces.md`
+  - Example: `Software Engineering Manager, Catalog Interfaces.md`
+  - Example: `Senior Engineering Manager - Signals Team.md`
+
+**Note:** The normalized title (role level only) is used in the file's H1 heading, not the filename.
 
 ## Examples
 
 - `jobs\Zapier\Engineering Manager.md`
 - `jobs\Meta\Engineering Manager - Infrastructure.md`
-- `jobs\Instacart\Software Engineering Manager - Catalog Interfaces.md`
+- `jobs\Instacart\Software Engineering Manager, Catalog Interfaces.md`
 - `jobs\Grafana Labs\Engineering Manager.md`
