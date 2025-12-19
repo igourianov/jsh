@@ -8,6 +8,11 @@ This guide defines the complete workflow for screening job postings: downloading
 1. **Downloading** a job posting and extracting structured metadata
 2. **Evaluating** the job against the resume and appending match results
 
+**Inputs** can be either of:
+* a URL to job posting
+* a text file with job description
+* job description text pasted directly into prompt
+
 **Output:** Single file at `jobs/{Company}/{Job Title}.md` containing job details and evaluation.
 
 ---
@@ -41,15 +46,22 @@ Extract both the full original job title and the normalized job title:
 **Normalized title** - Used for H1 heading in file (strips team/product area, keeps only role level)
 - "Software Engineering Manager, Catalog Interfaces" → normalized: "Software Engineering Manager"
 - "Senior Engineering Manager - Signals Team" → normalized: "Senior Engineering Manager"
-- "Engineering Manager, Ads Platform" → normalized: "Engineering Manager"
+- "Director of Engineering, Ads Platform" → normalized: "Director of Engineering"
 
-### Job Domain
-The area in which this role operates, e.g.:
-- Fintech product engineering
+### Engineering Domain
+The engineering area in which this role operates, e.g.:
+- Product (developing business modules/logic for the product)
 - Sales growth engineering
 - DevOps/SRE
 - Platform
 - Observability Solutions
+
+### Product domain
+The type of product that company/job involved with, e.g.:
+- Fintech
+- Healthcare
+- B2C sales
+- Social media
 
 ### Location
 Work location (e.g., "Remote - US", "San Francisco, CA", "Hybrid - New York")
@@ -160,25 +172,27 @@ Calculate a **Match %** and identify **Gaps**:
 - **Gaps**: Specific missing qualifications, experience, or skills
   - Prioritize critical gaps that would require significant ramp-up
   - Include tech stack mismatches
-  - Note missing domain experience where relevant
-  - Consider degree requirements if absent
+  - Note missing product or engineering domain experience where relevant
+  - Do not consider degree requirements
   - Flag companies with primary offices in Quebec (Montréal, Quebec City, etc.) as likely requiring French language skills, even if not explicitly stated in posting
+  - Not location misalignment, e.g. job location is hybrid in Toronto, while candidate is in Fort Erie, which makes commute difficult
 
 ---
 
 # Complete File Format
 
 ```markdown
-# {Normalized Job Title} | {Job domain}
+# {Normalized Job Title} | {Engineering domain} | {Product domain}
 
+**URL** {original job URL, if present} \
 **Company:** {Company Name} \
 **Location:** {Location} \
 **Salary Range:** {Range or "Not specified" or "Estimated: $X-$Y (estimated)"} \
 **Hands-on:** {Z}% | **Coding:** {X}% \
-**Posted:** {Date if available}
+**Posted:** {Date, use current date if not avilable} \
 **Match:** {X}%
 
-### Gaps
+## Gaps
 
 - {Critical gap 1}
 - {Critical gap 2}
@@ -206,7 +220,7 @@ Calculate a **Match %** and identify **Gaps**:
 
 ## Company
 
-{200-word description of company, products, projects, industry. Do not include company name as heading}
+{200-word description of company, size, products, projects, industry. Do not include company name as heading}
 
 ```
 
