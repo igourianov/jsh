@@ -162,6 +162,7 @@ Calculate a **Match %** and identify **Gaps**:
   - Include tech stack mismatches
   - Note missing domain experience where relevant
   - Consider degree requirements if absent
+  - Flag companies with primary offices in Quebec (Montréal, Quebec City, etc.) as likely requiring French language skills, even if not explicitly stated in posting
 
 ---
 
