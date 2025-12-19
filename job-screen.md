@@ -190,7 +190,7 @@ Calculate a **Match %** and identify **Gaps**:
   - Prioritize critical gaps that would require significant ramp-up
   - Include tech stack mismatches
   - Note missing product or engineering domain experience where relevant
-  - Do not consider degree requirements
+  - Do not consider degree requirements if the eperience requirement is met
   - Flag companies with primary offices in Quebec (Montréal, Quebec City, etc.) as likely requiring French language skills, even if not explicitly stated in posting
   - Not location misalignment, e.g. job location is hybrid in Toronto, while candidate is in Fort Erie, which makes commute difficult
 
