@@ -27,6 +27,8 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 ### Job Search Resources
 - `jobs/` - Directory containing specific job postings being tracked (organized by company)
   - **Format**: `jobs/{Company}/{Title}.md` - Save job descriptions in company-specific subfolders
+  - `jobs/job-download-process.md` - **Job download and formatting guide** (detailed process for parsing and saving job postings)
+  - `jobs/evaluation-guide.md` - Methodology for evaluating job fit against resume
 - `LinkedIn/` - LinkedIn search resources and content
   - `LinkedIn/LinkedIn AI search.md` - AI-optimized search query for finding remote Engineering Manager roles
   - `LinkedIn/LinkedIn search.md` - Additional LinkedIn search resources
@@ -72,22 +74,23 @@ Use `resume/resume.md` as the source of truth regarding candidate's experience
 - Variants are tracked in `coverletter variants.txt`
 - Focus on relevant achievements: team building, product delivery, architectural contributions
 
-### Saving Job Descriptions
+### Job Screening
 
-When scraping or saving job descriptions from the web, ALWAYS use this format:
-- **Path**: `jobs/{Company}/{Title}.md`
-- **Example**: `jobs/Zapier/Engineering Manager.md`
-- Create company subfolder if it doesn't exist
-- Use clean, readable title (remove special characters if needed)
+**Job screening** is the combined process of downloading a job posting and evaluating it against the resume. This is the primary workflow for processing new job opportunities.
 
-### Job Application Evaluation
+For complete instructions, see **[job-screen.md](job-screen.md)**.
 
-When comparing Ilia's resume against job postings, refer to `jobs/evaluation-guide.md` for detailed methodology including:
-- Output format (Match %, Coding %, Salary, Gaps)
-- Critical distinction between hands-on technical work vs coding
-- Key signals for identifying 0% coding roles vs IC+Manager hybrids
-- Evaluation approach and tech stack mismatch considerations
-- Save results into the company folder as `match.md`. e.g. `jobs/Zapier/match.md`
+**Process:**
+1. **Download** - Fetch and parse job posting with structured metadata extraction
+2. **Evaluate** - Compare against resume and append match results to same file
+
+**Output:** Single file at `jobs/{Company}/{Job Title}.md` containing both job details and evaluation
+
+**Quick reference:**
+- **Path**: `jobs/{Company}/{Title}.md` (create company subfolder if needed)
+- **Extract metadata**: title, location, salary (estimate if not present), coding %, qualifications, summary, company info
+- **Evaluate**: Match %, Gaps, and Strengths appended to bottom of file
+- **Example**: `jobs/Instacart/Software Engineering Manager - Catalog Interfaces.md`
 
 ### Tailored Resume Creation
 
