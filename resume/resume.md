@@ -60,15 +60,10 @@ Engineering Leader with extensive experience building and scaling high-performin
 
 ### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2008 \- Mar 2013
 
+Digital agency providing marketing services for healthcare industry.
+
 *Responsibilities:*
-* Designed and developed intranet, e-commerce and marketing web applications
-* Managed Google Analytics and SEO implementation
-* Supported a variety of current and legacy web applications
-* Acted as a technical lead and mentored junior developers
-* Performed code review, revision control and release management
-* Contributed to the development of the in-house built CMS
-* Developed integration with a variety of third-party web APIs
-* Provided development estimates
-* Participated on client calls to provide technical expertise 
+* Designed, developed and managed releases for a number of marketing web applications
+* Contributed to the development of the in-house built CMS (Content Management System)
 
 *Technologies/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS 

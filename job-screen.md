@@ -27,6 +27,18 @@ When given a job posting URL or text file:
 4. **Save** complete file with evaluation appended to `jobs\{Company}\{Job Title}.md`
 5. Create company subfolder if it doesn't exist
 
+## Response Format
+
+When screening a job, respond ONLY with:
+- Success status (e.g., "Job screening complete" or "Saved to [path]")
+- Match percentage
+
+**Do not include:**
+- Detailed gap analysis in the response
+- Key highlights
+- Commentary on the match
+- All details should only be in the saved file
+
 ---
 
 # Part 1: Job Download
@@ -75,6 +87,11 @@ Work location (e.g., "Remote - US", "San Francisco, CA", "Hybrid - New York")
 - Engineering Manager (Remote, US): $150,000 - $220,000 (estimated)
 - Senior Engineering Manager (San Francisco): $180,000 - $260,000 (estimated)
 - Director of Engineering (Remote, US): $200,000 - $300,000 (estimated)
+
+### Posted Date
+- Use the **exact date from the job posting** if available (e.g., "December 5, 2025")
+- If not available, use **current month and year** (e.g., "December 2025")
+- **IMPORTANT**: Always use the year from the posting data or current year - never default to a previous year
 
 ### Hands-on and Coding Requirements
 
@@ -189,7 +206,7 @@ Calculate a **Match %** and identify **Gaps**:
 **Location:** {Location} \
 **Salary Range:** {Range or "Not specified" or "Estimated: $X-$Y (estimated)"} \
 **Hands-on:** {Z}% | **Coding:** {X}% \
-**Posted:** {Date, use current date if not avilable} \
+**Posted:** {Exact date from posting if available (e.g., "December 5, 2025"), otherwise use current month and year (e.g., "December 2025")} \
 **Match:** {X}%
 
 ## Gaps

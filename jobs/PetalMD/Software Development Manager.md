@@ -7,9 +7,9 @@
 **Posted:** December 2024
 **Match:** 85%
 
-### Gaps
+## Gaps
 
-- No healthcare domain experience (HRTech/HCM background, not healthcare)
+- Limited healthcare product experience: Has healthcare industry exposure from Klick Health (marketing agency for healthcare, 2008-2013) but core experience is in HRTech/HCM SaaS products, not healthcare software
 - No specific healthcare compliance experience (HIPAA) - though has GDPR, SOC 2, PII compliance
 - Tech stack not mentioned in posting, unclear alignment with .NET/C#/Azure background
 - Role mentions Montreal and Quebec City offices which are farther from Fort Erie location
