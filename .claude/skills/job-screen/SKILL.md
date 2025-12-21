@@ -86,8 +86,10 @@ These are two SEPARATE concepts:
 - Bullet list of nice-to-have qualifications, preferred skills, bonus experience
 
 **Summary**
-- Concise overview of role in **200 words or less**
-- Focus on: primary responsibilities, team structure, key outcomes
+- Succinct overview of the role - be brief and direct
+- Remove corporate fluff and marketing language
+- Focus on: core responsibilities, team context, actual work
+- Keep it short - do NOT expand to 200 words if fewer words suffice
 
 **Company**
 - What company does (product/service)
@@ -144,10 +146,6 @@ Create company subfolder if it doesn't exist.
 - {Domain/experience gap}
 ...
 
-## Summary
-
-{200-word summary of the role}
-
 ## Required Qualifications
 
 - {Required qualification 1}
@@ -159,6 +157,10 @@ Create company subfolder if it doesn't exist.
 - {Optional qualification 1}
 - {Optional qualification 2}
 ...
+
+## Summary
+
+{Succinct overview of role - brief and direct, no corporate fluff}
 
 ## Company
 
