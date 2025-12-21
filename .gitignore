@@ -41,3 +41,7 @@ jobs/**/*.pdf
 
 # Separate git repository (published resume)
 resume/gist/
+
+
+#buffer for copy-pasting jobdescriptions
+temp.txt
