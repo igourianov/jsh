@@ -6,9 +6,15 @@ SOURCE_MD="$1"
 # Get the directory where this script is located
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+# Find the resume directory (3 levels up from .claude/skills/publish-gist, then into resume)
+RESUME_DIR="$(cd "$SCRIPT_DIR/../../../resume" && pwd)"
+
+# Gist directory is now in the same folder as this script
+GIST_DIR="$SCRIPT_DIR/gist"
+
 # If no source specified, use default resume.md
 if [ -z "$SOURCE_MD" ]; then
-    SOURCE_MD="$SCRIPT_DIR/resume.md"
+    SOURCE_MD="$RESUME_DIR/resume.md"
 else
     # Resolve to absolute path
     if [ ! -f "$SOURCE_MD" ]; then
@@ -58,7 +64,6 @@ if [ -z "$TITLE" ]; then
 fi
 
 TARGET_FILENAME="${NAME} - ${TITLE}.md"
-GIST_DIR="$SCRIPT_DIR/gist"
 
 # Initialize step counters
 STEP=1

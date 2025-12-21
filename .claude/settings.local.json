@@ -1,14 +1,18 @@
 {
-	"permissions": {
-		"allow": [
-			"Bash",
-			"WebFetch",
-			"WebSearch",
-			"Edit",
-			"Read",
-			"Write"
-		],
-		"deny": [],
-		"ask": []
-	}
+  "permissions": {
+    "allow": [
+      "Bash",
+      "WebFetch",
+      "WebSearch",
+      "Edit",
+      "Read",
+      "Write",
+      "Skill(commit)",
+      "Skill(job-screen)",
+      "Skill(publish-gist)",
+      "Skill(publish-pdf)"
+    ],
+    "deny": [],
+    "ask": []
+  }
 }

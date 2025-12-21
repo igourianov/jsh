@@ -40,7 +40,7 @@ resume/*.pdf
 jobs/**/*.pdf
 
 # Separate git repository (published resume)
-resume/gist/
+.claude/skills/publish-gist/gist/
 
 
 #buffer for copy-pasting jobdescriptions
