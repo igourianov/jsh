@@ -22,8 +22,8 @@ Run these commands in parallel to understand what will be committed:
 
 ### 2. Determine What to Commit
 
-- If there are staged changes: commit only staged changes
-- If nothing is staged: commit all modified and new files
+- **If there are staged changes**: commit ONLY what is staged (do NOT add additional files)
+- **If nothing is staged**: stage and commit all modified and new files (excluding likely secrets)
 
 ### 3. Analyze and Draft Commit Message
 
