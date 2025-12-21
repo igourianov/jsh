@@ -188,11 +188,12 @@ Calculate a **Match %** and identify **Gaps**:
 - **Match %**: Overall fit considering experience, skills, domain knowledge, and tech stack alignment
 - **Gaps**: Specific missing qualifications, experience, or skills
   - Prioritize critical gaps that would require significant ramp-up
-  - Include tech stack mismatches
+  - Include tech stack mismatches ONLY when the posting explicitly mentions specific tech stack requirements that don't align with candidate's background
+  - Do NOT flag tech stack as a gap if the posting doesn't mention specific technologies
   - Note missing product or engineering domain experience where relevant
-  - Do not consider degree requirements if the eperience requirement is met
+  - Do not consider degree requirements if the experience requirement is met
   - Flag companies with primary offices in Quebec (Montréal, Quebec City, etc.) as likely requiring French language skills, even if not explicitly stated in posting
-  - Not location misalignment, e.g. job location is hybrid in Toronto, while candidate is in Fort Erie, which makes commute difficult
+  - Note location misalignment if relevant, e.g. job location is hybrid in Toronto, while candidate is in Fort Erie, which makes commute difficult
 
 ---
 
