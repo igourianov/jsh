@@ -35,7 +35,7 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 ### Development Configuration
 - `.gitignore` - Git ignore rules (excludes node_modules, generated PDF, IDE files, temp files)
 - `.claude/settings.local.json` - Claude Code permissions configuration (allows git operations, npm, test commands)
-- `.claude/skills/` - Claude Code skills for common workflows (commit, job-screen, publish-pdf, publish-gist)
+- `.claude/skills/` - Claude Code skills for common workflows (commit, job-screen, tailor-resume, publish-pdf, publish-gist)
 
 ### Other
 - `profile pic/` - Profile images for LinkedIn/applications (various PNG formats)
@@ -68,6 +68,33 @@ Use `resume/resume.md` as the source of truth regarding candidate's experience
 - **Extract metadata**: title, location, salary (estimate if not present), coding %, qualifications, summary, company info
 - **Evaluate**: Match % and Gaps appended to bottom of file
 - **Example**: `jobs/Instacart/Software Engineering Manager, Catalog Interfaces.md`
+
+### Resume Tailoring
+
+**Resume tailoring** creates a customized resume optimized for a specific job posting based on the job screening file.
+
+**Process:**
+1. Read job screening file at `jobs/{Company}/{Job Title}.md`
+2. Analyze job requirements, gaps, and keywords
+3. Create tailored resume emphasizing relevant experience
+4. Save to `jobs/{Company}/resume.md`
+
+**What gets tailored:**
+- **Summary**: Adjusted to emphasize relevant domain/experience
+- **Core Competencies**: Reordered to prioritize job-relevant skills
+- **Experience**: Accomplishments rewritten to highlight matching experience
+
+**What stays the same:**
+- Job titles and dates
+- Company names
+- Fundamental facts (no fabrication)
+
+**Example workflow:**
+1. Screen job: `screen job https://example.com/job-posting`
+2. Tailor resume: `tailor resume for {Company}`
+3. Generate PDF: `publish pdf for {Company}`
+
+**Output location:** `jobs/{Company}/resume.md`
 
 ### File Format Conversions
 

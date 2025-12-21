@@ -10,7 +10,8 @@
       "Skill(commit)",
       "Skill(job-screen)",
       "Skill(publish-gist)",
-      "Skill(publish-pdf)"
+      "Skill(publish-pdf)",
+      "Skill(tailor-resume)"
     ],
     "deny": [],
     "ask": []
