@@ -13,11 +13,11 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 ### Resume Materials
 - `resume/resume.md` - Main resume in markdown format (source of truth)
 - `resume/seo.txt` - SEO keywords embedded in PDF metadata
-- `About me.txt` - Condensed summary of professional experience and skills
+- `archive/About me.txt` - Condensed summary of professional experience and skills (archived)
 
 ### Cover Letters
-- `coverletter.txt` - Base cover letter template highlighting product delivery achievements
-- `coverletter variants.txt` - Multiple versions of cover letters for different situations
+- `archive/coverletter.txt` - Base cover letter template highlighting product delivery achievements (archived)
+- `archive/coverletter variants.txt` - Multiple versions of cover letters for different situations (archived)
 
 ### Job Search Resources
 - `jobs/` - Directory containing specific job postings being tracked (organized by company)
@@ -29,8 +29,8 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
   - `LinkedIn/posts/` - Source files for LinkedIn posts (drafts and editorial versions)
 
 ### Interview Preparation
-- `Questions.txt` - Questions to ask during interviews about company structure, team dynamics, tech stack
-- `prompt.md` - Instructions for using an LLM as a recruiter to evaluate job fit
+- `archive/Questions.txt` - Questions to ask during interviews about company structure, team dynamics, tech stack (archived)
+- `archive/prompt.md` - Instructions for using an LLM as a recruiter to evaluate job fit (archived)
 
 ### Development Configuration
 - `.gitignore` - Git ignore rules (excludes node_modules, generated PDF, IDE files, temp files)
@@ -48,9 +48,23 @@ Use `resume/resume.md` as the source of truth regarding candidate's experience
 
 ## Working with This Repository
 
+### Skill Usage Requirements
+
+**CRITICAL: When user requests workflow operations, ALWAYS use the corresponding skill:**
+
+- User says "**commit**" → MUST use `Skill(commit)`, NEVER run git commands directly
+- User says "**screen job**" → MUST use `Skill(job-screen)`
+- User says "**tailor resume**" → MUST use `Skill(tailor-resume)`
+- User says "**publish pdf**" or "**publish resume**" → MUST use `Skill(publish-pdf)`
+- User says "**publish gist**" → MUST use `Skill(publish-gist)`
+
+**Rationale:** Skills encapsulate full workflows with proper error handling, context gathering, and consistent output. Direct tool usage bypasses established processes and creates inconsistent behavior.
+
+**Exception:** Only use tools directly when NOT explicitly requested by user or when debugging/investigating issues.
+
 ### Cover Letter Customization
-- Base template is in `coverletter.txt`
-- Variants are tracked in `coverletter variants.txt`
+- Base template is in `archive/coverletter.txt` (archived)
+- Variants are tracked in `archive/coverletter variants.txt` (archived)
 - Focus on relevant achievements: team building, product delivery, architectural contributions
 
 ### Job Screening
