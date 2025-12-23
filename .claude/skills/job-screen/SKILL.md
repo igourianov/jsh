@@ -111,6 +111,11 @@ Read `resume/resume.md` as source of truth for candidate's experience.
 **Calculate:**
 - **Match %**: Overall fit considering experience, skills, domain knowledge, tech stack alignment
 - **Gaps**: Specific missing qualifications
+  - **CRITICAL: NEVER flag unknown/unspecified information as a gap**
+    - If product domain is unknown/not disclosed: NOT a gap
+    - If company details are missing: NOT a gap
+    - If tech stack is not mentioned: NOT a gap
+    - Only flag when job EXPLICITLY requires something and candidate DEFINITIVELY lacks it
   - Prioritize critical gaps requiring significant ramp-up
   - **Tech stack gaps - ONLY flag when:**
     - Job explicitly states their actual tech stack (e.g., "our backend is built with Go", "must have Scala experience")
@@ -118,7 +123,7 @@ Read `resume/resume.md` as source of truth for candidate's experience.
     - "Or" language: candidate needs proficiency in ONE of the listed options
     - "Such as" language: listed technologies are EXAMPLES - other similar technologies also qualify
     - Broad language lists indicate general technical depth requirement, not specific stack mismatch
-  - Note missing product or engineering domain experience where relevant
+  - Note missing product or engineering domain experience ONLY when domain is explicitly stated in job posting
   - Do not consider degree requirements if experience requirement is met
   - Flag companies with primary offices in Quebec as likely requiring French language skills
   - Note location misalignment if relevant (e.g., hybrid in Toronto while candidate in Fort Erie)
