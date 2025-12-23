@@ -101,3 +101,23 @@ I look forward to connecting with Tanya.
 
 Best,
 Ilia
+
+---
+
+Hi Mike,
+
+First, I wanted to thank you for the engaging and productive conversation we had last week and compliment you personally on your qualities as an experienced recruiter.
+
+Sadly, my experience with Tanya fell short of the same mark. The interview was very dry with a list of prepared questions, no follow-ups and with my questions relegated to the very end. It didn't seem like she was very interested in my answers.
+
+Perhaps vainly, I felt that I am significantly more senior than she is in the major areas we've covered. Starting from the baseline conversational and interviewing skills, to the medium term org strategy, to the tactical details of AI adoption.
+
+I do not see this disparity working out well for either of us if I were to join Bamboo Rose under her leadership. Therefore I respectfully withdraw my candidacy for this role.
+
+Please note that this feedback is not meant to offend Tanya, but rather provide you with absolute clarity of the reasons for my withdrawal as a professional courtesy. 
+
+I wish you and Bamboo Rose all the best, and hope to work with you in the future.
+Ilia
+
+
+PS: As one of my leaders once said "All feedback is a gift, especially negative one".
