@@ -1,55 +1,36 @@
-# Engineering Manager
+# Engineering Manager | Product | Fintech
 
-**Company:** Wagepoint
-**Location:** Canada - Remote (Fully Remote)
-**Salary:** CAD $140,000 - $180,000/year
-**Job URL:** https://wagepoint.teamtailor.com/jobs/6840811-engineering-manager
+**URL:** https://wagepoint.teamtailor.com/jobs/6840811-engineering-manager \
+**Company:** Wagepoint \
+**Location:** Remote - Canada \
+**Salary Range:** $140,000-$180,000 CAD \
+**Hands-on:** 50% | **Coding:** 10% \
+**Posted:** November 2025 \
+**Match:** 85%
 
----
+## Gaps
 
-## About Wagepoint
-
-Wagepoint is a fintech company specializing in payroll software. Founded in 2012, the organization serves over 30,000 small businesses, accountants, and bookkeepers across North America. The company employs 175+ team members and describes itself as committed to "making payroll magic happen" through user-friendly online software.
-
-## Role Description
-
-The Engineering Manager will lead and mentor a cross-functional engineering team while executing technical strategies and ensuring code quality. This position reports directly to the Director of Engineering.
-
-## Key Responsibilities
-
-- Manage end-to-end project delivery from planning through release
-- Lead team development through mentorship, feedback, and regular one-on-ones
-- Drive implementation of scalable, secure, and efficient engineering solutions
-- Maintain high code quality standards and technical documentation
-- Monitor system performance and identify optimization opportunities
-- Ensure security compliance and industry regulation adherence
-- Foster knowledge-sharing culture and team training
-- Participate in hiring and engineer onboarding
-- Establish performance goals and growth plans for team members
+- Direct fintech/payroll domain experience (candidate has HCM/payroll-adjacent experience)
 
 ## Required Qualifications
 
-- 8+ years progressive software engineering experience
-- 2+ years in a leadership/management role
+- 8+ years progressive software engineering experience with 2+ years in leadership
 - Strong technical foundation in system architecture and performance optimization
-- Experience with agile development and DevOps practices
-- Proven ability to lead, coach, and build teams
-- Strong cross-functional communication skills
+- Agile development and DevOps experience
+- People leadership and coaching passion
+- Cross-functional communication skills
 
-## Preferred Qualifications
+## Optional Qualifications
 
-- Remote team management experience
+- Remote work environment experience
 - Fintech or payroll industry background
 - Understanding of small business technology needs
-- Experience with cloud infrastructure (AWS, GCP), CI/CD, and observability tools
+- AWS/GCP, CI/CD, and observability tooling expertise
 
-## Benefits & Work Culture
+## Summary
 
-- Remote-first company with work-from-home flexibility
-- Professional development and career advancement opportunities
-- Collaborative, inclusive team environment
-- Equal opportunity employer welcoming diverse backgrounds
+Engineering manager role leading a cross-functional team with accountability for end-to-end project execution, team mentorship, and technical strategy. Responsibilities include hiring, performance management, maintaining code quality standards, ensuring security compliance, and fostering knowledge-sharing culture. The role oversees project delivery from planning to release while building and coaching the engineering team.
 
-## Application Process
+## Company
 
-Candidates should submit their resume and a brief statement explaining their interest in the role, rather than a formal cover letter.
+Wagepoint is a fintech company providing payroll software solutions for small businesses across North America. Founded in 2012, the company serves over 30,000 small businesses with a team of 175+ employees. Wagepoint positions itself as "the world's friendliest team" with a strong commitment to diversity, professional growth, and remote-first operations. The company focuses on supporting small business owners with accessible payroll technology in a collaborative and innovative environment. Their technology stack includes AWS/GCP infrastructure, CI/CD pipelines, and observability tooling. The company emphasizes building a culture of knowledge-sharing and continuous improvement while maintaining high standards for security and compliance in the fintech space.
