@@ -11,7 +11,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 
 # Core Competencies
 
-* **Engineering team leadership:** hiring, scaling, performance management, and developing managers from ICs
+* **Engineering team leadership:** hiring, scaling, performance management, developing managers from ICs, leading distributed remote teams
 * **Technical hands-on leadership:** system design, code reviews, architecture decisions, technical mentorship
 * **AI-augmented development:** Practical experience integrating AI tooling (Claude Code) into development workflows for personal projects, experimenting with AI-assisted system design, code generation and refactoring
 * **Full-stack & cloud expertise:** .NET/C#, React/TypeScript, SQL, Kubernetes, microservices, AWS/Azure
@@ -33,7 +33,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 
 *Accomplishments:*
 * Delivered three enterprise HCM products that helped position DayforceHCM as a Gartner Leaders Quadrant recipient in Cloud HCM Suites, serving Fortune 500 customers.
-* Scaled from one team to three high-performing cross-functional teams (30+ engineers total), hiring 20+ engineers and developing 2 senior engineers into engineering managers now leading their own teams.
+* Scaled from one team to three high-performing cross-functional teams (30+ engineers total), hiring 20+ engineers and developing 2 senior engineers into engineering managers now leading their own teams—transitioning to fully distributed remote teams during COVID while maintaining velocity and team cohesion.
 * Redesigned git branching model to eliminate test environment deployment conflicts from other teams using trunk-based development, reducing deployment failures by 90%—enabling autonomous team deployments and faster iteration cycles.
 * Eliminated product downtime caused by core MDM service deployments by implementing zero-downtime deployment strategy, removing 12-hour maintenance windows that previously affected all customers globally.
 
