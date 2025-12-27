@@ -24,46 +24,8 @@ else
     SOURCE_MD="$(cd "$(dirname "$SOURCE_MD")" && pwd)/$(basename "$SOURCE_MD")"
 fi
 
-# Extract name and title from markdown file to generate target filename
-# Line 1: # Name
-# Line 3: ### Title
-NAME=""
-TITLE=""
-line_count=0
-
-while IFS= read -r line; do
-    # Remove leading/trailing whitespace
-    line=$(echo "$line" | xargs)
-
-    # Skip empty lines
-    [ -z "$line" ] && continue
-
-    # Check if this is a heading line
-    if [[ "$line" =~ ^#+ ]]; then
-        ((line_count++))
-
-        # First heading is the name
-        if [ $line_count -eq 1 ]; then
-            NAME=$(echo "$line" | sed 's/^#\+[[:space:]]*//')
-        fi
-
-        # Second heading is the title
-        if [ $line_count -eq 2 ]; then
-            TITLE=$(echo "$line" | sed 's/^#\+[[:space:]]*//')
-            break
-        fi
-    fi
-done < "$SOURCE_MD"
-
-# Fallback to default if extraction failed
-if [ -z "$NAME" ]; then
-    NAME="Ilia Gourianov"
-fi
-if [ -z "$TITLE" ]; then
-    TITLE="engineering manager"
-fi
-
-TARGET_FILENAME="${NAME} - ${TITLE}.md"
+# Use hardcoded filename
+TARGET_FILENAME="Ilia Gourianov - Engineering Manager.md"
 
 # Initialize step counters
 STEP=1
