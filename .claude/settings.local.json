@@ -11,7 +11,8 @@
       "Skill(job-screen)",
       "Skill(publish-gist)",
       "Skill(publish-pdf)",
-      "Skill(tailor-resume)"
+      "Skill(tailor-resume)",
+      "Skill(company-research)"
     ],
     "deny": [],
     "ask": []
