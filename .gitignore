@@ -36,8 +36,7 @@ ehthumbs.db
 dist/
 build/
 *.pdf.tmp
-resume/*.pdf
-jobs/**/*.pdf
+pdf/
 
 # Separate git repository (published resume)
 .claude/skills/publish-gist/gist/

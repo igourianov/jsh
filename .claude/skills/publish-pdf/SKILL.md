@@ -54,14 +54,15 @@ Read the specified markdown file to extract name and title:
 The `publish-pdf.sh` script performs these steps automatically:
 
 1. **Verify source**: Checks that source file exists, converts to absolute path
-2. **Check dependencies**: Verifies/installs node dependencies if needed
-3. **Generate PDF**: Creates PDF as `{name} - {title}.pdf` in same directory as source file
-4. **Inject metadata**: Embeds SEO keywords from `resume/seo.txt` (650 keywords) and Author metadata
-5. **Open PDF**: Opens the generated PDF in OS default viewer
+2. **Create output directory**: Creates `pdf/` folder under project root if it doesn't exist
+3. **Check dependencies**: Verifies/installs node dependencies if needed
+4. **Generate PDF**: Creates PDF as `{name} - {title}.pdf` in the `pdf/` folder
+5. **Inject metadata**: Embeds SEO keywords from `resume/seo.txt` (650 keywords) and Author metadata
+6. **Open PDF**: Opens the generated PDF in OS default viewer
 
 ### Important Notes
 
-- **Output location**: PDF is always placed in the same directory as the source file
+- **Output location**: All PDFs are placed in the `pdf/` folder under project root
 - **Output filename format**: `{name} - {title}.pdf`
 - **SEO metadata**: All 650 keywords from `resume/seo.txt` are embedded in PDF metadata
 - **PDF metadata includes**:
@@ -75,13 +76,13 @@ The `publish-pdf.sh` script performs these steps automatically:
 ```bash
 .claude/skills/publish-pdf/publish-pdf.sh resume/resume.md "Ilia Gourianov" "Engineering Manager"
 ```
-Output: `resume/Ilia Gourianov - Engineering Manager.pdf`
+Output: `pdf/Ilia Gourianov - Engineering Manager.pdf`
 
 **Tailored resume:**
 ```bash
 .claude/skills/publish-pdf/publish-pdf.sh jobs/Zapier/resume.md "Ilia Gourianov" "Senior Engineering Manager"
 ```
-Output: `jobs/Zapier/Ilia Gourianov - Senior Engineering Manager.pdf`
+Output: `pdf/Ilia Gourianov - Senior Engineering Manager.pdf`
 
 ### Common Use Cases
 

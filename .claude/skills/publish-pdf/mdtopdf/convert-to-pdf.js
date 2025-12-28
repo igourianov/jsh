@@ -3,14 +3,11 @@ const path = require('path');
 const { mdToPdf } = require('md-to-pdf');
 const { PDFDocument } = require('pdf-lib');
 
-// Get input file path, name, and title from command line arguments
+// Get input file path, target output path, name, and title from command line arguments
 const inputPath = process.argv[2];
-const authorName = process.argv[3];
-const title = process.argv[4];
-
-// Generate output path in the same directory as input
-const inputDir = path.dirname(inputPath);
-const outputPath = path.join(inputDir, `${authorName} - ${title}.pdf`);
+const outputPath = process.argv[3];
+const authorName = process.argv[4];
+const title = process.argv[5];
 const seoPath = path.join(__dirname, '..', 'seo.txt');
   // Generate metadata text
 const titleText = `${authorName} - ${title} Resume`;
