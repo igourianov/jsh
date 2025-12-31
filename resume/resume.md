@@ -27,7 +27,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 *Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale SaaS Human Capital Management platform serving mid-market to Fortune 500 companies. Joined during early SaaS expansion into HRTech space and helped scale from emerging product to Gartner-recognized leader in Cloud HCM.
 
 *Led following engineering teams/projects:*
-* Three cross-functional product development teams (8-12 devs+QA each) engaged in developing products as a part of the larger DayforceHCM product. Directly managing up to 25 ICs and leads.
+* Three cross-functional product development teams (8-12 devs+QA each) engaged in developing products as a part of the larger DayforceHCM product. Managing 25+ engineers directly and through technical leads who reported to me.
 * Platform development team consisting of 5 senior/staff engineers focused on modernizing and partitioning the product monolith and building core services.
 * Database administration team of 2 senior DBAs engaged in daily operations of thousands of dev/test SQL databases, dev solutions, provisioning and data compliance.
 
