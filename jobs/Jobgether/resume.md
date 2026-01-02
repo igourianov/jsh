@@ -1,26 +1,25 @@
 # Ilia Gourianov
 
-### Engineering Leader
+### Engineering Manager
 
 *Contacts*: [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [LinkedIn](https://www.linkedin.com/in/ilia-gourianov/) \
 *Location*: Fort Erie, Ontario, Canada
 
 # Summary
 
-Engineering Leader with 8+ years of experience building and scaling high-performing engineering teams in fast-growth SaaS environments, including 2+ years developing and managing engineering managers. A former full-stack engineer who moved into leadership to amplify impact, with a proven track record of driving technical excellence, optimizing team structures, and leading cross-functional product development initiatives. Expert in providing strategic technical guidance on software architecture, technology stack decisions, and technical debt prioritization while fostering cultures of innovation and operational efficiency. Passionate about building collaborative, remote-first engineering organizations.
+Engineering Leader with extensive experience building and scaling high-performing engineering teams in fast-growth B2B SaaS environments serving mid-market to Fortune 500 customers. A former engineer who moved into management to amplify impact, with a proven track record of leading product delivery from concept to production in fast-paced, product-driven environments. Passionate about balancing technical leadership with people management to drive innovation, quality, and continuous improvement. AI tooling enthusiast.
 
 # Core Competencies
 
-* **Engineering team leadership:** recruiting, scaling, performance management, and developing managers from ICs across distributed teams
-* **Manager of managers:** mentoring engineering managers, conducting performance reviews, implementing career growth plans
-* **Product delivery:** roadmap planning, OKRs, DORA metrics, SDLC ownership, CI/CD, release management
-* **Technical hands-on leadership:** system design, software architecture decisions, code reviews, technical mentorship
-* **Scalable systems expertise:** building secure, highly available backend systems with microservices and cloud infrastructure
-* **Full-stack & cloud expertise:** .NET/C#, React/TypeScript, SQL, Kubernetes, microservices, AWS/Azure
+* **Product delivery:** roadmap planning, OKRs, SDLC ownership, CI/CD, DORA metrics, release management, new product initiatives
+* **Engineering team leadership:** hiring, scaling, performance management, developing managers from ICs, leading distributed remote teams
+* **Technical hands-on leadership:** system design, code reviews, architecture decisions, technical mentorship, large-scale system design
+* **Full-stack & cloud expertise:** .NET/C#, React/TypeScript, SQL/NoSQL databases (SQL Server, Redis, ElasticSearch), Kubernetes, microservices, AWS/Azure
 * **Cross-functional collaboration:** Product, Design, Architecture, and executive stakeholder partnership
-* **Agile & DevOps:** Scrum facilitation, capacity planning, process improvements, CI/CD optimization
+* **Agile & process:** Scrum facilitation, capacity planning, balancing feature/debt/ops work streams
+* **DevOps & cloud platforms:** containerization (Docker, Kubernetes), CI/CD pipelines, cloud infrastructure (AWS/Azure)
+* **AI-augmented development:** Practical experience integrating AI tooling (Claude Code) into development workflows for personal projects, experimenting with AI-assisted system design, code generation and refactoring
 * **High-performance culture:** shared ownership, continuous improvement, eliminating process overhead
-* **Remote team leadership:** leading distributed teams across time zones with focus on transparency and collaboration
 
 # Experience
 
@@ -29,16 +28,17 @@ Engineering Leader with 8+ years of experience building and scaling high-perform
 *Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale SaaS Human Capital Management platform serving mid-market to Fortune 500 companies. Joined during early SaaS expansion into HRTech space and helped scale from emerging product to Gartner-recognized leader in Cloud HCM.
 
 *Led following engineering teams/projects:*
-* Three cross-functional product development teams (8-12 devs+QA each) engaged in developing products as a part of the larger DayforceHCM product. Directly managing up to 25 ICs and leads.
+* Three cross-functional product development teams (8-12 devs+QA each) engaged in developing products as a part of the larger DayforceHCM product. Managing up to 25 engineers directly and through technical leads who reported to me.
 * Platform development team consisting of 5 senior/staff engineers focused on modernizing and partitioning the product monolith and building core services.
 * Database administration team of 2 senior DBAs engaged in daily operations of thousands of dev/test SQL databases, dev solutions, provisioning and data compliance.
 
 *Accomplishments:*
-* **Scaled engineering organization** from one team to three high-performing cross-functional teams (30+ engineers total), recruiting 20+ engineers and developing 2 senior engineers into engineering managers now successfully leading their own teams—demonstrating proven ability to mentor managers and build leadership bench strength.
-* **Delivered three enterprise HCM products** through strategic cross-functional collaboration with Product, Design, and Architecture teams, helping position DayforceHCM as a Gartner Leaders Quadrant recipient in Cloud HCM Suites and serving Fortune 500 customers globally.
-* **Provided technical guidance on architecture and infrastructure**, leading platform modernization initiative to partition product monolith into microservices, implementing zero-downtime deployment strategy that eliminated 12-hour maintenance windows affecting all customers globally.
-* **Optimized team structure and development processes** by redesigning git branching model using trunk-based development, reducing deployment failures by 90% and enabling autonomous team deployments—dramatically improving operational efficiency and iteration cycles.
-* **Implemented performance metrics and best practices** including DORA metrics tracking, OKR frameworks, and CI/CD pipeline optimizations across development, quality assurance, and operations to drive continuous improvement and high standards.
+* Led development and delivery of three new product initiatives from concept to production that helped position DayforceHCM as a Gartner Leaders Quadrant recipient in Cloud HCM Suites, serving Fortune 500 customers—driving growth and improving lead conversion for mid-market and enterprise segments.
+* Scaled from one team to three high-performing cross-functional teams (30+ engineers total), hiring 20+ engineers and developing 2 senior engineers into engineering managers now leading their own teams—transitioning to fully distributed remote teams during COVID while maintaining velocity and team cohesion.
+* Owned end-to-end delivery of scalable, high-quality software solutions in a fast-paced, product-driven environment with strong visibility and meaningful impact on product direction—collaborating closely with Product, Design, and executive stakeholders to translate business needs into technical execution.
+* Designed and implemented large-scale system architecture improvements including zero-downtime deployment strategy for core MDM service, eliminating 12-hour maintenance windows that previously affected all customers globally—demonstrating solid understanding of large-scale system design and high-availability architectures.
+* Redesigned git branching model to eliminate test environment deployment conflicts from other teams using trunk-based development, reducing deployment failures by 90%—enabling autonomous team deployments and faster iteration cycles in agile environment.
+* Led platform modernization initiative to partition product monolith into microservices architecture, leveraging React for frontend, SQL Server and NoSQL databases (Redis, ElasticSearch) for data persistence, and Kubernetes for container orchestration—improving scalability and team autonomy.
 
 *Technologies/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
 
@@ -46,14 +46,14 @@ Engineering Leader with 8+ years of experience building and scaling high-perform
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2017
 
 *Accomplishments:*
-* **Led technical design and delivery** of Ceridian's first Recruiting module as Senior Software Engineer, establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products—demonstrating full-stack expertise in building scalable, secure, and highly available systems.
-* **Redesigned database schema upgrade process** with focus on system reliability and developer efficiency, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts—accelerating feature releases and reducing developer blockers.
-* **Optimized localization data architecture** enabling zero-downtime language updates—reducing internationalization time-to-market from weeks to hours and improving system availability.
+* Led technical design and delivery of Ceridian's first Recruiting module, establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products—demonstrating strong technical background in designing scalable solutions for complex business requirements.
+* Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts—accelerating feature releases and reducing developer blockers through analytical problem-solving in fast-paced environment.
+* Optimized localization data architecture, enabling zero-downtime language updates—reducing internationalization time-to-market from weeks to hours through innovative system design.
 
 *Responsibilities:*
 * Led a team of software developers
 * Developed business modules for a multi-tenant Software-as-a-Service (SaaS) platform
-* Owned architectural decision making and provided technical guidance on technology stack
+* Owned architectural decision making
 * Conducted code reviews and mentored other developers
 * Provided high level estimates for the Product managers
 * Executed investigation and prototyping for new technologies and tools
@@ -64,9 +64,5 @@ Engineering Leader with 8+ years of experience building and scaling high-perform
 ### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2008 \- Mar 2013
 
 Digital agency providing marketing services for healthcare industry.
-
-*Responsibilities:*
-* Designed, developed and managed releases for a number of marketing web applications
-* Contributed to the development of the in-house built CMS (Content Management System)
 
 *Technologies/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS
