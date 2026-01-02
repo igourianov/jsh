@@ -58,7 +58,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 
 *Technologies/tools:* C\#, ASP.NET MVC, EntityFramework/Dapper, SQL Server, JavaScript/TypeScript, HTML/CSS, jQuery/Dojo/ReactJS/Angular, Git, REST APIs, NUnit/xUnit, Selenium 
 
-### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2008 \- Mar 2013
+### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2005 \- Mar 2013
 
 Digital agency providing marketing services for healthcare industry.
 
