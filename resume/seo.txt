@@ -1,9 +1,9 @@
-1:1s
 .NET Developer
-able
+1:1s
 Ability to adapt
 Ability to collaborate
 Ability to lead
+able
 abstraction
 acceptance tests
 access
@@ -53,21 +53,21 @@ Azure DevOps
 B2B (Business-to-Business)
 B2B SaaS
 Back end
-Back-end
 Backend
+Back-end
 balance
 benefits
 Best practices
 bias
 Bias for action
 bold
-Business impact
 Brand
 broadly
 Budget
 budgeting
 Build relationships
 Business continuity
+Business impact
 business priorities
 Business requirements
 Business stakeholders
@@ -82,14 +82,14 @@ CD
 challenge
 Change management
 character
-Cloud cost management
-Cloud-native architecture
 CI
 CI/CD
 Clean coding
 Clients
+Cloud cost management
 Cloud Native Computing Foundation
 cloud native infrastructure
+Cloud-native architecture
 coaching new leaders
 coaching success
 Code refactoring
@@ -101,8 +101,6 @@ Combine
 Commitment
 Committed
 Communicate
-Conflict resolution
-Consensus building
 Communication skills
 Company
 compensation
@@ -119,8 +117,10 @@ conditions
 conduct
 confidence
 Confident
+Conflict resolution
 connect
 Connected
+Consensus building
 Consistent
 Consulting
 consumer experiences
@@ -143,16 +143,16 @@ Cross-functional Collaboration
 Cross-functional team
 culture of excellence
 Customer experience
-customer service
 Customer requirements
+customer service
 Customer-facing
 customers
 daily
-Data-driven decision making
 Data Migration
 Data Privacy
 Database design
 database management
+Data-driven decision making
 Datasets
 debugging
 Decision making
@@ -170,8 +170,8 @@ Design patterns
 design reviews
 Designed
 detail-oriented
-Developer velocity
 develop
+Developer velocity
 Development Manager
 Development processes
 DevOps
@@ -203,9 +203,8 @@ employees
 employers
 empower
 enable
-End-to-end ownership
-Enterprise-scale
 End user
+End-to-end ownership
 engaged
 engagement score
 Engaging
@@ -222,13 +221,14 @@ English
 ensure
 Ensuring
 Enterprise Software
+Enterprise-scale
 Equal
 Equality
 Equity
 establish
-Event-driven architecture
 established
 even
+Event-driven architecture
 ever
 every
 evolve
@@ -259,12 +259,12 @@ Foster
 frictionless
 Friendly
 Front end
-Front-end
 Frontend
+Front-end
 Full stack
+Fullstack
 Full-stack Developer
 Full-stack Development
-Fullstack
 fun
 Functional programming
 functional testing
@@ -279,7 +279,6 @@ GitHub
 GitHub Actions
 global
 Global teams
-gRPC
 globally
 Goals
 Good
@@ -288,20 +287,21 @@ Grow
 growing
 Growth mindset
 growth-focused
+gRPC
 GTA
 Guidance
 guide
 HA
 Hands-on
 Hands-on leadership
-High-velocity teams
 Head of Engineering
 Healthcare
 help
 High availability
 High quality
-high-performing
 Highly motivated
+high-performing
+High-velocity teams
 Hiring
 HR Tech (Human Resources Technology)
 Human resources
@@ -317,14 +317,13 @@ Implementing
 Important
 Improve Efficiency
 improve team efficiency
-In-depth knowledge
 Incident management
 Incident response
 inclusion
 Inclusive
 increase
+In-depth knowledge
 individual
-Initiative
 Industry experience
 Industry standard
 Industry Terms:
@@ -333,11 +332,12 @@ influence
 influencer
 Influencing
 influential role
-info-tech
 Information security
 Information systems
 Information technology
 infotech
+info-tech
+Initiative
 Innovation
 Innovations
 Innovative
@@ -362,13 +362,12 @@ Jira
 junior
 Kanban
 Key metrics
-Large Language Models
-LLMs
 Key performance indicators
 know-how
 Knowledge sharing
 KPI
 KPIs
+Large Language Models
 lead critical initiatives
 Leadership experience
 Leadership skills
@@ -378,6 +377,7 @@ Learning
 Legacy Modernization
 Legal
 leverage
+LLMs
 local
 looking for
 made
@@ -389,29 +389,29 @@ Manage projects
 Management experience
 Management skills
 Managing
-Message brokers
 meaningful
 meet expectations
 mentor developers
 mentor direct reports
 Mentoring
 mentorship
+Message brokers
 Microsoft Azure
 minimum
-Mission-critical
 mission
+Mission-critical
 mission-driven
 Modeling
 Modern architecture
 MongoDB
-Multi-cloud
-Multi-tenant
-MySQL
 Monitor
 Monitoring
 more
 Motivate
+Multi-cloud
+Multi-tenant
 Multi-tenant Architecture
+MySQL
 need
 needs
 Negotiating
@@ -420,17 +420,17 @@ Networking
 never
 Node
 Node.js
-NoSQL
 North America
+NoSQL
 OAuth
-object-oriented design
-Object-Oriented Programming (OOP)
 objectively evaluate
 Objectives
+object-oriented design
+Object-Oriented Programming (OOP)
 OKRs
 On-call
-operate
 OpenTelemetry
+operate
 Operational excellence
 Operational issues
 Opportunities
@@ -464,13 +464,13 @@ Plan
 Platform engineering
 Platform Engineering
 Player-coach
-Post-incident reviews
 Policies
 policy
 Portfolio
 Position
 Positioning
 positive impact
+Post-incident reviews
 potential
 powerful
 Presentation
@@ -481,21 +481,19 @@ prioritize
 Proactive
 Proactively
 Problem solving
-Problem-solving
-Production-grade
-Prompt engineering
-Problem-solving skills
 problems
+Problem-solving
+Problem-solving skills
 Process improvement
 Process improvements
 Product design
 product growth
 Product management
 Product quality
+Production-grade
 productive relationships
 Professional
 Proficient
-Psychological safety
 Program Management
 Programming languages
 Project delivery
@@ -503,11 +501,13 @@ Project management
 Project management skills
 Project planning
 Project requirements
+Prompt engineering
 proposal
 prosperity
 protect
 Proven track record
 provide
+Psychological safety
 public speaking
 purpose
 pursuit
@@ -529,24 +529,22 @@ Related
 Relationship building
 Reliability
 remain
-Remote-first
 Remote team management
 Remote teams
 remote work
-Resilience
-Results-driven
-Retrospectives
+Remote-first
 Reporting
 Requirements Analysis
 research alternatives
+Resilience
 Resource Management
-ROI
-Runbooks
 Resourceful
 responsibility
 responsible
 results-driven
+Results-driven
 Retention
+Retrospectives
 reward
 rigor
 Risk assessment
@@ -554,7 +552,9 @@ Risk management
 risks
 Road mapping
 roadblocks
+ROI
 Role model
+Runbooks
 SaaS compliance
 SaaS development
 Safety
@@ -566,10 +566,6 @@ Scaling
 Scaling systems
 Scrum Master
 SDLC
-Servant leadership
-Service Level Agreements
-Service Level Indicators
-Service Level Objectives
 seamlessly onboard
 security protocols
 seek
@@ -577,12 +573,16 @@ segment
 self-motivated
 senior
 Sensitive
-SLAs
-SLIs
-SLOs
+Servant leadership
+Service Level Agreements
+Service Level Indicators
+Service Level Objectives
 share
 Shared
 significant shift
+SLAs
+SLIs
+SLOs
 small business
 Smart
 software architecture
@@ -605,8 +605,8 @@ Staff Development
 Staffing
 Stakeholder communication
 Stakeholder Management
-start-up spirit
 Startup
+start-up spirit
 Status
 Strategic direction
 Strategic initiatives
@@ -626,14 +626,13 @@ System Architecture
 System design
 System Integration
 System Testing
-Systems thinking
 Systems Development Life Cycle
 Systems engineering
+Systems thinking
 tactics
 take
 Talent acquisition
 Talent management
-Trade-off analysis
 Talent Management (implied by HCM)
 Talented
 TDD
@@ -661,7 +660,6 @@ technical roadmap
 Technical skills
 technical solutions
 technical vision
-Thought leadership
 Technology roadmap
 technology solution
 technology stack
@@ -674,6 +672,7 @@ them
 they
 things
 think
+Thought leadership
 thoughtful
 threat
 Throughout
@@ -686,6 +685,7 @@ Tooling
 Toronto
 towards
 track record
+Trade-off analysis
 tradeoffs
 Training
 transparency
@@ -700,20 +700,20 @@ unit testing
 up-to-date
 Usability
 Use Case
-User-centric
 User experience
 User stories
 User Story
+User-centric
 Users
 UX
-Velocity metrics
-Vision setting
 Value
 values
 various technical backgrounds
+Velocity metrics
 Vendors
 version control
 virtually
+Vision setting
 want
 Waterfall
 Web application
