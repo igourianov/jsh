@@ -35,7 +35,7 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 ### Development Configuration
 - `.gitignore` - Git ignore rules (excludes node_modules, generated PDF, IDE files, temp files)
 - `.claude/settings.local.json` - Claude Code permissions configuration (allows git operations, npm, test commands)
-- `.claude/skills/` - Claude Code skills for common workflows (commit, job-screen, tailor-resume, publish-pdf, publish-gist)
+- `.claude/skills/` - Claude Code skills for common workflows (commit, job-screen, tailor-resume, publish-pdf, publish-gist, cleanup-seo)
 
 ### Other
 - `profile pic/` - Profile images for LinkedIn/applications (various PNG formats)
@@ -57,6 +57,7 @@ Use `resume/resume.md` as the source of truth regarding candidate's experience
 - User says "**tailor resume**" → MUST use `Skill(tailor-resume)`
 - User says "**publish pdf**" or "**publish resume**" → MUST use `Skill(publish-pdf)`
 - User says "**publish gist**" → MUST use `Skill(publish-gist)`
+- User says "**cleanup seo**" or "**optimize seo**" → MUST use `Skill(cleanup-seo)`
 
 **Rationale:** Skills encapsulate full workflows with proper error handling, context gathering, and consistent output. Direct tool usage bypasses established processes and creates inconsistent behavior.
 

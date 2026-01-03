@@ -12,7 +12,8 @@
       "Skill(publish-gist)",
       "Skill(publish-pdf)",
       "Skill(tailor-resume)",
-      "Skill(company-research)"
+      "Skill(company-research)",
+      "Skill(cleanup-seo)"
     ],
     "deny": [],
     "ask": []

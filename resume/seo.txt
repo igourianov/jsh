@@ -29,10 +29,8 @@ aligned
 Alignment
 ambiguous
 ambitious
-Analytical skills
 Analytics
 Annual salary review
-API
 API design
 API security
 APIs
@@ -53,12 +51,11 @@ Azure DevOps
 B2B (Business-to-Business)
 B2B SaaS
 Back end
-Backend
 Back-end
+Backend
 balance
 benefits
 Best practices
-bias
 Bias for action
 bold
 Brand
@@ -78,12 +75,9 @@ candidate
 Capacity Planning
 career advancement
 Career Development
-CD
 challenge
 Change management
 character
-CI
-CI/CD
 Clean coding
 Clients
 Cloud cost management
@@ -104,7 +98,6 @@ Communicate
 Communication skills
 Company
 compensation
-competing priorities
 competition
 Competitive
 Complex architecture
@@ -126,9 +119,7 @@ Consulting
 consumer experiences
 Consumers
 continuous delivery
-continuous deployment
 Continuous improvement
-continuous integration
 Continuous Integration/Continuous Deployment (CI/CD)
 Contribute
 Cooperative
@@ -150,13 +141,11 @@ customers
 daily
 Data Migration
 Data Privacy
+Data-driven decision making
 Database design
 database management
-Data-driven decision making
 Datasets
 debugging
-Decision making
-Decision Making
 Decisions
 Dedicated
 Dedication
@@ -172,12 +161,9 @@ Designed
 detail-oriented
 develop
 Developer velocity
-Development Manager
 Development processes
-DevOps
 difficult
 digital risk
-direct reports
 directly
 Distributed systems
 distributed teams
@@ -187,7 +173,6 @@ Documentation
 Documenting
 Domain-Driven Development (DDD)
 drive
-driven
 driving
 Dynamic environment
 E2E testing
@@ -254,17 +239,16 @@ Flex
 flexibility
 Flexible
 Focus
-Focused
 Foster
 frictionless
 Friendly
 Front end
-Frontend
 Front-end
+Frontend
 Full stack
-Fullstack
 Full-stack Developer
 Full-stack Development
+Fullstack
 fun
 Functional programming
 functional testing
@@ -275,9 +259,7 @@ GCP
 Gender
 Generative AI
 Gitflow
-GitHub
 GitHub Actions
-global
 Global teams
 globally
 Goals
@@ -292,19 +274,17 @@ GTA
 Guidance
 guide
 HA
-Hands-on
 Hands-on leadership
 Head of Engineering
 Healthcare
 help
 High availability
 High quality
-Highly motivated
 high-performing
 High-velocity teams
+Highly motivated
 Hiring
 HR Tech (Human Resources Technology)
-Human resources
 hybrid
 idea generation
 ideal
@@ -317,12 +297,12 @@ Implementing
 Important
 Improve Efficiency
 improve team efficiency
+In-depth knowledge
 Incident management
 Incident response
 inclusion
 Inclusive
 increase
-In-depth knowledge
 individual
 Industry experience
 Industry standard
@@ -332,11 +312,11 @@ influence
 influencer
 Influencing
 influential role
+info-tech
 Information security
 Information systems
 Information technology
 infotech
-info-tech
 Initiative
 Innovation
 Innovations
@@ -387,7 +367,6 @@ make an impact
 Manage competing priorities
 Manage projects
 Management experience
-Management skills
 Managing
 meaningful
 meet expectations
@@ -398,7 +377,6 @@ mentorship
 Message brokers
 Microsoft Azure
 minimum
-mission
 Mission-critical
 mission-driven
 Modeling
@@ -409,7 +387,6 @@ Monitoring
 more
 Motivate
 Multi-cloud
-Multi-tenant
 Multi-tenant Architecture
 MySQL
 need
@@ -423,10 +400,9 @@ Node.js
 North America
 NoSQL
 OAuth
-objectively evaluate
-Objectives
 object-oriented design
 Object-Oriented Programming (OOP)
+objectively evaluate
 OKRs
 On-call
 OpenTelemetry
@@ -444,7 +420,6 @@ Outcomes
 outstanding
 Oversaw
 Oversee
-ownership
 pair programming
 Participation
 partner
@@ -456,13 +431,11 @@ People leadership
 People Management
 Performance metrics
 Performance optimization
-Performance Optimization
 persistence
 personal connection
 personal growth
 Plan
 Platform engineering
-Platform Engineering
 Player-coach
 Policies
 policy
@@ -481,9 +454,8 @@ prioritize
 Proactive
 Proactively
 Problem solving
-problems
-Problem-solving
 Problem-solving skills
+problems
 Process improvement
 Process improvements
 Product design
@@ -497,7 +469,6 @@ Proficient
 Program Management
 Programming languages
 Project delivery
-Project management
 Project management skills
 Project planning
 Project requirements
@@ -542,7 +513,6 @@ Resourceful
 responsibility
 responsible
 results-driven
-Results-driven
 Retention
 Retrospectives
 reward
@@ -557,15 +527,11 @@ Role model
 Runbooks
 SaaS compliance
 SaaS development
-Safety
 sales
 scalability
 Scalable architecture
-scale
-Scaling
 Scaling systems
 Scrum Master
-SDLC
 seamlessly onboard
 security protocols
 seek
@@ -587,12 +553,9 @@ small business
 Smart
 software architecture
 Software design
-software development
-Software development life cycle
 Software Development Life Cycle (SDLC)
 Software development lifecycle
 Software Development Manager
-software engineering
 Software engineering standards
 software engineers
 software lifecycle
@@ -605,8 +568,8 @@ Staff Development
 Staffing
 Stakeholder communication
 Stakeholder Management
-Startup
 start-up spirit
+Startup
 Status
 Strategic direction
 Strategic initiatives
@@ -632,10 +595,8 @@ Systems thinking
 tactics
 take
 Talent acquisition
-Talent management
 Talent Management (implied by HCM)
 Talented
-TDD
 Team Building
 team engagement
 Team Lead
@@ -684,7 +645,6 @@ Together
 Tooling
 Toronto
 towards
-track record
 Trade-off analysis
 tradeoffs
 Training
