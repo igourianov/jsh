@@ -19,70 +19,72 @@ const lines = content.split('\n').map(line => line.trim()).filter(t => t);
 
 console.log(`Original: ${lines.length} terms`);
 
-// Find and remove redundant terms
-const redundant = new Set();
-const kept = [];
+// Convert lines to objects with pre-computed lowercase for efficiency
+const terms = lines.map(line => ({
+  line: line,
+  lowerLine: line.toLowerCase(),
+  redundant: false
+}));
 
-for (let i = 0; i < lines.length; i++) {
-  const termA = lines[i];
-  const termALower = termA.toLowerCase();
+// Find and mark redundant terms
+for (let i = 0; i < terms.length; i++) {
+  const termA = terms[i];
 
-  let isRedundant = false;
+  // Skip if already marked redundant
+  if (termA.redundant) continue;
 
-  for (let j = 0; j < lines.length; j++) {
+  for (let j = 0; j < terms.length; j++) {
     if (i === j) continue;
 
-    const termB = lines[j];
-    const termBLower = termB.toLowerCase();
+    const termB = terms[j];
 
     // Skip if they're exactly the same (case-insensitive duplicate)
-    if (termALower === termBLower) {
+    if (termA.lowerLine === termB.lowerLine) {
       // Keep first occurrence only
       if (i > j) {
-        isRedundant = true;
+        termA.redundant = true;
         break;
       }
       continue;
     }
 
     // Check if termA is contained in termB
-    if (termBLower.includes(termALower)) {
+    if (termB.lowerLine.includes(termA.lowerLine)) {
       // Word boundary check for meaningful containment
       // This ensures "scale" in "Enterprise-scale" is caught
       // but prevents false positives
-      const escaped = termALower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const escaped = termA.lowerLine.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       const regex = new RegExp('(^|[\\s\\-/,(])' + escaped + '($|[\\s\\-/,)])', 'i');
 
-      if (regex.test(termBLower)) {
-        isRedundant = true;
-        redundant.add(termA);
+      if (regex.test(termB.lowerLine)) {
+        termA.redundant = true;
         break;
       }
     }
   }
-
-  if (!isRedundant) {
-    kept.push(termA);
-  }
 }
 
-// Sort alphabetically (case-insensitive)
-const optimized = kept.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+// Sort all terms alphabetically using pre-computed lowercase (case-insensitive)
+terms.sort((a, b) => a.lowerLine.localeCompare(b.lowerLine));
+
+// Separate kept and redundant terms (already sorted from terms.sort() above)
+const kept = terms.filter(t => !t.redundant).map(t => t.line);
+const redundant = terms.filter(t => t.redundant).map(t => t.line);
 
 // Create backup
 fs.copyFileSync(seoFilePath, backupPath);
 console.log(`Backup created: ${backupPath}`);
 
 // Write optimized file
-fs.writeFileSync(seoFilePath, optimized.join('\n') + '\n');
+fs.writeFileSync(seoFilePath, kept.join('\n') + '\n');
 
-console.log(`Optimized: ${optimized.length} terms`);
-console.log(`Removed: ${redundant.size} redundant terms`);
+console.log(`Optimized: ${kept.length} terms`);
+console.log(`Removed: ${redundant.length} redundant terms`);
 
-if (redundant.size > 0) {
+if (redundant.length > 0) {
   console.log('\nRemoved terms:');
-  const removedList = Array.from(redundant).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
-  removedList.forEach(term => console.log(`  - ${term}`));
+  // Redundant terms are already sorted from terms.sort() above
+  redundant.forEach(term => console.log(`  - ${term}`));
 }
 
 console.log(`\n✓ SEO file optimized: ${seoFilePath}`);
