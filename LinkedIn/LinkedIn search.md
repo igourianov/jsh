@@ -1,7 +1,7 @@
 # query
 ("software development" OR "Application Development" OR "Engineering")
 AND ("Manager" OR "mgr" OR "Director" OR "Leader")
-AND NOT ("Affirm" OR "Canonical" OR "CrowdStrike" OR "1Password" OR "Coinbase")
+AND NOT ("Affirm" OR "Canonical")
 
 # date range
 last 24 hours
