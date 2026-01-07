@@ -3,7 +3,7 @@
 **URL:** https://careers.veeva.com/job/f241073b-281f-47d7-ac0e-25a59d5c645d/engineering-manager-toronto-canada/ \
 **Company:** Veeva Systems \
 **Location:** Toronto, Canada (Remote available) \
-**Salary Range:** $120,000-$300,000 CAD base pay \
+**Salary Range:** $200,000 base + 25% equity bonus (per recruiter call Jan 7) \
 **Hands-on:** 40% | **Coding:** 10% \
 **Posted:** March 25, 2024 (updated October 30, 2024) \
 **Match:** 70%

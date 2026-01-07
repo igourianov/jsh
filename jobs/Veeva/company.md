@@ -116,6 +116,32 @@ The company serves Fortune 500 pharma companies globally, with 115 customers liv
 
 **Public Benefit Corp:** First public company to convert to PBC status. 1% charitable giving program. No non-compete agreements.
 
+## Candidate Fit
+
+Why Ilia is a strong candidate for this role:
+
+- **Deep engineering management experience:** 8 years leading teams (vs. 2+ required), with proven track record scaling from 1 team to 3 teams (30+ engineers) and developing 2 ICs into engineering managers
+- **Enterprise SaaS expertise:** Built products at Dayforce serving Fortune 500 customers - directly relevant to Veeva's enterprise life sciences customer base
+- **Strong OOP foundation:** 20+ years of object-oriented development in C# translates well to Java; both are statically-typed, class-based languages with similar patterns (Spring ≈ .NET Core, Hibernate ≈ Entity Framework)
+- **Agile delivery and process excellence:** Extensive Scrum experience, SDLC ownership, and track record improving engineering processes (trunk-based development, CI/CD, zero-downtime deployments)
+- **Team building in growth environment:** Experience hiring 20+ engineers, building remote-first teams, and establishing engineering culture - aligns with Toronto hub expansion goals
+
+**Primary gap:** No production Java experience (C#/.NET background). Would require ramp-up time on Java/Spring ecosystem, though core concepts transfer directly.
+
+## Why This Role Appeals to Ilia
+
+- **Remote-first from Fort Erie:** "Work Anywhere" policy allows fully remote work within timezone - no commute to Toronto required
+- **Team building opportunity:** Toronto hub is growing; chance to shape engineering culture and processes from early stage rather than inheriting legacy structures
+- **Mission-driven company:** Public Benefit Corp status and life sciences focus (helping therapies reach patients faster) offers more meaningful work than generic enterprise software
+- **Stable platform for growth:** $3B revenue, profitable, market leader - less startup risk while still having growth opportunities in expanding hub
+- **Enterprise SaaS continuity:** Similar scale and complexity to Dayforce (Fortune 500 customers, compliance requirements, multi-tenant architecture) - leverages existing domain expertise
+- **No non-compete:** Clean exit if needed - company policy explicitly prohibits non-compete agreements
+
+**Potential concerns for Ilia:**
+- Below-market compensation may not match Dayforce salary expectations
+- Java ramp-up required - learning curve before full productivity
+- Reports of increasing micromanagement could conflict with autonomy preferences
+
 ## Concerns for Engineering Managers
 
 - **Compensation below market:** Multiple sources cite below-average pay for engineering roles. May struggle to attract/retain top talent.
