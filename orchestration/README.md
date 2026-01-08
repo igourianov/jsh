@@ -1,169 +1,157 @@
 # Job Screen Orchestration Model
 
-This document describes the orchestration model for the job screening workflow with sequential agent execution.
+This document describes the orchestration model for the job screening workflow using modular skills with isolated execution contexts.
 
 ## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                 Custom Slash Command                         │
-│                  (main entry point)                          │
+│             Orchestrator Skill: screen-job                   │
+│                    (main entry point)                        │
+│                   .claude/skills/screen-job/                 │
 └─────────────────────┬───────────────────────────────────────┘
                       │
-                      ▼
-┌─────────────────────────────────────────────────────────────┐
-│              Step 1: Fetch Job Posting                       │
-│         (URL → WebFetch, file → Read)                        │
-└─────────────────────┬───────────────────────────────────────┘
+                      │ Invokes skills sequentially
                       │
-                      ▼
-┌─────────────────────────────────────────────────────────────┐
-│              Step 2: Job Parser Agent                        │
-│                                                              │
-│  - Extract title, company, salary                            │
-│  - Extract requirements                                      │
-│  - Generate structured metadata                              │
-└─────────────────────┬───────────────────────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────────────────────┐
-│              Step 3: Company Research Agent                  │
-│                                                              │
-│   SKIP if:                                                   │
-│   - jobs/{Company}/company.md exists, OR                     │
-│   - Company is unknown/agency (e.g., Jobgether)              │
-│                                                              │
-│   Input: Company metadata from parser output                 │
-│   Output: jobs/{Company}/company.md                          │
-│                                                              │
-│  - Web search for company info                               │
-│  - Company profile and culture                               │
-│  - Tech stack and engineering practices                      │
-└─────────────────────┬───────────────────────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────────────────────┐
-│              Step 4: Job Matching Agent                      │
-│                                                              │
-│   Inputs:                                                    │
-│   - Job parser output (metadata)                             │
-│   - jobs/{Company}/company.md                                │
-│   - resume/resume.md                                         │
-│                                                              │
-│   Outputs:                                                   │
-│   - Match percentage                                         │
-│   - Gaps analysis                                            │
-└─────────────────────┬───────────────────────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────────────────────┐
-│              Step 5: Write Job Output                        │
-│         jobs/{Company}/{Title}.md                            │
-└─────────────────────────────────────────────────────────────┘
+        ┌─────────────┼─────────────┐
+        │             │             │
+        ▼             ▼             ▼
+┌─────────────┐ ┌─────────────┐ ┌─────────────┐
+│ parse-job   │ │ research-   │ │ match-      │
+│ skill       │ │ company     │ │ resume      │
+│             │ │ skill       │ │ skill       │
+│ context:    │ │ context:    │ │ context:    │
+│ fork        │ │ fork        │ │ fork        │
+└─────────────┘ └─────────────┘ └─────────────┘
+      │               │               │
+      │               │               │
+   Isolated        Isolated        Isolated
+   subagent        subagent        subagent
+   context         context         context
+```
+
+### Modular Skills (Independent Invocation)
+
+Each skill can be invoked independently OR as part of the orchestrated workflow:
+
+```
+Orchestrated:                  Independent:
+/screen-job URL           →    /parse-job URL
+  ├─ parse-job (fork)          /research-company Company
+  ├─ research-company (fork)   /match-resume Company
+  └─ match-resume (fork)
 ```
 
 ## Key Design Decisions
 
 | Aspect | Recommendation |
 |--------|----------------|
-| **Execution** | Sequential - each agent runs after previous completes |
-| **Data flow** | Parser output provides company metadata for research agent |
+| **Architecture** | Skills with `context: fork` for modularity + isolation |
+| **Entry point** | Orchestrator skill (`screen-job`) invokes modular skills |
+| **Execution** | Sequential - each skill runs after previous completes |
+| **Isolation** | Each skill runs in forked subagent context (isolated from main conversation) |
+| **Modularity** | Skills can be invoked independently for re-running specific steps |
+| **Data flow** | Parser output provides company metadata for research skill |
 | **Company reuse** | Company research saved to `company.md` for reuse across multiple jobs |
-| **Agent types** | `general-purpose` for all agents |
-| **Error handling** | Orchestrator checks each agent output for failures before proceeding |
-| **State passing** | Agent outputs passed as prompt context or file references to downstream agents |
+| **Agent type** | `general-purpose` agent for all forked contexts |
+| **Error handling** | Orchestrator checks each skill output for failures before proceeding |
+| **State passing** | Skill outputs passed as prompt context or file references to downstream skills |
 
-## Agent Breakdown
+## Skills Breakdown
 
-| Agent | subagent_type | Tools Used | Prompt |
-|-------|--------------|------------|--------|
-| Job Parser | `general-purpose` | WebFetch, Read | [job-parser.md](prompts/job-parser.md) |
-| Company Research | `general-purpose` | WebSearch, WebFetch, Write | [company-research.md](prompts/company-research.md) |
-| Job Matcher | `general-purpose` | Read (resume + company.md) | [job-matcher.md](prompts/job-matcher.md) |
+| Skill | Location | context: fork | Prompt Template |
+|-------|----------|---------------|-----------------|
+| **parse-job** | `.claude/skills/parse-job/` | Yes | [job-parser.md](prompts/job-parser.md) |
+| **research-company** | `.claude/skills/research-company/` | Yes | [company-research.md](prompts/company-research.md) |
+| **match-resume** | `.claude/skills/match-resume/` | Yes | [job-matcher.md](prompts/job-matcher.md) |
+| **screen-job** | `.claude/skills/screen-job/` | No | Orchestrator (invokes above skills) |
+
+### Why `context: fork`?
+
+Skills with `context: fork`:
+- Run in isolated subagent context (no pollution of main conversation)
+- Start with fresh context (only skill instructions + parameters)
+- Provide same isolation as launching subagents explicitly
+- Can be invoked independently OR as part of orchestration
+- Simpler than thin shell subagent wrappers
 
 ---
 
-## Custom Slash Command Implementation
+## Orchestrator Skill Implementation
 
 ### Location
 
-`.claude/commands/job-screen.md`
+`.claude/skills/screen-job/SKILL.md`
 
 ### Frontmatter
 
 ```yaml
 ---
-allowed-tools: Task, TaskOutput, Read, Write, Glob, WebFetch
-description: Download, parse, and evaluate job postings against resume. Use when user says "screen job", "evaluate job", or provides a job posting URL for analysis.
+name: screen-job
+description: Complete job screening workflow (parse, research, match). Use when user says "screen job" or provides job posting URL.
 ---
 ```
 
 ### Arguments
 
-The user input is available via `$ARGUMENTS` placeholder in the prompt body.
+The user input is available via `$ARGUMENTS` placeholder in the skill prompt.
 
 **Example invocation:**
 ```
-/project:job-screen https://example.com/jobs/engineering-manager
+/screen-job https://example.com/jobs/engineering-manager
 ```
 
 ### Orchestration Steps
 
-#### Step 1: Fetch Job Posting
+The orchestrator skill invokes modular skills sequentially. Each skill runs in an isolated forked context.
 
-1. Parse `$ARGUMENTS` to determine if URL or file path
-2. Fetch content:
-   - URL: `WebFetch(url, prompt: "Extract the full job posting content")`
-   - File path: `Read(file_path)`
-3. Store raw job posting content for parser agent
+#### Step 1: Invoke parse-job Skill
 
-#### Step 2: Launch Job Parser Agent
+The orchestrator invokes the `parse-job` skill with the URL or file path from `$ARGUMENTS`.
 
-```
-Task(
-  subagent_type: "general-purpose",
-  description: "Parse job posting metadata",
-  prompt: <prompts/job-parser.md with raw_job_content>
-)
-```
+**parse-job skill** (runs in forked context):
+1. Determine input type and fetch job posting content:
+   - **URL**: `WebFetch(url, prompt: "Extract the full job posting content")`
+   - **File path**: `Read(file_path)` (typically `temp.txt` with pasted job description)
+2. Parse using [job-parser.md](prompts/job-parser.md) template
+3. Extract structured metadata (title, company, salary, requirements, etc.)
+4. Save initial job file to `jobs/{Company}/{Title}.md`
 
 **Output:** Structured job metadata including company name
 
-#### Step 3: Launch Company Research Agent (Conditional)
+#### Step 2: Invoke research-company Skill (Conditional)
 
 **Skip conditions:**
 1. `jobs/{Company}/company.md` already exists (unless user explicitly requests re-research)
 2. Company cannot be determined from job posting (e.g., posted by recruitment agency like Jobgether, Robert Half, etc.)
 
-Use company metadata extracted from parser output (name, product domain, any mentioned tech stack, etc.):
+The orchestrator extracts company metadata from parser output and invokes `research-company` skill.
 
-```
-Task(
-  subagent_type: "general-purpose",
-  description: "Research company background",
-  prompt: <prompts/company-research.md with company metadata from parser output>
-)
-```
+**research-company skill** (runs in forked context):
+1. Use company metadata (name, product domain, tech stack mentions)
+2. Execute web research using [company-research.md](prompts/company-research.md) template
+3. WebSearch and WebFetch for company information
+4. Write output to `jobs/{Company}/company.md`
 
-**Output:** Writes to `jobs/{Company}/company.md`
+**Output:** `jobs/{Company}/company.md` (company research file)
 
-#### Step 4: Launch Job Matcher Agent
+#### Step 3: Invoke match-resume Skill
 
-Read `resume/resume.md` and `jobs/{Company}/company.md`, then launch matcher agent:
+The orchestrator invokes `match-resume` skill with company name.
 
-```
-Task(
-  subagent_type: "general-purpose",
-  description: "Evaluate job match",
-  prompt: <prompts/job-matcher.md with job_metadata, company.md content, resume content>
-)
-```
+**match-resume skill** (runs in forked context):
+1. Read `jobs/{Company}/{Title}.md` (job metadata)
+2. Read `jobs/{Company}/company.md` (if exists)
+3. Read `resume/resume.md`
+4. Evaluate match using [job-matcher.md](prompts/job-matcher.md) template
+5. Calculate match percentage and identify gaps
+6. Append evaluation to `jobs/{Company}/{Title}.md`
 
-**Output:** Match percentage and gaps analysis
+**Output:** Match percentage and gaps analysis appended to job file
 
-#### Step 5: Save Job Output
+#### Step 4: Report Results
 
-Write job file to `jobs\{Company}\{Job Title}.md` with job metadata and match evaluation (company details are in separate `company.md`).
+Orchestrator reports completion status to user with match summary.
 
 ---
 
@@ -200,10 +188,6 @@ Write job file to `jobs\{Company}\{Job Title}.md` with job metadata and match ev
 ## Summary
 
 {role summary}
-
-## Company
-
-{company description from job posting - 200 words max}
 ```
 
 ### Company File: `jobs/{Company}/company.md`
@@ -252,17 +236,22 @@ Match: 72% | Company research skipped - actual employer not disclosed.
 
 ## Workflow Summary
 
-1. User initiates with `/project:job-screen {URL or file path}`
-2. Custom slash command parses input and fetches job posting content
-3. Job parser agent extracts structured metadata (title, company, posted by, requirements, etc.)
-4. Company research agent runs IF:
+1. User initiates with `/screen-job {URL or file path}`
+2. Orchestrator skill (`screen-job`) invokes modular skills sequentially
+3. **parse-job** skill (forked context) extracts structured metadata (title, company, posted by, requirements, etc.)
+4. **research-company** skill (forked context) runs IF:
    - Company is known (not `_` / agency posting), AND
    - `company.md` doesn't already exist
-5. Job matching agent reads parser output + `company.md` (if exists) + `resume.md`
-6. Job file saved to `jobs/{Company}/{Title}.md`
+5. **match-resume** skill (forked context) reads parser output + `company.md` (if exists) + `resume.md`
+6. Job file saved to `jobs/{Company}/{Title}.md` with evaluation appended
 
 **Output files:**
 - `jobs/{Company}/{Title}.md` - Job-specific metadata and match evaluation
 - `jobs/{Company}/company.md` - Reusable company research (created once per company, skipped for agency postings)
+
+**Independent skill invocation:**
+- `/parse-job {URL or file path}` - Parse job posting only (e.g., `/parse-job temp.txt`)
+- `/research-company {Company}` - Research company only
+- `/match-resume {Company}` - Evaluate match only (useful after resume updates)
 
 **Note:** Use `jobs/_/` folder for postings where company cannot be determined (agency postings).
