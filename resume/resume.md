@@ -22,7 +22,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 
 # Experience
 
-### Engineering Manager @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2017 \- Oct 2025
+### Engineering Manager @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Oct 2025
 
 *Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale SaaS Human Capital Management platform serving mid-market to Fortune 500 companies. Joined during early SaaS expansion into HRTech space and helped scale from emerging product to Gartner-recognized leader in Cloud HCM.
 
@@ -40,7 +40,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 *Technologies/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
 
 
-### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2017
+### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
 
 *Accomplishments:*
 * Led technical design and delivery of Ceridian's first Recruiting module, establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
