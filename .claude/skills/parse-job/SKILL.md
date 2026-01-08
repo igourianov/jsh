@@ -10,7 +10,11 @@ Parse job posting from: $ARGUMENTS
 ## Input Detection
 
 Determine if input is:
-- **URL** (starts with http/https): Use WebFetch to retrieve content
+- **Lever URL** (contains jobs.lever.co): Use lever-parser.js script with Bash
+  - First ensure dependencies are installed: `cd .claude/skills/parse-job && npm install`
+  - Then run: `node lever-parser.js <url>`
+  - Script extracts LD+JSON and outputs to stdout (user can modify script to transform JSON)
+- **Other URL** (starts with http/https): Use WebFetch to retrieve content
 - **File path** (e.g., temp.txt): Use Read to load content
 
 ## Parsing Instructions
