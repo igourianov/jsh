@@ -41,33 +41,41 @@ Identify specific missing qualifications:
 - Only flag when job EXPLICITLY requires something candidate lacks
 - Tech stack gaps ONLY when job states their actual stack (not "or"/"such as" lists)
 - Note domain gaps only when domain is explicitly stated
-- Ignore degree requirements if experience requirement is met
+- **DO NOT flag general degree requirements (Bachelor's in CS/Engineering) if candidate exceeds required years of experience** - 20 years experience >> 5 years requirement, degree becomes irrelevant
 - Flag Quebec-based companies for likely French requirement
 - Note location misalignment if relevant
 
-### 3. Match Analysis
+### 3. Strengths Analysis
 
-Brief analysis of fit considering strengths and gaps.
+Succinct bullet-point list (3-5 bullets) of candidate strengths that align with the role.
 
 ## Output
 
-Append evaluation to the job file `jobs/{Company}/{Job Title}.md`:
+Update the job file `jobs/{Company}/{Job Title}.md` by:
+
+1. **Update Match % in header**: Change `**Match:** TBD` to `**Match:** {X}%`
+
+2. **Insert evaluation section** after the header metadata (before "## Required Qualifications"):
 
 ```markdown
----
-
-## Match: {X}%
-
-### Gaps
-- {gap 1}
-- {gap 2}
+## Gaps
+- **{Category}:** {gap description}
+- **{Category}:** {gap description}
 - {or "No significant gaps identified"}
 
-### Match Analysis
-{brief analysis of fit}
+## Strengths
+- **{Category}:** {strength description}
+- **{Category}:** {strength description}
+- **{Category}:** {strength description}
 ```
 
+**Category examples:** Leadership experience, Tech stack, Product domain, Culture fit, Location, Education, Specific skill name, etc.
+
 **Notes:**
-- Update the **Match:** field in the job file header from "TBD" to actual percentage
+- DO NOT duplicate match percentage - only update it in the header
+- DO NOT append to the bottom of the file - merge into header section
+- Strengths should be 3-5 succinct bullet points highlighting what aligns well with the role
+- Focus on experience, skills, and achievements that match job requirements
+- **Avoid fluff words**: No "exceptional," "proven," "strong," "excellent," etc. - state facts and numbers only
 - Be honest but fair in gap assessment
 - Consider company research when evaluating culture fit
