@@ -13,7 +13,11 @@
       "Skill(publish-pdf)",
       "Skill(tailor-resume)",
       "Skill(company-research)",
-      "Skill(cleanup-seo)"
+      "Skill(cleanup-seo)",
+      "Skill(screen-job)",
+      "Skill(parse-job)",
+      "Skill(research-company)",
+      "Skill(match-resume)"
     ],
     "deny": [],
     "ask": []
