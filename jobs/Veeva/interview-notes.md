@@ -29,3 +29,10 @@
 ### Assessment
 
 Generic recruiting funnel - being pitched to teams rather than applying for specific role. Low confidence on progressing given lack of engagement in the call. Wait for follow-up by Jan 10.
+
+## Outcome
+
+**Status:** Rejected \
+**Date:** January 2026
+
+No follow-up received. Application did not progress to team interviews.
