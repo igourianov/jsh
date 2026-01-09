@@ -6,6 +6,8 @@ context: fork
 
 Execute complete job screening for: $ARGUMENTS
 
+**CRITICAL: YOU ARE THE ORCHESTRATOR.** You must complete ALL THREE steps (parse, research, match) in sequence. Do NOT stop or return to user after step 1 or step 2. Only provide final response after completing step 3.
+
 This orchestrator coordinates three modular skills in sequence, all running within a single forked context.
 
 ## Workflow
@@ -20,10 +22,12 @@ The skill will:
 - Save to `jobs/{Company}/{Title}.md`
 - Return company name
 
-**Wait for completion** and capture:
+**After parse-job completes,** capture the following from its output:
 - Company name
 - Job title
 - Job file path
+
+**THEN immediately proceed to Step 2.** Do not stop here.
 
 ### Step 2: Research Company (Conditional)
 
@@ -38,7 +42,7 @@ The skill will:
 - Extract culture, tech stack, team health
 - Save to `jobs/{Company}/company.md`
 
-**Wait for completion**.
+**After research-company completes (or is skipped), THEN immediately proceed to Step 3.** Do not stop here.
 
 ### Step 3: Match Resume
 
@@ -50,7 +54,9 @@ The skill will:
 - Identify gaps
 - Append evaluation to job file
 
-**Wait for completion** and capture match percentage.
+**After match-resume completes,** capture the match percentage from its output.
+
+**THEN provide final response to user** as specified below. This is the ONLY point where you respond.
 
 ## Response to User
 
@@ -88,6 +94,16 @@ Match: {X}% | Company research skipped - actual employer not disclosed.
 - If parse-job fails → report error, do not proceed
 - If research-company fails → note failure but proceed to matching
 - If match-resume fails → report error with job file location
+
+## Validation Checklist
+
+Before responding to user, confirm you have:
+- ✓ Completed Step 1 (parse-job)
+- ✓ Completed Step 2 (research-company, or explicitly skipped with reason)
+- ✓ Completed Step 3 (match-resume)
+- ✓ Captured match percentage from match-resume output
+
+If ANY step is incomplete, DO NOT respond to user yet. Continue the workflow.
 
 ## Notes
 
