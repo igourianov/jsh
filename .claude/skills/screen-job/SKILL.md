@@ -1,11 +1,12 @@
 ---
 name: screen-job
 description: Complete job screening workflow - parse, research, match. Use when user says "screen job" or provides job posting URL for analysis.
+context: fork
 ---
 
 Execute complete job screening for: $ARGUMENTS
 
-This orchestrator coordinates three modular skills in sequence, each running in isolated forked contexts.
+This orchestrator coordinates three modular skills in sequence, all running within a single forked context.
 
 ## Workflow
 
@@ -90,6 +91,6 @@ Match: {X}% | Company research skipped - actual employer not disclosed.
 
 ## Notes
 
-- Each skill runs in isolated forked context via `context: fork`
-- Skills can be invoked independently: `/parse-job`, `/research-company`, `/match-resume`
-- Orchestrator runs in main conversation to coordinate workflow
+- screen-job runs in forked context via `context: fork` for token efficiency
+- Sub-skills (parse-job, research-company, match-resume) run within screen-job's forked context
+- Skills can be invoked independently: `/parse-job`, `/research-company`, `/match-resume` (run in main context)

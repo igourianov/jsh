@@ -1,7 +1,6 @@
 ---
 name: match-resume
 description: Evaluate job fit against resume and identify gaps
-context: fork
 agent: general-purpose
 ---
 

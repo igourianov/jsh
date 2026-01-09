@@ -1,7 +1,6 @@
 ---
 name: research-company
 description: Research company background from Engineering Manager candidate perspective
-context: fork
 agent: general-purpose
 ---
 
