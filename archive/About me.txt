@@ -1,32 +1,29 @@
 About me
-	22 years of xp in IT
-	14 years as a developer: Web and SaaS, MS back end, REST APIs, various JS frameworks, service arch, public cloud (Azure, AKS)
-	8 as a manager
-	specialization and most recent title: Software Engineering Manager
+	background: many years as an engineer (desktop, web, SaaS)
+	leadership exp in Ceridian
+	joined with the expressed intention to grow my career
+	many years there, wore different hats
+	at different times led
+		3 different product eng teams (remote, crossfunctional, 8-12 people)
+		later years: platform eng team (5 senior devs), working on parts of monolith partition and migration to public cloud
 	full stack management
 		people (hiring, 1:1s, career dev, performance rev, compensation)
 		product (high level breakdown and estimations, feasibility, roadmap, steering direction)
-		processes (agile facilitation, quality control, branching model, KPIs...)
+		processes (agile and SLDC: facilitate & optimize)
 		technical (arch oversight, PR reviews, can code when needed)
-	led teams
-		3 product teams (HRTech: recruiting, performance, succession planning)
-		1 core arch team (building core services)
-		dev DBA team
-	laid off from Ceridian, did some traveling and recouping health
+	Ceridian had several layoffs since covid
 	keeping up with tech trends, interested in AI and cloud
 
 
 
 Why am I interested in this job
-	broad requirements match
+	broad requirements match:
 		tech background
 		leadership experience 
 		SaaS product domain
-	remote opportunity
-
-Looking to learn from you
-	engineering culture
-	medium term org goals
-	growth opportunities
-	interesting tech adoption
+	Looking to learn from you:
+		engineering culture
+		medium term org goals
+		growth opportunities
+		interesting tech adoption
 

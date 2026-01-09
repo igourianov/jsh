@@ -1,6 +1,7 @@
 ---
 name: commit
 description: Create git commits and push to remote. Use when user explicitly requests to commit changes, create a commit, or push code.
+context: fork
 ---
 
 # Commit Skill
