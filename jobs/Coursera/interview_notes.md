@@ -22,3 +22,15 @@
 
 **Notes**:
 - Has engineering background (promising)
+- Positive vibe, confidence medium
+- Team: 6 engineers (no QA), 50/50 product/platform work
+- No followup set
+
+**Green Flags**:
+- Knew Ozzie from Dayforce
+- Alignment on hands-on work for EMs
+- Lively conversation at the end
+
+**Red Flags**:
+- Cultural misalignment
+- Asked some very specific management scenario questions - I had to answer in generalities
