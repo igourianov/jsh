@@ -15,9 +15,9 @@ Gather changes from the repository, create a descriptive commit, and push to rem
 ### 1. Gather Changes
 
 Run these commands in parallel to understand what will be committed:
-- `git status` - See staged and unstaged changes
-- `git diff` - See unstaged changes
-- `git diff --staged` - See staged changes
+- !`git status` - See staged and unstaged changes. See if current branch is tracking a remote branch
+- !`git diff` - See unstaged changes
+- !`git diff --staged` - See staged changes
 
 **Skip `git log` checks** - Commit style is already established, no need to check recent commits.
 

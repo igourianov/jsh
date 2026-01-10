@@ -1,7 +1,6 @@
 ---
 name: screen-job
 description: Complete job screening workflow - parse, research, match. Use when user says "screen job" or provides job posting URL for analysis.
-context: fork
 ---
 
 Execute complete job screening for: $ARGUMENTS
@@ -107,6 +106,4 @@ If ANY step is incomplete, DO NOT respond to user yet. Continue the workflow.
 
 ## Notes
 
-- screen-job runs in forked context via `context: fork` for token efficiency
-- Sub-skills (parse-job, research-company, match-resume) run within screen-job's forked context
 - Skills can be invoked independently: `/parse-job`, `/research-company`, `/match-resume` (run in main context)
