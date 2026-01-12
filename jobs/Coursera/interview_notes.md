@@ -34,3 +34,10 @@
 **Red Flags**:
 - Cultural misalignment
 - Asked some very specific management scenario questions - I had to answer in generalities
+
+## Outcome
+
+**Status:** Rejected \
+**Date:** January 2026
+
+Received boilerplate rejection email with no feedback after hiring manager interview.
