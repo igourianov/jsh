@@ -97,3 +97,30 @@ Looks like you're still busy. Let me know if you want to reconnect at a later da
 
 Best,
 Ilia
+
+
+---------
+
+Stephanie Meldrum
+5:13 PM (0 minutes ago)
+to Ilia
+
+Hello,
+
+Yes we had an unexpected fire that we had to put out, so to speak.  So sorry!  Can you make Thursday at 1pm ET work?
+
+All the best,
+
+Stephanie
+
+---------
+
+Ilia Gourianov <ilia.gourianov@gmail.com>
+to Stephanie
+
+Hi Stephanie,
+
+Thursday at 1pm ET works. Talk then.
+
+Best,
+Ilia

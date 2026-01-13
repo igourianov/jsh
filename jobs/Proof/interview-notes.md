@@ -2,7 +2,7 @@
 
 ## Status
 
-Poor recruiter experience. Ignored initial availability submission. Required follow-up to schedule. Was late to call, asked to push 30 min, then no-showed the rescheduled time. Sent follow-up asking to reconnect. No response.
+Poor recruiter experience. Ignored initial availability submission. Required follow-up to schedule. Was late to call, asked to push 30 min, then no-showed the rescheduled time. Rescheduled to Thursday Jan 16 1pm ET.
 
 ## Recruiter
 
