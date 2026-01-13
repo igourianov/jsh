@@ -48,3 +48,52 @@ Following up on the interview scheduling. The timeslots I provided have passed, 
 
 Best regards,
 Ilia
+
+-------
+
+
+Ilia Gourianov <ilia.gourianov@gmail.com>
+3:20 PM (1 hour ago)
+to stephanie.meldrum
+
+Hi Stephanie,
+
+I'm waiting on the call.
+
+---------
+
+
+Stephanie Meldrum
+3:22 PM (1 hour ago)
+to Ilia
+
+Hi Ilia,
+
+My apologies, I am in a meeting that is running long. Can you make 1pm PT work?
+
+Steph
+
+---------
+
+
+Ilia Gourianov <ilia.gourianov@gmail.com>
+3:24 PM (1 hour ago)
+to Stephanie
+
+No problem, I will see you in half an hour.
+
+
+---------
+
+
+
+Ilia Gourianov <ilia.gourianov@gmail.com>
+4:15 PM (43 minutes ago)
+to Stephanie
+
+Hi Stephanie,
+
+Looks like you're still busy. Let me know if you want to reconnect at a later date.
+
+Best,
+Ilia
