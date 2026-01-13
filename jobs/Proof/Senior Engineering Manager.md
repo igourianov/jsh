@@ -14,6 +14,13 @@
 - **Startup experience** - Experience is at large enterprise (Ceridian), not Series A/B startup environment
 - **Offshore contractor management** - No explicit experience managing offshore/distributed contractors mentioned
 
+## Strengths
+
+- **Leadership experience:** 8 years management, 14 years engineering (vs 3+ and 7+ required)
+- **Remote teams:** Scaled 1 team to 3 distributed teams (30+ engineers), developed 2 ICs into managers
+- **Tech stack match:** SOA, microservices, Kafka, React/TypeScript, CI/CD
+- **Compliance:** GDPR, SOC 2, PII experience at enterprise scale
+
 ## Required Qualifications
 
 - 7+ years software engineering experience with 3+ years in leadership/management roles
