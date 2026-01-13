@@ -89,4 +89,4 @@ Save structured job file to `jobs/{Company}/{Full Original Title}.md` with forma
 **Notes:**
 - Use `jobs/_/{Title}.md` if company cannot be determined (agency postings)
 - Leave **Match:** as "TBD" - will be filled by match-resume skill
-- Return company name for orchestrator to pass to next skills
+- Output must include company name, job title, and job file path for orchestrator

@@ -5,11 +5,20 @@ description: Complete job screening workflow - parse, research, match. Use when 
 
 Execute complete job screening for: $ARGUMENTS
 
+**DO NOT SEND ANY MESSAGE TO THE USER UNTIL ALL 3 STEPS ARE COMPLETE.**
+
 **CRITICAL: YOU ARE THE ORCHESTRATOR.** You must complete ALL THREE steps (parse, research, match) in sequence. Do NOT stop or return to user after step 1 or step 2. Only provide final response after completing step 3.
 
 This orchestrator coordinates three modular skills in sequence, all running within a single forked context.
 
 ## Workflow
+
+**FIRST: Use TodoWrite to create these 3 tasks:**
+1. Parse job posting (pending)
+2. Research company (pending)
+3. Match resume (pending)
+
+Mark each task as in_progress when starting, and completed only when finished. This ensures you track all steps.
 
 ### Step 1: Parse Job Posting
 
@@ -56,6 +65,15 @@ The skill will:
 **After match-resume completes,** capture the match percentage from its output.
 
 **THEN provide final response to user** as specified below. This is the ONLY point where you respond.
+
+## ⚠️ STOP: BEFORE RESPONDING TO USER
+
+Have you completed ALL of these?
+- ✓ Step 1: Parse job (task marked completed)
+- ✓ Step 2: Research company OR explicitly skipped (task marked completed)
+- ✓ Step 3: Match resume (task marked completed)
+
+If ANY step is incomplete, DO NOT respond to user. Continue the workflow immediately.
 
 ## Response to User
 
