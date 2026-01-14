@@ -1,7 +1,6 @@
 ---
 name: parse-job
 description: Parse job posting from URL or file and extract structured metadata
-agent: general-purpose
 ---
 
 Parse job posting from: $ARGUMENTS

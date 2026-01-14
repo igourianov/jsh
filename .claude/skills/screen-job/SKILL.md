@@ -1,6 +1,7 @@
 ---
 name: screen-job
 description: Complete job screening workflow - parse, research, match. Use when user says "screen job" or provides job posting URL for analysis.
+context: fork
 ---
 
 Execute complete job screening for: $ARGUMENTS

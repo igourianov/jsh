@@ -1,7 +1,6 @@
 ---
 name: match-resume
 description: Evaluate job fit against resume and identify gaps
-agent: general-purpose
 ---
 
 Evaluate job match for company: $ARGUMENTS
