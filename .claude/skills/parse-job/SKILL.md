@@ -1,6 +1,7 @@
 ---
 name: parse-job
 description: Parse job posting from URL or file and extract structured metadata
+context: fork
 ---
 
 Parse job posting from: $ARGUMENTS
@@ -66,6 +67,10 @@ Save structured job file to `jobs/{Company}/{Full Original Title}.md` with forma
 **Posted:** {Date} \
 **Match:** TBD
 
+## Summary
+
+{role summary}
+
 ## Required Qualifications
 
 - {qualification 1}
@@ -75,14 +80,6 @@ Save structured job file to `jobs/{Company}/{Full Original Title}.md` with forma
 
 - {qualification 1}
 - {qualification 2}
-
-## Summary
-
-{role summary}
-
-## Company
-
-{company description from job posting - 200 words max}
 ```
 
 **Notes:**

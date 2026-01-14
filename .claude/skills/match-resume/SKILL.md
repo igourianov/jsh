@@ -1,16 +1,17 @@
 ---
 name: match-resume
 description: Evaluate job fit against resume and identify gaps
+context: fork
 ---
 
-Evaluate job match for company: $ARGUMENTS
+Evaluate job match for: $ARGUMENTS
 
 ## Input Files
 
 Read the following files:
 
-1. **Job metadata**: `jobs/{Company}/*.md` (find the job file in company folder)
-2. **Company research**: `jobs/{Company}/company.md` (if exists)
+1. **Job file**: Path provided in $ARGUMENTS (e.g., `jobs/{Company}/{Title}.md`)
+2. **Company research**: `jobs/{Company}/company.md` (if exists, derive company from job path)
 3. **Resume**: `resume/resume.md`
 
 ## Evaluation Approach
