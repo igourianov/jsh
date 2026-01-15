@@ -80,6 +80,10 @@ Save structured job file to `jobs/{Company}/{Full Original Title}.md` with forma
 
 - {qualification 1}
 - {qualification 2}
+
+## Company
+
+{Company description from job posting, 200 words max}
 ```
 
 **Notes:**

@@ -6,12 +6,6 @@ context: fork
 
 Research company: $ARGUMENTS
 
-## Skip Conditions
-
-**Before researching, check:**
-1. If company name is "_" (unknown/agency posting): Skip, respond "Skipped: unknown company"
-2. If `jobs/{Company}/company.md` already exists: Skip, respond "Skipped: research exists"
-
 ## Input
 
 Company name provided as $ARGUMENTS.
