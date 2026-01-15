@@ -36,7 +36,7 @@ Extract the following from the job posting:
 
 6. **Compensation** - Two fields:
    - Salary range (if stated, otherwise estimate with "(estimated)")
-   - Benefits: dental, vision, health, RRSP/401k match, stock options, equity, bonuses
+   - Benefits: dental, vision, health, RRSP/401k match, stock options, equity, bonuses, etc.
    - Exclude: unlimited PTO, education/fitness/home-office allowances
 
 7. **Posted Date** - Use exact date or current month/year
@@ -51,11 +51,11 @@ Extract the following from the job posting:
 
 11. **Optional Qualifications** - Nice-to-haves
 
-12. **Summary** - Succinct overview, no corporate fluff
+12. **Summary** - Succinct overview of the role only (not the company). No corporate fluff. 300 words max.
 
 13. **Responsibilities** - Key duties and expectations for the role
 
-14. **Company Description** - From job posting only (200 words max)
+14. **Company Description** - Succint overview of the company and the product (or type of projects) they develop. 300 words max.
 
 ## Step 3: Evaluate Match
 
