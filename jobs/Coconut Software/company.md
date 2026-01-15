@@ -1,110 +1,136 @@
 # Coconut Software
 
 **Company Type:** SaaS/Product
-**Stage:** Scale-up
-**Size:** ~190 employees
-**Remote Policy:** Remote-first with hybrid options (no mandate either way)
+**Stage:** Scale-up (Series B, $32.6M raised)
+**Size:** ~150-180 employees
+**Remote Policy:** Remote-friendly with "Cabana Days" flexible Fridays; offices in Saskatoon (HQ), Toronto, and Scottsdale AZ
 
 ## Quick Take
-- Strong vertical focus on financial services with 200+ bank and credit union customers including RBC, US Bank, Capital One, and Navy Federal
-- 4-day work week ("Cabana Days") with no compensation reduction is a significant perk
-- Leadership turnover concerns raised in recent Glassdoor reviews warrant attention
+- Strong female-led company with founder-CEO still at helm since 2011
+- Niche focus on financial institutions (banks, credit unions) provides stability but limits market
+- Recent employee reviews cite product-market fit challenges and layoffs/turnover
+- Engineering culture appears less mature (no public engineering blog, limited tech visibility)
 
 ## Company & Product
 
-Coconut Software is a customer engagement platform serving financial institutions, founded in 2007 in Saskatoon, Canada by Katherine Regnier (CEO) with a $5,000 loan. Originally called Coconut Calendar, the company pivoted from general appointment scheduling to focus exclusively on banks and credit unions.
+Coconut Software is a Customer Engagement Platform for financial institutions, founded in 2011 by Katherine Regnier in Saskatoon, Saskatchewan. The company started when Regnier, originally from a farming background, built scheduling software to solve her own frustration with booking appointments.
 
 **Core Products:**
-- **Appointment Scheduling** - Real-time calendar system for customer and member appointments
-- **Lobby Management** - Digital queuing system for walk-in traffic with wait time tracking
-- **Video Banking (Coconut Connect / Meet on Demand)** - Virtual appointments without software downloads
-- **Reporting & Analytics** - Performance metrics and conversion tracking
+- Appointment scheduling for banks and credit unions
+- Lobby/queue management with digital check-in
+- Video banking (Meet on Demand, launched October 2025)
+- Contact center integration
 
-**Key Clients:** Royal Bank of Canada, US Bank, Capital One, Vancity, Navy Federal Credit Union, M&T Bank, Arvest Bank, National Bank of Canada, Bell Canada, Rogers Communications
+**Customers:** 200+ financial institutions including Royal Bank of Canada, US Bank, Capital One, M&T Bank, Vancity, Navy Federal, and Arvest Bank. Recent partnerships include National Bank (June 2025) and LPL Financial (August 2024).
 
-**Business Impact:** Financial services appointments booked through the platform show 3x higher conversion rates than branch walk-ins and 13% reduction in no-shows.
-
-## Company History
-
-- **2007**: Founded by Katherine Regnier with $5,000 loan from a local Saskatchewan credit union
-- **2016**: First external funding ($700K seed) after bootstrapping for 5 years
-- **2017**: $4.2M Series A round
-- **2019**: $6.5M additional funding
-- **2021**: $28M CAD Series B funding round; strategic pivot to focus exclusively on financial services
-- **2024**: Joined AWS Partner Network; ranked on Deloitte Technology Fast 500
-- **2025**: Named to Globe and Mail's Top Growing Companies (#169); won Silver Stevie Award for HR Team of the Year; launched "Meet on Demand" product
-
-Total funding raised: ~$32-35M over 6 rounds from investors including Klass Capital, Google for Startups, Conexus Venture Capital, SaskWorks, Information Venture Partners, ScaleUp Ventures.
+**Revenue:** Approximately $15M annually (as of March 2025)
 
 ## Engineering Culture
 
-**Tech Stack:**
-- **Backend:** PHP 7+, Laravel framework, RESTful architecture
-- **Frontend:** React, JavaScript, CSS, HTML5
-- **Databases:** MariaDB, PostgreSQL
-- **Infrastructure:** AWS (Route53), Docker containerization
-- **Other:** Python, Java, Groovy, CakePHP (legacy)
+**Limited public engineering presence:**
+- No dedicated engineering blog
+- No visible GitHub organization or open source contributions
+- Company blog focuses on industry news, product announcements, and customer success rather than technical content
 
-**Engineering Practices:**
-- Modern solution stack with RESTful architecture
-- Docker-based deployments in AWS environment
-- No public engineering blog or open source presence identified
-- IT spend projected at $3.2M annually
+**Interview process:** 3-4 steps (HR > Engineering Manager > Technical > Leadership)
 
-**Equipment:** Apple equipment provided to employees
+**What we know:**
+- Cloud-based enterprise platform
+- AWS Partner Network member (joined April 2024)
+- Uses approximately 50+ technologies across their stack
+
+The lack of engineering blog or technical thought leadership suggests engineering may be more execution-focused than innovation-driven. This could mean less emphasis on engineering culture development, conference talks, or open source participation.
+
+## Tech Stack
+
+Based on available technology profiles:
+
+**Backend/Infrastructure:**
+- ASP.NET
+- AWS (Route53, likely broader AWS services given APN membership)
+- PHP (server-side scripting)
+
+**Frontend:**
+- HTML/CSS/JavaScript
+- Cloudflare CDN
+
+**Tools & Services:**
+- Asana (project management)
+- Google Analytics
+- GitHub (developer interest per Bombora data)
+
+**IT Spending:** ~$3.2M projected annually
+
+Note: Detailed architecture information is not publicly available. The tech stack appears enterprise-focused but not cutting-edge.
 
 ## Team Health
 
-**Glassdoor Rating:** 4.1/5 stars (85 reviews)
+**Glassdoor:** 4.1/5 stars (84 reviews)
+- 78% would recommend to a friend
 - 82% positive business outlook
-- Recognized as "Great Place to Work" and Waterstone corporate culture award recipient
-- Named "One of Canada's Most Admired Corporate Cultures for 2025"
+- Compensation rating: 3.8/5
 
-**Positive Themes:**
-- Good coworkers and friendly team environment
-- Growth opportunities and professional development
-- Transparency and openness in culture
-- Strong social activities (company meetings, team events)
-- 4-day work week highly valued
+**RepVue (Sales):** 3.7/5 for culture and leadership
 
-**Negative Themes:**
-- Leadership turnover ("new leader every year and they shake up teams")
-- Long hours during peak periods
-- Some concerns about career growth prospects
-- Mixed feedback on inclusivity
+**Positive themes:**
+- "Amazing culture and people"
+- "Down to earth CEO and upper management"
+- Transparent leadership, strong shared values
+- Work-life balance focus (Cabana Days)
+- Great Place to Work certified (2024)
+- Canada's Most Admired Corporate Cultures (2025)
 
-**Interview Process (Engineering):** 3-4 steps: HR screen > Engineering Manager > Technical interview > Leadership meeting. Candidates report good communication throughout.
+**Negative themes:**
+- "Terrible leadership - there's a new leader every year and they shake up teams"
+- "Talented engineers and other experienced employees are leaving"
+- "Not an inclusive environment. Morale is low across the board"
+- "No growth prospects"
+- "Still has deficiencies of a start-up (lack of process, systems)"
+- "Inconsistent communication and direction across departments"
+
+**Engineering-specific:**
+- Software engineers mention "good coworkers, lunch and pay" as pros
+- "Long hours at peak times" as con
+- Salary range: $118K-$150K CAD for engineers
 
 ## Business Stability
 
-**Funding Status:** Series B stage with ~$32-35M raised; well-funded with runway
+**Funding:**
+- Series B ($28M CAD) closed October 2021, led by Klass Capital
+- Total raised: $32.6M
+- No new funding rounds since 2021 (3+ years)
+- Investors: Klass Capital, Google for Startups, Conexus Venture Capital, SaskWorks
 
-**Recent Performance:**
-- 448% three-year revenue growth (2021 data)
-- Ranked #169 on Globe and Mail's Top Growing Companies 2025
-- Ranked on Deloitte Technology Fast 500 (2024)
-- Serving 200+ financial institutions across North America
-- Estimated revenue: ~$21M
+**Recent developments:**
+- Ranked #169 on Globe and Mail Canada's Top Growing Companies 2025
+- AWS Partner Network member (April 2024)
+- New Chief Revenue Officer hired (Brady Murphy, April 2024)
+- Won Silver Stevie Award 2025 for HR Team of the Year
 
-**Market Position:** Leading provider in the appointment scheduling/engagement space for financial institutions. Strategic vertical focus differentiates from horizontal competitors.
-
-**No layoffs** identified in recent news. Company appears to be on a growth trajectory with new product launches and partnership announcements in 2024-2025.
+**Concerns:**
+- 3+ years since last funding round suggests either profitability/sustainability OR difficulty raising
+- Employee reviews cite "product-market fit" challenges
+- Only 26.8% of sales reps hitting quota (per RepVue)
+- Reports of layoffs and turnover in 2024-2025
 
 ## Red Flags
 
-- **Leadership Instability:** Multiple Glassdoor reviews mention frequent leadership changes and team reorganizations. One review specifically notes "terrible leadership - there's a new leader every year and they shake up teams"
-- **Retention Concerns:** Questions raised about why "talented engineers and other experienced employees are leaving"
-- **Peak Period Workload:** Despite 4-day work week, some reviewers note long hours during busy periods
-- **Limited Engineering Visibility:** No public engineering blog, no identified open source contributions, limited visibility into engineering practices
+1. **Leadership turnover:** Reviews mention "new leader every year" and team shake-ups
+2. **Product-market fit concerns:** Multiple employee reviews cite this as a core issue affecting growth
+3. **Layoffs/attrition:** Reports of recent layoffs and talented employees leaving
+4. **Sales struggles:** Low quota attainment (26.8%) suggests go-to-market challenges
+5. **Engineering visibility:** No engineering blog, limited tech community presence could indicate engineering is not a strategic priority
+6. **Funding gap:** No new funding since 2021 - unclear if profitable or struggling to raise
+7. **Niche market:** Financial institutions only - limited growth vectors without expanding TAM
 
 ## Sources
-
 - [Coconut Software About Page](https://www.coconutsoftware.com/about/)
 - [Coconut Software Careers](https://www.coconutsoftware.com/careers/)
-- [Globe and Mail - Coconut Software Banking on Vertical Strategy](https://www.theglobeandmail.com/business/rob-magazine/top-growing-companies/article-coconut-software-is-banking-on-a-vertical-strategy/)
-- [Glassdoor Reviews](https://www.glassdoor.ca/Reviews/Coconut-Software-Reviews-E1821886.htm)
-- [PitchBook Company Profile](https://pitchbook.com/profiles/company/85068-10)
-- [Tracxn Company Profile](https://tracxn.com/d/companies/coconut-software/__of4vjt68jcFb7NXCZ80QFy_5X7HQMYXffOALRWSmY0I)
-- [ZoomInfo Company Overview](https://www.zoominfo.com/c/coconut-software-corp/346009758)
-- [RocketReach Tech Stack](https://rocketreach.co/coconut-software-technology-stack_b5e13ad1f42e6a77)
-- [Ladders Job Posting - Senior Developer](https://www.theladders.com/job/senior-developer-coconutsoftware-virtual-travel_80769568)
+- [Glassdoor Reviews](https://www.glassdoor.com/Reviews/Coconut-Software-Reviews-E1821886.htm)
+- [RepVue Reviews](https://www.repvue.com/companies/CoconutSoftware/reviews/coconutsoftware-review-7l5r1dsx)
+- [Crunchbase Profile](https://www.crunchbase.com/organization/coconut-calendar)
+- [PitchBook Profile](https://pitchbook.com/profiles/company/85068-10)
+- [BetaKit Series B Announcement](https://betakit.com/coconut-software-on-growth-trajectory-with-28-million-cad-series-b-funding/)
+- [LinkedIn Company Page](https://ca.linkedin.com/company/coconut-software)
+- [Katherine Regnier Bio](https://www.coconutsoftware.com/katherine-regnier/)
+- [ZoomInfo Profile](https://www.zoominfo.com/c/coconut-software-corp/346009758)
