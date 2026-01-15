@@ -34,7 +34,10 @@ Extract the following from the job posting:
 
 5. **Location** - Remote, Hybrid, Office
 
-6. **Salary Range** - Include if stated, otherwise estimate with "(estimated)"
+6. **Compensation** - Two fields:
+   - Salary range (if stated, otherwise estimate with "(estimated)")
+   - Benefits: dental, vision, health, RRSP/401k match, stock options, equity, bonuses
+   - Exclude: unlimited PTO, education/fitness/home-office allowances
 
 7. **Posted Date** - Use exact date or current month/year
 
@@ -50,7 +53,9 @@ Extract the following from the job posting:
 
 12. **Summary** - Succinct overview, no corporate fluff
 
-13. **Company Description** - From job posting only (200 words max)
+13. **Responsibilities** - Key duties and expectations for the role
+
+14. **Company Description** - From job posting only (200 words max)
 
 ## Step 3: Evaluate Match
 
@@ -75,14 +80,14 @@ Consider:
 - Only flag when job EXPLICITLY requires something candidate lacks
 - **Parse requirements by core statement, not examples**: When a requirement says "experience with X (A, B, C, etc.)" the core requirement is X, and the parenthetical list illustrates X. Example: "modern programming languages (PHP, Python, Go, etc.)" means any modern language qualifies - C# counts.
 - Tech stack gaps ONLY when job states their actual stack as a specific requirement, not example lists
-- Note domain gaps only when domain is explicitly stated
+- Note industry/domain gaps when candidate lacks experience in the company's industry (fintech, healthcare, etc.) even if not explicitly required
 - **DO NOT flag general degree requirements (Bachelor's in CS/Engineering) if candidate exceeds required years of experience** - 20 years experience >> 5 years requirement, degree becomes irrelevant
 - Flag Quebec-based companies for likely French requirement
-- Note location misalignment if relevant
+- Note location misalignment only if there is an actual mismatch (do not list location if candidate qualifies)
 
-### Identify Strengths
+### Identify Alignment
 
-Succinct bullet-point list (3-5 bullets) of candidate strengths that align with the role.
+Succinct bullet-point list (3-5 bullets) of how candidate experience aligns with the role.
 
 **Avoid fluff words**: No "exceptional," "proven," "strong," "excellent," etc. - state facts and numbers only.
 
@@ -94,10 +99,10 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 # {Normalized Title} | {Engineering domain} | {Product domain}
 
 **URL:** {original job URL, if present} \
-**Company:** {Company Name} \
+**Company:** {Company} \
 **Location:** {Location} \
-**Salary Range:** {Range or "Not specified" or "$X-$Y (estimated)"} \
-**Hands-on:** {Z}% | **Coding:** {X}% \
+**Compensation:** {Salary range} \
+**Benefits:** {Benefits} \
 **Posted:** {Date} \
 **Match:** {X}%
 
@@ -105,7 +110,7 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 - **{Category}:** {gap description}
 - {or "No significant gaps identified"}
 
-## Strengths
+## Alignment
 - **{Category}:** {strength description}
 - **{Category}:** {strength description}
 - **{Category}:** {strength description}
@@ -113,6 +118,10 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 ## Summary
 
 {role summary}
+
+- **Coding:** {X}%
+- {responsibility 1}
+- {responsibility 2}
 
 ## Required Qualifications
 
@@ -133,7 +142,7 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 **Notes:**
 - Use `jobs/_/{Title}.md` if company cannot be determined (agency postings)
-- Strengths should be 3-5 succinct bullet points highlighting what aligns well with the role
+- Alignment should be 3-5 succinct bullet points highlighting what aligns well with the role
 
 ## Response
 
