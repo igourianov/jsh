@@ -38,7 +38,8 @@ Identify specific missing qualifications:
 **IMPORTANT - Only flag actual gaps:**
 - NEVER flag unknown/unspecified information
 - Only flag when job EXPLICITLY requires something candidate lacks
-- Tech stack gaps ONLY when job states their actual stack (not "or"/"such as" lists)
+- **Parse requirements by core statement, not examples**: When a requirement says "experience with X (A, B, C, etc.)" the core requirement is X, and the parenthetical list illustrates X. Example: "modern programming languages (PHP, Python, Go, etc.)" means any modern language qualifies - C# counts.
+- Tech stack gaps ONLY when job states their actual stack as a specific requirement, not example lists
 - Note domain gaps only when domain is explicitly stated
 - **DO NOT flag general degree requirements (Bachelor's in CS/Engineering) if candidate exceeds required years of experience** - 20 years experience >> 5 years requirement, degree becomes irrelevant
 - Flag Quebec-based companies for likely French requirement

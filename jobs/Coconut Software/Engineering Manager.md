@@ -7,10 +7,9 @@
 **Salary Range:** $140,000 - $170,000 CAD \
 **Hands-on:** 30% | **Coding:** 0% \
 **Posted:** January 2026 \
-**Match:** 75%
+**Match:** 85%
 
 ## Gaps
-- **Tech background:** Job requires prior development experience in PHP, Python, Ruby, Go, Rust, Java, C++, or NodeJS. Candidate's background is .NET/C#, which is not in the listed languages. Mitigated by 0% coding requirement.
 - **Domain:** No direct fintech or financial services industry experience.
 
 ## Strengths
@@ -27,7 +26,7 @@ Engineering Manager role leading teams building intelligent branch solutions for
 ## Required Qualifications
 
 - 3+ years managing engineering teams with demonstrated success in coaching, mentoring, and performance management
-- Background as a Software Developer on commercial web applications using modern languages (PHP, Python, Ruby, Go, Rust, Java, C++, or NodeJS)
+- Background as a Software Developer on commercial web applications using modern languages (PHP, Python, Ruby, Go, Rust, Java, C++, NodeJS, etc.)
 - Experience collaborating with Product Managers and Designers
 - Strong stakeholder relationship management abilities
 - Alignment with company CHEERS values (Collaboration, Honesty, Empathy, Elevate, Resilience, Service Excellence)
