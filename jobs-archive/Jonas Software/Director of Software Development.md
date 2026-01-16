@@ -1,41 +1,42 @@
-# Director of Software Development | Product | Vertical Market Software
+# Director of Software Development | R&D/Product | Multi-vertical B2B SaaS
 
-**URL:** https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Director-of-Software-Development_R47499-1?source=LinkedIn \
-**Company:** Jonas Software (Constellation Software Inc.) \
-**Location:** Remote - Canada (Ontario) \
-**Salary Range:** $160,000 - $200,000 CAD (estimated) \
-**Hands-on:** 65% | **Coding:** 25% \
+**URL:** https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Director-of-Software-Development_R48506 \
+**Company:** Jonas Software \
+**Location:** Remote Canada (ON) \
+**Salary Range:** $130,000 - $150,000 CAD \
+**Hands-on:** 25% | **Coding:** 5% \
 **Posted:** January 2026 \
-**Match:** 88%
+**Match:** 82%
 
 ## Gaps
+- **AI/ML Implementation:** Job requires expertise in AI/ML implementation - candidate has AI tooling experience (Claude Code integration) but no production AI/ML feature development or model implementation
+- **Data Science Leadership:** Job mentions leading data science teams - candidate led product development and platform teams with QA/DevOps, but no data science team experience
 
-- Director title represents a step up from Engineering Manager - though candidate has developed managers and led 30+ engineers, formal Director-level scope may require adjustment
+## Strengths
+- **SaaS B2B Management Experience:** 10 years engineering management at Ceridian/Dayforce (enterprise HCM SaaS platform, Gartner Leaders Quadrant)
+- **Team Scaling:** Scaled from 1 team to 3 teams (30+ engineers), hired 20+ engineers, developed 2 ICs into engineering managers
+- **Cloud/DevOps Expertise:** Kubernetes (AKS), microservices, Azure, Docker, CI/CD, implemented zero-downtime deployments eliminating 12-hour maintenance windows
+- **Process Excellence:** Redesigned git branching reducing deployment failures by 90%, optimized database upgrades from 8 hours to 30 minutes
+- **Technical Hands-on Leadership:** System design, architecture decisions, code reviews, led platform modernization partitioning product monolith
 
 ## Required Qualifications
 
-- 10+ years software development experience; 3+ years in leadership role
-- Full-stack web application design experience
-- Frontend expertise: Angular, React, or Vue
-- Backend: Node.js, Python/FastAPI, .NET, or Java
-- Strong database modeling (SQL/NoSQL)
-- Proven Agile process implementation
-- CI/CD, Git, and deployment automation experience
-- Software quality practices and automated testing knowledge
-- Strong communication and leadership abilities
+- 10+ years software engineering experience
+- 5+ years leading R&D or Engineering teams in SaaS B2B environment
+- Proven success managing large-scale development initiatives
+- Expertise in modern cloud architectures, DevOps, and AI/ML implementation
+- Demonstrated ability aligning technology strategy with business goals
+- Track record scaling engineering teams and implementing process excellence
+- Strong executive communication and cross-functional leadership skills
 
 ## Optional Qualifications
 
-- AWS cloud services experience
-- Test automation frameworks (PyTest, Jest, Cypress, Selenium)
-- Docker and Kubernetes containerization knowledge
-- Observability tools (Grafana, Prometheus, Datadog)
-- SaaS or multi-tenant system experience
+- None specified
 
 ## Summary
 
-Hands-on Director role leading software development for one of Jonas Software's vertical market brands. Combines technical leadership (architecture decisions, contributing code, database design) with people management (mentoring, Agile implementation, team building). Emphasis on establishing engineering best practices, CI/CD improvements, and driving quality. Reports into product management partnership for roadmap alignment.
+Director role leading technical vision and innovation strategy for next-generation cloud software products. Translates business strategy into scalable technology platforms, partnering with Product, Sales, and Customer Service teams. Leads multiple engineering disciplines including software development, QA, DevOps, and data science. Responsible for delivering ≥90% of roadmap commitments while building and mentoring high-performing R&D teams.
 
 ## Company
 
-Jonas Software is part of Constellation Software Inc., a publicly traded Canadian company that acquires and operates vertical market software businesses. Jonas operates 65+ distinct brands serving 60,000+ customers across 30+ countries in verticals including country clubs, foodservice, construction, and fitness industries. With 2,000+ employees globally, Jonas follows a decentralized model where each brand operates somewhat independently. The company focuses on mission-critical enterprise management solutions for niche markets, typically acquiring established software businesses and investing in their long-term growth rather than building products from scratch.
+Jonas Software is a leading provider of enterprise management software solutions across 65+ brands serving hospitality, healthcare, construction, education, and other verticals. The company supports over 60,000 customers in 30+ countries with 6,000+ employees. It operates as a subsidiary of Constellation Software Inc., headquartered in Canada and listed on the TSX. Jonas Software delivers cloud-based SaaS solutions focused on reliability, efficiency, and customer outcomes across diverse industry segments.
