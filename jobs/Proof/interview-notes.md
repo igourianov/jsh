@@ -2,7 +2,23 @@
 
 ## Status
 
-Poor recruiter experience. Ignored initial availability submission. Required follow-up to schedule. Was late to call, asked to push 30 min, then no-showed the rescheduled time. Rescheduled to Thursday Jan 16 1pm ET.
+**Recruiter Screen Complete** - Moving to next round
+
+## Recruiter Screen Notes (Jan 15)
+
+- Very positive conversation with Stephanie
+- Confirmed salary range: $210-250k
+- She will recommend me for the next step
+- Concerned about number of interview steps (some seem redundant)
+- There will be a take-home technical task
+- Rapidly growing org with potential for personal growth
+- Concern: may be too startup-y
+- Job req is general for 2 potential roles; unclear which one I'll be invited for
+- Team primarily in North America; tech people all in Canada
+
+### Previous Scheduling Issues
+
+Poor initial recruiter experience. Ignored initial availability submission. Required follow-up to schedule. Was late to call, asked to push 30 min, then no-showed the rescheduled time.
 
 ## Recruiter
 
