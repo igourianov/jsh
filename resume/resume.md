@@ -7,13 +7,13 @@
 
 # Summary
 
-Engineering Leader with extensive experience building and scaling high-performing engineering teams in fast-growth SaaS environments. A former engineer who moved into management to amplify impact, with a proven track record of empowering teams to own product vision, technical strategy, and execution end-to-end. Passionate about rethinking engineering norms to unlock velocity and quality. AI tooling enthusiast.
+Engineering Leader who has spent a decade building and scaling engineering teams in enterprise SaaS, including fully distributed remote teams. Hands-on leader who stays engaged in system design, architecture decisions, and code reviews. Proven track record building high-performing teams that own product vision, technical strategy, and execution end-to-end. Drove operational improvements that removed friction and accelerated delivery. Helped scale Dayforce from emerging product to Gartner-recognized Cloud HCM leader.
 
 # Core Competencies
 
 * **Engineering team leadership:** hiring, scaling, performance management, developing managers from ICs, leading distributed remote teams
 * **Technical hands-on leadership:** system design, code reviews, architecture decisions, technical mentorship
-* **AI-augmented development:** Practical experience integrating AI tooling (Claude Code) into development workflows for personal projects, experimenting with AI-assisted system design, code generation and refactoring
+* **AI-augmented development:** Practical experience integrating AI tooling (Claude Code) into development workflows for personal projects
 * **Full-stack & cloud expertise:** .NET/C#, React/TypeScript, SQL, Kubernetes, microservices, AWS/Azure
 * **Product delivery:** roadmap planning, OKRs, SDLC ownership, CI/CD, DORA metrics, release management
 * **Agile & process:** Scrum facilitation, capacity planning, balancing feature/debt/ops work streams
@@ -27,7 +27,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 *Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale SaaS Human Capital Management platform serving mid-market to Fortune 500 companies. Joined during early SaaS expansion into HRTech space and helped scale from emerging product to Gartner-recognized leader in Cloud HCM.
 
 *Led following engineering teams/projects:*
-* Three cross-functional product development teams (8-12 devs+QA each) engaged in developing products as a part of the larger DayforceHCM product. Managing up to 25 engineers directly and through technical leads who reported to me.
+* Three cross-functional product development teams (8-12 devs+QA each) engaged in developing products as a part of the larger DayforceHCM product. Managing up to 25 engineers directly and via technical leads.
 * Platform development team consisting of 5 senior/staff engineers focused on modernizing and partitioning the product monolith and building core services.
 * Database administration team of 2 senior DBAs engaged in daily operations of thousands of dev/test SQL databases, dev solutions, provisioning and data compliance.
 
@@ -37,7 +37,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 * Redesigned git branching model to eliminate test environment deployment conflicts from other teams using trunk-based development, reducing deployment failures by 90%—enabling autonomous team deployments and faster iteration cycles.
 * Eliminated product downtime caused by core MDM service deployments by implementing zero-downtime deployment strategy, removing 12-hour maintenance windows that previously affected all customers globally.
 
-*Technologies/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
+*Skills/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
 
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
@@ -47,16 +47,7 @@ Engineering Leader with extensive experience building and scaling high-performin
 * Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts—accelerating feature releases and reducing developer blockers.
 * Optimized localization data architecture, enabling zero-downtime language updates—reducing internationalization time-to-market from weeks to hours.
 
-*Responsibilities:*
-* Led a team of software developers
-* Developed business modules for a multi-tenant Software-as-a-Service (SaaS) platform
-* Owned architectural decision making
-* Conducted code reviews and mentored other developers
-* Provided high level estimates for the Product managers
-* Executed investigation and prototyping for new technologies and tools
-* Optimized critical code paths for high throughput
-
-*Technologies/tools:* C\#, ASP.NET MVC, EntityFramework/Dapper, SQL Server, JavaScript/TypeScript, HTML/CSS, jQuery/Dojo/ReactJS/Angular, Git, REST APIs, NUnit/xUnit, Selenium 
+*Skills/tools:* C\#, ASP.NET MVC, EntityFramework/Dapper, SQL Server, JavaScript/TypeScript, HTML/CSS, jQuery/Dojo/ReactJS/Angular, Git, REST APIs, NUnit/xUnit, Selenium 
 
 ### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2005 \- Mar 2013
 
@@ -66,4 +57,4 @@ Digital agency providing marketing services for healthcare industry.
 * Designed, developed and managed releases for a number of marketing web applications
 * Contributed to the development of the in-house built CMS (Content Management System)
 
-*Technologies/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS 
+*Skills/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS 
