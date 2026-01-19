@@ -13,7 +13,7 @@ Engineering Leader who has spent a decade building and scaling engineering teams
 
 * **Engineering team leadership:** hiring, scaling, performance management, developing managers from ICs, leading distributed remote teams
 * **Technical hands-on leadership:** system design, code reviews, architecture decisions, technical mentorship
-* **AI-augmented development:** Practical experience integrating AI tooling (Claude Code) into development workflows for personal projects
+* **AI-augmented development:** Practical experience integrating AI tooling (Claude Code) into development workflows and daily use
 * **Full-stack & cloud expertise:** .NET/C#, React/TypeScript, SQL, Kubernetes, microservices, AWS/Azure
 * **Product delivery:** roadmap planning, OKRs, SDLC ownership, CI/CD, DORA metrics, release management
 * **Agile & process:** Scrum facilitation, capacity planning, balancing feature/debt/ops work streams
