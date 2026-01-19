@@ -1,39 +1,52 @@
-# Senior Engineering Manager | Brokerage Platform | Fintech/Crypto
+# Senior Engineering Manager | Product | Fintech/Crypto
 
+**URL:** https://jobs.ashbyhq.com/paxos/6d2f698e-7d17-49be-a731-73e203302615 \
 **Company:** Paxos \
-**Location:** Remote - Canada \
-**Salary Range:** $233,000-$275,000 USD ($310,000-$370,000 CAD estimated) \
-**Hands-on:** 30% | **Coding:** 0% \
-**Posted:** January 2026 \
-**Match:** 60%
+**Location:** Remote - United States/Canada \
+**Compensation:** $233,387 - $274,573 USD \
+**Benefits:** Equity, 25% performance bonus \
+**Posted:** March 2025 \
+**Match:** 65%
 
 ## Gaps
 
-- No crypto/blockchain/brokerage domain experience - role explicitly requires "deep expertise in developing high-performance brokerage solutions with tier-1 SLAs"
-- No tier-1 SLA (99.999% uptime) experience explicitly documented - role requires this specific reliability bar
-- No financial services regulatory experience - fintech compliance differs from HRtech (GDPR/SOC2)
-- Title gap: Candidate is Engineering Manager, role is Senior Engineering Manager (typically implies larger org scope, managing managers)
+- **Revenue Scale:** Role requires experience with products generating "hundreds of millions in revenue/ARR" - candidate's products contributed to enterprise success but no specific revenue figures stated
+- **Financial Services Domain:** No direct fintech/crypto/brokerage experience - candidate's background is in HCM/HRTech
+- **Brokerage Systems:** Role requires "deep expertise in high-performance brokerage solutions with 99.999% uptime SLAs" - candidate has high-availability experience but not specifically in brokerage/trading systems
+- **Location:** Candidate is in Canada; role lists "Remote - United States" as primary with Canada as secondary
 
-## Required Qualifications
+## Alignment
 
-- 10+ years software engineering experience
-- 5+ years in management role leading global, distributed, multi-layered engineering organizations
-- Built and delivered enterprise-grade B2B/B2C products driving hundreds of millions in revenue/ARR
-- Deep expertise in high-performance, highly available brokerage solutions with tier-1 SLAs (99.999% uptime)
-- Track record of developing engineering managers, staff engineers, and senior engineers
-- Cross-functional collaboration with Product, Growth, Customer Success, Business Development
-- Problem-solving in high-stakes, mission-critical environments
-- Strategic and business acumen in financial services regulatory landscape
-- Managing multiple strategic initiatives simultaneously at scale
-
-## Optional Qualifications
-
-- None explicitly listed
+- **Leadership Scale:** 10 years management experience, scaled from 1 to 3 teams (30+ engineers), developed 2 ICs into engineering managers
+- **Enterprise B2B SaaS:** Led product teams serving Fortune 500 customers on global enterprise platform
+- **High-Availability Systems:** Implemented zero-downtime deployments, eliminated maintenance windows affecting global customers
+- **Distributed Teams:** Led fully distributed remote teams post-COVID while maintaining velocity
 
 ## Summary
 
-Senior EM role leading multiple engineering teams for the Brokerage business unit at Paxos. This is a senior people leadership position with P&L-adjacent accountability (unit generates tens of millions in revenue, hundreds of millions in daily trading volume). Focus is on scaling teams, cross-functional partnership, engineering excellence standards, and resource/budget planning. No coding expected - role is strategic leadership with technical fluency to guide architecture decisions and mentor senior ICs. High bar for reliability (99.999% uptime) and financial services domain expertise.
+Senior Engineering Manager leading the Brokerage team at Paxos, responsible for crypto trading and custody platform serving major fintechs and enterprises. Role involves leading multiple engineering teams for a business unit generating tens of millions in annual revenue. Focus on building scalable, highly-available brokerage infrastructure.
+
+- **Coding:** 0%
+- Lead and mentor multiple engineering teams
+- Oversee design, development, and deployment of brokerage platform
+- Drive cross-functional collaboration with Product, Growth, and Customer Success
+- Manage resource planning, budgets, and project prioritization
+- Recruit and onboard engineering talent
+
+## Required Qualifications
+
+- 10+ years software engineering experience; 5+ years in management roles
+- Experience leading global, distributed, multi-layered engineering organizations
+- Demonstrated success building enterprise B2B/B2C products generating hundreds of millions in revenue/ARR
+- Deep expertise in high-performance brokerage solutions with 99.999% uptime SLAs
+- Strong track record developing and scaling engineering talent
+- Ability to navigate financial services' strategic, regulatory, and business landscape
+- Proven capability managing multiple strategic initiatives simultaneously
+
+## Optional Qualifications
+
+- None specified
 
 ## Company
 
-Paxos is a blockchain infrastructure company enabling instant movement of financial assets. Founded over a decade ago, they build tokenization, custody, trading, and settlement infrastructure for major financial institutions including Mastercard, Visa, Robinhood, and PayPal. The Brokerage team specifically enables partners to offer crypto trading and custody through a regulated, scalable platform - allowing fintechs and enterprises to integrate crypto services without building their own infrastructure. Paxos operates as a regulated financial institution, subject to financial services compliance requirements. The company is headquartered in the US with remote positions available in Canada.
+Paxos is a blockchain infrastructure company that enables financial institutions to tokenize, custody, trade and settle digital assets. Their clients include major players like Mastercard, Visa, Robinhood, and PayPal. The Brokerage team specifically provides crypto trading and custody through a fully regulated, scalable platform for fintechs and enterprises seeking to integrate cryptocurrency capabilities without building their own infrastructure.
