@@ -7,7 +7,7 @@
 
 # Summary
 
-Engineering Leader who has spent a decade building and scaling engineering teams in enterprise SaaS, including fully distributed remote teams. Hands-on leader who stays engaged in system design, architecture decisions, and code reviews. Proven track record building high-performing teams that own product vision, technical strategy, and execution end-to-end. Drove operational improvements that removed friction and accelerated delivery. Helped scale Dayforce from emerging product to Gartner-recognized Cloud HCM leader.
+Engineering Leader with proven experience building and scaling high-performing remote teams in enterprise SaaS that own product vision, technical strategy, and execution end-to-end. Technical manager who stays engaged in system design, architecture decisions, and code reviews. Drove operational improvements that removed friction and accelerated delivery. Helped scale Dayforce from emerging product to Gartner-recognized Cloud HCM leader.
 
 # Core Competencies
 
