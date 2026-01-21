@@ -25,8 +25,8 @@ Extract the following from the job posting:
    - Normalized title (for heading)
 
 2. **Company** - Two fields:
-   - Company name (actual employer)
-   - Posted by: "Direct" or agency name
+   - Company name: actual employer. Keep empty if posted by agency on behalf of an unknown employer
+   - Posted by: agency name. Keep empty if posted directly by the hiring company.
 
 3. **Engineering Domain** - Product, DevOps/SRE, Platform, etc.
 
