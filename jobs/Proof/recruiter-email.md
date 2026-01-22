@@ -124,3 +124,43 @@ Thursday at 1pm ET works. Talk then.
 
 Best,
 Ilia
+
+
+------
+
+
+Stephanie Meldrum
+2:16 PM (1 hour ago)
+to ilia.gourianov
+
+Hi Ilia,
+
+We are so excited to have you move forward in the interview process with Proof.  For the next interview it will be over virtual over Google Meets and you will be meeting with one of senior engineers and one of our product managers.  The interview will be about one hour long.
+
+Please select from the calendar included some dates and times that align with your availability.  After I have received your response, I will send you a confirmation email that will include a calendar invite along with details for the Google Meets interview. 
+
+Enter your availability now >
+
+ 
+
+All the best,
+
+Stephanie Meldrum
+
+Proof
+
+
+------
+
+
+Ilia Gourianov <ilia.gourianov@gmail.com>
+to Stephanie
+
+Hi Stephanie,
+
+I've booked a few time slots for next week through the calendar link.
+
+Excited to meet with the team!
+
+Best,
+Ilia

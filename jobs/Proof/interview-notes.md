@@ -2,7 +2,13 @@
 
 ## Status
 
-**Recruiter Screen Complete** - Moving to next round
+**Tech Screen Scheduled** - Second round with developer and product owner
+
+## Tech Screen (Upcoming)
+
+- 1 hour virtual interview via Google Meet
+- Meeting with a senior engineer and a product manager
+- Odd combination for a tech screen - unclear what the actual discussion will cover
 
 ## Recruiter Screen Notes (Jan 15)
 
