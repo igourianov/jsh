@@ -1,55 +1,49 @@
-# Senior Engineering Manager at SandboxAQ
+# Senior Engineering Manager | Platform/SDK | AI/Enterprise
 
-**Company:** SandboxAQ
+**URL:** https://www.sandboxaq.com/careers-list?ashby_jid=c8cde36b-d4a8-4fcd-a26f-2030b73d9936 \
+**Company:** SandboxAQ \
+**Location:** Remote (US/Canada) \
+**Compensation:** $206,559-$326,000/year (tier-based) \
+**Benefits:** Performance bonuses, equity participation \
+**Posted:** January 2025 \
+**Match:** 55%
 
-**Location:** United States and Canada (Remote)
+## Gaps
+- **Tech Stack:** Role requires Kotlin, Golang, Rust proficiency; candidate has .NET/C#, JavaScript/TypeScript stack
+- **SDK Development:** Role requires multi-language SDK development experience; candidate's experience is in product/platform development
+- **Enterprise Security:** Role requires OAuth, SAML, API security expertise; not demonstrated in resume
+- **Domain:** AI/quantitative computing is different from HCM/SaaS domain
 
-**Employment Type:** Full-Time
+## Alignment
+- **Leadership Scale:** 8+ years managing engineering teams (30+ engineers), developing ICs into managers
+- **Platform Experience:** Led platform team focused on service architecture, modernization, and core services
+- **Remote Teams:** Transitioned to and maintained high-performing fully distributed remote teams
+- **Enterprise SaaS:** Experience with enterprise-scale systems serving Fortune 500 customers
 
-**Salary Range:** $233,000 - $326,000 USD annually
+## Summary
 
-**Job URL:** https://jobs.ashbyhq.com/sandboxaq/c8cde36b-d4a8-4fcd-a26f-2030b73d9936
+Lead and expand the SDK and Integrations team building production-grade developer tools for enterprise integration. Hands-on technical leadership role combining people management with architecture and code review involvement.
 
----
-
-## Job Description
-
-SandboxAQ seeks a hands-on engineering manager for their Cybersecurity Group to lead SDK and enterprise integration solutions for AQtive Guard, their "groundbreaking solution for modern non-human identity and cryptography management."
-
----
-
-## Key Responsibilities
-
-- Lead and develop the SDK and Integrations team while remaining actively involved in code reviews and architecture decisions
-- Design SDKs enabling seamless integration between the cybersecurity platform and third-party enterprise tools
-- Own developer experience comprehensively: API design, documentation, and deployment guides
-- Gather requirements from enterprise customers to inform SDK roadmap priorities
-- Establish technical standards for SDK architecture, versioning, backward compatibility, and multi-platform support
-- Mentor engineers on technical and professional growth while emphasizing quality practices
-- Collaborate with developer relations and customer success teams for continuous improvement
-- Build strong relationships with key enterprise clients as their technical advocate
-
----
+- **Coding:** 30-40%
+- Design and ship production-grade SDKs and APIs across multiple languages
+- Own complete developer experience including API design and documentation
+- Collaborate with customers and partners on roadmap prioritization
+- Establish engineering best practices for testing, versioning, and CI/CD pipelines
 
 ## Required Qualifications
 
-- 8+ years in software engineering with team leadership and hands-on technical involvement
-- Proven experience building production services in Rust, Golang, Python, C++, Kotlin, or Java
-- Track record shipping production SDKs or enterprise integration solutions across multiple languages
-- Knowledge of streaming concepts (codecs, protocols, latency optimization)
-- Experience with enterprise authentication (OAuth, SAML), API security, and compliance
-- Strong technical leadership capabilities and people management skills
+- 8+ years of software engineering with hands-on technical leadership experience
+- Multi-language proficiency shipping production services (Kotlin, Java, Go, Rust, Python)
+- SDK or enterprise integration solution development across multiple languages
+- Technical leadership with architectural decision-making ability
+- Enterprise security expertise including OAuth, SAML, API security, and compliance
 
----
+## Optional Qualifications
 
-## Tech Stack
+- Streaming domain knowledge (codecs, protocols, latency optimization)
+- Developer advocacy experience balancing technical excellence with business goals
+- Cross-language SDK support experience (Go, Rust, Python with Java/Kotlin foundation)
 
-**Languages:** Kotlin, Golang, Rust
-**Infrastructure:** AWS, Kubernetes
-**Tools:** GitHub, CI/CD pipelines, DataDog monitoring
+## Company
 
----
-
-## Additional Notes
-
-The role offers discretionary bonuses and equity. SandboxAQ emphasizes equal opportunity employment and welcomes diverse candidates.
+SandboxAQ is a high-growth AI company spun out from Alphabet in 2022, developing Large Quantitative Models (LQMs) for life sciences, financial services, navigation, cybersecurity, and other sectors. The company focuses on combining AI with quantitative techniques to solve complex problems. Tech stack includes Kotlin, Golang, Rust with AWS/Kubernetes infrastructure.
