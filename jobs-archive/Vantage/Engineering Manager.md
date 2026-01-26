@@ -1,63 +1,59 @@
-# Engineering Manager
+# Engineering Manager | Platform/Backend | Retail Media
 
-**Company:** Vantage
-**Location:** Toronto, Ontario, Canada (Remote-First)
-**Job URL:** https://jobs.ashbyhq.com/vantageanalytics/8d0ff96f-7e63-4d15-981e-9324ff2b48ac
+**URL:** https://jobs.ashbyhq.com/vantageanalytics/8d0ff96f-7e63-4d15-981e-9324ff2b48ac \
+**Company:** Vantage \
+**Location:** Remote (Toronto, Canada) \
+**Compensation:** CAD $170,000 - $210,000 \
+**Benefits:** Home office support, annual retreats \
+**Posted:** January 2026 \
+**Match:** 75%
 
----
+## Gaps
+- **Tech Stack:** No Python/Django experience; candidate's background is .NET/C#
+- **Data Engineering:** Limited ETL/ELT and Snowflake data warehouse experience
+- **Cloud Platform:** Primary experience is Azure-adjacent (AKS), but role emphasizes broader Azure/AWS platform infrastructure ownership
+- **Industry:** No retail media or ad-tech domain experience
 
-## About the Role
+## Alignment
+- **Leadership Scale:** 8+ years managing engineering teams, scaled to 30+ engineers across 3 teams - exceeds 3-5 year requirement
+- **Backend Systems:** 10+ years shipping enterprise SaaS backend systems at scale
+- **Observability/SRE:** Experience with Prometheus, Grafana, CI/CD pipelines, and zero-downtime deployments
+- **B2B Enterprise:** Track record delivering B2B SaaS products serving Fortune 500 customers
+- **Hiring/Mentoring:** Developed 2 ICs into engineering managers, hired 20+ engineers
 
-Lead a high-impact engineering team overseeing the backend platform and data pipelines. The position involves improving system reliability through SLOs, accelerating development cycles, and scaling cloud operations. You'll coach engineers across all levels, manage sprints, and collaborate closely with the Site Reliability Engineering team.
+## Summary
 
-**Technology Stack:** Azure (primary), AWS, GCP, Python, Django, Celery, RabbitMQ, Redis, MySQL, Postgres, Snowflake, React TypeScript
+Lead a backend engineering team responsible for platform infrastructure and data pipelines at a retail media orchestration platform serving enterprise retailers like The Home Depot. Role focuses on system reliability through SLOs, development velocity, and scaling cloud operations while coaching engineers.
 
-## Minimum Requirements
+- **Coding:** 10%
+- Hire, mentor, and develop mixed-level engineering teams
+- Define SLOs/error budgets and manage resilience practices
+- Own SDLC, CI/CD governance, and feedback loops
+- Manage ETL orchestration and data quality
+- Control cloud budgets and cost governance
+- Lead on-call practices and post-incident reviews
 
-- 3-5+ years managing software engineering teams
-- 7-10+ years total backend systems engineering experience
-- Proven platform and data pipeline leadership serving multiple teams
-- Strong Azure or AWS cloud fundamentals
+## Required Qualifications
+
+- 3-5+ years managing engineering teams
+- 7-10+ years shipping/operating backend systems
+- Platform and data pipeline leadership experience
+- Strong cloud fundamentals (Azure or AWS)
 - B2B API design and integration expertise
-- Experience leading observability and on-call initiatives (SLOs, SLIs, OpenTelemetry, logging, alerting, post-incident reviews)
-- Security-minded background (least privilege, key rotation, vulnerability management, data protection)
-- Track record hiring, mentoring, and performance-managing engineers
-- Strong written and verbal communication; comfortable cross-functional collaboration
+- Observability/on-call leadership (SLOs, SLIs, OpenTelemetry, incident reviews)
+- Security-minded background (privilege management, key rotation, vulnerability management)
+- Hiring/mentoring/performance management track record
+- Strong communication and cross-functional collaboration skills
 
-## Preferred Qualifications
+## Optional Qualifications
 
-- Celery, RabbitMQ, Redis, MySQL, Postgres, Django experience
-- AWS EMR and S3 expertise
-- ETL/ELT data pipeline design and Snowflake proficiency
+- Celery, RabbitMQ, Redis, MySQL, Postgres, Django proficiency
+- AWS EMR and S3 experience
+- ETL/ELT design and operation with Snowflake
 - Snowflake performance tuning and cost governance
-- SRE management experience
-- CI/CD and DevOps background
+- SRE team management
+- CI/CD and DevOps expertise
 
-## Key Responsibilities
+## Company
 
-- **People Leadership:** Hire, mentor, and develop mixed-level teams with clear goals and feedback
-- **Software Delivery:** Ensure predictable delivery with quality gates, rollback plans, and cross-team coordination
-- **Reliability:** Define SLOs, error budgets, and resilience governance; hands-on incident response when needed
-- **Developer Velocity:** Own SDLC governance, reduce feedback loops, streamline releases, minimize engineering toil
-- **Data Platform:** Manage ETL orchestration, data quality controls, recovery playbooks
-- **Cloud Cost:** Own budgets and cost governance; drive cost-aware design without performance degradation
-- **Platform Architecture:** Set service standards, manage technical debt, lead design reviews, direct performance tuning
-- **Observability:** Establish SLI standards, tracing, logging, alerting, dashboards, and runbooks
-- **Incident Response:** Lead on-call practices and incident command; conduct preventive post-incident reviews
-- **SRE Partnership:** Collaborate on reliability practices and tooling; help define future organizational structure
-
-## About Vantage
-
-"The first unified platform purpose-built for retail media orchestration" enabling enterprise retailers to manage onsite, offsite, and in-store advertising. Trusted by major retailers including The Home Depot. Global presence in North America and Asia-Pacific.
-
-## Culture & Work Environment
-
-Remote-first organization headquartered in Toronto. "Team members can thrive from wherever they do their best work" with remote-friendly setup, home office support, and annual company retreats.
-
-## Commitment to Diversity
-
-Equal opportunity employer embracing all individuals. Reasonable accommodations available upon request throughout the application process.
-
-## Recruitment Process
-
-Vantage uses AI meeting notetakers and an AI assistant (Ashby) for organization purposes only. All hiring decisions are made by humans. Criminal background checks required for final-stage candidates.
+Vantage is a retail media orchestration platform headquartered in Toronto, operating as a remote-first company. They serve enterprise retailers including The Home Depot. The platform focuses on retail media operations, helping retailers manage and optimize their advertising and media capabilities. The company emphasizes diversity, equal opportunity, and provides remote flexibility with home office support and annual retreats.
