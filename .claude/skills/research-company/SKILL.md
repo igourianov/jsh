@@ -58,6 +58,11 @@ Write to `jobs/{company_name}/company.md` with format:
 - {insight 2}
 - {key concern or opportunity}
 
+## Milestones
+- {founding and other major events}
+- {milestone 2}
+- {milestone 3}
+
 ## Company & Product
 {overview}
 
