@@ -1,54 +1,49 @@
-# Software Engineering Manager | Product | Travel/Fintech B2B
+# Software Engineering Manager | Product | Travel / Fintech
 
 **URL:** https://jobs.ashbyhq.com/hopper/0b3566cb-deb7-45eb-8eac-f27313841527 \
-**Company:** Hopper Technology Solutions (HTS) \
-**Location:** Remote (Vancouver, BC - Canada) \
+**Company:** Hopper \
+**Location:** Remote (Canada) \
 **Compensation:** CAD $260,000 - $350,000 \
-**Benefits:** Health insurance (100% premium coverage), life insurance, disability insurance, HSA, telemedicine, RRSP, parental leave, travel stipend \
+**Benefits:** 100% company-paid insurance, life/disability, HSA, telemedicine, RRSP, parental leave, travel stipend, coworking access, work-from-home stipend, pre-IPO equity, sign-on bonus \
 **Posted:** January 2026 \
-**Match:** 78%
+**Match:** 72%
 
 ## Gaps
-
-- **Tech Stack:** JVM/Scala or React preferred; candidate has React experience but no Scala/JVM
-- **Product Domain:** No travel or fintech industry experience; candidate background is HCM/HRTech
-- **B2B Integration:** Limited explicit B2B partner integration experience; candidate worked on enterprise SaaS but not external partner integrations
+- **Tech Stack:** JVM/Scala or React preferred; candidate's stack is .NET/C# with React experience but not JVM/Scala
+- **Product Domain:** No direct travel or fintech industry experience
 
 ## Alignment
-
-- **Leadership Scale:** 8+ years managing engineering teams, scaled to 30+ engineers, developed 2 managers from ICs
-- **Technical Depth:** Hands-on with architecture decisions, code reviews, system design while managing teams
-- **Distributed Systems:** Experience with microservices, Kubernetes, high-availability systems, zero-downtime deployments
-- **Enterprise SaaS:** 10 years building enterprise-grade SaaS serving Fortune 500 customers
-- **Remote Leadership:** Transitioned teams to fully distributed remote during COVID while maintaining velocity
+- **Leadership Experience:** 8+ years managing engineering teams of 8-12 developers, scaling to 30+ engineers total; exceeds 2+ years requirement
+- **Technical Depth:** Hands-on technical manager engaged in system design, architecture decisions, and code reviews; matches "staying deeply technical" requirement
+- **Distributed Systems:** Microservices architecture experience with Kafka, Redis, Kubernetes; aligns with distributed systems expertise needed
+- **Developer Growth:** Developed 2 senior engineers into engineering managers leading their own teams; matches track record of developing junior engineers into senior roles
+- **Remote Leadership:** Led fully distributed remote teams since COVID transition; matches 100% remote work model
 
 ## Summary
 
-Hands-on Engineering Manager leading a squad building commerce solutions for Hopper's B2B enterprise partners. The role combines people leadership (recruiting, coaching, developing engineers) with technical ownership (architecture reviews, debugging, API design). Acts as primary technical contact for external partners, translating complex technical constraints for stakeholders. Reports into the HTS (Hopper Technology Solutions) division which drives 75%+ of company revenue through partnerships with Capital One, Air Canada, Nubank, and others.
+Lead a multidisciplinary engineering squad building commerce products for Hopper's B2B division (HTS), which powers travel booking for enterprise partners like Capital One, Air Canada, and Nubank. Role requires hiring, mentoring, and coaching while staying deeply technical. Serve as primary technical contact for enterprise partners, translating partner needs into technical roadmaps.
 
 - **Coding:** 20%
-- Recruit, develop, and coach multidisciplinary engineering teams
-- Partner with product teams to translate partner needs into technical roadmaps
-- Maintain technical depth through architectural reviews and debugging sessions
-- Establish on-call rotations and manage technical debt strategically
-- Serve as primary technical contact for external partners
-- Possible travel within North America for client meetings
+- Build high-trust engineering culture across multidisciplinary squad
+- Lead architectural reviews and debugging sessions
+- Translate partner needs into technical roadmaps
+- Manage on-call rotations and technical debt
+- Serve as primary technical contact for enterprise partners
 
 ## Required Qualifications
 
 - 2+ years leading engineering teams
 - 7+ years software development experience
-- Experience with microservices and distributed systems
-- Proven ability designing enterprise-grade APIs
-- Comfort with ambiguity and MVP-first approaches
+- Microservices and distributed systems expertise
+- API design experience for enterprise use
 - Track record developing junior engineers into senior roles
 
 ## Optional Qualifications
 
-- JVM/Scala or React experience
-- B2B integration expertise
-- "Ship and iterate" methodology proficiency
+- JVM/Scala or React tech stack experience
+- Comfort with ambiguity and MVP-first thinking
+- "Ship and iterate" methodology approach
 
 ## Company
 
-Hopper is a travel fintech platform with 120M+ app downloads serving a predominantly Gen Z/millennial user base. The company operates two business lines: consumer travel (mobile app) and HTS (Hopper Technology Solutions), a B2B division providing white-label travel and fintech products to enterprise partners. HTS represents 75%+ of revenue with partners including Capital One, Air Canada, and Nubank. Hopper has raised $750M+ in funding and is the #3 largest online travel agency in North America. The company emphasizes a high-trust, entrepreneurial culture with focus on innovation and rapid iteration.
+Hopper is a travel fintech platform serving hundreds of millions of users globally. The app has been downloaded over 120 million times. Hopper Technology Solutions (HTS) is their B2B division, representing over 75% of business revenue. HTS powers travel booking for enterprise partners including Capital One, Air Canada, and Nubank. Well-funded company with pre-IPO equity offerings.
