@@ -2,13 +2,25 @@
 
 ## Status
 
-**Tech Screen Scheduled** - Second round with developer and product owner
+**Round 2 Complete** - Conversation with developer and product manager
 
-## Tech Screen (Upcoming)
+## Round 2: Developer + Product Manager (Jan 30)
 
 - 1 hour virtual interview via Google Meet
-- Meeting with a senior engineer and a product manager
-- Odd combination for a tech screen - unclear what the actual discussion will cover
+- Met with a senior engineer and a product manager
+- **Poorly prepared** - Only had 4-5 questions total
+- Could not discern their interview strategy
+- Two roles match this job description, so didn't go into detail about specific team
+- Teams are ~5 engineers each, no dedicated QA (engineers do their own testing)
+- Role is a backfill for a promoted leader, no particular goals defined for the position
+
+**Concerns:**
+- Poor interview experience throughout (scheduling issues, unprepared interviewers)
+- May indicate lack of hiring experience in the org
+- Stephanie mentioned they want to improve their interview process
+
+**Opportunity:**
+- Could offer improvement suggestions for their interview process to Stephanie
 
 ## Recruiter Screen Notes (Jan 15)
 

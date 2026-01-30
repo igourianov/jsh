@@ -164,3 +164,50 @@ Excited to meet with the team!
 
 Best,
 Ilia
+
+--------
+
+
+
+Stephanie Meldrum
+Fri, Jan 23, 2:10 PM (7 days ago)
+to ilia.gourianov, stephanie.meldrum
+
+Hi Ilia,
+
+Thank you for submitting your availability. Your interview for the Senior Engineering Manager (Canada) position with Proof is now confirmed, and you’ll find the details in the calendar invitation.
+
+Ahead of the conversation, we encourage you to visit our website or take a look at this video to learn more about the company and prepare for your interview.
+
+If you need to reschedule, please use the Event Confirmation link in your calendar invite to select a new date and time, or feel free to reach out to me directly.
+
+Date/Time: Jan 30, 2026 1:00pm-2:00pm EST
+Interviewers: Joao Vitor, chad blumenthal
+
+Google Meet: https://meet.google.com/wbr-jjfi-gpz
+
+Let me know if you have any questions before then. We’re looking forward to speaking with you.
+
+Best,
+
+Stephanie
+
+----
+
+
+Hi Stephanie,
+
+I spoke with Chad and Joao today. Given our earlier conversation about strengthening Proof's interview process, I wanted to share some thoughts from a hiring manager's perspective.
+
+A few areas where I could help:
+
+- **Interview structure**: Starting with a brief agenda helps candidates understand what to expect and keeps conversations focused
+- **Question strategy**: Having a prepared list of topics or competencies to cover ensures interviewers gather consistent information across candidates
+- **Role clarity**: When multiple positions are open, letting candidates know upfront which role/team is being discussed helps both sides have a more productive conversation
+
+These are common growing pains for scaling engineering orgs. I've built out interview processes before and would be glad to share what's worked.
+
+Best regards,
+Ilia
+
+
