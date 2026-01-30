@@ -211,3 +211,25 @@ Best regards,
 Ilia
 
 
+----------
+
+Stephanie Meldrum
+2:34 PM (11 minutes ago)
+to Ilia
+
+Hi Ilia,
+
+Thanks for sharing these thoughts. I really appreciate you taking the time to provide this perspective after your conversation with Chad and Joao.
+
+We are definitely working on standardizing our process. I'd be happy to connect briefly to hear more about what's worked for you in the past.
+
+Steph
+
+----------
+
+Hi Stephanie,
+
+Glad to hear the feedback was helpful. I am free for the rest of the day today and Monday morning EST - let me know what works for you.
+
+Best,
+Ilia
