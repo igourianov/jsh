@@ -46,6 +46,7 @@ Extract the following from the job posting:
 9. **Coding %** - Specifically writing production code (0-60%)
    - 0% signals: broad tech options with "or"/"such as", "leverage experience" language
    - >0% signals: specific required stack, "writing code", "implementing features"
+   - coding cannot be greater than 0% if there is no core programming language (Java, React, Python, etc) specified in the job posting
 
 10. **Required Qualifications** - Must-haves
 

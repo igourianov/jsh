@@ -33,13 +33,14 @@ Tailored resume saved to: `jobs/{Company}/resume.md`
 Read these files in parallel:
 - Base resume: `resume/resume.md`
 - Job screening file: `jobs/{Company}/{Job Title}.md`
+- Company research file (if present): `jobs/{Company}/company.md`
 
 ### 2. Analyze Job Requirements
 
-From the job screening file, extract:
+From the job screening file and company research, extract:
 - **Engineering Domain**: Product, Platform, DevOps/SRE, etc.
 - **Product Domain**: EdTech, Legal tech, Fintech, Healthcare, etc.
-- **Required Qualifications**: Must-have skills and experience
+- **Qualifications**: Must-have nad optional skills and experience
 - **Gaps**: Areas where candidate doesn't match requirements
 - **Tech Stack**: Specific technologies mentioned
 - **Key Responsibilities**: What the role entails
