@@ -233,3 +233,36 @@ Glad to hear the feedback was helpful. I am free for the rest of the day today a
 
 Best,
 Ilia
+
+----
+
+Hi Ilia,
+
+Thank you again for taking the time to speak with us and for your interest in joining Proof. We truly appreciated the opportunity to learn more about your background and experience.
+
+After careful consideration, we’ve decided to move forward with other candidates whose experience more closely aligns with the needs of this role at this time. This was not an easy decision, as you bring many strong skills and perspectives.
+
+We’re grateful for the time and effort you put into the interview process and wish you all the best in your continued search. We hope you’ll consider Proof again in the future as other opportunities arise.
+
+Best regards,
+
+Proof Recruiting
+
+---- 
+
+Hi Stephanie,
+
+Thanks for the quick update.
+
+You mentioned wanting to hear what's worked for interview processes. A few observations from my conversation with Chad and Joao:
+
+- It wasn't clear what the round was designed to evaluate. Each interview stage should have a defined purpose - technical depth, leadership approach, product sense, etc. - so interviewers know what to probe and candidates know what to showcase.
+
+- The questioning portion ran about 20 minutes with roughly five questions total and no stated agenda. The format was alternating questions with no follow-ups or acknowledgement before moving on - it felt like some questions were improvised on the spot. Even a prepared list of topics would help interviewers have more structured, productive conversations.
+
+- When we moved on to my questions, the interviewers weren't able to answer the most important ones because they didn't know which team this role was for. Interviewers should be briefed on the specific position they're evaluating candidates for.
+
+Best of luck with the search. And feel free to reach out if you're recruiting for other companies down the line.
+
+Ilia
+
