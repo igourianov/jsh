@@ -1,1 +1,10 @@
-I am looking for a remote  Software Engineering Manager role, preferably in a SaaS company. I have over 8 years of engineering leadership experience managing cross-functional teams, delivering products, and mentoring senior engineers into managers. My technical background is in .NET, C#, microservices, Kubernetes, and cloud infrastructure on Azure. I am skilled in Agile, OKRs, DORA metrics, and managing the full SDLC. I want to use my skills in team building, architecture, and product delivery to lead a high-performing engineering team. Find jobs posted in the last week, having less than 100 applications. Order results by posting date.
+
+# Find jobs that match following criterias
+* Role: Software Engineering Manager
+* Country: Canada
+* Location: remote
+* Less than 100 applicants
+* SaaS product company
+* Order results by date, newest first
+* Exclude jobs from companies: Affirm, Canonical
+
