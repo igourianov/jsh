@@ -98,14 +98,17 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 ```markdown
 # {Normalized Title} | {Engineering domain} | {Product domain}
+### Match: {X}%
 
-**URL:** {original job URL, if present} \
-**Company:** {Company} \
-**Location:** {Location} \
-**Compensation:** {Salary range} \
-**Benefits:** {Benefits} \
-**Posted:** {Date} \
-**Match:** {X}%
+- **URL:** {original job URL, if present} 
+- **Company:** {Company} 
+- **Location:** {Location} 
+- **Compensation:** {Salary range} 
+- **Benefits:** {Benefits} 
+- **Posted:** {Date} 
+- **Coding:** {X}%
+- **Tech stack:** {list of tech}
+- **Team size:** {number of reports}
 
 ## Gaps
 - **{Category}:** {gap description}
@@ -120,7 +123,6 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 {role summary}
 
-- **Coding:** {X}%
 - {responsibility 1}
 - {responsibility 2}
 
@@ -136,7 +138,7 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 ## Company
 
-{Company description from job posting, 200 words max}
+{Company description}
 ```
 
 **Category examples:** Leadership experience, Tech stack, Product domain, Culture fit, Location, Education, Specific skill name, etc.
@@ -147,7 +149,8 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 ## Response
 
+Output only:
 ```
-Screening complete: jobs/{Company}/{Title}.md
 Match: {X}% | {One-line take}
+@`jobs/{Company}/{Title}.md`
 ```
