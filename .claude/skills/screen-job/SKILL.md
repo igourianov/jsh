@@ -20,11 +20,11 @@ Determine input type:
 
 Extract the following from the job posting:
 
-1. **Title** - Two forms:
+1. **Title:**
    - Full original title (for filename)
    - Normalized title (for heading)
 
-2. **Company** - Two fields:
+2. **Company:**
    - Company name: actual employer. Keep empty if posted by agency on behalf of an unknown employer
    - Posted by: agency name. Keep empty if posted directly by the hiring company.
 
@@ -34,7 +34,7 @@ Extract the following from the job posting:
 
 5. **Location** - Remote, Hybrid, Office
 
-6. **Compensation** - Two fields:
+6. **Compensation:**
    - Salary range (if stated, otherwise estimate with "(estimated)")
    - Benefits: dental, vision, health, RRSP/401k match, stock options, equity, bonuses, etc.
    - Exclude: unlimited PTO, education/fitness/home-office allowances
@@ -46,7 +46,7 @@ Extract the following from the job posting:
 9. **Coding %** - Specifically writing production code (0-60%)
    - 0% signals: broad tech options with "or"/"such as", "leverage experience" language
    - >0% signals: specific required stack, "writing code", "implementing features"
-   - coding cannot be greater than 0% if there is no core programming language (Java, React, Python, etc) specified in the job posting
+   - coding cannot be inferred to be greater than 0% if there is no core programming language (Java, React, Python, etc) specified in the job posting
 
 10. **Required Qualifications** - Must-haves
 
@@ -60,7 +60,13 @@ Extract the following from the job posting:
 
 ## Step 3: Evaluate Match
 
-Read `resume/resume.md` and evaluate fit.
+Read the appropriate resume based on job posting language:
+- **Russian job posting:** Read `resume/resume.ru.md`
+- **English job posting:** Read `resume/resume.md`
+
+**Candidate Context:**
+- Candidate knows Russian language and is able to relocate to Russia
+- In Russian tech market, CTO role is approximately equivalent to Engineering Manager (one level above tech lead) - do not flag as a title gap
 
 **Approach:**
 - Assume recruiter role with bias towards rejection
@@ -98,14 +104,15 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 ```markdown
 # {Normalized Title} | {Engineering domain} | {Product domain}
+
 ### Match: {X}%
 
+- **Saved:** {current date: yyy-MM-dd}
 - **URL:** {original job URL, if present} 
 - **Company:** {Company} 
 - **Location:** {Location} 
 - **Compensation:** {Salary range} 
 - **Benefits:** {Benefits} 
-- **Posted:** {Date} 
 - **Coding:** {X}%
 - **Tech stack:** {list of tech}
 - **Team size:** {number of reports}
