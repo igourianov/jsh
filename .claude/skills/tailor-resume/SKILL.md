@@ -97,23 +97,68 @@ Before saving, verify:
 - ✓ Formatting is consistent with base resume
 - ✓ File is valid markdown
 
-### 5. Save Tailored Resume
+### 5. Verification
+
+Perform a three-part verification before saving:
+
+#### 5a. Structure Verification
+
+Compare the tailored resume against the base resume to ensure:
+- All sections from the original are present (Summary, Core Competencies, Experience, Skills, Education)
+- Section order matches the original
+- Number of experience entries matches
+- No new sections were added
+
+**If structure differs:** Fix discrepancies before proceeding.
+
+#### 5b. Content Audit
+
+Cross-reference every skill, technology, and accomplishment in the tailored resume against the base resume:
+- Every Core Competency must map to an existing competency (reworded is OK, invented is not)
+- Every technology mentioned must appear in the original or be clearly derived from stated experience
+- Every accomplishment must be traceable to the original (rephrased for emphasis is OK, fabricated is not)
+
+**If fabricated content found:** Remove it and use only content from the base resume.
+
+#### 5c. Improvement Assessment
+
+Compare the tailored resume against the job posting requirements and report:
+- **Requirements Addressed**: List which job requirements are now better highlighted
+- **Gaps Remaining**: List requirements that couldn't be addressed (no relevant experience exists)
+- **Keywords Matched**: Count of job posting keywords now present in the tailored resume
+
+Record this assessment for output to the user (do NOT include in the resume file).
+
+### 6. Save Tailored Resume
 
 Save to: `jobs/{Company}/resume.md`
 
-### 6. Response to User
+### 7. Response to User
 
 Respond with:
-- Success message: "Tailored resume created at jobs/{Company}/resume.md"
-- Key changes summary (2-3 bullets):
-  - What was emphasized in Summary
-  - How Core Competencies were reordered
-  - What experience was highlighted
+
+**Success message:** "Tailored resume created at jobs/{Company}/resume.md"
+
+**Key changes summary (2-3 bullets):**
+- What was emphasized in Summary
+- How Core Competencies were reordered
+- What experience was highlighted
+
+**Tailoring Notes (from Step 5c):**
+
+```
+Requirements Addressed:
+- [Requirement] - highlighted via [which section/bullet]
+
+Gaps Remaining:
+- [Requirement] - no relevant experience to highlight
+
+Keywords Added: [count] job-specific terms incorporated
+```
 
 **Do not include:**
 - Full resume text in response
 - Detailed change log
-- All details should be in the saved file
 
 ---
 
