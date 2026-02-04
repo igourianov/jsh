@@ -1,44 +1,58 @@
-# Manager Software Development | Developer Advocacy | AI/ML Hardware
+# Manager Software Development | DevRel/Community | AI/ML
 
-**URL:** https://careers.amd.com/careers-home/jobs/73353 \
-**Company:** AMD (Advanced Micro Devices) \
-**Location:** Hybrid - Ontario, Canada \
-**Salary Range:** $130,000-$180,000 CAD (estimated) \
-**Hands-on:** 70% | **Coding:** 20% \
-**Posted:** November 11, 2025 \
-**Match:** 25%
+### Match: 35%
+
+- **Saved:** 2026-02-04
+- **URL:** https://careers.amd.com/careers-home/jobs/73353?lang=en-us&iis=Job%20Board&iisn=Linkedin
+- **Company:** AMD
+- **Location:** Ontario, Canada (Hybrid)
+- **Compensation:** Not specified (estimated $150,000-$200,000 CAD)
+- **Benefits:** Not specified
+- **Coding:** 40%
+- **Tech stack:** Python, Jupyter notebooks, Docker, GitHub, Perl, C++
+- **Team size:** Not specified
 
 ## Gaps
+- **Domain:** No machine learning or AI product experience
+- **Tech stack:** No Python, Jupyter notebooks, or ML tooling experience demonstrated
+- **Role type:** Position is developer relations/community management, not traditional engineering management
+- **Technical focus:** Requires deep ML architecture and model knowledge not present in resume
+- **Education:** Requires BS/MS in Electrical Engineering or equivalent
 
-- **Role mismatch:** Despite "Manager" title, this is a Product Marketing/Developer Advocacy role, not engineering management
-- **Machine learning expertise:** Requires comprehensive knowledge of ML architectures, models, and developer tools; candidate has AI tooling interest but not ML depth
-- **Developer advocacy experience:** No experience with community engagement, technical workshops, conference presentations, or developer relations
-- **Python/ML stack:** Requires Jupyter notebooks and Python scripting for ML; candidate's experience is .NET/C#
-- **Academic research/teaching:** Role emphasizes teaching, training materials, and workshop delivery - no background in technical education or advocacy
-
-## Required Qualifications
-
-- BS or MS in Computer Science, Applied Mathematics, Electrical or Computer Engineering
-- Comprehensive knowledge of machine learning architectures, models, and developer tools
-- Prior work experience in accelerated machine learning
-- Growth-oriented mindset; skilled at leading and teaching others
-- Strong written and verbal communication abilities
-- Adaptability in dynamic environments
-
-## Optional Qualifications
-
-- Machine learning foundation models and applications
-- Jupyter notebooks and Python scripting
-- Containerized deployments (Docker, virtual environments)
-- GitHub repository contributions and management
-- Customer training and technical workshops
-- Perl/Python/C++ scripting for test automation
-- MBA
+## Alignment
+- **Leadership:** 8 years managing engineering teams up to 30 engineers
+- **Technical documentation:** Experience with CI/CD, architecture decisions, and technical mentorship
+- **Remote/distributed teams:** Led fully distributed remote teams
 
 ## Summary
 
-Developer advocacy and product marketing role focused on building developer adoption for AMD's AI/ML hardware products. Responsibilities include engaging the machine learning developer community (data scientists, model architects, application developers), creating sample applications and reference architectures, maintaining open source documentation and forums, presenting at industry workshops and conferences, designing developer contests and competitions, and creating training materials including tutorials and quick-start guides. This is NOT a traditional engineering management role despite the "Manager" title.
+Developer relations leadership role focused on driving adoption of AMD's AI products through community engagement, documentation, and developer resources. The position manages open source resources, creates sample applications, and designs developer programs.
+
+- Manage open source developer resources, documentation, forums, and community contributions
+- Create sample applications, code snippets, and reference architectures for AI products
+- Present technology at industry workshops and events
+- Design developer programs including contests to drive product adoption
+- Develop training materials, tutorials, and quick-start guides
+- Maintain source code repositories with well-documented examples
+
+## Required Qualifications
+
+- BS/MS in Electrical Engineering or equivalent
+- Comprehensive knowledge of machine learning architectures, models, and developer tools
+- Prior work experience in accelerated machine learning
+- Strong written and verbal communication skills
+- Growth-oriented mindset with ability to lead and teach others
+
+## Optional Qualifications
+
+- Machine learning foundation models and applications expertise
+- Jupyter notebooks and Python scripting proficiency
+- Experience with Docker and containerized deployments
+- GitHub repository management experience
+- Customer training and technical workshop background
+- Perl/Python/C++ scripting for test automation
+- MBA
 
 ## Company
 
-Advanced Micro Devices (AMD) is a global semiconductor company designing and manufacturing computer processors and related technologies for business and consumer markets. AMD produces CPUs, GPUs, and accelerators for data centers, gaming, embedded systems, and AI/ML workloads. The company competes with Intel in CPUs and NVIDIA in GPUs, with recent focus on AI acceleration hardware including the Instinct MI series for data center AI workloads and Radeon AI for consumer applications. AMD's AI product portfolio targets machine learning inference and training, requiring developer ecosystem support through documentation, tools, libraries, and community engagement. The company operates globally with major development centers across North America, Europe, and Asia.
+AMD (Advanced Micro Devices) is a semiconductor company that designs and manufactures computer processors, graphics cards, and related technologies. The company competes in AI/ML hardware space with products targeting data scientists, model architects, and application developers.
