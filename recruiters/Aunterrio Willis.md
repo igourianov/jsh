@@ -31,3 +31,16 @@ My number is 647-235-1188.
 
 Best,
 Ilia
+
+----
+
+Hi Aunterrio,
+
+It was a pleasure chatting with you earlier today.
+
+As promised, I am attaching my resume for your reference.
+
+Could you share the hiring manager's name so I can do some background research before the next step?
+
+Regards,
+Ilia
