@@ -18,6 +18,7 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 
 	// Configure PDF options
 	const pdfOptions = {
+		stylesheet: [path.join(baseResumeDir, 'markdown.css')],
 		pdf_options: {
 			format: 'Letter',
 			margin: {
