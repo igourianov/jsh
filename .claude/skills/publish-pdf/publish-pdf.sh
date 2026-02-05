@@ -58,6 +58,6 @@ if [ -f "$TARGET_FILE" ]; then
     elif [[ "$OSTYPE" == "linux-gnu"* ]]; then
         xdg-open "$TARGET_FILE" 2>/dev/null
     elif [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
-        start "" "$TARGET_FILE"
+        start "" "$TARGET_FILE" &
     fi
 fi
