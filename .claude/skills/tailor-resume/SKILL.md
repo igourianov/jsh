@@ -51,6 +51,7 @@ Copy base resume structure and tailor these sections:
 
 #### Summary (Paragraph 1)
 - Keep core identity: "Engineering Leader with X years of experience..."
+- **Director roles**: Reframe resume title as "Engineering Leader" (not "Engineering Manager")
 - Adjust emphasis based on engineering domain (Product vs Platform vs DevOps)
 - Highlight relevant product domain experience if applicable
 - Add specific keywords from job requirements
