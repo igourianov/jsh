@@ -77,7 +77,11 @@ h2 code,
 h3 code,
 h4 code,
 h5 code,
-h6 code,
+h6 code {
+	font-family: monospace;
+	font-size: 1.4em;
+}
+
 p code,
 li code,
 pre code {
