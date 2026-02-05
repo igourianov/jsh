@@ -1,48 +1,56 @@
-# Software Engineering Manager | Product | SaaS/Enterprise
+# Engineering Manager | Product | Financial Services
 
-**URL:** Not provided \
-**Company:** Unknown (posted by ALTEN Canada) \
-**Location:** Remote (Toronto, ON) \
-**Salary Range:** CA$125,000 - CA$135,000 \
-**Hands-on:** 35% | **Coding:** 15% \
-**Posted:** January 2026 \
-**Match:** 82%
+### Match: 65%
+
+- **Saved:** 2026-02-04
+- **URL:** N/A (LinkedIn posting)
+- **Company:** Unknown (posted by Hamilton Porter recruiting agency)
+- **Location:** Ontario, Canada (Remote)
+- **Compensation:** $180,000 - $220,000 CAD (estimated)
+- **Benefits:** Not specified
+- **Coding:** 20%
+- **Tech stack:** Java, AWS, Backbase, React/Angular, Python, Salesforce, PHP
+- **Team size:** 3 teams
 
 ## Gaps
-- **AI Leadership:** Job requires AI-first mindset in leadership and delivery at scale - candidate has AI tooling experience only in personal projects, not demonstrated leading teams with AI development practices
-- **Unknown Employer:** Agency posting without disclosed client creates uncertainty about actual company culture, tech stack, and role specifics
-- **Salary:** CA$125K-135K may be below market for 20 years IT experience (9 years management)
+- **Tech stack:** Role requires Java expertise; candidate's background is .NET/C#
+- **Digital banking platform:** Backbase or comparable digital experience platform experience not present
+- **Python:** No Python experience in resume; role mentions leading engineers working in Java and Python
+- **Salesforce:** No Salesforce integration experience
 
-## Strengths
-- **SaaS Leadership:** 9 years managing engineering teams in enterprise SaaS (Fortune 500 customers), scaled 1 to 3 teams (30+ engineers)
-- **Technical Depth:** 6+ years as IC developer before management, maintains code-level engagement through reviews and architecture decisions
-- **Cloud & Modern Stack:** Kubernetes, microservices, Azure, CI/CD, zero-downtime deployments, infrastructure as code
-- **Team Development:** Hired 20+ engineers, developed 2 senior engineers into managers, led distributed remote teams
-- **Process Innovation:** Redesigned git branching (90% reduction in deployment failures), eliminated 12-hour maintenance windows, optimized database deployments from 8 hours to 30 minutes
-
-## Required Qualifications
-
-- Proven success as a Software Development Manager in cloud-based environments
-- Experience with AI development tooling and an AI-first mindset in leadership and delivery
-- Strong background in building technology teams that deliver exceptional product experiences in high-growth settings
-- Expertise in end-to-end SaaS product development at scale in enterprise environments
-- Ability to engage at a code level to validate assumptions and guide technical decisions
-- Empathetic leadership style with high self-awareness and a focus on team culture
-- Passion for development methodologies with flexibility to adapt and evolve approaches
-- Ability to work with legacy code and optimize existing systems
-- Commitment to leaving code, processes, and people better than before
-- Up-to-date knowledge of latest technologies and best practices
-
-## Optional Qualifications
-
-- None explicitly stated
+## Alignment
+- **Leadership scale:** 8+ years managing engineering teams, including 3 cross-functional teams (30+ engineers) matching this role's 3-team structure
+- **Cloud expertise:** AWS/Azure experience with Kubernetes, microservices, cloud-native architectures
+- **UI/Front-end:** React/TypeScript/Angular experience aligns with UI application requirements
+- **Remote team management:** Successfully transitioned and led distributed remote teams
 
 ## Summary
 
-Lead high-performing technology teams delivering exceptional product experiences in a cloud-based SaaS environment. This role combines strategic leadership with technical engagement, requiring a manager who can validate technical decisions at the code level while balancing business and technical objectives. Key focus areas include team building, performance management, ensuring timely delivery of commitments, driving adherence to governance and standards, and promoting engineering-led innovation. The position requires coordination with product management on prioritization and scheduling, as well as alignment of team activities with organizational objectives.
+Leadership role overseeing three engineering teams responsible for a Java/AWS treasury system and a Backbase/Java digital banking platform with user interfaces. Focus on delivery, reliability, and evolution of these financial systems. Reports to senior leadership and acts as point of contact for business stakeholders.
+
+- Drive planning, execution, and delivery of major projects across treasury and digital banking platforms
+- Lead hiring, performance management, and evaluation of team members
+- Oversee three agile engineering teams, providing technical and professional guidance
+- Collaborate with Product, Architecture, and Operations to shape technical vision
+- Guide architectural decisions and maintain standards for security, performance, and reliability
+
+## Required Qualifications
+
+- 8+ years in software development with at least 4+ years managing engineering teams
+- Deep understanding of enterprise Java development
+- Proven experience with AWS services and cloud-native architectures
+- Hands-on background building or overseeing UI applications (React, Angular, or similar)
+- Bachelor's or Master's degree in Computer Science, Information Systems, or related field
+- Prior experience leading engineers working in both Java and Python
+- Ability to manage hybrid/remote teams effectively
+- Demonstrated ability to manage multiple engineering teams toward common objectives
+
+## Optional Qualifications
+
+- Familiarity with Backbase or comparable digital experience platforms
+- Familiarity with Salesforce integrations or PHP-based legacy systems
+- Experience with compliance, audit, or secure software delivery frameworks
 
 ## Company
 
-ALTEN Canada is a subsidiary of ALTEN Group, a global leader in Research & Development, Engineering, IT Services, Life Sciences, and Network Services. With presence in over 30 countries and 60,000+ employees globally, ALTEN serves industry leaders worldwide. ALTEN Canada has offices in Montreal and Toronto, serving the Canadian market since 2012. The company works with major players across finance, banking, insurance, aerospace, railways, energy, life sciences, telecommunications, distribution, and retail. As a consulting firm, ALTEN Canada provides consultants to solve complex technical challenges across diverse industries including Life Sciences, Energy, Automation, Manufacturing, Aviation, Defense, Automotive, Rail, Transportation, Information Systems, and Telecommunications.
-
-Note: This position is posted by ALTEN Canada for an unnamed client. The actual employer is not disclosed in the job posting.
+Hamilton Porter is a staffing and recruiting agency (2-10 employees). They are posting this role on behalf of an undisclosed financial services client requiring treasury and digital banking platform engineering leadership.
