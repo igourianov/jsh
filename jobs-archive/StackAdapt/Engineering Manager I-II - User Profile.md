@@ -1,51 +1,55 @@
 # Engineering Manager - User Profile | Backend/Platform | AdTech
 
-**URL:** https://job-boards.greenhouse.io/stackadapt/jobs/4108503009?gh_src=d1r83na19us \
-**Company:** StackAdapt \
-**Location:** Remote (Canada/US) \
-**Compensation:** $150,000 - $200,000 (estimated) \
-**Benefits:** 401k/pension, health benefits from day one, parental leave \
-**Posted:** January 2025 \
-**Match:** 72%
+### Match: 78%
+
+- **Saved:** 2026-02-05
+- **URL:** https://job-boards.greenhouse.io/stackadapt/jobs/4108503009?gh_src=d1r83na19us
+- **Company:** StackAdapt
+- **Location:** Remote (Canada/US)
+- **Compensation:** Not specified (estimated $150,000-$200,000 CAD)
+- **Benefits:** 401K/pension, health benefits (day one), parental leave
+- **Coding:** 20%
+- **Tech stack:** Golang, AWS, Kubernetes, Kafka, ScyllaDB
+- **Team size:** 3-10 direct reports
 
 ## Gaps
-
-- **Tech Stack:** Role requires Golang proficiency (Java, Kotlin, C++ acceptable alternatives); candidate's primary backend experience is .NET/C#
-- **Product Domain:** No adtech/DSP experience; candidate's background is in HCM/HRTech SaaS
-- **Scale:** Role involves millions of requests per second with 100ms SLA; candidate experience is enterprise SaaS but not explicitly at this request volume
+- **Tech stack:** Job prefers Golang; candidate's backend experience is .NET/C#. Java, Kotlin, C++ listed as acceptable alternatives but C# is not explicitly mentioned.
+- **Product domain:** No AdTech or DSP experience; candidate background is HCM/SaaS.
+- **High-scale distributed systems:** Role handles millions of requests/second with 100ms SLA; candidate experience is enterprise SaaS scale, not advertising platform scale.
 
 ## Alignment
-
-- **Leadership Experience:** 8 years managing engineering teams of 3-25 engineers, scaling from 1 to 3 teams, developing ICs into managers
-- **Distributed Systems:** Experience with microservices, Kafka, Kubernetes, Redis, and service-oriented architecture
-- **Remote Team Leadership:** Transitioned teams to fully distributed remote work while maintaining velocity
-- **Compliance:** GDPR, SOC 2, and PII compliance experience aligns with GDPR/CCPA requirements
+- **Leadership experience:** 10 years managing engineering teams of 3-25 engineers, developing ICs into managers.
+- **Team scaling:** Built and scaled 3 cross-functional teams (30+ engineers), hired 20+ engineers.
+- **Backend systems:** Designed microservices architecture, zero-downtime deployments, worked with Kubernetes, Kafka, Redis.
+- **Compliance:** GDPR and SOC 2 compliance experience aligns with CCPA/GDPR preferred qualifications.
+- **Remote leadership:** Successfully transitioned teams to fully distributed remote model while maintaining velocity.
 
 ## Summary
 
-Backend engineering manager role leading a team focused on user and audience data systems. The User Profile team handles bidding requests, audience building, and complex business rules at massive scale (millions of requests per second, 100ms SLA). Responsibilities include designing scalable low-latency backend systems and data pipelines, mentoring engineers, driving cross-team initiatives, and owning technical roadmap.
+Backend engineering leadership role on the User Profile team at StackAdapt, an AI-powered advertising/marketing platform. The team manages user data systems handling millions of requests per second with 100ms SLA. This is a software services team (not data engineering) built on Golang with AWS, Kubernetes, Kafka, and ScyllaDB.
 
-- **Coding:** 20-30%
-- Design and implement scalable, low-latency backend systems and data pipelines
-- Lead and mentor backend engineering team (3-10 direct reports)
-- Drive cross-team initiatives and own technical roadmap
-- Support systems under global compliance frameworks (GDPR, CCPA)
+- Lead backend engineering team focused on user/audience data
+- Drive cross-team initiatives across multiple domains
+- Design scalable, low-latency backend systems and data pipelines
+- Own technical roadmap and software delivery
+- Hire and interview engineering talent
+- Establish development processes (Scrum/Kanban)
+- Support compliance framework operations (GDPR/CCPA)
 
 ## Required Qualifications
 
-- 2+ years of people management or mentorship experience
-- 5+ years of backend development experience in distributed systems, microservices, and data pipelines
-- Proficiency in backend languages (Golang preferred; Java, Kotlin, C++ acceptable)
-- Experience managing 3-10 direct reports
-- Knowledge of Scrum/Kanban methodologies
-- Proven track record leading and scaling teams
+- 2+ years people management or mentorship experience
+- 5+ years backend development (distributed systems, microservices, data pipelines)
+- Proficiency in backend language (Golang preferred; Java, Kotlin, C++ acceptable)
+- Hands-on leadership managing 3-10 direct reports
+- Modern development methodology knowledge (Scrum, Kanban)
 
 ## Optional Qualifications
 
 - High-growth technology environment experience
-- Adtech/DSP (Demand Side Platforms) background
-- GDPR or CCPA compliance framework experience
+- AdTech/Demand Side Platform (DSP) experience
+- GDPR or CCPA compliance framework knowledge
 
 ## Company
 
-StackAdapt is an AI-powered programmatic advertising platform that automates and optimizes digital ad buying. The platform processes 465 billion automated optimizations per second across display, video, native, and connected TV advertising. The User Profile team specifically handles the core bidding infrastructure, processing millions of requests per second with strict latency requirements. Tech stack includes Golang, AWS, Kubernetes, Kafka, and ScyllaDB.
+StackAdapt is an AI-powered programmatic advertising platform (Demand Side Platform/DSP) that automates ad buying and optimization. The platform performs 465 billion automated optimizations per second. The company has received workplace recognition including Ad Age Best Places to Work 2024 and G2 #1 DSP ranking. Remote-first with locations across Canada and US.
