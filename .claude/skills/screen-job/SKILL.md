@@ -98,7 +98,25 @@ Succinct bullet-point list (3-5 bullets) of how candidate experience aligns with
 
 **Avoid fluff words**: No "exceptional," "proven," "strong," "excellent," etc. - state facts and numbers only.
 
+## Step 4: Extract Keywords
+
+Extract keywords from the original job posting that a recruiter would use to filter resumes in an ATS (Applicant Tracking System). Include:
+- Technical skills and tools (e.g., Java, Kubernetes, CI/CD)
+- Methodologies and practices (e.g., Agile, Scrum, TDD)
+- Domain terms (e.g., fintech, SaaS, B2B)
+- Role-specific terms (e.g., people management, cross-functional, stakeholder management)
+- Certifications or frameworks (e.g., PMP, SOC 2, ITIL)
+
+**Do NOT include:**
+- Generic filler words (e.g., "team player", "fast-paced environment")
+- Company-specific branding terms
+- Benefits or compensation terms
+
+Output as a flat, comma-separated list. No duplicates. Lowercase.
+
 ## Output
+
+**Language:** Write the screen file in the same language as the original job posting. Do not translate unless explicitly asked.
 
 Save to `jobs/{Company}/{Full Original Title}.md`:
 
@@ -146,6 +164,10 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 ## Company
 
 {Company description}
+
+## Keywords
+
+{comma-separated list of recruiter-matching keywords}
 ```
 
 **Category examples:** Leadership experience, Tech stack, Product domain, Culture fit, Location, Education, Specific skill name, etc.
