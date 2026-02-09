@@ -6,57 +6,25 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a personal job search repository for Ilia Gourianov, a Software Engineering Manager with over 20 years of IT experience (14 years as a developer, 8 years as a manager). The repository contains resume materials, cover letters, interview preparation documents, and job search resources.
 
-**Git Repository**: Local repo
 
-## General Rules
+## Language Rules
 
-- User knows Russian language - do not translate between English and Russian unless explicitly requested
-- Respond in the same language the user writes in
+- User knows Russian and English languages - do not translate between those unless explicitly requested
+- Respond in the terminal in the same language the user writes in
+- Output results of analysis (job postings, company research, etc) in the language of the source
 
 ## Key Files
 
 - `resume/resume.md` - Main resume in English (source of truth)
 - `resume/resume.ru.md` - Main resume in Russian
 - `resume/seo.txt` - SEO keywords embedded in PDF metadata
-- `jobs/` - Job postings organized as `jobs/{Company}/{Title}.md`
+- `jobs/` - Job postings organized as `jobs/{Company}/{Title}.md`. Active postings only - the ones I have applied to and expecting a response.
 - `jobs/{Company}/resume.md` - Tailored resumes for specific companies
 - `jobs/{Company}/company.md` - Company research notes
+- `jobs-archive/` - job postings move here from the `jobs` folder after rejection or ghosting 
 - `LinkedIn/posts/` - LinkedIn post drafts and editorial versions
 - `archive/` - Archived cover letters, interview questions, and other historical materials
 
-## Candidate Profile Context
-
-Use `resume/resume.md` as the source of truth regarding candidate's experience.
-
-**Job Search Focus**: Remote Software Engineering Manager role, preferably in SaaS companies
-
-## Skill Usage Requirements
-
-**CRITICAL: When user requests workflow operations, ALWAYS use the corresponding skill:**
-
-- User says "**commit**" → MUST use `Skill(commit)`, NEVER run git commands directly
-- User says "**screen job**" → MUST use `Skill(screen-job)`
-- User says "**tailor resume**" → MUST use `Skill(tailor-resume)`
-- User says "**publish pdf**" or "**publish resume**" → MUST use `Skill(publish-pdf)`
-- User says "**publish gist**" → MUST use `Skill(publish-gist)`
-- User says "**cleanup seo**" or "**optimize seo**" → MUST use `Skill(cleanup-seo)`
-- User says "**research company**" → MUST use `Skill(research-company)`
-
-**Rationale:** Skills encapsulate full workflows with proper error handling, context gathering, and consistent output. Direct tool usage bypasses established processes and creates inconsistent behavior.
-
-**Exception:** Only use tools directly when NOT explicitly requested by user or when debugging/investigating issues.
-
-## Primary Workflow
-
-The core job search pipeline follows this sequence:
-
-1. **Screen job** (`screen-job`) - Fetch and parse job posting, evaluate match against resume
-2. **Research company** (`research-company`) - Optional deep dive into company background
-3. **Tailor resume** (`tailor-resume`) - Create customized resume for the role
-4. **Publish PDF** (`publish-pdf`) - Generate PDF with SEO metadata
-5. **Publish Gist** (`publish-gist`) - Optional: publish resume to public GitHub Gist
-
-Each skill's SKILL.md contains full process details, output formats, and examples.
 
 ## File Format Conversions
 
