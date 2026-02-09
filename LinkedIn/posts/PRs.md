@@ -20,15 +20,15 @@ But that's not even the worst part.
 
 The real damage: your feature context gets smeared across multiple PRs, often reviewed by different people. Nobody sees the full picture. Nobody catches the design flaw. You've made it structurally impossible to do a meaningful review.
 
-Which raises the obvious question - what are code reviews even for in your org?
+This begs the obvious question: what are code reviews even for in your org?
 
 Catching off-by-1 errors? SQL injections? Curly bracket placement?
-That's grunt work. Static analysis and LLM tools should be handling that locally before the code even leaves your machine. The whole point of having a human reviewer is to catch high-level problems with business logic and system design, not to serve as a glorified compiler.
-This requires a complete context.
+That's grunt work. Static analysis and LLM tools should be handling that locally before the code even leaves your machine. The point of having a human reviewer is to catch high-level problems with business logic and system design, not to serve as a glorified compiler.
+Meaningful review requires complete context.
 
 "But my engineers refuse to review large PRs!"
 
-The issue is not the size of your PRs. The issue is your engineers view reviews as busywork, not as part of their collective responsibility. They don't care enough to understand full context.
+The issue is not the size of your PRs. The issue is that your engineers approach reviews as busywork, not as part of their collective responsibility. They don't care enough to understand full context. They flag improper variable names and ignore real flaws.
 
 That's not a process problem. That is a leadership failure.
 
