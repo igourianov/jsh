@@ -1,46 +1,65 @@
-# Engineering Manager, Integrations and Onboarding | Product | Healthcare
+# Engineering Manager | Product | Healthcare / AI
 
-**URL:** https://job-boards.greenhouse.io/adahealth/jobs/8367927002 \
-**Company:** Ada Health GmbH \
-**Posted by:** Direct \
-**Location:** Remote (Canada - preference for Eastern/Atlantic time zones) \
-**Salary Range:** Not specified \
-**Hands-on:** 50% | **Coding:** 30% \
-**Posted:** January 2026 \
-**Match:** 58%
+### Match: 62%
+
+- **Saved:** 2025-02-09
+- **URL:** https://job-boards.greenhouse.io/adahealth/jobs/8367927002
+- **Company:** Ada Health
+- **Location:** Remote Canada (Eastern or Atlantic time zones preferred)
+- **Compensation:** Not stated (estimated $150K-$180K CAD)
+- **Benefits:** Health insurance, parental benefits, Employee Assistance Programs
+- **Coding:** 40%
+- **Tech stack:** Kotlin, Spring Boot, React, REST APIs, SSO, SDKs
+- **Team size:** Small team (unspecified)
 
 ## Gaps
-- **Tech stack**: Job uses Kotlin/Spring Boot backend. Candidate has 14 years C#/.NET experience but no Kotlin or Spring Boot. Company backend is Python (also not in resume).
-- **Organizational health**: 2.8/5 Glassdoor rating, 40% workforce reduction (2023-2024), multiple reviews cite founders lacking understanding of product/engineering organizations, "stuff was always breaking" due to resource constraints. Conflicts with candidate's focus on high-performance culture and eliminating process overhead.
+- **Tech stack:** Role requires hands-on coding in Kotlin/Spring Boot. Candidate's backend experience is .NET/C#, no Kotlin or JVM ecosystem experience listed.
+- **Product domain:** Healthcare/AI is outside candidate's core HCM/HRTech domain.
+- **Role scope:** Player-coach managing a small team is a step down from managing 3 teams of 30+ engineers. May signal overqualification concerns from hiring side.
+- **Integration focus:** Role is specifically about client-facing integrations, SDKs, and onboarding. Candidate's experience is product development, not integration/onboarding-focused.
 
-## Strengths
-- **Engineering management depth**: 10 years experience managing teams, scaled 1 to 3 cross-functional teams (30+ engineers), developed 2 ICs into engineering managers
-- **Distributed remote teams**: Led fully distributed remote teams during COVID transition, maintained velocity and cohesion across geographies
-- **Enterprise SaaS with integrations**: Fortune 500 clients, SOC 2/GDPR compliance, REST APIs, microservices architecture, zero-downtime deployment strategies
-- **Player-coach balance**: 2.5 years as hands-on Lead Developer before EM transition, continued technical involvement via code reviews and architecture decisions
-- **AI-assisted development**: Practical experience with Claude Code (optional qualification) and healthcare industry background (7 years at Klick Health)
-
-## Required Qualifications
-
-- 5+ years software engineering experience with full-stack development background
-- 1-2+ years in leadership roles (Team Lead, Tech Lead, or Engineering Manager)
-- Demonstrated ability balancing hands-on coding with leadership duties
-- SaaS API/SDK integration experience
-- Distributed/remote team experience
-- Strong software architecture and REST API knowledge
-
-## Optional Qualifications
-
-- Experience with AI-assisted coding tools (GitHub Copilot, Cursor)
-- Genuine interest in coaching engineers
-- Understanding of enterprise client requirements (security, SLAs, compliance)
-- Strong communication skills translating technical complexity
-- On-call and production environment comfort
+## Alignment
+- **SaaS & enterprise clients:** 10 years at Dayforce building enterprise SaaS with security, SLAs, and compliance requirements.
+- **Remote leadership:** Built and led fully distributed remote teams through COVID transition and beyond.
+- **Full-stack background:** 14 years as developer before management, with REST API, microservices, and cloud infrastructure experience.
+- **AI tooling:** Active use of AI-assisted development workflows (Claude Code).
+- **People management:** 8 years managing engineers, conducting 1:1s, performance reviews, and developing ICs into managers.
 
 ## Summary
 
-Player-coach Engineering Manager role leading a small cross-functional team responsible for integrating Ada's AI-powered diagnostic solutions into customer systems. The position requires hands-on technical contribution using Kotlin/Spring Boot/React while managing team development, planning complex projects with Product Management, and maintaining reliability of the integration layer. Key responsibilities include code reviews, architectural decisions, one-on-ones, performance feedback, and collaborating with enterprise clients on technical feasibility.
+Player-coach Engineering Manager leading a small cross-functional team focused on customer integrations and onboarding at Ada Health, an AI-powered healthcare company. The role splits between hands-on coding (Kotlin/Spring Boot/React), technical leadership (architecture, code reviews, incident response), and people management (1:1s, career growth, performance reviews). Heavy emphasis on client-facing integration layers including SDKs, APIs, and SSO.
+
+- Contribute code in Kotlin/Spring Boot/React
+- Review PRs and guide architectural decisions
+- Ensure reliability and scalability of client-facing integration layers (SDKs, APIs, SSO)
+- Participate in on-call rotations and incident response
+- Conduct 1:1s, performance feedback, and career growth planning
+- Collaborate with Product Management to estimate integration projects
+- Serve as technical expert for enterprise client discussions
+- Own sprint and release cycles for the team
+
+## Required Qualifications
+
+- 5+ years software engineering with full-stack background
+- 1-2+ years leadership experience (Team Lead, Tech Lead, or Engineering Manager)
+- Track record balancing hands-on coding with leadership
+- SaaS integration/API/SDK experience with external clients
+- Distributed/remote team experience
+- Software architecture, REST APIs, and modern cloud infrastructure knowledge
+- AI-assisted coding workflow familiarity
+- Coaching and mentoring capability
+- Enterprise client understanding (security, SLAs, compliance)
+- Clear technical-to-stakeholder communication
+- Comfortable with on-call and production environment management
+
+## Optional Qualifications
+
+- No explicit nice-to-haves listed
 
 ## Company
 
-Ada Health develops AI-powered diagnostic tools for healthcare, aiming to help people get faster healthcare answers by identifying those at risk of rare conditions and guiding them toward appropriate care. The organization focuses on building solutions that integrate into customer systems, providing enterprise healthcare clients with diagnostic capabilities that meet security, SLA, and compliance requirements.
+Ada Health is a Berlin-founded healthcare AI company that builds diagnostic AI tools to help people identify health conditions and navigate toward appropriate care. Their platform is powered by AI and built with input from physicians and clinical scientists. The product focuses on helping users get health answers faster and guiding them to the right care pathways. The engineering team has a European presence, which is why they prefer Eastern/Atlantic time zone candidates in Canada.
+
+## Keywords
+
+kotlin, spring boot, react, rest apis, ssds, sso, saas, api, sdk, integrations, onboarding, player-coach, engineering manager, people management, 1:1s, performance reviews, career development, cross-functional, enterprise clients, cloud infrastructure, ai-assisted coding, github copilot, cursor, on-call, incident response, distributed teams, remote, agile, sprint, release management, software architecture, mentoring, coaching, healthcare, ai, stakeholder management, compliance, slas, security
