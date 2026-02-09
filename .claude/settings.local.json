@@ -13,7 +13,8 @@
 			"Skill(tailor-resume)",
 			"Skill(cleanup-seo)",
 			"Skill(screen-job)",
-			"Skill(research-company)"
+			"Skill(research-company)",
+			"Skill(convert-txt)"
 		],
 		"deny": [],
 		"ask": []

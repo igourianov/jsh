@@ -26,20 +26,7 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - `archive/` - Archived cover letters, interview questions, and other historical materials
 
 
-## File Format Conversions
-
-**Converting Markdown to Plain Text:**
-
-- Create a new file in the same folder with `.txt` extension
-- Replace markdown formatting with plain text equivalents
-- Use unicode bullet characters (bullet, dash, equals) in place of markdown bullets and for visual separation
-- Strip markdown links but preserve URLs where relevant
-- Remove bold/italic markers while keeping the text
-- Add visual separators for readability
-
-**Example:** `resume/resume.md` → `resume/resume.txt`
-
-**LinkedIn Post Editorial Process:**
+## LinkedIn Posts
 
 - **Do not overwrite original text** - Add editorial version below the original, separated by a line
 - **Maximize engagement** - Structure content to drive comments, shares, and discussion
