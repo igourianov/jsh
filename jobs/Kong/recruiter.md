@@ -44,3 +44,14 @@ Could you share the hiring manager's name so I can do some background research b
 
 Regards,
 Ilia
+
+----
+
+Hi Aunterrio,
+
+Hope you had a good weekend! Following up on our call from last week. Can you confirm you've received my resume I've sent over email?
+
+Also, when you get a chance, could you share the hiring manager's profile so I can prepare for the next step?
+
+Regards,
+Ilia
