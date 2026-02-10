@@ -1,71 +1,52 @@
-# Engineering Manager - Sprout Social
+# Engineering Manager | Product | Social Media SaaS
 
-**Location:** Remote Canada (British Columbia or Ontario only)
-**Department:** Engineering
-**Job URL:** https://sproutsocial.com/careers/open-positions/7261435/?gh_src=fe8bf1621us
+### Match: 88%
 
----
+- **Saved:** 2025-02-05
+- **URL:** https://sproutsocial.com/careers/open-positions/7550053/?gh_src=fe8bf1621us
+- **Company:** Sprout Social
+- **Location:** Remote Canada (Alberta, British Columbia, or Ontario)
+- **Compensation:** $161,500 - $222,090 CAD annually
+- **Benefits:** 100% employer-paid health coverage, RSUs/equity, 25 vacation days + 5 sick days
+- **Coding:** 0%
+- **Tech stack:** Java, Python, distributed systems, Elasticsearch, MySQL, HBase, service-oriented architectures
+- **Team size:** Not specified
 
-## About the Role
+## Gaps
+- **Tech Stack:** Primary experience is .NET/C# ecosystem; role prefers Java/Python proficiency
+- **Product Domain:** No social media management industry experience
 
-Sprout Social seeks an Engineering Manager to lead a high-performing engineering team. The company is described as "a global leader in social media management and analytics software" headquartered in Chicago with 1400 employees worldwide.
+## Alignment
+- **Leadership Experience:** 10 years managing engineering teams up to 30 engineers, developing ICs into managers
+- **Enterprise SaaS:** Scaled DayforceHCM from emerging product to Gartner leader, directly relevant to enterprise SaaS context
+- **Technical Systems:** Experience with distributed systems, Elasticsearch, Kafka, microservices, service-oriented architecture
+- **Remote Team Management:** Successfully transitioned teams to fully distributed remote during COVID while maintaining velocity
+- **Delivery Excellence:** Track record of roadmap accountability, OKRs, and DORA metrics
 
----
+## Summary
 
-## Key Responsibilities
+Engineering Manager role leading high-functioning engineering teams at a social media management SaaS company. Focus is on team building, coaching, and cross-functional collaboration rather than hands-on coding.
 
-- Build and motivate engineering teams delivering quality results iteratively
-- Leverage experience with scalable, reliable software systems to strengthen the tech stack
-- Coach engineers through feedback and career development
-- Partner with cross-functional leaders on strategy and execution
-- Drive execution by setting clear expectations and tracking progress
-- Maintain development and product quality standards
-- Use metrics to monitor performance and establish KPIs aligned with organizational goals
-
----
+- Build and lead engineering teams toward iterative delivery
+- Grow engineers through feedback, coaching, and career development
+- Lead product and technical roadmaps with cross-functional partners
+- Drive consistent execution by setting expectations and tracking progress
+- Uphold development standards and support on-call rotations
+- Use metrics to monitor performance and establish KPIs aligned with OKRs
 
 ## Required Qualifications
 
-- 5+ years building and maintaining enterprise-level production software systems, focusing on backend development and high-availability solutions
-- 4+ years managing engineering teams with emphasis on delivery and business outcomes
-- 4+ years delivering engineering projects, managing roadmaps, and communicating with stakeholders
+- 5+ years building/scaling enterprise software in production
+- 4+ years managing high-performing engineering teams
+- 4+ years delivering engineering projects with roadmap accountability
 
----
+## Optional Qualifications
 
-## Preferred Qualifications
+- Experience driving strategic change in engineering teams
+- Knowledge of distributed systems, queuing, service-oriented architectures
+- Data systems experience (Elasticsearch, MySQL, HBase)
+- Object-oriented programming proficiency (Java, Python, C#, C++)
 
-- Ability to drive strategic change balancing short-term delivery with long-term sustainability
-- Experience with distributed applications and queuing systems
-- Knowledge of large-scale data systems (Elasticsearch, MySQL, HBase)
-- Object-oriented programming experience (Java, Python, C#, C++)
+## Company
 
----
-
-## Growth Expectations
-
-Structured progression outlined over 1, 3, 6, and 12 months, including onboarding, team relationship building, process improvements, and leadership development.
-
----
-
-## Compensation & Benefits
-
-**Base Pay Range (CAD):** $161,500–$242,300 annually
-
-**Benefits include:**
-- Health insurance options
-- Flexible paid time off and parental leave
-- Equipment and wellness programs
-- Professional development through "Grow@Sprout" initiatives
-- Restricted stock units (RSUs)
-
----
-
-## Geographic Restrictions
-
-Candidates must be based in British Columbia or Ontario. Applications from other Canadian provinces will be saved for future consideration.
-
----
-
-## Notes
-
-Saved: 2025-12-04
+Sprout Social is a global leader in social media management with 1,400 employees across Chicago, Seattle, Dublin, and Poland. The platform helps businesses manage their social media presence. Engineering teams span mobile, front-end, back-end, and infrastructure.
