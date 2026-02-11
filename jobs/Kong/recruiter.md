@@ -55,3 +55,27 @@ Also, when you get a chance, could you share the hiring manager's profile so I c
 
 Regards,
 Ilia
+
+--------
+
+
+Aunterrio Willis  (He/Him)  8:46 AM
+
+Hey Ilia, 
+
+I hope all is well on your end as well! It was great connecting with you. We are still interested in your candidacy. We're looking to finish the current wave of Recruiter interviews to determine who we move to the next rounds. We should have more details on next steps by this time next week. We appreciate your patience as we do our due diligence. 
+
+I did receive your resume, and I added it to your profile in our ATS. Thank you!
+
+I'll be sure to follow up with more details. In the meantime, please let me know if you have any additional questions?
+
+Kind regards,
+
+Aunterrio
+
+----
+
+Thanks Aunterrio, sounds good. Looking forward to hearing back.
+
+Cheers
+
