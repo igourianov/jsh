@@ -2,8 +2,8 @@
 
 ### Руководитель инженерного отдела (Engineering Manager)
 
-*Контакты*: [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | TG @guryanil | [LinkedIn](https://www.linkedin.com/in/ilia-gourianov/) \
-*Местонахождение*: Форт Эри, Онтарио, Канада
+*Контакты*: ТГ[@guryanil](http://t.me/guryanil) | [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ilia-gourianov/) \
+*Местонахождение*: Москва, РФ
 
 # Резюме
 
@@ -49,7 +49,7 @@
 
 *Технологии/инструменты:* C\#, ASP.NET MVC, EntityFramework/Dapper, SQL Server, JavaScript/TypeScript, HTML/CSS, jQuery/Dojo/ReactJS/Angular, Git, REST APIs, NUnit/xUnit, Selenium
 
-### Разработчик ПО @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Сентябрь 2005 \- Март 2013
+### Разработчик @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Сентябрь 2005 \- Март 2013
 
 Диджитал-агентство, предоставляющее маркетинговые услуги для индустрии здравоохранения.
 
