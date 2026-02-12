@@ -22,7 +22,7 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 		pdf_options: {
 			format: 'Letter',
 			margin: {
-				top: '15mm',
+				top: '10mm',
 				right: '20mm',
 				bottom: '15mm',
 				left: '20mm'
@@ -46,7 +46,7 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 		pdfDoc.setTitle(`${authorName} - ${title} Resume`);
 		pdfDoc.setAuthor(authorName);
 		pdfDoc.setKeywords(keywords);
-		pdfDoc.setCreator('md-to-pdf');
+		pdfDoc.setCreator('md-to-pdf, pdf-lib');
 		pdfDoc.setCreationDate(new Date());
 		pdfDoc.setModificationDate(new Date());
 
