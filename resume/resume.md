@@ -15,7 +15,7 @@ Engineering Leader with proven experience building and scaling high-performing r
 * **Full-stack & cloud expertise:** .NET/C#, React/TypeScript, SQL, Kubernetes, microservices, AWS/Azure
 * **Product delivery:** roadmap planning, OKRs, SDLC ownership, CI/CD, DORA metrics, release management
 * **Agile & process:** Scrum facilitation, capacity planning, balancing feature/debt/ops work streams
-* **Cross-functional collaboration:** Product, Design, Architecture, and executive stakeholder partnership
+* **Cross-functional collaboration:** Product, UX/Design, Architecture, and executive stakeholder partnership
 * **High-performance culture:** shared ownership, continuous improvement, eliminating process overhead
 
 # Experience
