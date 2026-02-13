@@ -32,6 +32,7 @@ ehthumbs.db
 *.log
 ~$*
 tmpclaude*
+nul
 
 # Build outputs
 dist/
