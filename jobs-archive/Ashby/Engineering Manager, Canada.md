@@ -1,39 +1,63 @@
-# Engineering Manager | Product | HR Tech
+# Engineering Manager | Product | HR Tech / Talent Acquisition
 
-**URL:** https://jobs.ashbyhq.com/Ashby/5ccfc540-35d4-4fc8-aeb6-7f11b2ad8258 \
-**Company:** Ashby \
-**Location:** Remote - Canada \
-**Salary Range:** CAD $190,000–$280,000 \
-**Hands-on:** 50% | **Coding:** 20% \
-**Posted:** November 13, 2025 \
-**Match:** 85%
+### Match: 72%
+
+- **Saved:** 2025-02-13
+- **URL:** https://www.linkedin.com/jobs/view/4323316810/
+- **Company:** Ashby
+- **Location:** Remote, Canada
+- **Compensation:** $190K - $280K/yr
+- **Benefits:** equity (10-year exercise window), health insurance (100% premiums covered), parental leave (12+ weeks)
+- **Coding:** 20%
+- **Tech stack:** Not specified (codebase-level pairing during interview)
+- **Team size:** 3-5 direct reports, hiring 3-5 more
+
+## Red flags
+- **Unlimited PTO:** Posting explicitly advertises "Unlimited PTO" under benefits. Unlimited PTO policies typically result in employees taking fewer days off than with a fixed allowance.
 
 ## Gaps
+- **Hands-on coding expectation:** Role explicitly requires engineers who "love the craft and never give it up," expects debugging customer issues and shipping bug fixes. Candidate's recent experience is management-focused with technical oversight (code reviews, architecture) rather than daily coding.
+- **Product domain:** No direct experience in Talent Acquisition / Recruiting software (though candidate built Ceridian's first Recruiting module, it was 10+ years ago).
+- **IC-to-manager trajectory:** Posting specifically wants someone who "could have been Principal engineers (or were one!)." Candidate's IC track maxed at Lead Developer before transitioning to management. No Principal/Staff Engineer title.
+- **Culture fit risk:** Ashby explicitly rejects traditional process (no sprint planning, no tickets, no PM-driven specs). Candidate's experience is rooted in Agile/Scrum, backlog grooming, and structured SDLC. This is a fundamental operating model difference.
 
-- No startup experience (all experience at larger established companies)
-- Adapting to startup pace and ambiguity may require adjustment
-
-## Required Qualifications
-
-- Experience managing 3-5 engineers with ability to scale through hiring
-- Comfort maintaining hands-on coding skills (debugging, shipping bug fixes, improving developer experience)
-- Ability to coach engineers to independently manage large, loosely-defined projects
-- Experience leading cross-functional and department-wide initiatives
-- Philosophy alignment: minimal process with high team autonomy, engineers owning product decisions
-- Enjoyment of continuous coding and technology development
-- Drive to change and improve processes rather than follow established rules
-- Belief that early/mid-career engineers can work with minimal guardrails
-- View of senior engineers as technical leaders, not project managers
-- Confidence in scaling high-autonomy teams beyond 50 engineers
-
-## Optional Qualifications
-
-- Not explicitly stated in posting
+## Alignment
+- **Team scaling:** Grew from 1 team to 3 teams (30+ engineers), hired 20+ engineers at Ceridian. Ashby needs to double engineering from ~50 to 100.
+- **HCM/HR domain:** 10 years in HCM SaaS (Dayforce), including building the first Recruiting module. Ashby is Talent Acquisition software.
+- **Remote team leadership:** Built and led fully distributed remote teams. Ashby is remote-first.
+- **Developer experience focus:** Redesigned git branching, implemented zero-downtime deployments, improved CI/CD. Ashby values developer tooling and leverage.
 
 ## Summary
 
-Lead a team of 3-5 engineers and hire an additional 3-5 across product, SRE, and design engineering specializations. Coach engineers to own large projects with minimal oversight while maintaining hands-on technical involvement through debugging, bug fixes, and developer experience improvements. Lead cross-functional initiatives like optimizing PR reviews or redesigning interview processes. Must embrace Ashby's distinctive culture: minimal process, high autonomy, with engineers owning product and design decisions normally made by those functions.
+Engineering Manager reporting to the VP of Engineering / Co-founder. The role starts with managing 3-5 engineers across multiple teams (product, SRE, design engineering) and hiring 3-5 more. Day-to-day involves reviewing product/technical specs, coaching ICs to make autonomous decisions, and occasionally jumping into code for bug fixes or developer experience improvements. The role also includes proposing and leading department-wide initiatives (interview design, PR review processes, tooling improvements).
+
+The culture is explicitly anti-process: no sprint planning, no tickets, no PM-written specs. Engineers own projects end-to-end from problem brief to shipped solution. The EM's job is to grow engineers who can take large, loosely defined projects and deliver independently.
+
+- Manage 3-5 engineers across product, SRE, and design engineering specializations
+- Hire 3-5 additional engineers as the team doubles from ~50 to 100
+- Provide feedback on product and technical specs, coaching ICs rather than making decisions
+- Debug customer issues, ship small fixes, and improve developer experience (staying off the critical path)
+- Propose and lead department/company-wide process improvements
+- Onboard by shipping product changes in the first 3 months
+
+## Required Qualifications
+
+- Former strong engineer who built impressive products
+- Hands-on: enjoys coding and stays up-to-date on technology
+- Could have been (or was) a Principal/Staff Engineer
+- Experience scaling engineering teams
+- Comfortable with high-autonomy, low-process environments
+- Ability to coach ICs toward ownership and independent decision-making
+- Optimistic about maintaining a unique engineering culture at scale (no sprint planning, no PM specs, no individual tickets)
+
+## Optional Qualifications
+
+- (None explicitly listed)
 
 ## Company
 
-Ashby provides talent acquisition software (ATS/recruiting platform) serving companies like Notion, Linear, Shopify, and Snowflake. The company reports tens of millions in ARR with over 100% year-over-year growth, low churn, and substantial runway. They are doubling their engineering staff and seeking leadership to maintain their distinctive high-autonomy culture. The engineering philosophy emphasizes minimal process with engineers writing specs, making product decisions, and avoiding granular task breakdowns. Founded by Abhik Pramanik (Co-Founder and VP of Engineering) and team. The company offers competitive equity with 10-year exercise windows, unlimited PTO, 12+ weeks paid parental leave, generous equipment and education budgets, and comprehensive health coverage.
+Ashby builds an all-in-one Talent Acquisition platform that replaces multiple recruiting tools (ATS, scheduling, analytics) with a single integrated product. Customers include Snowflake, Reddit, Notion, Deel, and Shopify. The product focuses on intelligent automation (e.g., interview scheduling) and analytics for recruiting teams. Tens of millions in ARR, growing >100% YoY with low churn and years of runway. Engineering team is ~50, planning to double to 100. The company is remote-first with in-person meetups twice a year.
+
+## Keywords
+
+engineering management, people management, hiring, scaling engineering teams, coaching, mentorship, product engineering, site reliability engineering, developer experience, code reviews, technical specs, product specs, CI/CD, remote teams, talent acquisition, recruiting software, ATS, SaaS, B2B, cross-functional, autonomy, ownership, pull request reviews, interview design, onboarding, hr tech
