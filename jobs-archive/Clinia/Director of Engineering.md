@@ -1,50 +1,59 @@
-# Director of Engineering | Product | Healthcare
+# Director of Engineering | Platform / Infrastructure | Healthcare / HealthTech
 
-**URL:** https://cliniahealth.applytojobs.ca/engineering/44233 \
-**Company:** Clinia \
-**Location:** Remote (Montreal, Quebec) \
-**Compensation:** $160,000-$180,000 CAD \
-**Benefits:** Equity (ESOP), health insurance, 4 weeks vacation \
-**Posted:** January 2026 \
-**Match:** 72%
+### Match: 62%
+
+- **Saved:** 2026-02-13
+- **URL:** https://www.linkedin.com/jobs/view/4371569093/
+- **Company:** Clinia
+- **Location:** Remote, Canada (HQ: Montreal)
+- **Compensation:** $160,000 - $180,000 CAD
+- **Benefits:** Equity (ESOP), group insurance, 4 weeks vacation + summer hours, 24/7 online doctor access
+- **Coding:** 0%
+- **Tech stack:** Not specified
+- **Team size:** ~25 engineers, managed through engineering team leads
+
+## Red flags
+- **Below-market compensation:** $160-180K CAD for a Director of Engineering role leading 25 people is below market for Canadian tech. Comparable roles typically pay $180-220K+ CAD base.
 
 ## Gaps
-- **Healthcare Domain:** Candidate has limited healthcare industry experience (only early career at Klick Health digital agency)
-- **Language:** Quebec-based company likely requires French proficiency
-- **Seniority Level:** Role is Director-level overseeing ~25 engineers via engineering leads; candidate has managed up to 25 engineers but as Engineering Manager, not Director
-- **Manager-of-Managers:** Role explicitly requires experience leading multi-team groups with first-line managers; candidate developed 2 ICs into managers but limited experience managing established managers
+- **French language:** Montreal-based company posted the job in both English and French. Bilingual posting strongly suggests French proficiency is expected or at minimum heavily favored. Candidate does not speak French.
+- **Healthcare domain:** Clinia builds digital health infrastructure. Candidate's healthcare exposure is limited to Klick Health, a marketing agency -- no direct health product or health data platform experience.
+- **Title level:** Role is Director of Engineering reporting to CTO. Candidate's most recent title is Engineering Manager. While responsibilities overlap (managing ~25 through leads), the title gap may affect screening.
 
 ## Alignment
-- **Team Scale:** Managed up to 25 engineers directly and via technical leads at Dayforce
-- **Remote Leadership:** Transitioned to fully distributed remote teams while maintaining velocity and cohesion
-- **Platform Architecture:** Led platform team focused on modernizing monolith and building core services
-- **Enterprise SaaS:** 10 years delivering enterprise-scale SaaS products with reliability and security requirements
+- **Team scale:** Managed up to 25 engineers through technical leads at Dayforce -- matches the exact team size and structure described.
+- **Delivery & operational excellence:** Led delivery cadence, CI/CD, zero-downtime deployments, DORA metrics -- directly maps to the execution-focused mandate of this role.
+- **Platform reliability:** Hands-on experience with Kubernetes, observability (Prometheus+Grafana), incident response, and capacity planning at enterprise scale.
+- **Scaling teams:** Built and scaled from 1 to 3 cross-functional teams, hired 20+ engineers, developed ICs into managers -- matches the "leading and scaling" requirement.
 
 ## Summary
 
-Director of Engineering role overseeing ~25-person engineering organization at a healthcare search infrastructure company. Focus is on operational management: establishing planning processes, delivery metrics, and operating rhythms. Responsible for managing engineering leads, enforcing quality and reliability standards, and serving as escalation point. Some hands-on involvement through code reviews to unblock teams. Reports to executive leadership and partners with Product and Design.
+Operational leadership role responsible for running the engineering function at Clinia, a digital health infrastructure company. Reports to the CTO, who retains long-term technical vision. The Director owns day-to-day engineering delivery across software, data, and infrastructure teams (~25 people) through a layer of engineering team leads. Focus is on planning processes, delivery metrics, platform reliability, security, and cross-team coordination. Not a day-to-day coding role but expected to review and contribute to production code when needed to unblock teams or reinforce standards.
 
-- **Coding:** 5% (code reviews only, not writing code)
-- Oversee engineering delivery across teams via engineering leads
-- Establish planning processes, delivery metrics, and operating rhythms
-- Manage team lead performance, development, and accountability
-- Enforce quality, reliability, documentation, and operational standards
-- Execute platform architecture implementation
-- Ensure enterprise-grade reliability, security, and incident response
+- Own engineering delivery across all teams via planning, metrics, and operating cadence
+- Manage and develop engineering team leads -- performance, growth, accountability
+- Set and enforce engineering standards for quality, reliability, documentation, and operations
+- Ensure enterprise-grade platform reliability: availability, performance, security, observability, incident response
+- Act as primary escalation point for delivery, reliability, and resourcing issues
+- Translate company/product priorities into realistic engineering plans with Product leadership
 
 ## Required Qualifications
 
-- Demonstrated operational management of engineering organizations
-- Experience leading multi-team engineering groups with first-line managers
-- Deep knowledge of modern software architecture and platform reliability
-- Track record making autonomous hiring and technical tradeoff decisions
-- Strong manager-of-managers capabilities with accountability focus
-- Ability to partner effectively with Product, Design, and executive teams
+- Proven ownership of day-to-day operation of an engineering organization (planning, delivery, reliability, team performance)
+- Experience leading and scaling an engineering org with multiple teams and front-line engineering leads
+- Deep understanding of modern software architecture, platform reliability, and operational excellence at scale
+- Experience making autonomous decisions across hiring, tooling, delivery processes, and technical tradeoffs
+- Manager-of-managers leadership: coaching and holding leads accountable for delivery, performance, and team health
+- Comfort partnering with Product, Design, and executive leadership to align engineering execution with business goals
 
 ## Optional Qualifications
 
-- None explicitly stated
+- No optional qualifications listed separately
 
 ## Company
 
-Clinia develops search and data infrastructure powering digital health platforms across North America. B Corp certified company focused on making healthcare more accessible through technology. Based in Montreal, Quebec.
+Clinia builds search and data infrastructure for digital health platforms across North America. The company focuses on enabling autonomous healthcare through its platform. B Corp certified. Headquartered in Montreal, Canada, with a remote-friendly culture. Engineering organization of approximately 25 people. The product serves digital health teams that need infrastructure to deliver healthcare services.
+
+## Keywords
+
+engineering leadership, director of engineering, manager of managers, delivery management, platform reliability, operational excellence, software architecture, incident response, capacity planning, observability, security, cross-functional collaboration, engineering standards, team scaling, hiring, performance management, digital health, healthtech, SaaS, infrastructure, data platform, B Corp
