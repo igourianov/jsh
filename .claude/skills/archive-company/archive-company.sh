@@ -30,12 +30,9 @@ else
   mv "$SRC" "$DEST"
 fi
 
-# Stage the changes if nothing is currently staged
-if [ -z "$(git -C "$REPO_ROOT" diff --cached --name-only)" ]; then
-  # Stage deletion of source (only works if it was previously tracked)
-  git -C "$REPO_ROOT" add "jobs/$COMPANY" 2>/dev/null || true
-  git -C "$REPO_ROOT" add "jobs-archive/$COMPANY"
-  echo "Staged changes for git"
-fi
+# Stage deletion of source (only works if it was previously tracked)
+git -C "$REPO_ROOT" add "jobs/$COMPANY" 2>/dev/null || true
+git -C "$REPO_ROOT" add "jobs-archive/$COMPANY"
+echo "Staged changes for git"
 
 echo "Archived: jobs/$COMPANY -> jobs-archive/$COMPANY"
