@@ -1,56 +1,61 @@
-# Engineering Manager | Product | Financial Services
+# Software Engineering Manager | Product | SaaS
 
-### Match: 65%
+### Match: 62%
 
-- **Saved:** 2026-02-04
-- **URL:** N/A (LinkedIn posting)
-- **Company:** Unknown (posted by Hamilton Porter recruiting agency)
-- **Location:** Ontario, Canada (Remote)
-- **Compensation:** $180,000 - $220,000 CAD (estimated)
+- **Saved:** 2025-02-13
+- **URL:** https://www.linkedin.com/jobs/view/4371711634/
+- **Company:**
+- **Posted by:** TEEMA
+- **Location:** Remote, Vancouver, BC
+- **Compensation:** CA$125K - CA$140K/yr
 - **Benefits:** Not specified
-- **Coding:** 20%
-- **Tech stack:** Java, AWS, Backbase, React/Angular, Python, Salesforce, PHP
-- **Team size:** 3 teams
+- **Coding:** 10%
+- **Tech stack:** Python, JavaScript, TypeScript, React, GCP, Kubernetes, AI/ML
+- **Team size:** Not specified
+
+## Red flags
+- **Below-market compensation:** CA$125K-140K is below market for a Software Engineering Manager in Vancouver with 7+ years dev and 3+ years management experience. Comparable roles in the area typically range CA$160K-200K+.
+- **Vague job description:** Posted by staffing agency TEEMA with no named end client. Responsibilities are generic and could apply to nearly any SaaS engineering manager role. No details on team size, product specifics, or company culture.
+- **No benefits listed:** Benefits are entirely unspecified, which is a concern for a full-time role.
 
 ## Gaps
-- **Tech stack:** Role requires Java expertise; candidate's background is .NET/C#
-- **Digital banking platform:** Backbase or comparable digital experience platform experience not present
-- **Python:** No Python experience in resume; role mentions leading engineers working in Java and Python
-- **Salesforce:** No Salesforce integration experience
+- **Tech stack:** Job prefers Python and GCP. Candidate's primary stack is .NET/C# with Azure/AWS. No professional Python experience listed.
+- **AI/ML exposure:** Job asks for exposure to AI/ML or AI-assisted development tools. Candidate lists AI-augmented development with Claude Code, which partially covers this, but no ML experience.
 
 ## Alignment
-- **Leadership scale:** 8+ years managing engineering teams, including 3 cross-functional teams (30+ engineers) matching this role's 3-team structure
-- **Cloud expertise:** AWS/Azure experience with Kubernetes, microservices, cloud-native architectures
-- **UI/Front-end:** React/TypeScript/Angular experience aligns with UI application requirements
-- **Remote team management:** Successfully transitioned and led distributed remote teams
+- **SaaS leadership:** 10 years at Dayforce building enterprise SaaS, scaling teams from 1 to 3 (30+ engineers)
+- **Hands-on technical leadership:** Active in system design, architecture decisions, and code reviews throughout career
+- **Team building:** Hired 20+ engineers, developed 2 ICs into engineering managers
+- **Modern practices:** Experience with Kubernetes, CI/CD, microservices, React/TypeScript
+- **Cross-functional collaboration:** Partnered with Product, UX/Design, Architecture, and executive stakeholders
 
 ## Summary
 
-Leadership role overseeing three engineering teams responsible for a Java/AWS treasury system and a Backbase/Java digital banking platform with user interfaces. Focus on delivery, reliability, and evolution of these financial systems. Reports to senior leadership and acts as point of contact for business stakeholders.
+Hands-on Software Engineering Manager role leading a team of engineers building modern SaaS products. The role involves mentoring engineers, shaping technical direction, and contributing to software delivery. Includes architecture, design reviews, and occasional coding. Posted by staffing agency TEEMA on behalf of an unnamed client.
 
-- Drive planning, execution, and delivery of major projects across treasury and digital banking platforms
-- Lead hiring, performance management, and evaluation of team members
-- Oversee three agile engineering teams, providing technical and professional guidance
-- Collaborate with Product, Architecture, and Operations to shape technical vision
-- Guide architectural decisions and maintain standards for security, performance, and reliability
+- Lead, coach, and develop a team of software engineers
+- Drive delivery of scalable, customer-focused SaaS solutions
+- Contribute to architecture, design reviews, and occasionally hands-on coding
+- Champion best practices in code quality, security, and reliability
+- Partner with Product and Design to execute on roadmap priorities
+- Support initiatives involving AI, automation, and modern development workflows
 
 ## Required Qualifications
 
-- 8+ years in software development with at least 4+ years managing engineering teams
-- Deep understanding of enterprise Java development
-- Proven experience with AWS services and cloud-native architectures
-- Hands-on background building or overseeing UI applications (React, Angular, or similar)
-- Bachelor's or Master's degree in Computer Science, Information Systems, or related field
-- Prior experience leading engineers working in both Java and Python
-- Ability to manage hybrid/remote teams effectively
-- Demonstrated ability to manage multiple engineering teams toward common objectives
+- 7+ years of software development experience (Python and/or JavaScript/TypeScript/React preferred)
+- 3+ years leading engineering teams
+- Strong SaaS product experience
+- Experience building cloud-based applications (GCP preferred)
 
 ## Optional Qualifications
 
-- Familiarity with Backbase or comparable digital experience platforms
-- Familiarity with Salesforce integrations or PHP-based legacy systems
-- Experience with compliance, audit, or secure software delivery frameworks
+- Exposure to AI/ML or AI-assisted development tools
+- Modern tech stack (React, TypeScript, Python, Kubernetes)
 
 ## Company
 
-Hamilton Porter is a staffing and recruiting agency (2-10 employees). They are posting this role on behalf of an undisclosed financial services client requiring treasury and digital banking platform engineering leadership.
+TEEMA is a staffing agency established in 2008, serving 1,200+ clients across Canada, the US, and international markets. They specialize in contract, temporary, payroll, permanent, and executive staffing across IT, Engineering, and Healthcare verticals. The actual end client/employer is not disclosed in the posting.
+
+## Keywords
+
+software engineering manager, saas, python, javascript, typescript, react, gcp, google cloud platform, kubernetes, ai, ml, ai-assisted development, cloud-based applications, code quality, security, reliability, architecture, design reviews, mentoring, coaching, product delivery, automation, agile
