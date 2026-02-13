@@ -29,32 +29,33 @@ Run these commands in parallel to understand what will be committed:
 ### 3. Analyze and Draft Commit Message
 
 Based on the changes found:
-- Summarize the nature of changes (new feature, enhancement, bug fix, refactoring, docs, etc.)
-- Ensure accuracy - "add" means wholly new feature, "update" means enhancement, "fix" means bug fix
-- Draft a concise (1-2 sentences) commit message focusing on the "why" rather than "what"
+- Identify each individual change (e.g., new file added, existing file modified, section updated)
+- Write a one-sentence summary for each change
 - Do NOT commit files that likely contain secrets (.env, credentials.json, etc.)
 
 ### 4. Create Commit
 
 **Commit message format:**
-```
-[Concise summary line]
 
-[Detailed description with bullet points if needed]
+If there is only one change:
+```
+Summary of the change
 
 Co-Authored-By: Claude <noreply@anthropic.com>
 ```
 
-Use HEREDOC format for proper formatting:
+If there are multiple changes, use bullet points:
+```
+* First change summary
+* Second change summary
+* Third change summary
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+```
+
+Write the commit message to a temp file, then use `-F`:
 ```bash
-git commit -m "$(cat <<'EOF'
-[Concise summary line]
-
-[Detailed description with bullet points if needed]
-
-Co-Authored-By: Claude <noreply@anthropic.com>
-EOF
-)"
+git commit -F commit.tmp && rm commit.tmp
 ```
 
 ### 5. Push to Remote
