@@ -21,7 +21,8 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - `jobs/` - Job postings organized as `jobs/{Company}/{Title}.md`. Active postings only - the ones I have applied to and expecting a response.
 - `jobs/{Company}/resume.md` - Tailored resumes for specific companies
 - `jobs/{Company}/company.md` - Company research notes
-- `jobs-archive/` - job postings move here from the `jobs` folder after rejection or ghosting 
+- `jobs-archive/` - job postings move here from the `jobs` folder after rejection or ghosting
+- `black-list.md` - Companies and recruiters to avoid. Check this list during job screening before proceeding.
 - `LinkedIn/posts/` - LinkedIn post drafts and editorial versions
 - `archive/` - Archived cover letters, interview questions, and other historical materials
 
