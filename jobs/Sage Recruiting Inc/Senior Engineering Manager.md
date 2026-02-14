@@ -3,7 +3,7 @@
 ### Match: 92%
 
 - **Saved:** 2026-02-03
-- **URL:** N/A (LinkedIn posting)
+- **URL:** https://www.linkedin.com/jobs/view/4368229995/
 - **Company:** Undisclosed (via Sage Recruiting Inc.)
 - **Location:** Remote (Canada)
 - **Compensation:** CA$170K - CA$195K + Bonus + RRSP match
