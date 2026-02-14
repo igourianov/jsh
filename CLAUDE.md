@@ -38,6 +38,10 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 
 **Source file location:** `LinkedIn/posts/`
 
+## Workflow Rules
+
+- **Always use the `commit` skill when the user says "commit".** Never manually run git add/commit/push.
+
 ## Tone and Style
 
 When generating content for this candidate:
