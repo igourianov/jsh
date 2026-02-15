@@ -11,12 +11,12 @@ Engineering Leader with proven experience building and scaling high-performing r
 
 * **Engineering team leadership:** hiring, scaling, performance management, developing managers from ICs, leading distributed remote teams
 * **Technical hands-on leadership:** system design, code reviews, architecture decisions, technical mentorship
-* **AI-augmented development:** Practical experience integrating AI tooling (Claude Code) into development workflows and daily use
-* **Full-stack & cloud expertise:** .NET/C#, React/TypeScript, SQL, Kubernetes, microservices, AWS/Azure
-* **Product delivery:** roadmap planning, OKRs, SDLC ownership, CI/CD, DORA metrics, release management
+* **AI-augmented development:** evaluating and adopting AI tools to accelerate team productivity and code quality
+* **Full-stack & cloud expertise:** backend, frontend, and data layers, Kubernetes, microservices, event-driven architecture, AWS/Azure, observability
+* **Product delivery:** roadmap planning, OKRs, SDLC ownership, DORA metrics, quality gates and definition of done
 * **Agile & process:** Scrum facilitation, capacity planning, balancing feature/debt/ops work streams
-* **Cross-functional collaboration:** Product, UX/Design, Architecture, and executive stakeholder partnership
-* **High-performance culture:** shared ownership, continuous improvement, eliminating process overhead
+* **Cross-functional collaboration:** Product, UX/Design, Architecture and executive stakeholder partnership
+* **High-performance culture:** engineering-led ownership of quality and delivery, blameless postmortems, data-driven process improvements
 
 # Experience
 
@@ -45,8 +45,8 @@ Engineering Leader with proven experience building and scaling high-performing r
 
 *Accomplishments:*
 * Led technical design and delivery of Ceridian's first Recruiting module, establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
-* Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts—accelerating feature releases and reducing developer blockers.
-* Optimized localization data architecture, enabling zero-downtime language updates—reducing internationalization time-to-market from weeks to hours.
+* Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts.
+* Optimized localization data architecture, enabling zero-downtime language updates and reducing internationalization time-to-market from weeks to hours.
 
 *Skills/tools:* C\#, ASP.NET MVC, EntityFramework/Dapper, SQL Server, JavaScript/TypeScript, HTML/CSS, jQuery/Dojo/ReactJS/Angular, Git, REST APIs, NUnit/xUnit, Selenium 
 
