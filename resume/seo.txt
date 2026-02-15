@@ -3,35 +3,30 @@
 acceptance tests
 Accountability
 Adaptability
-Adoption
 Agile development
 agile methodology
 Algorithms
 Analytics
-API design
 API security
-APIs
 Application Architecture
 Architecture engineering
 Asynchronous communication
 Attention to detail
 automate processes
-AWS
-Azure DevOps
 B2B (Business-to-Business)
 B2B SaaS
-Backend
 Back-end
 Best practices
 Bias for action
+Blue-green deployment
 Business continuity
 Business impact
 Business requirements
 Business stakeholders
-Canada
 Canadian
-Capacity Planning
+Canary deployment
 Career Development
+Change failure rate
 Change management
 Clean coding
 Cloud cost management
@@ -47,13 +42,12 @@ Complex projects
 computer science
 Conflict resolution
 Consensus building
+Containerization
 continuous delivery
 Continuous improvement
 Continuous Integration/Continuous Deployment (CI/CD)
 Cost optimization
 Critical thinking
-Cross-functional Collaboration
-Cross-functional team
 culture of excellence
 Customer experience
 Customer requirements
@@ -65,11 +59,10 @@ Database design
 database management
 Datasets
 debugging
+Deployment frequency
 Design patterns
 design reviews
 detail-oriented
-Developer velocity
-Development processes
 Distributed systems
 distributed teams
 Documentation
@@ -82,22 +75,16 @@ engagement score
 Engineering community
 Engineering culture
 Engineering excellence
-Engineering leader
 Engineering leadership
 Engineering management
-Engineering manager
-Engineering team
 Enterprise Software
-Enterprise-scale
-Event-driven architecture
+Error budgets
 Executive team
-Facilitation
 Fast-paced environment
 fault tolerant
+Feature flags
 feedback
 Flexible
-Frontend
-Front-end
 Full-stack Developer
 Full-stack Development
 functional testing
@@ -108,14 +95,10 @@ Global teams
 Growth mindset
 gRPC
 GTA
-HA
-Hands-on leadership
 Head of Engineering
-Healthcare
-High availability
-high-performing
+Headcount planning
 High-velocity teams
-Hiring
+HIPAA
 HR Tech (Human Resources Technology)
 hybrid
 Improve Efficiency
@@ -126,6 +109,7 @@ Influencing
 Information security
 Information systems
 Information technology
+Infrastructure as Code (IaC)
 Innovation
 Instrumentation
 Integration Testing
@@ -137,6 +121,7 @@ Key performance indicators
 Knowledge sharing
 KPIs
 Large Language Models
+Lead time
 Leadership experience
 Leadership skills
 Lean
@@ -147,13 +132,13 @@ Management experience
 mentor developers
 mentor direct reports
 Mentoring
-mentorship
 Message brokers
 Microsoft Azure
 Mission-critical
 Modeling
 Modern architecture
 Monitoring
+MTTR
 Multi-cloud
 Multi-tenant Architecture
 Negotiation
@@ -162,8 +147,6 @@ NoSQL
 OAuth
 object-oriented design
 Object-Oriented Programming (OOP)
-OKRs
-On-call
 OpenTelemetry
 Operational excellence
 Organizational Development
@@ -178,7 +161,6 @@ Post-incident reviews
 Presentation
 principal
 Problem solving
-Process improvement
 Product design
 product growth
 Product management
@@ -196,13 +178,12 @@ public speaking
 Quality assurance
 Quality Standards
 Real-time
-Recruiting
 Recruitment process
 Regulations
-Regulatory requirements
+Regulatory compliance
+Release management
 Reliability
 Remote team management
-Remote teams
 remote work
 Remote-first
 Reporting
@@ -223,7 +204,6 @@ Scalable architecture
 Scaling systems
 Scrum Master
 security protocols
-senior
 Servant leadership
 Service Level Agreements
 Service Level Indicators
@@ -239,42 +219,32 @@ Software engineering standards
 software engineers
 Specifications
 Sprint planning
+SRE
 stability
 Staff Development
 Staffing
 Stakeholder communication
 Stakeholder Management
-Startup
 Strategic planning
 strategic thinking
-Strategy
 System Architecture
-System design
 System Integration
 System Testing
 Systems engineering
 Systems thinking
 Talent acquisition
-Talent Management
 Team Building
 team engagement
-Team Lead
-Team leadership
 technical debt
 technical direction
 Technical excellence
-Technical Lead
 technical leader
 Technical leadership
-technical manager
-technical mentor
 technical roadmap
 technical vision
 Technology roadmap
 technology stack
 test automation
-test coverage
-Test-Driven Development (TDD)
 testing frameworks
 Thought leadership
 time to market
@@ -285,19 +255,14 @@ Trade-off analysis
 Training
 transparency
 Troubleshooting
-TypeScript
-UI
 unit testing
 Usability
-Use Case
 User experience
 User stories
 User-centric
-UX
 Velocity metrics
 version control
 Vision setting
-Web applications
 Web Developer
 Web development
 Web services
