@@ -54,8 +54,8 @@ Engineering Leader with proven experience building and scaling high-performing r
 
 Digital agency providing marketing services for healthcare industry.
 
-*Responsibilities:*
-* Designed, developed and managed releases for a number of marketing web applications
+*Accomplishments:*
+* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca, and Takeda
 * Contributed to the development of the in-house built CMS (Content Management System)
 
 *Skills/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS 
