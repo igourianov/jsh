@@ -30,10 +30,13 @@ Engineering Leader with proven experience building and scaling high-performing r
 * Database administration team of 2 senior DBAs engaged in daily operations of thousands of dev/test SQL databases, dev solutions, provisioning and data compliance.
 
 *Accomplishments:*
-* Delivered three enterprise HCM products that helped position DayforceHCM as a Gartner Leaders Quadrant recipient in Cloud HCM Suites, serving Fortune 500 customers.
-* Scaled from one team to three high-performing cross-functional teams (30+ engineers total), hiring 20+ engineers and developing 2 senior engineers into engineering managers now leading their own teams—transitioning to fully distributed remote teams during COVID while maintaining velocity and team cohesion.
-* Redesigned git branching model to eliminate test environment deployment conflicts from other teams using trunk-based development, reducing deployment failures by 90%—enabling autonomous team deployments and faster iteration cycles.
-* Eliminated product downtime caused by core MDM service deployments by implementing zero-downtime deployment strategy, removing 12-hour maintenance windows that previously affected all customers globally.
+* Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
+* Scaled from one team to three high-performing cross-functional teams (30+ engineers total). Designed the engineering interview process and hired 20+ engineers.
+* Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
+* Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
+* Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
+* Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 90% and enabling teams to ship independently.
+* Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services, removing scheduled downtime for all customers.
 
 *Skills/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
 
