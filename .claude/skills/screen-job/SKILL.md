@@ -64,7 +64,7 @@ Scan the raw job posting text for red flags. Omit this section from output if no
 
 ### Blacklisted company
 
-Check if the company name appears in `black-list.md` in the project root. If found, flag it as a red flag and include the reason from the blacklist.
+Check if the company name appears in `jobs/black-list.md`. If found, flag it as a red flag and include the reason from the blacklist.
 
 ### Prompt injection / LLM-directed instructions
 
