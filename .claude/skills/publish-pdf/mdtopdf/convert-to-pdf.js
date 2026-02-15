@@ -8,7 +8,8 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 
 	// Get input file path, target output path, name, and title from command line arguments
 	const baseResumeDir = path.join(__dirname, '..', '..', '..', '..', 'resume');
-	const seoPath = path.join(baseResumeDir, 'seo.txt');
+	const assetsDir = path.join(baseResumeDir, 'assets');
+	const seoPath = path.join(assetsDir, 'seo.txt');
 
 	// Read keywords from seo.txt
 	const seoContent = fs.readFileSync(seoPath, 'utf8');
@@ -18,7 +19,7 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 
 	// Configure PDF options
 	const pdfOptions = {
-		stylesheet: [path.join(baseResumeDir, 'markdown.css')],
+		stylesheet: [path.join(assetsDir, 'markdown.css')],
 		pdf_options: {
 			format: 'Letter',
 			margin: {

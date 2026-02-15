@@ -17,7 +17,7 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 
 - `resume/resume.md` - Main resume in English (source of truth)
 - `resume/resume.ru.md` - Main resume in Russian
-- `resume/seo.txt` - SEO keywords embedded in PDF metadata. Must not duplicate terms already present in `resume/resume.md`. After editing the resume, sync seo.txt: remove SEO terms that now appear in the resume, and consider adding SEO terms for concepts removed from it.
+- `resume/assets/seo.txt` - SEO keywords embedded in PDF metadata. Must not duplicate terms already present in `resume/resume.md`. After editing the resume, sync seo.txt: remove SEO terms that now appear in the resume, and consider adding SEO terms for concepts removed from it.
 - `jobs/` - Job postings organized as `jobs/{Company}/{Title}.md`. Active postings only - the ones I have applied to and expecting a response.
 - `jobs/{Company}/resume.md` - Tailored resumes for specific companies
 - `jobs/{Company}/company.md` - Company research notes

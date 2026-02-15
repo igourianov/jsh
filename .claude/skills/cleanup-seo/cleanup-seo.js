@@ -5,7 +5,7 @@ const path = require('path');
 
 // Get project root (3 levels up from .claude/skills/cleanup-seo)
 const projectRoot = path.resolve(__dirname, '../../..');
-const seoFilePath = path.join(projectRoot, 'resume', 'seo.txt');
+const seoFilePath = path.join(projectRoot, 'resume', 'assets', 'seo.txt');
 const backupPath = seoFilePath + '.bak';
 
 // Read the SEO file
