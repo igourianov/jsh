@@ -45,3 +45,26 @@ Could you share the job description for this role? It looks like the original jo
 
 Talk soon,
 Ilia
+
+----
+
+
+
+Stéphane Gaudreault
+Thu, Feb 12, 2:40 PM (3 days ago)
+to Ilia
+
+Hey Ilia! 
+
+Great to hear back from you, looking forward to our chat! 
+
+Here is the link to the job posting - https://www.linkedin.com/jobs/view/4368229995/
+
+---
+
+Hi Steph,
+
+Hope you had a great weekend! Just wanted to follow up on our chat from Friday. I haven't received the Zoom invite for tomorrow at 12 PM EST yet. Could you send it over when you get a chance?
+
+Thanks,
+Ilia
