@@ -4,7 +4,7 @@
 
 - **Saved:** 2026-02-03
 - **URL:** https://www.linkedin.com/jobs/view/4368229995/
-- **Company:** Undisclosed (via Sage Recruiting Inc.)
+- **Company:** Riva
 - **Location:** Remote (Canada)
 - **Compensation:** CA$170K - CA$195K + Bonus + RRSP match
 - **Benefits:** Health, dental, life coverage, RRSP match, 3+ weeks vacation

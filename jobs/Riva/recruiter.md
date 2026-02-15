@@ -68,3 +68,55 @@ Hope you had a great weekend! Just wanted to follow up on our chat from Friday. 
 
 Thanks,
 Ilia
+
+---
+
+
+Stéphane Gaudreault
+6:26 PM (0 minutes ago)
+to Ilia
+
+Hey Ilia,
+
+Sorry for the delay! Got caught up on Friday and just cleaning up my to-do list now. You should have received the invite a few minutes ago
+
+---
+
+Hi Steph,
+
+No worries at all! Got the invite, thanks. See you tomorrow at 12 PM EST. I'm reviewing the materials you sent in the meantime.
+
+Best,
+Ilia
+
+---
+
+Hey Ilia,
+
+
+
+It was great chatting with you on Friday and learning more about your experience! Sorry for the delay in getting this out to you - hopefully you're still available!
+
+
+
+﻿I've included more info on Riva below. Please let me know if you have any questions.
+
+
+
+https://rivaengine.com/
+
+https://www.linkedin.com/company/riva-engine/
+
+https://www.linkedin.com/jobs/view/4368229995
+
+
+
+VP Eng: https://www.linkedin.com/in/seancdoran/
+
+CEO: https://www.linkedin.com/in/stephanezanoni/
+
+
+
+Talk soon!
+
+Steph
