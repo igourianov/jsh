@@ -5,24 +5,24 @@
 
 # Summary
 
-Engineering Leader with proven experience building and scaling high-performing remote teams in enterprise SaaS that own product vision, technical strategy, and execution end-to-end. Technical manager who stays engaged in system design, architecture decisions, and code reviews. Drove operational improvements that removed friction and accelerated delivery. Helped scale Dayforce from emerging product to Gartner-recognized Cloud HCM leader.
+Engineering Leader with proven experience building and scaling high-performing remote teams in enterprise SaaS that own product vision, technical strategy, and execution end-to-end. Technical manager who stays engaged in system design, architecture decisions, and code reviews. Drove operational improvements that removed friction and accelerated delivery. Helped scale Dayforce from emerging product to Gartner-recognized industry leader.
 
 # Competencies
 
 * **Engineering team leadership:** hiring, scaling, performance management, developing managers from ICs, leading distributed remote teams
 * **Technical hands-on leadership:** system design, code reviews, architecture decisions, technical mentorship
-* **AI-augmented development:** evaluating and adopting AI tools to accelerate team productivity and code quality
+* **AI-augmented development:** hands-on with AI coding and productivity tools, adoption strategies for engineering teams
 * **Full-stack & cloud expertise:** backend, frontend, and data layers, Kubernetes, microservices, event-driven architecture, AWS/Azure, observability
-* **Product delivery:** roadmap planning, OKRs, SDLC ownership, DORA metrics, quality gates and definition of done
-* **Agile & process:** Scrum facilitation, capacity planning, balancing feature/debt/ops work streams
+* **Product delivery:** roadmap planning, OKRs, SDLC ownership, SLA/SLO management, DORA metrics, quality gates and definition of done
+* **Agile & process:** Scrum facilitation, backlog refinement, capacity planning, balancing feature/debt/ops work streams
 * **Cross-functional collaboration:** Product, UX/Design, Architecture and executive stakeholder partnership
-* **High-performance culture:** engineering-led ownership of quality and delivery, blameless postmortems, data-driven process improvements
+* **High-performance culture:** engineering-led ownership of quality and delivery, on-call rotations, blameless postmortems, data-driven process improvements
 
 # Experience
 
 ### Engineering Manager @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Oct 2025
 
-*Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale SaaS Human Capital Management platform serving mid-market to Fortune 500 companies. Joined during early SaaS expansion into HRTech space and helped scale from emerging product to Gartner-recognized leader in Cloud HCM.
+*Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment (SOC 2, GDPR, PII) processing sensitive data at scale. Joined during early growth phase and helped scale from emerging product to Gartner-recognized industry leader.
 
 *Led following engineering teams/projects:*
 * Three cross-functional product development teams (8-12 devs+QA each) engaged in developing products as a part of the larger DayforceHCM product. Managing up to 25 engineers directly and via technical leads.
@@ -36,9 +36,10 @@ Engineering Leader with proven experience building and scaling high-performing r
 * Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
 * Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
 * Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 90% and enabling teams to ship independently.
+* Led extraction of a critical calculation engine from the monolith into an independently scalable microservice and built core platform services that enabled other teams to transition product features to a microservices architecture.
 * Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services, removing scheduled downtime for all customers.
 
-*Skills/tools:* Agile/Scrum, Azure DevOps, Team building, Backlog grooming, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git, Kubernetes (AKS), High availability, Terraform, Cloud IaC, Docker, CI/CD, Service-oriented architecture (SOA), Microservices, Redis, Kafka, ElasticSearch, Prometheus+Grafana, GDPR, SOC 2 and PII compliance
+*Skills/tools:* Kubernetes (AKS), Microservices, Kafka, Terraform, Cloud IaC, Docker, CI/CD, REST API design, High availability, Service-oriented architecture (SOA), Redis, ElasticSearch, Prometheus+Grafana, Agile/Scrum, Azure DevOps, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git
 
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
