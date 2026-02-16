@@ -1,20 +1,20 @@
 @font-face {
-	font-family: 'Fira Sans';
-	src: url('assets/Fira_Sans/FiraSans-Regular.ttf') format('truetype');
+	font-family: 'Noto Sans';
+	src: url('assets/Noto_Sans/static/NotoSans-Regular.ttf') format('truetype');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'Fira Sans';
-	src: url('assets/Fira_Sans/FiraSans-Bold.ttf') format('truetype');
+	font-family: 'Noto Sans';
+	src: url('assets/Noto_Sans/static/NotoSans-Bold.ttf') format('truetype');
 	font-weight: 700;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'Fira Sans';
-	src: url('assets/Fira_Sans/FiraSans-Italic.ttf') format('truetype');
+	font-family: 'Noto Sans';
+	src: url('assets/Noto_Sans/static/NotoSans-Italic.ttf') format('truetype');
 	font-weight: 400;
 	font-style: italic;
 }
@@ -28,7 +28,7 @@ html {
 }
 
 body {
-	font-family: 'Fira Sans', sans-serif;
+	font-family: 'Noto Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	line-height: 1.6;
 	font-size: 0.6875em; /* 11 pt */
 	color: #111;
@@ -53,9 +53,6 @@ h5,
 h6 {
 	margin: 0;
 	padding: 0;
-}
-
-h1 {
 }
 
 h5,
