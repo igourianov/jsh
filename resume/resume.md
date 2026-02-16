@@ -5,14 +5,14 @@
 
 # Summary
 
-Engineering Leader with proven experience building and scaling high-performing remote teams in enterprise SaaS that own product vision, technical strategy, and execution end-to-end. Technical manager who stays engaged in system design, architecture decisions, and code reviews. Drove operational improvements that removed friction and accelerated delivery. Helped scale Dayforce from emerging product to Gartner-recognized industry leader.
+Engineering Manager with proven experience building and scaling high-performing remote teams that own product vision, technical strategy and execution end-to-end. Technical leader who stays engaged in system design, architecture decisions and code reviews. Deep domain expertise in enterprise SaaS, HRTech and regulated industries.
 
 # Competencies
 
 * **Engineering team leadership:** hiring, scaling, performance management, developing managers from ICs, leading distributed remote teams
 * **Technical hands-on leadership:** system design, code reviews, architecture decisions, technical mentorship
 * **AI-augmented development:** hands-on with AI coding and productivity tools, adoption strategies for engineering teams
-* **Full-stack & cloud expertise:** backend, frontend, and data layers, Kubernetes, microservices, event-driven architecture, AWS/Azure, observability
+* **Full-stack & cloud expertise:** backend, frontend and data layers, Kubernetes, microservices, event-driven architecture, AWS/Azure, observability
 * **Product delivery:** roadmap planning, OKRs, SDLC ownership, SLA/SLO management, DORA metrics, quality gates and definition of done
 * **Agile & process:** Scrum facilitation, backlog refinement, capacity planning, balancing feature/debt/ops work streams
 * **Cross-functional collaboration:** Product, UX/Design, Architecture and executive stakeholder partnership
@@ -56,7 +56,7 @@ Engineering Leader with proven experience building and scaling high-performing r
 Digital agency providing marketing services for healthcare industry.
 
 *Accomplishments:*
-* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca, and Takeda
+* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda
 * Contributed to the development of the in-house built CMS (Content Management System)
 
 *Skills/tools:* C\#, ASP.NET MVC, SQL Server, Docker, Git, JavaScript, HTML/CSS 
