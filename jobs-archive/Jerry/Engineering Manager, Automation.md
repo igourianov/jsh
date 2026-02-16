@@ -1,62 +1,63 @@
-# Engineering Manager, Automation | Product | InsurTech
+# Engineering Manager, Automation | Product | InsurTech / Consumer
 
 ### Match: 52%
 
-- **Saved:** 2026-02-14
-- **URL:** https://www.linkedin.com/jobs/view/4364534006/
+- **Saved:** 2026-02-16
+- **URL:** https://www.linkedin.com/jobs/view/4371928146/
 - **Company:** Jerry
 - **Location:** Toronto, ON (Remote)
 - **Compensation:** Not stated (estimated $180K-$220K CAD base)
-- **Benefits:** Health, dental, vision, paid parental leave, 401(K) with employer match, equity
+- **Benefits:** Health, dental, vision, paid parental leave, 401(K) with employer matching, equity
 - **Coding:** 60%
 - **Tech stack:** TypeScript, Nest.js, React, GraphQL, AWS (ECS/EKS, Lambda)
 - **Team size:** Not specified (small team implied)
 
-## Red flags
-- **Unlimited PTO:** Posting mentions "paid time off" but the company culture signals ("no red tape", "move fast") and small team size suggest potential overwork expectations.
-- **80% hands-on coding expectation:** The role explicitly states 80% hands-on technical work. This is a staff/lead engineer role labeled as "Engineering Manager" -- minimal people management scope.
+## Red Flags
+- **Unlimited PTO:** Not explicitly stated but "paid time off" is generic. No red flag here, retracted.
+- **Extreme hands-on expectation:** Role requires 80% hands-on technical work including writing and refactoring code. This is closer to a Tech Lead than an Engineering Manager.
+- **Founder/startup bias:** "Who You Are" section explicitly seeks ex-founders or lead architects at early-stage startups. This signals a cultural filter that may disadvantage candidates from enterprise backgrounds.
 
 ## Gaps
-- **Tech stack:** Role requires TypeScript (Nest.js), GraphQL, and AWS Lambda. Candidate's primary stack is .NET/C#. TypeScript experience is present but secondary, and no Nest.js or GraphQL experience listed.
-- **Startup/founder background:** Posting explicitly seeks ex-founders or lead architects at early-stage startups. Candidate's experience is in enterprise SaaS (Dayforce/Ceridian).
-- **Product domain:** No insurance, insurtech, or marketplace automation experience.
-- **Coding intensity:** Role requires 80% hands-on coding. Candidate has been in management for 8+ years with decreasing code contribution over time.
+- **Tech stack:** Candidate's primary stack is C#/.NET and Azure. Role requires TypeScript (Nest.js, React), GraphQL, AWS. No production TypeScript/Node.js backend experience on resume.
+- **Coding expectation:** Role demands 60-80% hands-on coding. Candidate's recent experience is management-focused with technical oversight (code reviews, architecture decisions) rather than daily coding.
+- **Startup experience:** Role explicitly seeks ex-founders or early-stage startup lead architects. Candidate's experience is primarily at a large enterprise (Ceridian/Dayforce, 10 years).
+- **Product domain:** No insurance, fintech or consumer app experience on resume. Candidate's domain is HRTech/enterprise SaaS.
+- **Automation/orchestration:** Role focuses on async orchestration, fault-tolerant automation frameworks, and external system integration. This specific pattern is not highlighted in candidate's experience.
 
 ## Alignment
-- **Team scaling:** Scaled from 1 to 3 teams (30+ engineers), relevant to growing the automation team.
-- **Architecture modernization:** Led monolith decomposition and platform modernization at Dayforce, directly relevant to Phase 1 (refactoring legacy automation systems).
-- **TypeScript/React:** Has TypeScript and React experience in stack, though not as primary language.
-- **Remote distributed teams:** Managed fully distributed remote teams, matching the company's multi-country setup.
+- **Architecture & refactoring:** Led extraction of monolith calculation engine into microservices and built core platform services at Dayforce. Directly relevant to Phase 1 (refactoring legacy automation systems).
+- **Distributed systems:** Experience with Kafka, event-driven architecture, microservices, high-availability systems at enterprise scale.
+- **Team building:** Scaled from 1 to 3 teams (30+ engineers), zero voluntary attrition for 6 years. Strong people leadership track record.
+- **AI adoption:** Hands-on with AI coding and productivity tools, relevant to Phase 2 AI-first tooling vision.
 
 ## Summary
 
-Hands-on engineering leadership role owning the Marketplace Automation team at Jerry.ai. The team builds orchestration layers that automate insurance purchase transactions with external systems lacking modern APIs. Phase 1 involves deep code work refactoring tightly coupled legacy automation systems into a decoupled, scalable architecture. Phase 2 shifts to AI-first internal tooling to scale from 5M to 50M users. Reports directly to co-founder/CTO.
+Hands-on Engineering Manager role on Jerry's Marketplace Automation Team, responsible for the "last mile" of insurance policy purchase orchestration. The team builds custom orchestration layers that navigate external systems lacking modern APIs, handling asynchronous state management and real-time reliability.
 
-- Own and evolve the "last mile" insurance purchase automation systems
-- Refactor legacy tightly coupled automation into decoupled, testable architecture
-- Design fault-tolerant async orchestration with state management and retry logic
-- Lead incremental refactoring, pair with engineers on new standards
-- Build next-generation AI-powered internal tools for scale
-- Hunt edge cases in complex business logic, optimize success rates
+- Phase 1: Deep in codebase, learning insurance domain, leading incremental refactoring of tightly coupled legacy automation systems into decoupled, scalable architecture
+- Phase 2: Shift to AI-first approach for building next-generation internal tools to scale from 5M to 50M users
+- Reports directly to co-founder/CTO
+- 80% hands-on technical work expected
+- Own system design standards, pair with engineers on implementation
 
 ## Required Qualifications
 
-- Founder or lead architect experience at an early-stage startup
-- Deep hands-on coding ability (80% of time)
-- Systems design expertise for async/offline jobs, state management, failure retry
-- Experience with TypeScript (Nest.js, React), GraphQL, AWS (ECS/EKS, Lambda)
-- Obsession with debugging complex business logic and edge cases
+- Founded a company or was lead architect at early-stage startup
+- Deep experience with asynchronous systems, state management, failure retry logic
+- High bar for system design, especially offline/async jobs
+- TypeScript (Nest.js, React), GraphQL, AWS (ECS/EKS, Lambda)
+- Obsessive about success rates and edge cases in complex business logic
 
 ## Optional Qualifications
 
 - Insurance domain knowledge
-- Experience with automation/orchestration systems
-- AI/ML experience for tooling development
+- Experience scaling consumer products (5M to 50M users)
+- AI/ML tooling experience
 
 ## Company
 
-Jerry.ai is a consumer fintech/insurtech company building America's first "AllCar" super app for car ownership. Core product is an AI-powered insurance marketplace that automates comparison shopping and purchasing across 50+ insurance providers. Founded in 2017, backed by $240M+ in funding, 5M+ customers, 4.7-star App Store rating, #1 in category. HQ in Silicon Valley with offices in Toronto and Buffalo. YCombinator-backed, Forbes Best Startup Employers 2025.
+Jerry.ai is a consumer fintech/insurtech company based in Silicon Valley with offices in Toronto and Buffalo. Founded in 2017, they've raised $240M+ and serve 5M+ customers. Their core product is an AI-powered mobile "AllCar" app that simplifies car ownership, starting with an insurance comparison marketplace and expanding into maintenance, financing and safety. They are the #1 rated and most downloaded app in their category (4.7 stars). Named to Forbes Best Startup Employers 2025 and YCombinator Top Companies 2023.
 
 ## Keywords
 
-typescript, nest.js, react, graphql, aws, ecs, eks, lambda, automation, orchestration, asynchronous, state management, fault tolerance, system design, insurance, insurtech, fintech, marketplace, api integration, refactoring, architecture, microservices, ai, machine learning, startup, engineering manager, player-coach, distributed systems
+engineering manager, automation, typescript, nest.js, react, graphql, aws, ecs, eks, lambda, microservices, system design, asynchronous, state management, fault tolerance, orchestration, insurance, insurtech, fintech, consumer app, ai, machine learning, refactoring, scalability, api integration, distributed systems, agile, startup
