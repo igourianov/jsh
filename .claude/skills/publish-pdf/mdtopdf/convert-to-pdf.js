@@ -17,9 +17,19 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 		.map(line => line.trim())
 		.filter(line => line.length > 0);
 
+	// Read CSS and embed fonts as base64 data URIs so paths work
+	// regardless of where the source markdown file is located
+	const cssPath = path.join(assetsDir, 'markdown.css');
+	const cssContent = fs.readFileSync(cssPath, 'utf8')
+		.replace(/url\('([^']+\.ttf)'\)/g, (match, relPath) => {
+			const fontPath = path.resolve(baseResumeDir, relPath);
+			const fontData = fs.readFileSync(fontPath).toString('base64');
+			return `url('data:font/truetype;base64,${fontData}')`;
+		});
+
 	// Configure PDF options
 	const pdfOptions = {
-		stylesheet: [path.join(assetsDir, 'markdown.css')],
+		css: cssContent,
 		pdf_options: {
 			format: 'Letter',
 			margin: {
