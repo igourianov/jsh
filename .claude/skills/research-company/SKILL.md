@@ -48,10 +48,10 @@ Write to `jobs/{company_name}/company.md` with format:
 ```markdown
 # {company_name}
 
-**Company Type:** {SaaS/Product/Platform/IT Services}
-**Stage:** {Startup/Scale-up/Public/Enterprise}
-**Size:** {employee count}
-**Remote Policy:** {policy}
+- **Company Type:** {SaaS/Product/Platform/IT Services}
+- **Stage:** {Startup/Scale-up/Public/Enterprise}
+- **Size:** {employee count}
+- **Remote Policy:** {policy}
 
 ## Quick Take
 - {insight 1}
