@@ -23,7 +23,7 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 		pdf_options: {
 			format: 'Letter',
 			margin: {
-				top: '12mm',
+				top: '15mm',
 				right: '20mm',
 				bottom: '15mm',
 				left: '20mm'
