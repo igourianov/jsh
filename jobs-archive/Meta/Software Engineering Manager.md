@@ -1,45 +1,56 @@
-# Software Engineering Manager | Product Engineering | Social Media & AR/VR
+# Software Engineering Manager | Product | Social / Consumer Tech
 
-**URL:** https://www.metacareers.com/profile/job_details/1651600659135238 \
-**Company:** Meta \
-**Location:** Remote - Canada / Vancouver, Canada \
-**Salary Range:** $275,000 - $480,000 CAD (estimated) \
-**Hands-on:** 35% | **Coding:** 10% \
-**Posted:** December 5, 2025 \
-**Match:** 55%
+### Match: 72%
+
+- **Saved:** 2026-02-18
+- **URL:** https://www.linkedin.com/jobs/view/4372459728/
+- **Company:** Meta
+- **Location:** Canada, Remote
+- **Compensation:** CA$192,000 - CA$256,000/yr + bonus + equity
+- **Benefits:** equity, bonus, benefits package
+- **Coding:** 0%
+- **Tech stack:** not specified
+- **Team size:** not specified
+
+## Red flags
+- **Vague job description:** The posting lists only four generic responsibilities ("lead and manage a team", "collaborate with cross-functional teams", "develop and implement technical strategies", "foster a work environment of continuous learning") with no specifics about the team, product area, tech stack or concrete deliverables. The description could apply to any engineering manager role at any company.
+- **Bilingual posting (English/French):** Posting is dual-language English/French, which may indicate the role is based in Quebec with a French language requirement.
 
 ## Gaps
+- **Scale of impact:** Meta operates consumer products at billions-of-users scale. Candidate's experience is enterprise SaaS (mid-market to Fortune 500), not consumer-scale social platforms.
+- **Product domain:** No experience in social media, consumer tech, AR/VR or advertising platforms.
+- **Manager of managers tenure:** Posting requires 2+ years managing managers. Candidate developed 2 ICs into managers but does not explicitly claim 2+ years of managing managers.
 
-- No Machine Learning experience (critical requirement: building large-scale systems, algorithms, and toolsets in ML)
-- Tech stack mismatch: Role requires 8+ years coding in C++, Java, Python, and/or PHP; candidate has .NET/C#, TypeScript/JavaScript, SQL Server background
-- No social media, AR/VR, or immersive technology domain experience (has HRTech/HCM SaaS background)
-- No Bachelor's degree in Computer Science mentioned in resume (though has 4+ years relevant work experience which is stated alternative)
-- Meta's scale and complexity (serving billions of users globally) exceeds current enterprise B2B SaaS experience
+## Alignment
+- **Leadership tenure:** 10 years as engineering manager, well exceeding the 12+ years software engineering and 5+ years managing technical teams requirements.
+- **Team scaling:** Built and scaled teams from 1 to 3 cross-functional teams (30+ engineers), demonstrating recruiting and team-building ability.
+- **Technical management:** Hands-on with system design, architecture decisions and code reviews while managing large teams.
+- **Performance management:** Track record of zero voluntary attrition for 6 years, 12 promotions and developing ICs into managers.
 
 ## Summary
 
-The Software Engineering Manager role at Meta leads teams handling multiple interdependent projects in ambiguous or high-impact areas, requiring combination of strong technical expertise with effective people management. Responsibilities include defining and influencing strategy collaboratively with cross-functional partners, driving roadmap creation and execution, leading engineering initiatives with organizational-level impact, participating in technical design decisions, establishing clear expectations and goals, measuring team impact, and working with stakeholders to achieve optimal outcomes. The role requires experience building large-scale systems, algorithms, and toolsets in Machine Learning, with focus on advancing Meta's transition beyond 2D screens toward immersive experiences like augmented and virtual reality.
+Senior engineering manager role at Meta in Canada. The posting is unusually vague: it asks for a seasoned leader (12+ years engineering, 2+ years managing managers) but provides no details about the specific team, product area or technical challenges. The role appears focused on people leadership with no coding expectation.
+
+- Lead and manage a team of software engineers
+- Collaborate with cross-functional teams on technical innovation
+- Develop and implement technical strategies for business objectives
+- Foster continuous learning and improvement culture
 
 ## Required Qualifications
 
-- 8+ years software engineering experience including hands-on technical management
-- Experience building large-scale systems, algorithms, and toolsets in Machine Learning
-- 8+ years coding in C++, Java, Python, and/or PHP
-- 2+ years developing, coaching, and managing engineering leaders
-- Proven experience recruiting and managing technical teams with performance management
-- Bachelor's degree in Computer Science or 4+ years relevant work experience
-- Ability to lead teams handling multiple interdependent projects in ambiguous or high-impact areas
-- Experience defining and influencing strategy with cross-functional partners
-- Track record driving roadmap creation and execution
-- Experience leading engineering initiatives with organizational-level impact
+- Demonstrated experience recruiting and managing technical teams, including performance management
+- 12+ years software engineering experience (or PhD + 8 years), including technical management
+- BS or MS in Computer Science, Engineering or related discipline (or equivalent experience)
+- 2+ years managing managers, 5+ years managing technical teams
 
 ## Optional Qualifications
 
-- Experience with immersive technologies (AR/VR)
-- Social media platform experience
-- Large-scale distributed systems experience serving billions of users
-- Experience transitioning technologies toward new paradigms
+- Hands-on technical management building large-scale distributed systems
 
 ## Company
 
-Meta (formerly Facebook) develops technologies enabling people to connect, find communities, and grow businesses, serving billions of users globally. The company is transitioning beyond 2D screens toward immersive experiences like augmented and virtual reality to advance social technology. Meta operates in the social media and immersive technology space, building large-scale distributed systems with emphasis on Machine Learning, algorithms, and toolsets. The company focuses on advancing AR/VR technologies and creating next-generation social experiences. Meta maintains engineering teams across multiple locations including remote positions throughout Canada and offices in Vancouver, working on high-impact, ambiguous problems that require strong technical leadership and cross-functional collaboration.
+Meta builds technologies that help people connect, find communities and grow businesses. Its products include Facebook, Messenger, Instagram and WhatsApp, serving billions of users globally. Meta is expanding into augmented and virtual reality to build the next evolution of social technology. Headquartered in Menlo Park, California, it is one of the largest technology companies in the world.
+
+## Keywords
+
+software engineering manager, technical management, performance management, distributed systems, large scale, cross-functional, recruiting, people management, team leadership, technical strategy
