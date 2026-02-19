@@ -37,7 +37,6 @@ Extract the following from the job posting:
 6. **Compensation:**
    - Salary range (if stated, otherwise estimate with "(estimated)")
    - Benefits: dental, vision, health, RRSP/401k match, stock options, equity, bonuses, etc.
-   - Exclude: unlimited PTO, education/fitness/home-office allowances
 
 7. **Posted Date** - Use exact date or current month/year
 
@@ -60,7 +59,13 @@ Extract the following from the job posting:
 
 ## Step 2.5: Detect Red Flags
 
-Scan the raw job posting text for red flags. Omit this section from output if none are found.
+**Red flags are concerns for the candidate about the job or company** - things the applicant would consider negative, suspicious, or risky. This is NOT about the candidate's qualifications.
+
+Scan the raw job posting text for red flags. Omit this section from output if none are found. **Only flag what is explicitly stated or directly evidenced in the posting. Never infer, guess, or assume red flags based on industry norms or company stereotypes.**
+
+### Agency posting
+
+A job posted by a recruitment agency is NOT a red flag by itself.
 
 ### Blacklisted company
 
@@ -90,10 +95,6 @@ The posting is too short, generic, or lacks substance to evaluate the role meani
 - Salary significantly below market rate for the role, level, and location
 - Hourly pay instead of salaried (signals contractor/temp role disguised as full-time)
 
-### Unlimited PTO
-
-Unlimited PTO policies typically result in employees taking fewer days off than with a fixed allowance. Flag when the posting advertises "unlimited PTO", "flexible time off", or similar.
-
 ## Step 3: Evaluate Match
 
 Read the appropriate resume based on job posting language:
@@ -118,6 +119,8 @@ Consider:
 
 ### Identify Gaps
 
+**Gaps are concerns for the recruiter or hiring manager** - things missing from the candidate's qualifications that the employer would notice. This is NOT about the candidate's opinion of the job.
+
 **IMPORTANT - Only flag actual gaps:**
 - NEVER flag unknown/unspecified information
 - Only flag when job EXPLICITLY requires something candidate lacks
@@ -125,7 +128,7 @@ Consider:
 - Tech stack gaps ONLY when job states their actual stack as a specific requirement, not example lists
 - Note industry/domain gaps when candidate lacks experience in the company's industry (fintech, healthcare, etc.) even if not explicitly required
 - **DO NOT flag general degree requirements (Bachelor's in CS/Engineering) if candidate exceeds required years of experience** - 20 years experience >> 5 years requirement, degree becomes irrelevant
-- Flag Quebec-based companies for likely French requirement
+- Flag Quebec-based roles as a likely French language gap - recruiter will expect French, which the candidate does not speak
 - Note location misalignment only if there is an actual mismatch (do not list location if candidate qualifies)
 
 ### Identify Alignment
