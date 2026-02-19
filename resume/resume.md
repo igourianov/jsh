@@ -1,11 +1,8 @@
 # Ilia Gourianov | Engineering Manager
 
-*Contacts*: [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [LinkedIn](https://www.linkedin.com/in/ilia-gourianov/) \
-*Location*: Fort Erie, Ontario, Canada
+[ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [LinkedIn](https://www.linkedin.com/in/ilia-gourianov/) | Fort Erie, ON, Canada
 
-# Summary
-
-Engineering Manager with proven experience building and scaling high-performing remote teams that own product vision, technical strategy and execution end-to-end. Technical leader who stays engaged in system design, architecture decisions and code reviews. Deep domain expertise in enterprise SaaS, HRTech and regulated industries.
+Engineering Manager with proven experience leading and scaling high-performing remote teams that own product vision and technical strategy. Technical leader who stays engaged in system design, code reviews and exploring new technology. Deep domain expertise in enterprise SaaS, HRTech and regulated industries.
 
 # Competencies
 
