@@ -45,90 +45,75 @@ From the job screening file and company research, extract:
 - **Tech Stack**: Specific technologies mentioned
 - **Key Responsibilities**: What the role entails
 
-### 3. Create Tailored Resume
+### 3. Draft All Proposed Changes
 
-Copy base resume structure and tailor these sections:
+Before writing anything, draft a complete list of proposed changes across all sections. For each change, record:
+- **Section**: which part of the resume (Summary, Core Competencies, Experience role+bullet)
+- **Rationale**: why this change improves job fit
+- **Before**: exact original text
+- **After**: proposed replacement text
 
-#### Summary (Paragraph 1)
-- Keep core identity: "Engineering Leader with X years of experience..."
-- **Director roles**: Reframe resume title as "Engineering Leader" (not "Engineering Manager")
-- Adjust emphasis based on engineering domain (Product vs Platform vs DevOps)
-- Highlight relevant product domain experience if applicable
-- Add specific keywords from job requirements
-- Keep it concise (3-4 sentences max)
+Group changes by section in this order:
+1. Summary
+2. Core Competencies (reordering counts as a change)
+3. Experience bullets (per role, oldest to newest)
 
-**Example patterns:**
-- Platform roles: emphasize "scalable systems", "infrastructure", "architecture"
-- Product roles: emphasize "product delivery", "cross-functional collaboration", "customer impact"
-- EdTech: add "learning" or "education impact" if relevant
-- Legal tech: add "compliance", "security", "data protection"
+**Rules while drafting:**
+- Summary: keep core identity, adjust emphasis and keywords
+- **Director roles**: reframe resume title as "Engineering Leader" (not "Engineering Manager")
+- Core Competencies: reorder for relevance, rephrase to match job language, keep 8-10 bullets
+- Experience: rewrite bullets to lead with outcomes, use job posting language, keep 4-6 per role
+- No fabricated content - every change must be traceable to the base resume
 
-#### Core Competencies (Bulleted List)
-- Reorder bullets to put most relevant skills first
-- Add domain-specific competencies if missing but justified by experience
-- Adjust wording to match job posting language
-- Keep 8-10 bullets maximum
+### 4. Interactive Change Review
 
-**Prioritization:**
-1. Skills explicitly mentioned in Required Qualifications
-2. Skills that address identified Gaps (if candidate has related experience)
-3. Domain-specific skills (e.g., "Remote team leadership" for remote roles)
-4. Core engineering management skills
+Present each proposed change to the user one at a time using `AskUserQuestion`. Do NOT batch multiple changes into one question.
 
-#### Experience Section
-- Keep all roles and dates unchanged
-- Rewrite accomplishment bullets to emphasize relevant experience
-- Add context where it addresses gaps (e.g., "payroll" for payroll-adjacent roles)
-- Quantify impact where possible
-- Keep 4-6 key accomplishments per role
+**Format for each change:**
 
-**Bullet rewriting guidelines:**
-- Lead with outcomes, not activities
-- Use job posting language where natural
-- Emphasize scale and complexity for senior roles
-- Highlight relevant technical skills in context
+Show the user:
+- Section label (e.g., "Summary", "Core Competencies", "Experience - Toptal")
+- Brief rationale (1 sentence)
+- Before/After comparison
 
-### 4. Quality Checks
+**Options to offer:**
+- **Apply** - use the proposed change
+- **Skip** - keep original text for this item
+- **Edit** - user provides their own version (follow up with a free-text prompt if selected)
 
-Before saving, verify:
-- ✓ Summary mentions relevant domain/product area
-- ✓ Core Competencies are reordered for job relevance
-- ✓ No fabricated experience or skills
-- ✓ All dates and facts match base resume
-- ✓ Formatting is consistent with base resume
-- ✓ File is valid markdown
+Wait for the user's response before moving to the next change.
 
-### 5. Verification
+**After all changes are reviewed:** Confirm with a brief summary ("X of Y changes applied") before assembling the resume.
 
-Perform a three-part verification before saving:
+### 5. Assemble and Verify Tailored Resume
+
+Build the final resume by applying only the approved changes to the base resume. Then verify:
 
 #### 5a. Structure Verification
 
-Compare the tailored resume against the base resume to ensure:
-- All sections from the original are present (Summary, Core Competencies, Experience, Skills, Education)
+- All sections present (Summary, Core Competencies, Experience, Skills, Education)
 - Section order matches the original
 - Number of experience entries matches
-- No new sections were added
+- No new sections added
 
-**If structure differs:** Fix discrepancies before proceeding.
+**If structure differs:** Fix before proceeding.
 
 #### 5b. Content Audit
 
-Cross-reference every skill, technology, and accomplishment in the tailored resume against the base resume:
-- Every Core Competency must map to an existing competency (reworded is OK, invented is not)
-- Every technology mentioned must appear in the original or be clearly derived from stated experience
-- Every accomplishment must be traceable to the original (rephrased for emphasis is OK, fabricated is not)
+- Every Core Competency maps to an existing one (reworded is OK, invented is not)
+- Every technology mentioned appears in the original or is clearly derived from stated experience
+- Every accomplishment is traceable to the original
 
-**If fabricated content found:** Remove it and use only content from the base resume.
+**If fabricated content found:** Remove it.
 
 #### 5c. Improvement Assessment
 
-Compare the tailored resume against the job posting requirements and report:
-- **Requirements Addressed**: List which job requirements are now better highlighted
-- **Gaps Remaining**: List requirements that couldn't be addressed (no relevant experience exists)
-- **Keywords Matched**: Count of job posting keywords now present in the tailored resume
+Compare against job posting requirements:
+- **Requirements Addressed**: which job requirements are now better highlighted
+- **Gaps Remaining**: requirements that couldn't be addressed
+- **Keywords Added**: count of job-specific terms incorporated
 
-Record this assessment for output to the user (do NOT include in the resume file).
+Record this for the final response (do NOT include in the resume file).
 
 ### 6. Save Tailored Resume
 
@@ -138,12 +123,7 @@ Save to: `jobs/{Company}/resume.md`
 
 Respond with:
 
-**Success message:** "Tailored resume created at jobs/{Company}/resume.md"
-
-**Key changes summary (2-3 bullets):**
-- What was emphasized in Summary
-- How Core Competencies were reordered
-- What experience was highlighted
+**Success message:** "Tailored resume saved to jobs/{Company}/resume.md"
 
 **Tailoring Notes (from Step 5c):**
 
@@ -159,7 +139,7 @@ Keywords Added: [count] job-specific terms incorporated
 
 **Do not include:**
 - Full resume text in response
-- Detailed change log
+- Redundant list of changes already reviewed interactively
 
 ---
 
