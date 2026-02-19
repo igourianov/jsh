@@ -2,7 +2,7 @@
 
 [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [LinkedIn](https://www.linkedin.com/in/ilia-gourianov/) | Fort Erie, ON, Canada
 
-Engineering Manager with proven experience leading and scaling high-performing remote teams that own product vision and technical strategy. Technical leader who stays engaged in system design, code reviews and exploring new technology. Deep domain expertise in enterprise SaaS, HRTech and regulated industries.
+Engineering Manager with proven experience leading and scaling high-performing remote teams that own product vision and technical strategy. Technical leader who stays engaged in system design, code reviews and exploring new technology. Product domain expertise in multi-tenant enterprise SaaS, HRTech and regulated industries.
 
 # Competencies
 
