@@ -21,19 +21,15 @@ Engineering Manager with proven experience leading and scaling high-performing r
 
 *Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment (SOC 2, GDPR, PII) processing sensitive data at scale. Joined during early growth phase and helped scale from emerging product to Gartner-recognized industry leader.
 
-*Led following engineering teams/projects:*
-* Three cross-functional product development teams (8-12 devs+QA each) engaged in developing products as a part of the larger DayforceHCM product. Managing up to 25 engineers directly and via technical leads.
-* Platform development team consisting of 5 senior/staff engineers focused on modernizing and partitioning the product monolith and building core services.
-* Database administration team of 2 senior DBAs engaged in daily operations of thousands of dev/test SQL databases, dev solutions, provisioning and data compliance.
-
 *Accomplishments:*
 * Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
-* Scaled from one team to three high-performing cross-functional teams (30+ engineers total). Designed the engineering interview process and hired 20+ engineers.
+* Scaled from one team to three high-performing cross-functional product teams (8-12 devs+QA each, 30+ engineers total). Designed the engineering interview process and hired 20+ engineers. Managed up to 25 engineers directly and via technical leads.
 * Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
 * Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
 * Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
 * Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 90% and enabling teams to ship independently.
-* Led extraction of a critical calculation engine from the monolith into an independently scalable microservice and built core platform services that enabled other teams to transition product features to a microservices architecture.
+* Stood up a platform team of 5 senior/staff engineers that extracted a critical calculation engine from the monolith into an independently scalable microservice and built core services enabling other teams to transition to a microservices architecture.
+* Stood up a DBA team that managed daily operations across thousands of dev/test SQL databases, streamlining provisioning and ensuring data compliance.
 * Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services, removing scheduled downtime for all customers.
 
 *Skills/tools:* Kubernetes (AKS), Microservices, Kafka, Terraform, Cloud IaC, Docker, CI/CD, REST API design, High availability, Service-oriented architecture (SOA), Redis, ElasticSearch, Prometheus+Grafana, Agile/Scrum, Azure DevOps, .NET Core, C\#, SQL Server, JavaScript, HTML/CSS, ReactJS/Angular, Git
