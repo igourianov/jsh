@@ -19,7 +19,7 @@ Engineering Manager with proven experience leading and scaling high-performing r
 
 ### Engineering Manager @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Oct 2025
 
-*Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment (SOC 2, GDPR, PII) processing sensitive data at scale. Joined during early growth phase and helped scale from emerging product to Gartner-recognized industry leader.
+*Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment (SOC 2, GDPR) processing sensitive data at scale.
 
 *Accomplishments:*
 * Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
