@@ -101,9 +101,7 @@ Read the appropriate resume based on job posting language:
 - **Russian job posting:** Read `resume/resume.ru.md`
 - **English job posting:** Read `resume/resume.md`
 
-**Candidate Context:**
-- Candidate knows Russian language and is able to relocate to Russia
-- In Russian tech market, CTO role is approximately equivalent to Engineering Manager (one level above tech lead) - do not flag as a title gap
+Also read `resume/context.md` for additional candidate context that is not in the resume.
 
 **Approach:**
 - Assume recruiter role with bias towards rejection
