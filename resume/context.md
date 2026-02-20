@@ -1,14 +1,14 @@
 # Candidate context
 
-This file contains additional context abaout the candidate that cannot be placedinside the resume.
+This file contains additional context abaout the candidate that cannot be placed inside the resume.
 
 ## Language
 
-Candidate speaks Russian.
+Candidate speaks Russian and English fluently.
 
 ## Location
 
-Candidate has Russian citizenship and is able to move to Russia.
+Candidate has Russian citizenship and is able to move to Russia. For job positngs in Russian Federation assume candidate is located in Moscow.
 
 ## Role
 
