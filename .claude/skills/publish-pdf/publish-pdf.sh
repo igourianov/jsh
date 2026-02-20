@@ -23,11 +23,12 @@ fi
 # Convert source to absolute path
 SOURCE_FILE="$(cd "$(dirname "$SOURCE_FILE")" && pwd)/$(basename "$SOURCE_FILE")"
 
-# Create output directory if it doesn't exist
-mkdir -p "$OUTPUT_DIR"
-
 # Purge existing PDFs from output directory
 rm -f "$OUTPUT_DIR"/*.pdf
+
+# Copy source markdown into pdf/ folder for in-place conversion
+TEMP_MD="$OUTPUT_DIR/$(basename "$SOURCE_FILE")"
+cp "$SOURCE_FILE" "$TEMP_MD"
 
 # Generate target filename
 TARGET_FILE="$OUTPUT_DIR/$NAME - $TITLE.pdf"
@@ -40,14 +41,19 @@ if [ ! -d "node_modules" ]; then
     npm install
     if [ $? -ne 0 ]; then
         echo "✗ Failed to install dependencies"
+        rm -f "$TEMP_MD"
         exit 1
     fi
 fi
 
-# Run the conversion node script with source, target file path, name, and title
-node convert-to-pdf.js "$SOURCE_FILE" "$TARGET_FILE" "$NAME" "$TITLE"
+# Run the conversion node script with copied md, target file path, name, and title
+node convert-to-pdf.js "$TEMP_MD" "$TARGET_FILE" "$NAME" "$TITLE"
+RESULT=$?
 
-if [ $? -ne 0 ]; then
+# Clean up temporary markdown file
+rm -f "$TEMP_MD"
+
+if [ $RESULT -ne 0 ]; then
     exit 1
 fi
 

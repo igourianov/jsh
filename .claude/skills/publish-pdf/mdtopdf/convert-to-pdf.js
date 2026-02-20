@@ -6,30 +6,19 @@ const { PDFDocument } = require('pdf-lib');
 
 async function convertToPdf(inputPath, outputPath, authorName, title) {
 
-	// Get input file path, target output path, name, and title from command line arguments
-	const baseResumeDir = path.join(__dirname, '..', '..', '..', '..', 'resume');
-	const assetsDir = path.join(baseResumeDir, 'assets');
-	const seoPath = path.join(assetsDir, 'seo.txt');
-
+	// Assets live alongside the source md file in the pdf/ folder
+	const pdfDir = path.dirname(inputPath);
+	const assetsDir = path.join(pdfDir, 'assets');
 	// Read keywords from seo.txt
-	const seoContent = fs.readFileSync(seoPath, 'utf8');
+	const seoContent = fs.readFileSync(path.join(assetsDir, 'seo.txt'), 'utf8');
 	const keywords = seoContent.split('\n')
 		.map(line => line.trim())
 		.filter(line => line.length > 0);
 
-	// Read CSS and embed fonts as base64 data URIs so paths work
-	// regardless of where the source markdown file is located
-	const cssPath = path.join(assetsDir, 'markdown.css');
-	const cssContent = fs.readFileSync(cssPath, 'utf8')
-		.replace(/url\('([^']+\.ttf)'\)/g, (match, relPath) => {
-			const fontPath = path.resolve(baseResumeDir, relPath);
-			const fontData = fs.readFileSync(fontPath).toString('base64');
-			return `url('data:font/truetype;base64,${fontData}')`;
-		});
 
 	// Configure PDF options
 	const pdfOptions = {
-		css: cssContent,
+		stylesheet: [path.join(assetsDir, 'markdown.css')],
 		pdf_options: {
 			format: 'Letter',
 			margin: {
@@ -41,7 +30,6 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 			printBackground: false,
 			displayHeaderFooter: false
 		},
-		//stylesheet_encoding: 'utf-8'
 	};
 
 	const pdf = await mdToPdf(
