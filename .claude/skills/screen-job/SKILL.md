@@ -64,7 +64,9 @@ Scan the raw job posting text for red flags. Omit this section from output if no
 
 4. **Vague job description** - Posting is too short, generic, or lacks substance: no specific responsibilities, mostly boilerplate, could apply to any company.
 
-5. **Below-market compensation** - Salary significantly below market rate for the role, level and location. Hourly pay instead of salaried (signals contractor/temp role disguised as full-time).
+5. **Below-market compensation** - Salary significantly below market rate for the role, level and location. Hourly pay instead of salaried (signals contractor/temp role disguised as full-time). For Director/VP roles specifically, cross-reference the stated range against the org size and scope described — a large-org Director title at Senior IC pay is a red flag.
+
+6. **Director/VP role with coding expectation** - A Director or VP title with any non-zero coding expectation (e.g., "write production code", "hands-on", specific required stack implying IC work) signals org immaturity or role scope confusion. At Director level and above, hands-on coding pulls focus from leadership responsibilities.
 
 ## Step 4: Evaluate Match
 
