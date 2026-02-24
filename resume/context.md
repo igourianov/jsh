@@ -2,6 +2,10 @@
 
 This file contains additional context abaout the candidate that cannot be placed inside the resume.
 
+## Objective
+
+Obtain a remote Engineering Manager position within a B2B SaaS or big tech company. 
+
 ## Language
 
 Candidate speaks Russian and English fluently.

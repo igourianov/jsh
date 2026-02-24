@@ -4,13 +4,11 @@
 
 Hi, my name is Ilia.
 
-I come from an engineering background. I spent many years as a developer working across desktop, web and enterprise SaaS before moving into leadership. I'm still quite technical and stay hands-on when needed.
-
 I'm an engineering leader with a decade of experience leading engineering teams. Over the years I've led 3 cross-functional product delivery teams and 1 platform team, ranging from 5 to 12 people each. Both directly and via other leads.
 
 I think of my leadership style as "full stack" engineering management. That means I cover the full spectrum: people management, partnership with PMs, Agile and SDLC processes, and technical oversight.
 
-I'm quite passionate about new technology and process optimizations.
+I come from an engineering background. I spent many years as a developer working across desktop, web and enterprise SaaS before moving into leadership. I'm still quite technical and stay hands-on when needed.
 
 I'm excited to learn more about your team and how my experience might be a fit.
 
