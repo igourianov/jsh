@@ -31,7 +31,7 @@ Engineering Manager who builds high-performing engineering teams and products fr
 * Stood up a DBA team that managed daily operations across thousands of dev/test SQL databases, streamlining provisioning and ensuring data compliance.
 * Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services, removing scheduled downtime for all customers.
 
-*Skills/tools:* Kubernetes (AKS), Microservices, Kafka, Terraform, Docker, CI/CD, REST API design, Redis, ElasticSearch, Prometheus+Grafana, Azure DevOps, .NET Core, C\#, SQL Server, ReactJS/Angular, Git
+*Skills/tools:* Kubernetes (AKS), Microservices, Kafka, Terraform, Docker, CI/CD, REST API design, Redis, ElasticSearch, Prometheus+Grafana, Azure DevOps, .NET Core, C\#, SQL Server, ReactJS/Angular, Git, SOC 2, GDPR
 
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
