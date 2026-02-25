@@ -1,11 +1,11 @@
 # Riva
 
-**Company Type:** SaaS/Platform (CRM Data Integration)
-**Stage:** Scale-up (private, subsidiary of Omni Technology Solutions, Inc.)
-**Size:** ~120 employees across 6 continents (107 in Canada)
-**Remote Policy:** Fully remote with optional hubs in Edmonton AB, Toronto ON, and Pictou NS
-**HQ:** Edmonton, Alberta, Canada
-**Founded:** 2008
+- **Company Type:** SaaS/Platform (CRM Data Integration)
+- **Stage:** Scale-up (private, subsidiary of Omni Technology Solutions, Inc.)
+- **Size:** ~120 employees across 6 continents (107 in Canada)
+- **Remote Policy:** Fully remote with optional hubs in Edmonton AB, Toronto ON, and Pictou NS
+- **HQ:** Edmonton, Alberta, Canada
+- **Founded:** 2008
 
 ## Quick Take
 - Stable, profitable niche player in CRM data integration for regulated industries (finance, insurance, life sciences). 15+ years in business with 650+ enterprise customers.
