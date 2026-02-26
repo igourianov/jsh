@@ -26,6 +26,8 @@
 
 **Concerns:**
 - Sean seemed loose on technology - possibly been in leadership too long without staying technical
+- Long timeline to migrate to .NET 8 - raises questions about tech debt and execution velocity
+- Market position risk: long-term viability unclear given Claude Cowork and similar AI-native productivity tools encroaching on their core use case
 - Closing note: they need to collate a shortlist before getting back next week - competition is still open
 
 **Status:** Expecting follow-up early next week.
