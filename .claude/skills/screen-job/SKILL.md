@@ -22,7 +22,11 @@ Extract the following from the job posting:
 
 1. **Title:**
    - Full original title (for filename)
-   - Normalized title (for heading)
+   - Normalized title (for heading): strip to core role only. Remove team/product mentions, tech stack details, and domain qualifiers. Keep seniority level.
+     - "Software Engineering Manager, Marketplace" → "Engineering Manager"
+     - "Engineering Manager - Development (C# / .NET)" → "Engineering Manager"
+     - "Senior Engineering Manager, Platform" → "Senior Engineering Manager"
+     - "Director of Engineering, Growth" → "Director of Engineering"
 
 2. **Company** - actual employer. Keep empty if posted by agency on behalf of an unknown employer
 

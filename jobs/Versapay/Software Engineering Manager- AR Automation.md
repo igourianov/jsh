@@ -1,4 +1,4 @@
-# Software Engineering Manager | Product | Fintech
+# Engineering Manager | Product | Fintech
 
 ### Match: 82%
 

@@ -1,4 +1,4 @@
-# Senior Engineering Manager, Development and Delivery | Product | CRM/B2B SaaS
+# Senior Engineering Manager | Product | CRM/B2B SaaS
 
 ### Match: 92%
 

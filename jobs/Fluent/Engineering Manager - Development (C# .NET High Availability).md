@@ -1,4 +1,4 @@
-# Engineering Manager, Development | Platform | Ad Tech / E-commerce
+# Engineering Manager | Platform | Ad Tech / E-commerce
 
 ### Match: 75%
 
