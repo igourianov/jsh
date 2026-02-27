@@ -1,59 +1,58 @@
-# Engineering Manager | Platform/Backend | Retail Media
+# Engineering Manager | Product | Ad Tech / Retail Media
 
-**URL:** https://jobs.ashbyhq.com/vantageanalytics/8d0ff96f-7e63-4d15-981e-9324ff2b48ac \
-**Company:** Vantage \
-**Location:** Remote (Toronto, Canada) \
-**Compensation:** CAD $170,000 - $210,000 \
-**Benefits:** Home office support, annual retreats \
-**Posted:** January 2026 \
-**Match:** 75%
+### Match: 82%
+
+- **Saved:** 2026-02-27
+- **URL:** https://www.linkedin.com/jobs/view/4379056541/
+- **Company:** Vantage
+- **Location:** Remote (Toronto-based company)
+- **Compensation:** CA$170K - CA$210K
+- **Benefits:** Home office support, annual company retreats
+- **Coding:** 0%
+- **Tech stack:** Django, Celery, RabbitMQ, Redis, MySQL, Postgres, CI/CD
+- **Team size:** Not specified
 
 ## Gaps
-- **Tech Stack:** No Python/Django experience; candidate's background is .NET/C#
-- **Data Engineering:** Limited ETL/ELT and Snowflake data warehouse experience
-- **Cloud Platform:** Primary experience is Azure-adjacent (AKS), but role emphasizes broader Azure/AWS platform infrastructure ownership
-- **Industry:** No retail media or ad-tech domain experience
+
+- **Tech stack:** Preferred stack is Python/Django-based; candidate's background is .NET/C#. Stack gap in preferred qualifications only, not required.
+- **Domain:** No retail media, ad platform or commerce media experience. Ad platform API expertise (Facebook, Google, Pinterest) listed as preferred.
 
 ## Alignment
-- **Leadership Scale:** 8+ years managing engineering teams, scaled to 30+ engineers across 3 teams - exceeds 3-5 year requirement
-- **Backend Systems:** 10+ years shipping enterprise SaaS backend systems at scale
-- **Observability/SRE:** Experience with Prometheus, Grafana, CI/CD pipelines, and zero-downtime deployments
-- **B2B Enterprise:** Track record delivering B2B SaaS products serving Fortune 500 customers
-- **Hiring/Mentoring:** Developed 2 ICs into engineering managers, hired 20+ engineers
+
+- 8+ years of engineering management experience exceeds the 3-year minimum requirement.
+- Managed teams of 25+ engineers across multiple cross-functional product teams, directly matching people leadership scope.
+- Owned SDLC and CI/CD governance at Dayforce, including branching strategy redesign that reduced deployment failures by 90%.
+- Track record of hiring 20+ engineers, performance management and growing ICs into managers aligns directly with required qualifications.
+- 7+ years of SaaS platform experience (Dayforce is enterprise multi-tenant SaaS), matching the preferred qualification.
 
 ## Summary
 
-Lead a backend engineering team responsible for platform infrastructure and data pipelines at a retail media orchestration platform serving enterprise retailers like The Home Depot. Role focuses on system reliability through SLOs, development velocity, and scaling cloud operations while coaching engineers.
+Engineering Manager role at Vantage, a remote-first Toronto-headquartered company building a retail media orchestration platform. The role leads a product engineering team responsible for building and scaling the SaaS platform. Responsibilities span people leadership, delivery ownership and technical direction. The position is newly created.
 
-- **Coding:** 10%
-- Hire, mentor, and develop mixed-level engineering teams
-- Define SLOs/error budgets and manage resilience practices
-- Own SDLC, CI/CD governance, and feedback loops
-- Manage ETL orchestration and data quality
-- Control cloud budgets and cost governance
-- Lead on-call practices and post-incident reviews
+- Hire, mentor and grow a mixed-level engineering team with clear goals and regular feedback
+- Own delivery planning and execution including risk management and stakeholder communication
+- Own SDLC and CI/CD governance, shorten feedback loops and reduce engineering toil
+- Collaborate with product managers and designers to build customer-facing product
+- Set and evolve team-level technical direction aligned with broader architecture
+- Build a feedback culture focused on ownership, quality and continuous improvement
 
 ## Required Qualifications
 
-- 3-5+ years managing engineering teams
-- 7-10+ years shipping/operating backend systems
-- Platform and data pipeline leadership experience
-- Strong cloud fundamentals (Azure or AWS)
-- B2B API design and integration expertise
-- Observability/on-call leadership (SLOs, SLIs, OpenTelemetry, incident reviews)
-- Security-minded background (privilege management, key rotation, vulnerability management)
-- Hiring/mentoring/performance management track record
-- Strong communication and cross-functional collaboration skills
+- 3+ years managing software engineering teams
+- Ability to collaborate with Product Managers, Designers and stakeholders to plan, prioritize and deliver product initiatives
+- Track record of hiring, mentoring and performance-managing engineers across levels
 
 ## Optional Qualifications
 
-- Celery, RabbitMQ, Redis, MySQL, Postgres, Django proficiency
-- AWS EMR and S3 experience
-- ETL/ELT design and operation with Snowflake
-- Snowflake performance tuning and cost governance
-- SRE team management
-- CI/CD and DevOps expertise
+- Experience with Celery, RabbitMQ, Redis, MySQL, Postgres and Django
+- Ad platform API expertise (Facebook, Google, Pinterest, etc.)
+- Experience with CI/CD and DevOps
+- 7+ years total engineering experience working with SaaS platforms
 
 ## Company
 
-Vantage is a retail media orchestration platform headquartered in Toronto, operating as a remote-first company. They serve enterprise retailers including The Home Depot. The platform focuses on retail media operations, helping retailers manage and optimize their advertising and media capabilities. The company emphasizes diversity, equal opportunity, and provides remote flexibility with home office support and annual retreats.
+Vantage is a Toronto-based company building a unified orchestration platform for retail and commerce media. The platform helps enterprise retailers launch and scale retail media networks, enabling onsite, offsite and in-store advertising. It integrates with ad platforms and uses ML/AI for targeted, automated advertising at scale. The company has a global presence in North America and Asia-Pacific and counts The Home Depot among its customers. Vantage is a remote-first team spread across North America.
+
+## Keywords
+
+engineering manager, people management, team leadership, hiring, mentoring, performance management, SDLC, CI/CD, devops, SaaS, Django, Celery, RabbitMQ, Redis, MySQL, Postgres, ad platform, retail media, cross-functional, stakeholder management, product delivery, technical direction, agile, developer velocity, microservices
