@@ -1,7 +1,6 @@
 ---
 name: screen-job
 description: Complete job screening workflow - parse, match. Use when user says "screen job" or provides job posting URL for analysis.
-context: fork
 ---
 
 Screen job: $ARGUMENTS
@@ -15,6 +14,7 @@ Determine input type:
   - Script extracts JSON and outputs to stdout
 - **Other URL** (starts with http/https): Use WebFetch to retrieve content
 - **File path** (e.g., temp.txt): Use Read to load content
+- **Inline text** (multi-line job description pasted directly): Use the argument text as-is as the job posting content
 
 ## Step 2: Parse and Evaluate
 
@@ -60,7 +60,7 @@ Extract the following from the job posting:
 
 Scan the raw job posting text for red flags. Omit this section from output if none are found. **Only flag what is explicitly stated or directly evidenced in the posting. Never infer, guess, or assume red flags based on industry norms or company stereotypes.**
 
-1. **Agency posting** - A job posted by a recruitment agency is NOT a red flag by itself.
+1. **Agency posting** - A job posted by a recruitment agency is NOT a red flag by itself. **DO NOT FLAG** agency postings for being from an unknown employer.
 
 2. **Blacklisted company** - Check if the company name appears in `jobs/black-list.md`. If found, flag it and include the reason from the blacklist.
 
