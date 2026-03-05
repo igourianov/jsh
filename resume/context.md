@@ -12,6 +12,7 @@ Candidate speaks Russian and English fluently.
 
 ## Location
 
+Candidate holds Canadian citizenship and lives in Canada. No US citizenship or green card.
 Candidate has Russian citizenship and is able to move to Russia. For job positngs in Russian Federation assume candidate is located in Moscow.
 
 ## Role
