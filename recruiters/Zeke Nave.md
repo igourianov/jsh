@@ -34,3 +34,22 @@ Before we set up a call, could you share the job description for this role? I'd 
 
 Best,
 Ilia
+
+
+---
+
+Sure! I do have a few openings that we can chat more about in our call, but here is one of the JD's for the roles I'm working on. Please let me know if you'd like to schedule a call next week.
+
+---
+
+Hi Zeke,
+
+Thank you for sending this over.
+
+I had a chance to review the JD, and I do not think this opportunity would work for me. It represents a significant step down from where I am in my career.
+
+Appreciate you reaching out. Happy to stay in touch for future opportunities.
+
+Regards,
+Ilia
+
