@@ -1,7 +1,7 @@
 # query
 ("software development" OR "Application Development" OR "Engineering")
  AND ("Manager" OR "mgr" OR "Director" OR "Leader")
- AND NOT ("Affirm" OR "Canonical" OR "Helic & Co." OR Monks)
+ AND NOT ("Affirm" OR "Canonical" OR "Helic & Co." OR Monks OR Mercor OR Ashby)
 
 # date range
 last 24 hours
