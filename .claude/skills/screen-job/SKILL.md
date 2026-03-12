@@ -154,13 +154,11 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 - **{Category}:** {description}
 
 ## Gaps
-- **{Category}:** {gap description}
+- **{Category} ({X}%):** {gap description}
 - {or "No significant gaps identified"}
 
 ## Alignment
-- **{Category}:** {strength description}
-- **{Category}:** {strength description}
-- **{Category}:** {strength description}
+- **{Category} ({X}%):** {strength description}
 
 ## Summary
 
@@ -211,8 +209,10 @@ Re-read the file you just wrote and verify it against these rules. Fix any viola
 
 ### Match % check
 - Recalculate: does the score reflect the gaps and alignment you listed? A screen with no significant gaps and strong alignment should not score below 75%. A screen with multiple hard-requirement gaps should not score above 70%.
+- The weight of Gaps and Alignment items must add up to 100%
 - Red flags must not reduce the match %. Match is recruiter perspective only.
-- Compare to prior screens in the `jobs/` folder for calibration if available.
+
+## Step 8: Fix
 
 If any item fails verification, fix the file before proceeding.
 
