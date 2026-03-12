@@ -129,7 +129,7 @@ Extract keywords from the original job posting that a recruiter would use to fil
 
 Output as a flat, comma-separated list. No duplicates. Lowercase.
 
-## Output
+## Step 6: Output
 
 **Language:** Write the screen file in the same language as the original job posting. Do not translate unless explicitly asked.
 
@@ -193,6 +193,28 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 **Notes:**
 - Use `jobs/_/{Title}.md` if company cannot be determined (agency postings)
 - Alignment should be 3-5 succinct bullet points highlighting what aligns well with the role
+
+## Step 7: Verify Output
+
+Re-read the file you just wrote and verify it against these rules. Fix any violations before responding.
+
+### Red Flags check
+- Every red flag must cite explicit evidence from the job posting text. If you cannot point to a specific phrase or sentence, remove the flag.
+- Red flags are the candidate's concerns about the job/company. If an item is actually a recruiter concern about the candidate, move it to Gaps or remove it.
+
+### Gaps check
+- Gaps are recruiter/hiring manager concerns about the candidate. If an item is actually a candidate concern about the job, move it to Red Flags or remove it.
+- Every gap must reference a specific requirement from the posting that the candidate lacks. If the posting doesn't explicitly require it, remove the gap.
+- Tech listed as examples ("such as", "e.g.", "or similar") is not a hard requirement. Don't flag missing example items.
+- Degree requirements are not gaps when the candidate exceeds required YoE.
+
+
+### Match % check
+- Recalculate: does the score reflect the gaps and alignment you listed? A screen with no significant gaps and strong alignment should not score below 75%. A screen with multiple hard-requirement gaps should not score above 70%.
+- Red flags must not reduce the match %. Match is recruiter perspective only.
+- Compare to prior screens in the `jobs/` folder for calibration if available.
+
+If any item fails verification, fix the file before proceeding.
 
 ## Response
 
