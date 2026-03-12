@@ -1,67 +1,62 @@
-# Engineering Manager | Product | Enterprise Automation / SaaS
+# Engineering Manager | Product | B2B SaaS / Enterprise Process Automation
 
-### Match: 82%
+### Match: 78%
 
-- **Saved:** 2026-02-18
-- **URL:** https://www.linkedin.com/jobs/view/4372611178/
+- **Saved:** 2026-03-12
+- **URL:** https://www.linkedin.com/jobs/view/4372617073/
 - **Company:** Camunda
-- **Location:** Remote (Montreal, QC listed; global remote company)
-- **Compensation:** Not stated for Canada. US range: $172,600-$278,300 total target cash. Estimated Canada range: ~$150,000-$200,000 CAD (estimated)
-- **Benefits:** Equity (VSOP), retirement/pension with company contributions, life and disability insurance, health (locally tailored), mental wellbeing (Modern Health), Live Well LSA (scaling to €1,000/yr from 2027), up to $1,000/yr professional development
+- **Location:** Remote (global)
+- **Compensation:** US $172,600–$278,300 Total Target Cash (base + variable); Canada via Remote.com (rate not stated)
+- **Benefits:** Home office budget, co-working support, flexible PTO, local healthcare, Modern Health (mental wellbeing), Live Well LSA (€1,000/year from 2027), retirement/pension plans, life/disability insurance, $1,000/year learning budget, equity via VSOP, annual company kickoff
 - **Coding:** 0%
-- **Tech stack:** TypeScript, React (nice-to-have), BPMN/DMN tooling (nice-to-have)
-- **Team size:** Not specified
-
-## Red flags
-
-- **Unlimited PTO:** "flexible time off to recharge when you need it" indicates an unlimited PTO policy.
+- **Tech stack:** BPMN, TypeScript/React (nice-to-have), process orchestration tooling
+- **Team size:** Not stated (single team implied)
 
 ## Gaps
 
-- **French language:** Role is Quebec-based. French is likely expected by the recruiter; candidate does not speak French.
-- **Domain:** No experience with process orchestration, BPMN, or workflow automation tooling.
-- **Frontend focus:** Role centers on a modeling canvas (UI-heavy). Candidate's frontend exposure is secondary to backend/platform work.
+- **Frontend product domain:** The team owns a highly interactive visual canvas (TypeScript/React). Candidate's EM experience is backend/platform-focused. Managing a frontend-heavy product team is a nice-to-have the candidate does not cover.
+- **BPMN / Process Orchestration:** The entire product context is BPMN and workflow engines. Candidate has no stated exposure to this domain.
 
 ## Alignment
 
-- **People leadership:** 8 years as EM at Dayforce, managing up to 30 engineers across 3 cross-functional teams with zero voluntary attrition for 6 years.
-- **Product delivery:** Full ownership of roadmap execution, SLAs, quality, and SDLC in a large enterprise SaaS environment.
-- **Cross-functional collaboration:** Consistent partnership with Product and Design on roadmap, requirements, and trade-offs across 10 years at Ceridian.
-- **Engineering culture:** Track record of building high-performing teams, hiring 20+ engineers, developing 2 ICs into managers and promoting 12 engineers.
-- **AI adoption:** Listed competency in AI-augmented development and team adoption strategies; aligns with nice-to-have on AI integration.
+- 10 years as EM at Ceridian, managing up to 25 engineers across 3 cross-functional product teams — direct match to people leadership and team health requirements.
+- Built Talent Management suite from zero to 1,000+ enterprise customers in partnership with Product and Design — matches end-to-end user-facing product delivery in SaaS.
+- Remote-first leadership through COVID transition; zero voluntary attrition for 6 years and consistently top eNPS — matches remote collaboration and team culture expectations.
+- On-call rotations, blameless postmortems and deployment reliability work (90% failure reduction) — matches incident and escalation management requirements.
+- Designed engineering interview process, hired 20+ engineers, developed 2 ICs into EMs — matches hiring and engineering culture contributions.
 
 ## Summary
 
-Engineering Manager role at Camunda leading the team responsible for the modeling canvas product - the core UI where customers design BPMN-based business processes. The role is people-management focused with no coding requirement. Key expectations include delivery ownership, PM/Design collaboration, incident management, and team development. The team builds a highly visible, user-facing product component shared across multiple Camunda products.
+Engineering Manager role leading the team that builds Camunda's BPMN modeling canvas — the visual designer where customers define and orchestrate business processes. The team is responsible for a high-visibility, user-facing product that sits at the core of Camunda's platform. The role is a standard people-manager EM position: own delivery, partner with Product/Design, support incident response, develop team members, and contribute to hiring. Fully remote, distributed team. The unique challenge is the domain specificity — BPMN tooling, visual/canvas UIs, and a frontend-heavy tech stack — which differentiates this from a typical backend SaaS EM role.
 
-- Lead a team building the BPMN modeling canvas (design and orchestration tooling)
-- Own delivery, quality and roadmap alignment for the canvas area
-- Partner with Product and Design on next-gen canvas vision and requirements
-- Support on-call, incident response and stakeholder communication
-- Develop team members through feedback, coaching and growth opportunities
-- Contribute to hiring and engineering culture across the org
+- Lead a team owning the BPMN/process modeling canvas experience
+- Own delivery roadmap and balance feature development with UX and technical excellence
+- Partner with Product Management and Design on canvas vision and requirements
+- Support on-call and incident response practices for team services
+- Coach and develop team members, provide performance feedback
+- Contribute to hiring and engineering culture initiatives
 
 ## Required Qualifications
 
 - Experience leading software engineers as a people manager (performance, mentoring, team health)
-- Track record delivering user-facing product features end-to-end with Product and Design, ideally in SaaS/cloud
+- Proven track record delivering user-facing product features end-to-end with Product and Design in SaaS/cloud
 - Solid understanding of modern engineering practices (code review, automated testing, CI/CD, observability)
 - Comfort with incident and escalation management under pressure
-- Strong communication and collaboration skills in a remote-first environment
+- Strong remote-first communication and collaboration skills; candid feedback culture
 
 ## Optional Qualifications
 
-- Experience with developer tools, modeling tools, design systems or canvas-based UIs (BPMN/DMN)
-- Familiarity with process orchestration / BPMN or workflow engines
-- Background working on highly interactive frontend applications (TypeScript/React or similar)
-- Experience leading development of authoring tools with AI-driven capabilities
-- Experience in distributed, multi-team product organizations with shared components
-- Experience encouraging AI adoption within engineering organizations
+- Experience with developer tools, modeling tools, design systems, or visual editors (diagramming, canvas UIs, BPMN/DMN)
+- Familiarity with process orchestration / BPMN or workflow engines (Camunda or similar)
+- Background managing highly interactive frontend applications (TypeScript/React) in partnership with UX
+- Experience leading development of AI-driven authoring tools (intelligent assistance, content generation, validation)
+- Experience in distributed, multi-team orgs where shared components are used across products
+- Experience encouraging AI tooling adoption within engineering teams
 
 ## Company
 
-Camunda is a German-founded, fully remote enterprise software company specializing in process orchestration and automation. Their platform enables organizations to model, automate and monitor complex business workflows using BPMN (Business Process Model and Notation) and related standards. Over 700 enterprise customers including Atlassian, ING and Vodafone use Camunda to orchestrate processes across people, systems and AI agents. The company was named a Visionary in the 2025 Gartner Magic Quadrant for Business Orchestration and Automation Technologies, and is on GP Bullhound's 2024 Top 100 Next Unicorn list. Operates as a global remote-first company with annual all-hands events.
+Camunda is a German-founded, fully remote B2B SaaS company providing enterprise process orchestration and automation software. Their platform enables organizations to model, automate and monitor complex business processes — spanning human tasks, system integrations and AI agents — using BPMN and related open standards. Customers include Atlassian, ING and Vodafone (700+ enterprise accounts). Named a Visionary in the 2025 Gartner Magic Quadrant for Business Orchestration and Automation Technologies. The company positions itself at the intersection of traditional BPM tooling and the emerging agentic AI space, building "enterprise-grade agents with built-in governance" for business-critical processes.
 
 ## Keywords
 
-engineering manager, people management, bpmn, process orchestration, workflow automation, modeling canvas, user-facing product, saas, cloud, typescript, react, frontend, design systems, canvas-based ui, product management collaboration, cross-functional, remote-first, agile, ci/cd, automated testing, observability, incident management, on-call, stakeholder communication, hiring, engineering culture, ai adoption, distributed teams, shared components, dmn
+engineering manager, people management, BPMN, process orchestration, workflow engine, SaaS, B2B, remote team, TypeScript, React, canvas UI, visual editor, product delivery, roadmap planning, cross-functional collaboration, mentoring, performance management, incident management, on-call, continuous delivery, CI/CD, observability, automated testing, code review, agile, user-facing product, design systems, agentic automation, business process management, enterprise software, distributed teams, hiring, AI adoption
