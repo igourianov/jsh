@@ -1,0 +1,18 @@
+[
+  { "category": "Leadership experience", "text": "3–5+ years managing engineering teams", "weight": 14 },
+  { "category": "Leadership experience", "text": "Talent development and performance management", "weight": 8 },
+  { "category": "Leadership experience", "text": "Stakeholder management and cross-functional collaboration", "weight": 5 },
+  { "category": "Leadership experience", "text": "Vendor management and delivery oversight", "weight": 3 },
+  { "category": "Technical background", "text": "7+ years overall software engineering experience", "weight": 9 },
+  { "category": "Technical background", "text": "Solution architecture and system design", "weight": 9 },
+  { "category": "Technical background", "text": "AI-assisted development tools adoption", "weight": 8 },
+  { "category": "Technical background", "text": "Enterprise-scale system integration", "weight": 6 },
+  { "category": "Technical background", "text": "Security-by-design principles", "weight": 3 },
+  { "category": "Tech stack", "text": "CI/CD, automated testing, Git, Agile", "weight": 4 },
+  { "category": "Tech stack", "text": "REST APIs, microservices, event-driven systems", "weight": 4 },
+  { "category": "Tech stack", "text": "Azure (preferred)", "weight": 4 },
+  { "category": "Tech stack", "text": "React, Node.js, JavaScript, Python", "weight": 5 },
+  { "category": "Domain", "text": "Non-profit or fundraising domain experience", "weight": 10 },
+  { "category": "Domain", "text": "HRIS platform experience", "weight": 2 },
+  { "category": "Domain", "text": "Digital Experience Platform (Contentful, Optimizely, Sitecore)", "weight": 3 }
+]

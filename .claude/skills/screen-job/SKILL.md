@@ -42,29 +42,36 @@ Extract the following from the job posting:
 
 7. **Coding %** - Specifically writing production code (0-60%)
    - 0% signals: broad tech options with "or"/"such as", "leverage experience" language, no core programming language (Java, React, Python, etc.) specified
-   - >0% signals: specific required stack, "writing code", "implementing features"
+   - >0% signals: specific required language, "writing code", "implementing features"
 
-8. **Qualifications** - Extract all qualifications (required and nice-to-have) as a structured list.
+8. **Qualifications** - Extract all qualifications (required and nice-to-have) in three steps:
 
-Each qualification must follow this structure:
+**Step 1 — Extract individual qualifications:**
+- Qualifications with examples: extract the core as a required qualification + examples as a single optional. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java, Python or Go".
+- Responsibilities count as required qualifications. "Champion AI tool adoption" → "AI tooling experience".
+- Industry/domain experience is a qualification even when not explicitly required.
+- Quebec-based roles: French language is a qualification even if not listed.
+
+**Step 2 — Assign weight to each qualification:**
+- Hard requirements: 10-20%+; nice-to-haves: 2-5% each
+- Product/industry domain: **10% if implied, 20% if explicitly required**
+- Weights must sum to 100 across all qualifications
+
+**Step 3 — Group by category:**
+- **Leadership experience:** communication, delivery, culture, ownership, process improvement, people development, stakeholder alignment, adaptability, leadership development, etc.
+- **Technical background:** architectural oversight, code reviews and **previous** experience in development
+- **Product domain:** industry vertical and business domain knowledge (e.g. fintech, healthcare, non-profit, e-commerce)
+- **Integrations:** content/DXP platforms (Contentful, Sitecore, Optimizely, etc.) and third-party system integrations (HRIS, CRM, ERP, payment processors, etc.)
+- **Tech stack:** specific technologies, tools, frameworks and languages. Does NOT include content platforms or third-party integrations (those are Integrations).
+
+Run:
 ```
-- category: <string>   # e.g. Leadership experience, Tech stack, Product domain, Culture fit, Location, Education
-  text: <string>       # concise description of the requirement; no fluff words ("exceptional", "proven", "strong", etc.) — facts and specifics only
-  required: <bool>     # true for must-haves, false for nice-to-haves
-  weight: <int>        # importance to a recruiter; must sum to 100% across all qualifications
+node .claude/skills/screen-job/group-qualifications.js '<json>'
 ```
 
-**Rules for reading qualifications:**
-- For qualifications with examples: extract the core requirement as a required qualification and group the examples as a single optional qualification. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java, Python or Go". "Agile experience (Scrum, Kanban)" → required "agile methodology experience" + optional "Scrum or Kanban".
-- Job responsibilities can also be read as required qualifications. E.g. "Champion the adoption of AI tools across the engineering team" → required "AI tooling experience".
-- Industry/domain experience is a qualification even when not explicitly required
-- Quebec-based roles: French language is a qualification even if not listed
-- **Do not break out generic EM competencies** (communication, delivery, culture, ownership, process improvement, people development, stakeholder alignment) as separate qualifications. These are implied by leadership experience. Only list them separately if the posting states an unusual or specific requirement beyond typical EM scope.
+Input JSON array: `[{ "category", "text", "weight" }, ...]`
 
-**Weighting guidance:**
-- Core role requirements (e.g., years of EM experience, team leadership) outweigh peripheral ones
-- Nice-to-haves typically warrant 2-5% each; hard requirements 10-20%+
-- Product/industry domain experience: **10% if not explicitly required, 20% if explicitly required**
+The script merges qualifications by category (summing weights, concatenating text) and returns one entry per category sorted by total weight descending. Use this output for evaluation and output steps.
 
 9. **Summary** - Succinct overview of the role only (not the company). No corporate fluff. 300 words max.
 
@@ -86,14 +93,19 @@ Also read `resume/context.md` for additional candidate context that is not in th
 - Assume recruiter role with bias towards rejection
 - Be critical but don't invent non-existent gaps
 
-For each qualification, determine whether the candidate meets it:
-- **Alignment** — candidate meets or exceeds the requirement
-- **Gap** — candidate does not meet the requirement
+For each qualification, assign a **match value** (0–100) representing how well the candidate meets it:
 
-Degree requirements: if the posting requires a degree but the candidate exceeds the required years of experience, classify as Alignment.
+| Value | Meaning |
+|-------|---------|
+| 100 | Fully meets or exceeds the requirement |
+| 75 | Mostly meets; minor gap or slightly less experience than asked |
+| 50 | Partially meets; adjacent or transferable experience, not a direct match |
+| 25 | Weak match; tangential relevance only |
+| 0 | Does not meet the requirement |
 
+Degree requirements: if the posting requires a degree but the candidate exceeds the required years of experience, assign 100.
 
-Match % = sum of weights of all Alignment items.
+**Match % = Σ (weight × match_value / 100) across all qualifications**
 
 ## Step 4: Detect Red Flags
 
@@ -131,18 +143,14 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 - **Compensation:** {Salary range}
 - **Benefits:** {Benefits}
 - **Coding:** {X}%
-- **Tech stack:** {list of tech}
 - **Team size:** {number of reports}
 
 ## Red flags
 - **{Category}:** {description}
 
-## Gaps
-- **{Category} ({X}%):** {original requirement from posting}
-- {or "No significant gaps identified"}
+## Qualifications
 
-## Alignment
-- **{Category} ({X}%):** {original requirement from posting}
+- **{Category} (weight:{weight}%, match:{match_value}%):** {qualification text}
 
 ## Summary
 
