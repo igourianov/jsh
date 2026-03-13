@@ -44,15 +44,35 @@ Extract the following from the job posting:
    - 0% signals: broad tech options with "or"/"such as", "leverage experience" language, no core programming language (Java, React, Python, etc.) specified
    - >0% signals: specific required stack, "writing code", "implementing features"
 
-8. **Required Qualifications** - Must-haves
+8. **Qualifications** - Extract all qualifications (required and nice-to-have) as a structured list. This list feeds directly into Step 4.
 
-9. **Optional Qualifications** - Nice-to-haves
+Each qualification must follow this structure:
+```
+- category: <string>   # e.g. Leadership experience, Tech stack, Product domain, Culture fit, Location, Education
+  text: <string>       # concise description of the requirement; no fluff words ("exceptional", "proven", "strong", etc.) — facts and specifics only
+  required: <bool>     # true for must-haves, false for nice-to-haves
+  weight: <int>        # importance to a recruiter; must sum to 100% across all qualifications
+```
 
-10. **Summary** - Succinct overview of the role only (not the company). No corporate fluff. 300 words max.
+**Weighting guidance:**
+- Required qualifications carry more weight than nice-to-haves
+- Core role requirements (e.g., years of EM experience, team leadership) outweigh peripheral ones
+- Tech stack items carry less weight when listed as examples ("e.g.", "such as", "or similar")
+- Nice-to-haves typically warrant 2-5% each; hard requirements 10-20%+
 
-11. **Responsibilities** - Key duties and expectations for the role
+**Rules for reading qualifications:**
+- Parse requirements by core statement, not examples. "Experience with X (A, B, C, etc.)" requires X, not specifically A/B/C
+- Job responsibilities can also be read as required qualifications. E.g. "Champion the adoption of AI tools across the engineering team" - need to have experience with AI tooling.
+- Tech stack items are only hard requirements when the job specifies its actual stack — not when listed as examples ("e.g.", "such as", "or similar")
+- Industry/domain experience is a qualification even when not explicitly required
+- Degree requirements are not qualifications when the candidate exceeds required years of experience
+- Quebec-based roles: French language is a qualification even if not listed
 
-12. **Company Description** - Succinct overview of the company and the product (or type of projects) they develop. 300 words max.
+9. **Summary** - Succinct overview of the role only (not the company). No corporate fluff. 300 words max.
+
+10. **Responsibilities** - Key duties and expectations for the role
+
+11. **Company Description** - Succinct overview of the company and the product (or type of projects) they develop. 300 words max.
 
 ## Step 3: Detect Red Flags
 
@@ -84,34 +104,11 @@ Also read `resume/context.md` for additional candidate context that is not in th
 - Assume recruiter role with bias towards rejection
 - Be critical but don't invent non-existent gaps
 
-### Calculate Match Percentage (0-100%)
+For each qualification, determine whether the candidate meets it:
+- **Alignment** — candidate meets or exceeds the requirement
+- **Gap** — candidate does not meet the requirement
 
-Match % reflects how well the candidate fits the role from the recruiter's perspective. Do NOT factor in red flags (those are the candidate's concerns, not the recruiter's).
-
-Consider:
-- Experience alignment
-- Skills match
-- Domain knowledge
-- Tech stack alignment
-
-### Identify Gaps
-
-**Gaps are concerns for the recruiter or hiring manager** - things missing from the candidate's qualifications that the employer would notice. This is NOT about the candidate's opinion of the job.
-
-**IMPORTANT - Only flag actual gaps:**
-- Only flag when the job explicitly requires something the candidate lacks
-- Parse requirements by core statement, not examples. "Experience with X (A, B, C, etc.)" requires X, not specifically A/B/C
-- Tech stack gaps only when the job specifies its actual stack, not example lists
-- Note industry/domain gaps even if not explicitly required
-- Ignore degree requirements when candidate exceeds required years of experience
-- Quebec-based roles: flag French language gap (candidate does not speak French)
-- Only flag location if there is an actual mismatch
-
-### Identify Alignment
-
-Succinct bullet-point list (3-5 bullets) of how candidate experience aligns with the role.
-
-**Avoid fluff words**: No "exceptional," "proven," "strong," "excellent," etc. - state facts and numbers only.
+Match % = sum of weights of all Alignment items. Do NOT factor in red flags (those are the candidate's concerns, not the recruiter's).
 
 ## Step 5: Extract Keywords
 
@@ -138,7 +135,7 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 ```markdown
 # {Normalized Title} | {Engineering domain} | {Product domain}
 
-### Match: {X}%
+### Match: {X}% <!-- sum of met qualifications -->
 
 - **Saved:** {current date: yyyy-MM-dd}
 - **URL:** {original job URL, if present} 
@@ -153,11 +150,11 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 ## Red flags                          <!-- omit section if none found -->
 - **{Category}:** {description}
 
-## Gaps
+## Gaps                                <!-- qualifications the candidate does not meet; weights sum to (100% - Match%) -->
 - **{Category} ({X}%):** {gap description}
 - {or "No significant gaps identified"}
 
-## Alignment
+## Alignment                           <!-- qualifications the candidate meets or exceeds; weights sum to Match% -->
 - **{Category} ({X}%):** {strength description}
 
 ## Summary
@@ -208,8 +205,10 @@ Re-read the file you just wrote and verify it against these rules. Fix any viola
 
 
 ### Match % check
-- Recalculate: does the score reflect the gaps and alignment you listed? A screen with no significant gaps and strong alignment should not score below 75%. A screen with multiple hard-requirement gaps should not score above 70%.
-- The weight of Gaps and Alignment items must add up to 100%
+- Verify all qualifications from the posting are accounted for (either as a gap or alignment item).
+- Verify all weights sum to 100%.
+- Verify match % equals the sum of alignment weights exactly.
+- A screen with no significant gaps and strong alignment should not score below 75%. A screen with multiple hard-requirement gaps should not score above 70%.
 - Red flags must not reduce the match %. Match is recruiter perspective only.
 
 ## Step 8: Fix
