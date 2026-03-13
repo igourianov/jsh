@@ -59,10 +59,12 @@ Each qualification must follow this structure:
 - Job responsibilities can also be read as required qualifications. E.g. "Champion the adoption of AI tools across the engineering team" → required "AI tooling experience".
 - Industry/domain experience is a qualification even when not explicitly required
 - Quebec-based roles: French language is a qualification even if not listed
+- **Do not break out generic EM competencies** (communication, delivery, culture, ownership, process improvement, people development, stakeholder alignment) as separate qualifications. These are implied by leadership experience. Only list them separately if the posting states an unusual or specific requirement beyond typical EM scope.
 
 **Weighting guidance:**
 - Core role requirements (e.g., years of EM experience, team leadership) outweigh peripheral ones
 - Nice-to-haves typically warrant 2-5% each; hard requirements 10-20%+
+- Product/industry domain experience: **10% if not explicitly required, 20% if explicitly required**
 
 9. **Summary** - Succinct overview of the role only (not the company). No corporate fluff. 300 words max.
 
@@ -136,11 +138,11 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 - **{Category}:** {description}
 
 ## Gaps
-- **{Category} ({X}%):** {gap description}
+- **{Category} ({X}%):** {original requirement from posting}
 - {or "No significant gaps identified"}
 
 ## Alignment
-- **{Category} ({X}%):** {strength description}
+- **{Category} ({X}%):** {original requirement from posting}
 
 ## Summary
 
