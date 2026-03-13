@@ -72,7 +72,7 @@ Each qualification must follow this structure:
 
 11. **Company Description** - Succinct overview of the company and the product (or type of projects) they develop. 300 words max.
 
-12. **Keywords** - ATS keywords a recruiter would use to filter resumes. Include: technical skills and tools, methodologies, domain terms, role-specific terms, certifications. Exclude: generic filler, company branding, compensation terms. Output as a flat comma-separated lowercase list, no duplicates.
+12. **Keywords** - ATS keywords a recruiter would use to filter resumes. Include: technical skills and tools, methodologies, domain terms, role-specific terms, certifications. Exclude: generic filler, company branding, compensation terms. Output as a flat comma-separated list, no duplicates.
 
 ## Step 3: Evaluate Match
 
