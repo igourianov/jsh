@@ -1,54 +1,58 @@
-# Engineering Manager | Product | InsurTech
+# Engineering Manager | Full-stack / Product | Insurtech
 
-**URL:** https://jobs.ashbyhq.com/kin/b480df69-a663-41f3-94f1-2741672ae953 \
-**Company:** Kin Insurance \
-**Location:** Remote (Ontario, Canada) \
-**Compensation:** CAD $149,000 - $186,000 \
-**Benefits:** Equity, bonus \
-**Posted:** January 2026 \
-**Match:** 78%
+### Match: 77%
 
-## Gaps
-- **Tech Stack:** Role requires Ruby on Rails experience (nice-to-have) and modern JavaScript frameworks (React/Angular/Vue listed); candidate has React/Angular but no Ruby
-- **Industry Domain:** InsurTech/regulated financial services experience preferred; candidate's background is in HCM/HRTech SaaS
-- **Big Data:** Role lists Looker, BigTable experience as nice-to-have; candidate lacks specific big data tooling experience
+- **Saved:** 2026-03-13
+- **URL:** https://www.linkedin.com/jobs/view/4367068569/
+- **Company:** Kin Insurance
+- **Location:** Remote (Ontario, Canada)
+- **Compensation:** $149K–$186K/yr
+- **Benefits:** Comprehensive benefits program with supplemental coverage (specifics not listed)
+- **Coding:** 30%
+- **Team size:** Not specified
 
-## Alignment
-- **Leadership Scale:** 10 years managing engineering teams up to 30 engineers, hiring 20+ engineers, developing ICs into managers
-- **Distributed Systems:** Led platform team modernizing monolith to microservices; implemented zero-downtime deployments
-- **AWS/Cloud:** Kubernetes, Terraform, Docker, CI/CD experience with cloud infrastructure (Azure/AWS)
-- **Remote Leadership:** Transitioned teams to fully distributed remote during COVID while maintaining velocity
-- **Full-Stack:** .NET/C#, React/Angular, TypeScript, SQL experience across product development teams
+## Qualifications
+
+- **Leadership experience (weight:29%, match:100%):**
+  - Engineering management and team leadership in a fast-paced environment
+  - Full SDLC ownership: analysis, design, development, testing, deployment, support
+  - Cross-functional communication with Product, PMO and engineering teams
+  - Recruiting, interviewing and hiring engineers
+
+- **Technical background (weight:32%, match:84%):**
+  - Minimum 8 years hands-on software development with strong CS fundamentals
+  - Player-coach: contributing meaningful production code
+  - Building distributed systems and decomposing monoliths into modular services
+
+- **Tech stack (weight:29%, match:63%):**
+  - API-first and schema-first workflows (OpenAPI/Swagger, contract testing, interface-driven development)
+  - AWS: serverless architectures, event-driven patterns, infrastructure as code (Lambda, IaC)
+  - Relational and NoSQL databases, message queues/brokers, distributed system design patterns
+  - Modern JavaScript frameworks: React, Angular or Vue
+  - BI or big-data technologies such as Looker or BigTable
+  - Ruby on Rails or similar backend framework
+
+- **Product domain (weight:10%, match:25%):**
+  - Insurance or financial services industry experience
 
 ## Summary
 
-Lead a full-stack engineering team at a direct-to-consumer digital home insurance startup. Role combines hands-on technical contributions with team leadership, including mentoring engineers, designing distributed systems, transitioning from monolithic architectures, and championing API-first development practices. Involves managing production incidents, collaborating on product roadmap, and participating in recruiting.
+Player-coach Engineering Manager leading a full-stack team building distributed, API-first systems at a remote-first insurtech. The role sits at a pivotal architectural moment: guiding the decomposition of monolithic systems into modular, loosely coupled services on AWS while shipping roadmap features with predictable quality.
 
-- **Coding:** 30%
-- Lead full-stack engineering team with hands-on technical contributions
-- Design distributed systems and transition from monolithic architecture
-- Champion API-first development using OpenAPI/Swagger
-- Manage production incidents and maintain system reliability
-- Collaborate with product leadership on roadmap development
-- Mentor engineers through technical and professional growth
-- Participate in recruiting and hiring processes
-
-## Required Qualifications
-
-- 8+ years hands-on software development experience
-- Proven team leadership experience
-- Expertise building distributed systems and microservices
-- AWS cloud architecture knowledge (Lambda, serverless databases, IaC)
-- Relational and NoSQL database experience
-- Strong communication abilities
-
-## Optional Qualifications
-
-- Modern JavaScript frameworks (React, Angular, Vue)
-- Big data technologies (Looker, BigTable)
-- Ruby on Rails experience
-- Regulated industry or financial services background
+- Lead and develop a full-stack engineering team (front-end and back-end)
+- Contribute meaningful production code while setting technical direction
+- Drive delivery from concept through production with quality and predictability
+- Champion API-first and schema-first practices (OpenAPI/Swagger, contract testing)
+- Guide monolith decomposition into modular, distributed services with clear ownership
+- Design scalable architectures on AWS: Lambdas, event-driven systems, serverless databases, IaC
+- Establish observability, resilience and distributed communication best practices
+- Partner cross-functionally with Product and PMO
+- Participate in recruiting and hiring
 
 ## Company
 
-Kin Insurance is a direct-to-consumer digital home insurance provider reshaping the industry through technology and customer-centric innovation. The company focuses on using technology to improve the homeowner insurance experience. Recognized by Forbes as one of America's Best Startup Employers (ranked #37 in 2024) and Built In Chicago's Best Places to Work.
+Kin Insurance is a remote-first insurtech founded in 2016, focused on homeowners insurance for climate-risk and high-cost markets. They sell directly to homeowners via technology-driven underwriting using data to customize coverage and keep costs down. Operating in 13 US states, with remote technical roles open to Ontario-based candidates. Recognized on Built In Chicago Best Places to Work (2021–2026), Forbes Best Startup Employers (2021–2024), Inc. 5000 and Forbes Fintech 50. Profitable with disciplined growth and backing from QED Investors, August Capital, Hudson Structured and others.
+
+## Keywords
+
+Engineering Manager, player-coach, full-stack, distributed systems, microservices, monolith decomposition, API-first, schema-first, OpenAPI, Swagger, contract testing, interface-driven development, AWS, Lambda, serverless, event-driven architecture, infrastructure as code, IaC, Terraform, React, Angular, Vue, JavaScript, TypeScript, Ruby on Rails, NoSQL, SQL, message queues, Kafka, observability, reliability, resilience, idempotency, tracing, SDLC, roadmap delivery, cross-functional, insurtech, fintech, regulated industry, remote
