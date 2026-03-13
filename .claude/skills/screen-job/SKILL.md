@@ -164,26 +164,6 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 **Notes:**
 - Use `jobs/_/{Title}.md` if company cannot be determined (agency postings)
 
-## Step 6: Verify and Fix
-
-Re-read the file you just wrote. Fix any violations before responding.
-
-### Red Flags check
-- Every red flag must cite explicit evidence from the job posting text. If you cannot point to a specific phrase or sentence, remove the flag.
-- Red flags are the candidate's concerns about the job/company. If an item is actually a recruiter concern about the candidate, move it to Gaps or remove it.
-
-### Gaps check
-- Gaps are recruiter/hiring manager concerns about the candidate. If an item is actually a candidate concern about the job, move it to Red Flags or remove it.
-- Every gap must correspond to a qualification in the list from Step 2. Apply the same qualification rules from Step 2 when deciding whether a gap is valid.
-
-
-### Match % check
-- Verify all qualifications from the posting are accounted for (either as a gap or alignment item).
-- Verify all weights sum to 100%.
-- Verify match % equals the sum of alignment weights exactly.
-- A screen with no significant gaps and strong alignment should not score below 75%. A screen with multiple hard-requirement gaps should not score above 70%.
-- Red flags must not reduce the match %. Match is recruiter perspective only.
-
 ## Response
 
 Output only:
