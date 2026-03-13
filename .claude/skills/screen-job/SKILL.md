@@ -28,7 +28,7 @@ Extract the following from the job posting:
      - "Senior Engineering Manager, Platform" → "Senior Engineering Manager"
      - "Director of Engineering, Growth" → "Director of Engineering"
 
-2. **Company** - actual employer. Keep empty if posted by agency on behalf of an unknown employer
+2. **Company** - actual employer
 
 3. **Engineering Domain** - Product, DevOps/SRE, Platform, etc.
 
@@ -159,10 +159,6 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 {comma-separated list of recruiter-matching keywords}
 ```
-
-
-**Notes:**
-- Use `jobs/_/{Title}.md` if company cannot be determined (agency postings)
 
 ## Response
 
