@@ -7,22 +7,17 @@ const arg = process.argv[2];
 if (!arg) { console.error('Usage: node group-qualifications.js <json|file>'); process.exit(1); }
 const raw = arg.trimStart().startsWith('[') ? arg : readFileSync(arg, 'utf8');
 
-let qualifications = JSON.parse(raw);
-let cats = {};
-let catList = [];
+const cats = {};
 
-for (const q of qualifications) {
-	let cat = cats[q.category];
+for (const q of JSON.parse(raw)) {
+	const cat = cats[q.category];
 	if (!cat) {
-		cats[q.category] = cat = { ...q };
-		catList.push(cat);
-	} 
-	else {
+		cats[q.category] = { ...q };
+	} else {
 		cat.weight += q.weight;
-		cat.text += " | " + q.text;
+		cat.text += ' | ' + q.text;
 	}
 }
 
-catList.sort((a, b) => b.weight - a.weight);
-
-console.log(JSON.stringify(catList, null, 2));
+const result = Object.values(cats).sort((a, b) => b.weight - a.weight);
+console.log(JSON.stringify(result, null, 2));
