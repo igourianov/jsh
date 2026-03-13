@@ -16,7 +16,7 @@ Determine input type:
 - **File path** (e.g., temp.txt): Use Read to load content
 - **Inline text** (multi-line job description pasted directly): Use the argument text as-is as the job posting content
 
-## Step 2: Parse and Evaluate
+## Step 2: Parse
 
 Extract the following from the job posting:
 
@@ -44,7 +44,7 @@ Extract the following from the job posting:
    - 0% signals: broad tech options with "or"/"such as", "leverage experience" language, no core programming language (Java, React, Python, etc.) specified
    - >0% signals: specific required stack, "writing code", "implementing features"
 
-8. **Qualifications** - Extract all qualifications (required and nice-to-have) as a structured list. This list feeds directly into Step 4.
+8. **Qualifications** - Extract all qualifications (required and nice-to-have) as a structured list.
 
 Each qualification must follow this structure:
 ```
@@ -54,19 +54,15 @@ Each qualification must follow this structure:
   weight: <int>        # importance to a recruiter; must sum to 100% across all qualifications
 ```
 
-**Weighting guidance:**
-- Required qualifications carry more weight than nice-to-haves
-- Core role requirements (e.g., years of EM experience, team leadership) outweigh peripheral ones
-- Tech stack items carry less weight when listed as examples ("e.g.", "such as", "or similar")
-- Nice-to-haves typically warrant 2-5% each; hard requirements 10-20%+
-
 **Rules for reading qualifications:**
-- Parse requirements by core statement, not examples. "Experience with X (A, B, C, etc.)" requires X, not specifically A/B/C
-- Job responsibilities can also be read as required qualifications. E.g. "Champion the adoption of AI tools across the engineering team" - need to have experience with AI tooling.
-- Tech stack items are only hard requirements when the job specifies its actual stack — not when listed as examples ("e.g.", "such as", "or similar")
+- For qualifications with examples: extract the core requirement as a required qualification and group the examples as a single optional qualification. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java, Python or Go". "Agile experience (Scrum, Kanban)" → required "agile methodology experience" + optional "Scrum or Kanban".
+- Job responsibilities can also be read as required qualifications. E.g. "Champion the adoption of AI tools across the engineering team" → required "AI tooling experience".
 - Industry/domain experience is a qualification even when not explicitly required
-- Degree requirements are not qualifications when the candidate exceeds required years of experience
 - Quebec-based roles: French language is a qualification even if not listed
+
+**Weighting guidance:**
+- Core role requirements (e.g., years of EM experience, team leadership) outweigh peripheral ones
+- Nice-to-haves typically warrant 2-5% each; hard requirements 10-20%+
 
 9. **Summary** - Succinct overview of the role only (not the company). No corporate fluff. 300 words max.
 
@@ -92,7 +88,10 @@ For each qualification, determine whether the candidate meets it:
 - **Alignment** — candidate meets or exceeds the requirement
 - **Gap** — candidate does not meet the requirement
 
-Match % = sum of weights of all Alignment items. Do NOT factor in red flags (those are the candidate's concerns, not the recruiter's).
+Degree requirements: if the posting requires a degree but the candidate exceeds the required years of experience, classify as Alignment.
+
+
+Match % = sum of weights of all Alignment items.
 
 ## Step 4: Detect Red Flags
 
@@ -100,7 +99,7 @@ Match % = sum of weights of all Alignment items. Do NOT factor in red flags (tho
 
 Scan the raw job posting text for red flags. Omit this section from output if none are found. **Only flag what is explicitly stated or directly evidenced in the posting. Never infer, guess, or assume red flags based on industry norms or company stereotypes.**
 
-1. **Agency posting** - A job posted by a recruitment agency is NOT a red flag by itself. **DO NOT FLAG** agency postings for being from an unknown employer.
+1. **Agency posting** - **DO NOT FLAG.** A recruitment agency posting is not a red flag.
 
 2. **Blacklisted company** - Check if the company name appears in `jobs/black-list.md`. If found, flag it and include the reason from the blacklist.
 
@@ -121,26 +120,26 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 ```markdown
 # {Normalized Title} | {Engineering domain} | {Product domain}
 
-### Match: {X}% <!-- sum of met qualifications -->
+### Match: {X}%
 
 - **Saved:** {current date: yyyy-MM-dd}
-- **URL:** {original job URL, if present} 
+- **URL:** {original job URL, if present}
 - **Company:** {Company}
 - **Location:** {Location}
-- **Compensation:** {Salary range} 
-- **Benefits:** {Benefits} 
+- **Compensation:** {Salary range}
+- **Benefits:** {Benefits}
 - **Coding:** {X}%
 - **Tech stack:** {list of tech}
 - **Team size:** {number of reports}
 
-## Red flags                          <!-- omit section if none found -->
+## Red flags
 - **{Category}:** {description}
 
-## Gaps                                <!-- qualifications the candidate does not meet; weights sum to (100% - Match%) -->
+## Gaps
 - **{Category} ({X}%):** {gap description}
 - {or "No significant gaps identified"}
 
-## Alignment                           <!-- qualifications the candidate meets or exceeds; weights sum to Match% -->
+## Alignment
 - **{Category} ({X}%):** {strength description}
 
 ## Summary
@@ -149,16 +148,6 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 - {responsibility 1}
 - {responsibility 2}
-
-## Required Qualifications
-
-- {qualification 1}
-- {qualification 2}
-
-## Optional Qualifications              <!-- omit section if none found -->
-
-- {qualification 1}
-- {qualification 2}
 
 ## Company
 
@@ -169,15 +158,13 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 {comma-separated list of recruiter-matching keywords}
 ```
 
-**Category examples:** Leadership experience, Tech stack, Product domain, Culture fit, Location, Education, Specific skill name, etc.
 
 **Notes:**
 - Use `jobs/_/{Title}.md` if company cannot be determined (agency postings)
-- Alignment should be 3-5 succinct bullet points highlighting what aligns well with the role
 
-## Step 6: Verify Output
+## Step 6: Verify and Fix
 
-Re-read the file you just wrote and verify it against these rules. Fix any violations before responding.
+Re-read the file you just wrote. Fix any violations before responding.
 
 ### Red Flags check
 - Every red flag must cite explicit evidence from the job posting text. If you cannot point to a specific phrase or sentence, remove the flag.
@@ -185,9 +172,7 @@ Re-read the file you just wrote and verify it against these rules. Fix any viola
 
 ### Gaps check
 - Gaps are recruiter/hiring manager concerns about the candidate. If an item is actually a candidate concern about the job, move it to Red Flags or remove it.
-- Every gap must reference a specific requirement from the posting that the candidate lacks. If the posting doesn't explicitly require it, remove the gap.
-- Tech listed as examples ("such as", "e.g.", "or similar") is not a hard requirement. Don't flag missing example items.
-- Degree requirements are not gaps when the candidate exceeds required YoE.
+- Every gap must correspond to a qualification in the list from Step 2. Apply the same qualification rules from Step 2 when deciding whether a gap is valid.
 
 
 ### Match % check
@@ -196,10 +181,6 @@ Re-read the file you just wrote and verify it against these rules. Fix any viola
 - Verify match % equals the sum of alignment weights exactly.
 - A screen with no significant gaps and strong alignment should not score below 75%. A screen with multiple hard-requirement gaps should not score above 70%.
 - Red flags must not reduce the match %. Match is recruiter perspective only.
-
-## Step 7: Fix
-
-If any item fails verification, fix the file before proceeding.
 
 ## Response
 
