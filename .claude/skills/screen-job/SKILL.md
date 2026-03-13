@@ -150,7 +150,9 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 ## Qualifications
 
-- **{Category} (weight:{weight}%, match:{match_value}%):** {qualification text}
+- **{Category} (weight:{weight}%, match:{match_value}%):**
+  - {qualification 1}
+  - {qualification 2}
 
 ## Summary
 
