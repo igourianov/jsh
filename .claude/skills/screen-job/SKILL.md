@@ -156,7 +156,6 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 - **Location:** {Location}
 - **Compensation:** {Salary range}
 - **Benefits:** {Benefits}
-- **Coding:** {X}%
 - **Team size:** {number of reports}
 
 ## Red flags
@@ -172,6 +171,7 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 {role summary}
 
+- **Coding: {X}%**
 - {responsibility 1}
 - {responsibility 2}
 
