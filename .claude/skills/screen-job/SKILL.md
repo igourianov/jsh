@@ -64,15 +64,13 @@ Qualifications are expectations from job posting towards candidate. Typically br
 - Responsibilities count as required qualifications. "Champion AI tool adoption" → "AI tooling experience".
 - Industry/product domain experience is a qualification even when not explicitly stated. Exclude only if no Industry/domain specified in the job posting. Weight=10% if implied, 20% if explicitly required.
 - Quebec-based roles: French language is a qualification even if not listed.
-- Title: normalized job title is a qualification that should match the candidate's most recent role title. Weight=20%.
-
-**Weight rules:**
+- Always include the normalized job title as a qualification under the **Title** category.
 - Hard requirements: 10-20%+; nice-to-haves: 2-5% each
-- Weights must sum to 100 across all qualifications. Redistribute weights evenly if total<>100%. E.g. if total=70%, take the remainder 30% and add it evenly to all defined qualifications.
 
 **Assign category:**
 
 These are common categories. If a qualification does not fit any of them, create a new category with an appropriate name.
+- **Title:** normalized job title match against the candidate's most recent role title. Ignore seniority level (Senior, Staff, Principal, etc.) when comparing. Always weight=20%.
 - **Leadership experience:** communication, delivery, culture, ownership, process improvement, people development, stakeholder alignment, adaptability, leadership development, etc.
 - **Technical background:** architectural oversight, code reviews and **previous** experience in development
 - **Product domain:** industry vertical and business domain knowledge (e.g. fintech, healthcare, non-profit, e-commerce)
@@ -87,9 +85,9 @@ Run:
 node .claude/skills/screen-job/group-qualifications.js '<json>'
 ```
 
-Input JSON array: `[{ "category", "text", "weight" }, ...]`
+Input JSON array: `[{ "category": "...", "text": "...", "weight": 10 }, ...]`
 
-The script merges qualifications by category (summing weights, concatenating text) and returns one entry per category sorted by total weight descending. Use this output for evaluation and output steps.
+The script normalizes weights to sum to 100, merges qualifications by category and returns one entry per category sorted by total weight descending. Use this output for the evaluation step.
 
 ## Step 4: Evaluate Match
 
@@ -113,7 +111,15 @@ For each qualification, assign a **match value** (0–100) representing how well
 
 Degree requirements: if the posting requires a degree but the candidate exceeds the required years of experience, assign 100.
 
-**Match % = Σ (weight × match_value / 100) across all qualifications**
+Once all match values are assigned, add `"match_value"` to each entry and run:
+
+```
+node .claude/skills/screen-job/calculate-match.js '<json>'
+```
+
+Input JSON array: `[{ "category": "...", "weight": 30, "match_value": 75 }, ...]`
+
+The script outputs the final match percentage.
 
 ## Step 5: Detect Red Flags
 

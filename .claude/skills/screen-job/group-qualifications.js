@@ -7,17 +7,27 @@ const arg = process.argv[2];
 if (!arg) { console.error('Usage: node group-qualifications.js <json|file>'); process.exit(1); }
 const raw = arg.trimStart().startsWith('[') ? arg : readFileSync(arg, 'utf8');
 
-const cats = {};
+const qualifications = JSON.parse(raw);
 
-for (const q of JSON.parse(raw)) {
-	const cat = cats[q.category];
+// Normalize weights to sum to 100
+const total = qualifications.reduce((sum, q) => sum + q.weight, 0);
+if (total !== 100) {
+	const delta = (100 - total) / qualifications.length;
+	for (const q of qualifications)
+		q.weight = Math.round((q.weight + delta) * 10) / 10;
+}
+
+// Group by category
+const cats = qualifications.reduce((acc, q) => {
+	const cat = acc[q.category];
 	if (!cat) {
-		cats[q.category] = { ...q };
+		acc[q.category] = { category: q.category, weight: q.weight, qualifications: [q.text] };
 	} else {
 		cat.weight += q.weight;
-		cat.text += ' | ' + q.text;
+		cat.qualifications.push(q.text);
 	}
-}
+	return acc;
+}, {});
 
 const result = Object.values(cats).sort((a, b) => b.weight - a.weight);
 console.log(JSON.stringify(result, null, 2));
