@@ -1,46 +1,55 @@
-# Senior Engineering Manager | Risk Management & Compliance Engineering | Fintech
+# Senior Engineering Manager | Product | Fintech
 
-**URL:** https://job-boards.greenhouse.io/mercury/jobs/5701708004 \
-**Company:** Mercury \
-**Location:** Remote - US/Canada (San Francisco, CA; New York, NY; Portland, OR) \
-**Salary Range:** $239,000 - $298,800 USD / $225,900 - $282,400 CAD \
-**Hands-on:** 30% | **Coding:** 0% \
-**Posted:** November 6, 2025 \
-**Match:** 65%
+### Match: 76%
 
-## Gaps
+- **Saved:** 2026-03-14
+- **URL:** https://www.linkedin.com/jobs/view/4337919830/
+- **Company:** Mercury
+- **Location:** Remote (Canada)
+- **Compensation:** CAD $225,900 – $282,400
+- **Benefits:** Equity (stock options/RSUs); dental/vision/health not specified
+- **Coding:** 0%
+- **Team size:** Multiple teams of 4–8 engineers each
 
-- No fintech domain experience (has HRTech/HCM SaaS background)
-- No KYC/AML/risk/compliance systems experience in financial services (has GDPR, SOC 2, PII compliance but not financial regulatory compliance)
-- No applied AI/ML product experience (critical requirement: LLMs and traditional ML models in production; candidate has AI tooling enthusiasm and personal project experience, not enterprise AI/ML deployment)
-- No fraud detection or financial risk management experience
-- Tech stack not mentioned in posting, unclear alignment with .NET/C#/Azure background
-- No experience with financial regulatory requirements or compliance systems
+## Qualifications
+
+- **Leadership experience (weight:55%, match:90%):**
+  - 3–5+ years engineering management in a high-scale tech environment
+  - Normalized title match: Senior Engineering Manager
+  - Strong communication and leadership skills; inspire engineers and partner across functions
+  - Build, mentor, and grow engineering talent; develop managers and senior engineers
+  - Track record of raising the bar for quality and reliability, balancing shipping speed with technical excellence
+
+- **Technical background (weight:19%, match:100%):**
+  - 9+ years software development experience
+  - Proven success building large-scale backend distributed systems
+
+- **AI/ML (weight:12%, match:25%):**
+  - AI/ML expertise: built and launched applied AI products (LLMs to traditional ML models), shipping 0→1 and scaling 1→10 in production
+
+- **Product domain (weight:12%, match:25%):**
+  - Experience with KYC, AML, risk, or compliance systems in financial services or fintech
+
+- **Integrations (weight:2%, match:50%):**
+  - Experience with integrations and decision automation
 
 ## Summary
 
-The Senior Engineering Manager - Risk role at Mercury leads engineering teams building risk management and onboarding systems including account approval workflows, know-your-customer (KYC) processes, anti-money laundering (AML) compliance, and fraud detection tools. Responsibilities include managing 4-8 engineer teams focused on onboarding, KYC/KYB, AML, and fraud decisioning, applying AI/ML technologies to accelerate account approvals, collaborating across Product, Risk, and Data functions on scalable systems, developing reliable and maintainable KYC and risk platforms, establishing operational excellence standards, mentoring engineers and supporting manager development, bridging regulatory requirements with technical implementation, and fostering cross-team alignment and system simplification. The role combines technical leadership with regulatory compliance expertise in fintech.
+Lead engineering teams at Mercury responsible for the full account onboarding and risk lifecycle: KYC/KYB, AML, fraud detection decisioning and workflows, and operational tooling. The role sits on the critical business path, applying AI/ML (from LLMs to traditional models) to enable real-time, automated bank account approvals for Mercury's 300K+ business customers.
 
-## Required Qualifications
-
-- 9+ years software development experience
-- 3-5+ years engineering management in high-scale environments
-- Applied AI/ML product experience (LLMs and traditional models)
-- Large-scale backend distributed systems expertise
-- Quality and reliability focus
-- Strong leadership and communication abilities
-- Technical talent recruitment and retention skills
-- Pragmatic builder mentality
-- Ability to manage 4-8 engineer teams
-- Experience bridging regulatory requirements with technical implementation
-- Cross-functional collaboration skills with Product, Risk, and Data teams
-
-## Optional Qualifications
-
-- Experience with or interest in KYC, AML, risk, or compliance systems in financial services
-- Fraud detection systems experience
-- Financial services regulatory knowledge
+- Lead multiple teams (4–8 engineers each) owning onboarding, KYC/KYB, AML and fraud systems
+- Apply AI/ML to accelerate and automate bank account application approvals
+- Partner with Product, Risk and Data teams to design scalable compliance-oriented systems
+- Shape next-generation KYC and risk platforms for reliability and extensibility
+- Drive operational excellence: uptime, accuracy and system quality improvements
+- Build, mentor and grow engineering talent; develop managers and senior ICs
+- Translate regulatory nuance into technical execution
+- Foster cross-team collaboration to simplify interfaces and improve system maintainability
 
 ## Company
 
-Mercury is a fintech platform that helps businesses open accounts and manage finances, providing banking services through partner institutions Choice Financial Group and Column N.A. (both FDIC members). The company emphasizes intelligent, automated systems combining machine learning, AI, and human judgment to build risk management and compliance solutions. Mercury operates in the fintech and financial services space, focusing on account approval workflows, KYC/KYB processes, AML compliance, and fraud detection systems. The company values diversity and operates as an Equal Employment Opportunity employer across multiple US locations including San Francisco, New York, Portland, and remote positions throughout the United States and Canada. Mercury provides reasonable accommodations throughout recruitment and uses Covey as part of its hiring evaluation process for NYC positions.
+Mercury is a fintech company offering banking services and financial workflow tooling to businesses, primarily startups and growth-stage companies. Banking is provided through FDIC-insured partners (Choice Financial Group and Column N.A.). Over 300K startups use Mercury as their primary banking platform. The Risk Engineering team builds intelligent, automated systems for business application approvals and ongoing due diligence, using ML/AI to enable real-time decisions that balance safety with a smooth user experience.
+
+## Keywords
+
+KYC, KYB, AML, fraud detection, risk management, compliance, fintech, banking, financial services, account onboarding, decisioning systems, machine learning, AI/ML, LLM, applied AI, distributed systems, backend engineering, microservices, real-time systems, decision automation, operational excellence, engineering management, people management, technical leadership, cross-functional collaboration, 0-to-1 product development, SaaS, regulatory compliance, SOC 2
