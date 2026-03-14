@@ -44,20 +44,33 @@ Extract the following from the job posting:
    - 0% signals: broad tech options with "or"/"such as", "leverage experience" language, no core programming language (Java, React, Python, etc.) specified
    - >0% signals: specific required language, "writing code", "implementing features"
 
-8. **Qualifications** - Extract all qualifications (required and nice-to-have) in three steps:
+8. **Summary** - Succinct overview of the role only (not the company). No corporate fluff. 300 words max.
 
-**Step 1 — Extract individual qualifications:**
+9. **Responsibilities** - Key duties and expectations for the role
+
+10. **Company Description** - Succinct overview of the company and the product (or type of projects) they develop. 300 words max.
+
+11. **Keywords** - ATS keywords a recruiter would use to filter resumes. Include: technical skills and tools, methodologies, domain terms, role-specific terms, certifications. Exclude: generic filler, company branding, compensation terms. Output as a flat comma-separated list, no duplicates.
+
+## Step 3: Extract Qualifications
+
+Qualifications are expectations from job posting towards candidate. Typically broken down into:
+- Hard requirements (required qualifications)
+- Nice-to-haves (optional qualifications)
+
+**Additional qualification rules:**
+- Remove fluffy qualifiers (strong, exceptional, demonstrated, etc.)
 - Qualifications with examples: extract the core as a required qualification + examples as a single optional. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java, Python or Go".
 - Responsibilities count as required qualifications. "Champion AI tool adoption" → "AI tooling experience".
 - Industry/product domain experience is a qualification even when not explicitly stated. Exclude only if no Industry/domain specified in the job posting. Weight=10% if implied, 20% if explicitly required.
 - Quebec-based roles: French language is a qualification even if not listed.
-- Title: normalized job title is a qualification that should match last candidate's title in the emplyment history. Weight=20%. 
+- Title: normalized job title is a qualification that should match the candidate's most recent role title. Weight=20%.
 
 **Weight rules:**
 - Hard requirements: 10-20%+; nice-to-haves: 2-5% each
-- Weights must sum to 100 across all qualifications. Redistribute weights evenly if total<>100%. E.g if total=70%, take the remainder 30% and add it evenly to all defined qualifications.
+- Weights must sum to 100 across all qualifications. Redistribute weights evenly if total<>100%. E.g. if total=70%, take the remainder 30% and add it evenly to all defined qualifications.
 
-**Step 2 — Group by category:**
+**Assign category:**
 
 These are common categories. If a qualification does not fit any of them, create a new category with an appropriate name.
 - **Leadership experience:** communication, delivery, culture, ownership, process improvement, people development, stakeholder alignment, adaptability, leadership development, etc.
@@ -66,6 +79,8 @@ These are common categories. If a qualification does not fit any of them, create
 - **Integrations:** content/DXP platforms (Contentful, Sitecore, Optimizely, etc.) and third-party system integrations (HRIS, CRM, ERP, payment processors, etc.)
 - **Tech stack:** specific technologies, tools, frameworks and languages. Does NOT include content platforms or third-party integrations (those are Integrations).
 - **Education:** degree, certification, or formal credential requirements.
+
+**Group by category (run script):**
 
 Run:
 ```
@@ -76,15 +91,7 @@ Input JSON array: `[{ "category", "text", "weight" }, ...]`
 
 The script merges qualifications by category (summing weights, concatenating text) and returns one entry per category sorted by total weight descending. Use this output for evaluation and output steps.
 
-9. **Summary** - Succinct overview of the role only (not the company). No corporate fluff. 300 words max.
-
-10. **Responsibilities** - Key duties and expectations for the role
-
-11. **Company Description** - Succinct overview of the company and the product (or type of projects) they develop. 300 words max.
-
-12. **Keywords** - ATS keywords a recruiter would use to filter resumes. Include: technical skills and tools, methodologies, domain terms, role-specific terms, certifications. Exclude: generic filler, company branding, compensation terms. Output as a flat comma-separated list, no duplicates.
-
-## Step 3: Evaluate Match
+## Step 4: Evaluate Match
 
 Read the appropriate resume based on job posting language:
 - **Russian job posting:** Read `resume/resume.ru.md`
@@ -92,9 +99,7 @@ Read the appropriate resume based on job posting language:
 
 Also read `resume/context.md` for additional candidate context that is not in the resume.
 
-**Approach:**
-- Assume recruiter role with bias towards rejection
-- Be critical but don't invent non-existent gaps
+**Approach:** Assume recruiter role with bias towards rejection, but don't invent non-existent gaps.
 
 For each qualification, assign a **match value** (0–100) representing how well the candidate meets it:
 
@@ -110,7 +115,7 @@ Degree requirements: if the posting requires a degree but the candidate exceeds 
 
 **Match % = Σ (weight × match_value / 100) across all qualifications**
 
-## Step 4: Detect Red Flags
+## Step 5: Detect Red Flags
 
 **Red flags are concerns for the candidate about the job or company** - things the applicant would consider negative, suspicious, or risky. This is NOT about the candidate's qualifications.
 
@@ -128,7 +133,7 @@ Scan the raw job posting text for red flags. Omit this section from output if no
 
 6. **Director/VP role with coding expectation** - A Director or VP title with any non-zero coding expectation (e.g., "write production code", "hands-on", specific required stack implying IC work) signals org immaturity or role scope confusion. At Director level and above, hands-on coding pulls focus from leadership responsibilities.
 
-## Step 5: Output
+## Step 6: Output
 
 **Language:** Write the screen file in the same language as the original job posting. Do not translate unless explicitly asked.
 
