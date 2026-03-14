@@ -139,6 +139,8 @@ Scan the raw job posting text for red flags. Omit this section from output if no
 
 6. **Director/VP role with coding expectation** - A Director or VP title with any non-zero coding expectation (e.g., "write production code", "hands-on", specific required stack implying IC work) signals org immaturity or role scope confusion. At Director level and above, hands-on coding pulls focus from leadership responsibilities.
 
+7. **Location mismatch** - Role requires on-site or hybrid presence in a city the candidate cannot reasonably commute to. Flag if the required office location is not within commuting distance (e.g., Toronto is borderline; anything farther or requiring relocation is a flag). Remote roles are never flagged. Do not flag if the posting explicitly allows remote work.
+
 ## Step 6: Output
 
 **Language:** Write the screen file in the same language as the original job posting. Do not translate unless explicitly asked.
@@ -163,9 +165,9 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 ## Qualifications
 
-- **{Category} (weight:{weight}%, match:{match_value}%):**
-  - {qualification 1}
-  - {qualification 2}
+### {Category} (weight:{weight}%, match:{match_value}%)
+- {qualification 1}
+- {qualification 2}
 
 ## Summary
 
