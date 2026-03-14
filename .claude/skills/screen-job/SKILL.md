@@ -49,20 +49,23 @@ Extract the following from the job posting:
 **Step 1 — Extract individual qualifications:**
 - Qualifications with examples: extract the core as a required qualification + examples as a single optional. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java, Python or Go".
 - Responsibilities count as required qualifications. "Champion AI tool adoption" → "AI tooling experience".
-- Industry/domain experience is a qualification even when not explicitly required.
+- Industry/product domain experience is a qualification even when not explicitly stated. Exclude only if no Industry/domain specified in the job posting. Weight=10% if implied, 20% if explicitly required.
 - Quebec-based roles: French language is a qualification even if not listed.
+- Title: normalized job title is a qualification that should match last candidate's title in the emplyment history. Weight=20%. 
 
-**Step 2 — Assign weight to each qualification:**
+**Weight rules:**
 - Hard requirements: 10-20%+; nice-to-haves: 2-5% each
-- Product/industry domain: **10% if implied, 20% if explicitly required**
-- Weights must sum to 100 across all qualifications
+- Weights must sum to 100 across all qualifications. Redistribute weights evenly if total<>100%. E.g if total=70%, take the remainder 30% and add it evenly to all defined qualifications.
 
-**Step 3 — Group by category:**
+**Step 2 — Group by category:**
+
+These are common categories. If a qualification does not fit any of them, create a new category with an appropriate name.
 - **Leadership experience:** communication, delivery, culture, ownership, process improvement, people development, stakeholder alignment, adaptability, leadership development, etc.
 - **Technical background:** architectural oversight, code reviews and **previous** experience in development
 - **Product domain:** industry vertical and business domain knowledge (e.g. fintech, healthcare, non-profit, e-commerce)
 - **Integrations:** content/DXP platforms (Contentful, Sitecore, Optimizely, etc.) and third-party system integrations (HRIS, CRM, ERP, payment processors, etc.)
 - **Tech stack:** specific technologies, tools, frameworks and languages. Does NOT include content platforms or third-party integrations (those are Integrations).
+- **Education:** degree, certification, or formal credential requirements.
 
 Run:
 ```
