@@ -1,56 +1,58 @@
-# Engineering Manager | Product | Smart Cities / B2B SaaS
+# Engineering Manager | Product | Smart Transportation
 
-### Match: 80%
+### Match: 86%
 
-- **Saved:** 2026-03-04
+- **Saved:** 2026-03-15
 - **URL:** https://www.linkedin.com/jobs/view/4380521950/
 - **Company:** Miovision
-- **Location:** Remote (Canada)
-- **Compensation:** Not stated (estimated CAD $130,000–$160,000)
-- **Benefits:** Health, dental, wellness programs, 24/7 virtual healthcare, RRSP matching, variable incentive plan, flexible vacation, Mio-Days, internet subsidy, remote work allowance, enhanced parental leave
-- **Coding:** 10%
-- **Tech stack:** Java/Kotlin, C#, Node.js, Python, Docker, CI/CD, Linux, AWS, Kafka, Datadog, Grafana
-- **Team size:** Not stated
+- **Location:** Remote (Canada only)
+- **Compensation:** $120,000 - $170,000 CAD
+- **Benefits:** health, dental, vision, 24/7 virtual healthcare, RRSP matching, variable incentive plan, flexible vacation, Mio-Days, internet subsidy, remote work allowance, parental leave
+- **Team size:** not specified
 
-## Gaps
+## Red flags
 
-- **Cloud platform:** Role specifies AWS; candidate has Azure (AKS) experience
-- **Product domain:** Smart cities / traffic management is a new domain for candidate
+- **Closed posting:** "No longer accepting applications" is stated in the posting.
 
-## Alignment
+## Qualifications
 
-- 10 years of EM and technical lead experience at enterprise SaaS scale
-- Led 30+ engineers across multiple cross-functional product teams (8–12 per team)
-- Kafka and event-driven architecture experience directly matches distributed systems requirements
-- Grafana/Prometheus observability experience aligns with stated tool expectations
-- C# is explicitly listed as one of the accepted backend languages
+### Title (weight: 20%, match: 100%)
+- Engineering Manager
+
+### Leadership experience (weight: 25%, match: 100%)
+- 3+ years engineering management, delivery ownership, coaching and developing engineers, cross-functional collaboration with Product/QA/Architecture
+
+### Tech stack (weight: 20%, match: 75%)
+- Java/Kotlin, C#, Node.js or Python; Git, Docker, CI/CD, Linux, AWS; distributed systems, event-driven/streaming architectures (Kafka); observability tools (Datadog, Grafana)
+
+### Technical background (weight: 15%, match: 100%)
+- 5+ years software engineering, hands-on technical leadership, guiding architecture and design decisions, staying close to the code
+
+### Product domain (weight: 10%, match: 25%)
+- Smart transportation, IoT, traffic operations or similar technical domain
+
+### Education (weight: 5%, match: 100%)
+- Bachelor degree in CS/Engineering or equivalent practical experience
+
+### Integrations (weight: 5%, match: 75%)
+- Third-party SDKs, APIs and external platform integrations
 
 ## Summary
 
-Player/coach EM role leading the Network Performance team at Miovision, owning three customer-facing products: Performance (intersection analytics), Optimization (signal timing) and Controller Manager (traffic device management). The role balances delivery ownership, technical direction and people leadership for a team building data-intensive, distributed systems at the intersection of IoT and B2B SaaS.
+Hands-on Software Development Manager leading the Network Performance team, which owns analytics, signal optimization and controller management products for traffic operations. Player/coach role balancing people leadership, delivery ownership and technical decision-making. Reports into engineering leadership and partners closely with Product, Architecture, QA and Cloud teams.
 
-- Own delivery and technical execution for the Network Performance product suite
-- Guide architecture, design and critical technical decisions; stay close enough to the code to unblock the team
-- Partner with Product Management on planning and trade-offs between features, tech debt and operational stability
-- Coach and develop engineers through mentorship, feedback and career guidance
-- Drive reliability, performance and scalability improvements
-- Collaborate with Architecture, QA, Cloud and Customer Support
-
-## Required Qualifications
-
-- 5+ years software engineering experience, including 3+ years in technical leadership or EM role
-- Experience leading engineers and owning delivery for customer-facing production systems
-- Strong backend or full-stack background: Java/Kotlin, C#, Node.js or Python
-- Git, Docker, CI/CD, Linux, cloud infrastructure (AWS or similar)
-- Distributed systems and data-intensive applications; event-driven/streaming architectures (Kafka or equivalent)
-- Ability to integrate with third-party SDKs, APIs and external platforms
-- Experience with observability tools (Datadog, Grafana or equivalent)
-- Excellent written and verbal English communication
+- **Coding: 20%**
+- Own delivery, technical execution and team health for Network Performance products
+- Guide architecture, design and critical technical decisions while staying close to the code
+- Lead planning and prioritization in partnership with Product Management
+- Coach and develop engineers through feedback, mentorship and career guidance
+- Drive system reliability, performance and scalability improvements
+- Collaborate cross-functionally with Product, Architecture, QA, Cloud and Customer Support
 
 ## Company
 
-Miovision (founded 2005, HQ in Kitchener, Ontario) builds software and hardware for intelligent traffic management. Their platform collects multimodal traffic data from intersections and uses AI to optimize signal timing, reduce vehicle delay and emissions, and improve safety for drivers, cyclists and pedestrians. Products serve municipalities worldwide and have counted 9+ billion vehicles. Operations span Canada, Germany, Serbia and the US.
+Miovision builds smart transportation technology for cities. Their products collect multimodal traffic data and provide actionable insights to help municipalities optimize road networks for cars, buses, bikes, e-scooters and pedestrians. Core offerings include traffic signal planning, AI-powered traffic operations and intersection monitoring hardware/software. Founded in 2005, headquartered in Kitchener, Ontario with operations in Germany, Serbia and the US. 201-500 employees. Their systems have counted over 9 billion vehicles worldwide.
 
 ## Keywords
 
-software engineering manager, engineering manager, people management, technical leadership, player/coach, distributed systems, event-driven architecture, kafka, streaming, java, kotlin, c#, node.js, python, docker, ci/cd, linux, aws, cloud infrastructure, kubernetes, datadog, grafana, observability, monitoring, microservices, third-party api integration, sdk integration, agile, scrum, cross-functional, stakeholder management, performance management, career development, coaching, mentorship, system design, architecture, reliability, scalability, b2b saas, smart cities, traffic management, backend development, production systems
+engineering management, software development, team leadership, distributed systems, Kafka, event-driven architecture, AWS, Docker, CI/CD, Git, Linux, Java, Kotlin, C#, Node.js, Python, observability, Datadog, Grafana, microservices, traffic operations, IoT, SaaS, Agile, system reliability, scalability, cross-functional collaboration, technical leadership, player-coach, containerization
