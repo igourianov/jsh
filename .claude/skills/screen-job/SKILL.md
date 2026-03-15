@@ -82,7 +82,12 @@ These are common categories. If a qualification does not fit any of them, create
 
 Run:
 ```
-node .claude/skills/screen-job/group-qualifications.js '<json>'
+TMPFILE=$(mktemp .claude/skills/screen-job/q-XXXXXX.tmp)
+```
+1. Use the Write tool to save the JSON array to the path returned by mktemp
+2. Run the script and delete the temp file:
+```
+node .claude/skills/screen-job/group-qualifications.js $TMPFILE && rm $TMPFILE
 ```
 
 Input JSON array: `[{ "category": "...", "text": "...", "weight": 10 }, ...]`
@@ -145,7 +150,9 @@ Scan the raw job posting text for red flags. Omit this section from output if no
 
 **Language:** Write the screen file in the same language as the original job posting. Do not translate unless explicitly asked.
 
-Save to `jobs/{Company}/{Full Original Title}.md`:
+**Filename:** run `node .claude/skills/screen-job/sanitize-filename.js '<Full Original Title>'` to get the sanitized filename.
+
+Save to `jobs/{Company}/{sanitized title}.md`:
 
 ```markdown
 # {Normalized Title} | {Engineering domain} | {Product domain}
