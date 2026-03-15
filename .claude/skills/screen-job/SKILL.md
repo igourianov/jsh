@@ -173,7 +173,7 @@ Save to `jobs/{Company}/{Full Original Title}.md`:
 
 {role summary}
 
-- **Coding: {X}%**
+- **Coding:** {X}% {explain if above 0%}
 - {responsibility 1}
 - {responsibility 2}
 
