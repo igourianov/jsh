@@ -1,4 +1,4 @@
-# {Normalized Title} | {Engineering domain} | {Product domain}
+# {Normalized Title} | {Engineering domain} | {Product domain} | {overall match}%
 
 - **Saved:** {current date: yyyy-MM-dd}
 - **URL:** {original job URL, if present}
@@ -11,7 +11,7 @@
 ## Red flags
 - **{Category}:** {description}
 
-## Qualifications (match:{X}%)
+## Qualifications
 
 ### {Category} (weight:{weight}%, match:{match_value}%)
 - {qualification 1}
