@@ -55,8 +55,8 @@ Extract the following from the job posting:
 ## Step 3: Extract Qualifications
 
 Qualifications are expectations from job posting towards candidate. Typically broken down into:
-- Hard requirements (required qualifications)
-- Nice-to-haves (optional qualifications)
+- Hard requirements (required qualifications). Weight: 10-20%+
+- Nice-to-haves (optional qualifications). Weight: 2-5%
 
 **Additional qualification rules:**
 - Remove fluffy qualifiers (strong, exceptional, demonstrated, etc.)
@@ -65,7 +65,7 @@ Qualifications are expectations from job posting towards candidate. Typically br
 - Industry/product domain experience is a qualification even when not explicitly stated. Exclude only if no Industry/domain specified in the job posting. Weight=10% if implied, 20% if explicitly required.
 - Quebec-based roles: French language is a qualification even if not listed.
 - Always include the normalized job title as a qualification under the **Title** category.
-- Hard requirements: 10-20%+; nice-to-haves: 2-5% each
+- For degree requirements assume "X degree OR equivalent experience in the corresponding role". For Computer Science degree => experience in software developer role. For Bachelor assume equivalent experience = 5+ years. Master's => 8+ years.
 
 **Assign category:**
 
@@ -76,7 +76,7 @@ These are common categories. If a qualification does not fit any of them, create
 - **Product domain:** industry vertical and business domain knowledge (e.g. fintech, healthcare, non-profit, e-commerce)
 - **Integrations:** content/DXP platforms (Contentful, Sitecore, Optimizely, etc.) and third-party system integrations (HRIS, CRM, ERP, payment processors, etc.)
 - **Tech stack:** specific technologies, tools, frameworks and languages. Does NOT include content platforms or third-party integrations (those are Integrations).
-- **Education:** degree, certification, or formal credential requirements.
+- **Education:** degree, certification, formal credential requirements.
 
 **Group by category (run script):**
 
@@ -112,7 +112,6 @@ For each qualification, assign a **match value** (0–100) representing how well
 | 25 | Weak match; tangential relevance only |
 | 0 | Does not meet the requirement |
 
-Degree requirements: if the posting requires a degree but the candidate exceeds the required years of experience, assign 100.
 
 Once all match values are assigned, add `"match_value"` to each entry and run:
 
