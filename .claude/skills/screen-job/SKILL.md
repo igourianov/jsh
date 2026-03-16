@@ -54,29 +54,35 @@ Extract the following from the job posting:
 
 ## Step 3: Extract Qualifications
 
-Qualifications are expectations from job posting towards candidate. Typically broken down into:
-- Hard requirements (required qualifications). Weight: 10-20%+
-- Nice-to-haves (optional qualifications). Weight: 2-5%
+Qualifications are rules for evaluating the candidate against the job. Extract them from required qualifications, preferred/nice-to-have qualifications, and responsibilities sections of the posting. Each qualification gets a weight reflecting its importance to the role.
 
-**Additional qualification rules:**
-- Remove fluffy qualifiers (strong, exceptional, demonstrated, etc.)
-- Qualifications with examples: extract the core as a required qualification + examples as a single optional. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java, Python or Go".
-- Responsibilities count as required qualifications. "Champion AI tool adoption" → "AI tooling experience".
-- Industry/product domain experience is a qualification even when not explicitly stated. Exclude only if no Industry/domain specified in the job posting. Weight=10% if implied, 20% if explicitly required.
-- Quebec-based roles: French language is a qualification even if not listed.
-- Always include the normalized job title as a qualification under the **Title** category.
-- For degree requirements assume "X degree OR equivalent experience in the corresponding role". For Computer Science degree => experience in software developer role. For Bachelor assume equivalent experience = 5+ years. Master's => 8+ years.
+**Weights:**
+- Hard requirements: 10-20%+
+- Nice-to-haves: 2-5%
 
-**Assign category:**
+**Transformations:**
+- Strip fluffy qualifiers (strong, exceptional, demonstrated, etc.)
+- Split qualifications with examples into required core + optional examples. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java or Python or Go".
+- Convert responsibilities into qualifications. "Champion AI tool adoption" → "AI tooling experience".
+- Degree requirements assume "X degree OR equivalent experience in the corresponding role". CS degree => software developer experience. Bachelor => 5+ years equivalent. Master's => 8+ years equivalent.
+
+**Implicit qualifications** (add even if not listed):
+- Core job title (normalized title stripped of seniority). "Senior Engineering Manager" → "Engineering Manager". Expected to match one of candidate's work experiences (preferably most recent).
+- Industry/domain experience if a domain is mentioned in the posting. Weight=10% if implied, 20% if explicitly required.
+- French language for Quebec-based roles.
+
+**Categories:**
 
 These are common categories. If a qualification does not fit any of them, create a new category with an appropriate name.
-- **Title:** normalized job title match against the candidate's most recent role title. Ignore seniority level (Senior, Staff, Principal, etc.) when comparing. Always weight=20%.
-- **Leadership experience:** communication, delivery, culture, ownership, process improvement, people development, stakeholder alignment, adaptability, leadership development, etc.
-- **Technical background:** architectural oversight, code reviews and **previous** experience in development
-- **Product domain:** industry vertical and business domain knowledge (e.g. fintech, healthcare, non-profit, e-commerce)
-- **Integrations:** content/DXP platforms (Contentful, Sitecore, Optimizely, etc.) and third-party system integrations (HRIS, CRM, ERP, payment processors, etc.)
-- **Tech stack:** specific technologies, tools, frameworks and languages. Does NOT include content platforms or third-party integrations (those are Integrations).
+- **Baseline:** normalized job title, X years in role/industry/engineering (general experience, not specific skill), spoken language proficiency.
+- **People management:** hiring, career development, performance assessments, team growth/scaling, etc.
+- **Product management:** delivery, backlog management, ownership, stakeholder alignment, requirements gathering, cross-functional communication about product/strategy, etc.
+- **Process management:** SDLC, Agile/Scrum/Kanban, CI/CD, Shift left / qa automation, process optimization, incident response/on-call, post-mortems as well as process tools (Jira, Confluence, Miro, etc.).
+- **Product domain:** industry vertical and business domain knowledge (e.g. fintech, healthcare, non-profit, e-commerce), third-party system integrations (HRIS, CRM, Salesforce, ERP, payment processors, etc.) and CMS tools
+- **Technical:** architectural oversight, system design, tech-debt management, code reviews, exploration/experimentation, etc.
+- **Tech stack:** specific technologies, development tools, frameworks and languages. 
 - **Education:** degree, certification, formal credential requirements.
+- **Soft skills:** general communication ability (written/verbal clarity), culture, adaptability, other corporate fluff. Categorize by what is being communicated, not the act of communicating.
 
 **Group by category (run script):**
 
@@ -153,44 +159,7 @@ Scan the raw job posting text for red flags. Omit this section from output if no
 
 **Filename:** run `node .claude/skills/screen-job/sanitize-filename.js '<Full Original Title>'` to get the sanitized filename.
 
-Save to `jobs/{Company}/{sanitized title}.md`:
-
-```markdown
-# {Normalized Title} | {Engineering domain} | {Product domain}
-
-- **Saved:** {current date: yyyy-MM-dd}
-- **URL:** {original job URL, if present}
-- **Company:** {Company}
-- **Location:** {Location}
-- **Compensation:** {Salary range}
-- **Benefits:** {Benefits}
-- **Team size:** {number of reports}
-
-## Red flags
-- **{Category}:** {description}
-
-## Qualifications (match:{X}%)
-
-### {Category} (weight:{weight}%, match:{match_value}%)
-- {qualification 1}
-- {qualification 2}
-
-## Summary
-
-{role summary}
-
-- **Coding:** {X}% {explain if above 0%}
-- {responsibility 1}
-- {responsibility 2}
-
-## Company
-
-{Company description}
-
-## Keywords
-
-{comma-separated list of recruiter-matching keywords}
-```
+Save to `jobs/{Company}/{sanitized title}.md` using the template in [output-template.md](output-template.md).
 
 ## Response
 
