@@ -52,6 +52,7 @@ Qualifications are rules for evaluating the candidate against the job. Extract t
 
 **Transformations:**
 - Strip fluffy qualifiers (strong, exceptional, demonstrated, etc.)
+- Drop vague/unmeasurable qualifications entirely (e.g. "fast-paced environment", "passion for excellence").
 - Split qualifications with examples into required core + optional examples. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java or Python or Go".
 - Convert responsibilities into qualifications. "Champion AI tool adoption" → "AI tooling experience".
 - Degree requirements assume "X degree OR equivalent experience in the corresponding role". CS degree => software developer experience. Bachelor => 5+ years equivalent. Master's => 8+ years equivalent.
@@ -63,16 +64,16 @@ Qualifications are rules for evaluating the candidate against the job. Extract t
 
 **Categories:**
 
-These are common categories. If a qualification does not fit any of them, create a new category with an appropriate name.
+These are common categories. If a qualification does not fit any of them, create a new category with an appropriate name. When communication is mentioned, categorize by its subject (e.g. product strategy → Product management), not the act of communicating.
 - **Baseline:** normalized job title, X years in role/industry/engineering (general experience, not specific skill), spoken language proficiency.
 - **People management:** hiring, career development, performance assessments, team growth/scaling, etc.
 - **Product management:** delivery, backlog management, ownership, stakeholder alignment, requirements gathering, cross-functional communication about product/strategy, etc.
 - **Process management:** SDLC, Agile/Scrum/Kanban, CI/CD, Shift left / qa automation, process optimization, incident response/on-call, post-mortems as well as process tools (Jira, Confluence, Miro, etc.).
 - **Product domain:** industry vertical and business domain knowledge (e.g. fintech, healthcare, non-profit, e-commerce), third-party system integrations (HRIS, CRM, Salesforce, ERP, payment processors, etc.) and CMS tools
 - **Technical:** architectural oversight, system design, tech-debt management, code reviews, exploration/experimentation, etc.
-- **Tech stack:** specific technologies, development tools, frameworks and languages. 
+- **Tech stack:** specific technologies, development tools, frameworks and programming languages.
 - **Education:** degree, certification, formal credential requirements.
-- **Soft skills:** general communication ability (written/verbal clarity), culture, adaptability, other corporate fluff. Categorize by what is being communicated, not the act of communicating.
+- **Soft skills:** general communication ability (written/verbal clarity), culture, adaptability, etc.
 
 **Group by category (run script):**
 
@@ -96,7 +97,7 @@ Read the appropriate resume based on job posting language:
 
 Also read `resume/context.md` for additional candidate context that is not in the resume.
 
-**Approach:** Assume in-house recruiter role. Be critical, but don't invent non-existent gaps.
+**Approach:** Assume in-house recruiter role. Be critical, but don't invent non-existent gaps. Evaluate against qualifications as transformed in Step 3, not the original posting text. Do not speculate about unstated preferences or ATS behavior.
 
 For each qualification, assign a **match value** (0–100) representing how well the candidate meets it:
 
