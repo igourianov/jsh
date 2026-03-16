@@ -77,7 +77,7 @@ These are common categories. If a qualification does not fit any of them, create
 
 **Group by category (run script):**
 
-1. Create a temp file in project root: `mktemp --suffix=.tmp --tmpdir=$(pwd)`
+1. Create a temp file in project root: `mktemp --suffix=.json --tmpdir=$(pwd)`
 2. Use Read tool to read the temp file returned. It is expected to be empty. This step is needed only to bypass safety check of the Write tool.
 3. Use the Write tool to save the JSON array to the path returned by mktemp
 4. Run the script with that path and delete the temp file:
@@ -112,7 +112,7 @@ For each qualification, assign a **match value** (0–100) representing how well
 
 Once all match values are assigned, add `"match_value"` to each entry and run:
 
-1. Create a temp file in project root: `mktemp --suffix=.tmp --tmpdir=$(pwd)`
+1. Create a temp file in project root: `mktemp --suffix=.json --tmpdir=$(pwd)`
 2. Use Read tool to read the temp file returned. It is expected to be empty. This step is needed only to bypass safety check of the Write tool.
 3. Use the Write tool to save the JSON array to the path returned by mktemp
 4. Run the script with that path and delete the temp file:
@@ -150,5 +150,5 @@ Save to `jobs/{Company}/{sanitized title}.md` using the template in [output-temp
 Output only:
 ```
 Match: {X}% | {One-line take}
-@`jobs/{Company}/{Title}.md`
+`jobs/{Company}/{Title}.md`
 ```
