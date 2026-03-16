@@ -80,14 +80,11 @@ These are common categories. If a qualification does not fit any of them, create
 
 **Group by category (run script):**
 
-Run:
+1. Create a temp file: `mktemp .claude/skills/screen-job/q-XXXXXX.tmp`
+2. Use the Write tool to save the JSON array to the path returned by mktemp
+3. Run the script with that literal path and delete the temp file:
 ```
-TMPFILE=$(mktemp .claude/skills/screen-job/q-XXXXXX.tmp)
-```
-1. Use the Write tool to save the JSON array to the path returned by mktemp
-2. Run the script and delete the temp file:
-```
-node .claude/skills/screen-job/group-qualifications.js $TMPFILE && rm $TMPFILE
+node .claude/skills/screen-job/group-qualifications.js <path> && rm <path>
 ```
 
 Input JSON array: `[{ "category": "...", "text": "...", "weight": 10 }, ...]`
@@ -118,8 +115,11 @@ Degree requirements: if the posting requires a degree but the candidate exceeds 
 
 Once all match values are assigned, add `"match_value"` to each entry and run:
 
+1. Create a temp file: `mktemp .claude/skills/screen-job/m-XXXXXX.tmp`
+2. Use the Write tool to save the JSON array to the path returned by mktemp
+3. Run the script with that literal path and delete the temp file:
 ```
-node .claude/skills/screen-job/calculate-match.js '<json>'
+node .claude/skills/screen-job/calculate-match.js <path> && rm <path>
 ```
 
 Input JSON array: `[{ "category": "...", "weight": 30, "match_value": 75 }, ...]`
