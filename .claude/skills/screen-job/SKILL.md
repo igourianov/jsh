@@ -157,8 +157,6 @@ Save to `jobs/{Company}/{sanitized title}.md`:
 ```markdown
 # {Normalized Title} | {Engineering domain} | {Product domain}
 
-### Match: {X}%
-
 - **Saved:** {current date: yyyy-MM-dd}
 - **URL:** {original job URL, if present}
 - **Company:** {Company}
@@ -170,7 +168,7 @@ Save to `jobs/{Company}/{sanitized title}.md`:
 ## Red flags
 - **{Category}:** {description}
 
-## Qualifications
+## Qualifications (match:{X}%)
 
 ### {Category} (weight:{weight}%, match:{match_value}%)
 - {qualification 1}
