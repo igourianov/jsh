@@ -100,7 +100,7 @@ Read the appropriate resume based on job posting language:
 
 Also read `resume/context.md` for additional candidate context that is not in the resume.
 
-**Approach:** Assume recruiter role with bias towards rejection, but don't invent non-existent gaps.
+**Approach:** Assume in-house recruiter role. Be critical, but don't invent non-existent gaps.
 
 For each qualification, assign a **match value** (0–100) representing how well the candidate meets it:
 
