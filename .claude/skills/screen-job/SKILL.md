@@ -20,9 +20,9 @@ Determine input type:
 
 Extract the following from the job posting:
 
-- **Title:**
-  - Full original title (for filename)
-  - Normalized title (for heading): strip to core role only. Remove team/product mentions, tech stack details, and domain qualifiers. Keep seniority level.
+- **Title:** derive three forms:
+  - Original title: as-is from the posting
+  - Normalized title: original stripped of team/product mentions, tech stack details and domain qualifiers. Keep seniority level.
     - "Software Engineering Manager, Marketplace" → "Engineering Manager"
     - "Engineering Manager - Development (C# / .NET)" → "Engineering Manager"
     - "Senior Engineering Manager, Platform" → "Senior Engineering Manager"
@@ -58,7 +58,7 @@ Qualifications are rules for evaluating the candidate against the job. Extract t
 - Degree requirements assume "X degree OR equivalent experience in the corresponding role". CS degree => software developer experience. Bachelor => 5+ years equivalent. Master's => 8+ years equivalent.
 
 **Implicit qualifications** (add even if not listed):
-- Core job title (normalized title stripped of seniority). "Senior Engineering Manager" → "Engineering Manager". Expected to match one of candidate's work experiences (preferably most recent).
+- Normalized job title. Expected to match one of candidate's work experiences (preferably most recent).
 - Industry/domain experience if a domain is mentioned in the posting. Weight=10% if implied, 20% if explicitly required.
 - French language for Quebec-based roles.
 
