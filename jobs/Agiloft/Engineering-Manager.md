@@ -3,12 +3,9 @@
 - **Saved:** 2026-03-16
 - **Company:** Agiloft
 - **Location:** Remote (US)
-- **Compensation:** $180,000-$220,000 (estimated)
+- **Compensation:** $200,000 CAD + 5% bonus + equity
 - **Benefits:** Medical, Vision, Dental, 401(k), Paid maternity/paternity leave, Disability insurance, Floating holidays, Quarterly wellness day
 - **Team size:** Not specified
-
-## Red flags
-- **Location mismatch:** Role is listed as United States. Candidate is based in Canada with no US work authorization. The posting does not mention visa sponsorship or international eligibility.
 
 ## Qualifications
 
