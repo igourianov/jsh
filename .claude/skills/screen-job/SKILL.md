@@ -149,9 +149,7 @@ Scan the raw job posting text for red flags. Omit this section from output if no
 
 5. **Below-market compensation** - Salary significantly below market rate for the role, level and location. Hourly pay instead of salaried (signals contractor/temp role disguised as full-time). For Director/VP roles specifically, cross-reference the stated range against the org size and scope described — a large-org Director title at Senior IC pay is a red flag.
 
-6. **Director/VP role with coding expectation** - A Director or VP title with any non-zero coding expectation (e.g., "write production code", "hands-on", specific required stack implying IC work) signals org immaturity or role scope confusion. At Director level and above, hands-on coding pulls focus from leadership responsibilities.
-
-7. **Location mismatch** - Role requires on-site or hybrid presence in a city the candidate cannot reasonably commute to. Flag if the required office location is not within commuting distance (e.g., Toronto is borderline; anything farther or requiring relocation is a flag). Remote roles are never flagged. Do not flag if the posting explicitly allows remote work.
+6. **Location mismatch** - Role requires on-site or hybrid presence in a city the candidate cannot reasonably commute to. Flag if the required office location is not within commuting distance (e.g., Toronto is borderline; anything farther or requiring relocation is a flag). Remote roles are never flagged. Do not flag if the posting explicitly allows remote work.
 
 ## Step 6: Output
 
