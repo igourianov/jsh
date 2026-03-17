@@ -9,7 +9,7 @@ Engineering Manager who has built several high-performing engineering teams and 
 * **Team leadership:** hiring, scaling, performance management and career development, leading remote teams
 * **Technical leadership:** system design, code reviews, technical mentorship, AI tooling adoption
 * **Platform & cloud:** Kubernetes, microservices, event-driven architecture, AWS/Azure, observability
-* **Product delivery:** roadmap planning, OKRs, SDLC ownership, DORA metrics, cross-functional partnership with Product, UX and Architecture
+* **Product delivery:** roadmap planning, OKRs, SDLC ownership, DORA metrics, data-driven decision-making, cross-functional partnership with Product, UX and Architecture
 * **Process & culture:** Scrum, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams
 
 # Experience
