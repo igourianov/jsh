@@ -167,9 +167,9 @@ DEI language goes beyond a standard equal-opportunity footer and is embedded int
 
 **Language:** Write the screen file in the same language as the original job posting. Do not translate unless explicitly asked.
 
-**Filename:** run `node .claude/skills/screen-job/sanitize-filename.js '<Full Original Title>'` to get the sanitized filename.
+**Filename:** run `bash .claude/skills/screen-job/sanitize.sh '<Company>' '<Full Original Title>'` to get the sanitized company folder name and title (output: two lines).
 
-Save to `jobs/{Company}/{sanitized title}.md` using the template in [output-template.md](output-template.md).
+Save to `jobs/{sanitized company}/{sanitized title}.md` using the template in [output-template.md](output-template.md).
 
 ## Response
 
