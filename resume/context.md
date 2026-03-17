@@ -18,3 +18,7 @@ Candidate has Russian citizenship and is able to move to Russia. For job positng
 ## Role
 
 In the Russian tech market the CTO role is approximately equivalent to Engineering Manager (one level above tech lead) - do not flag as a title gap
+
+## Compensation
+
+Candidate is targeting 180-200k CAD yearly, assuming no signifcant bonus or equity component.
