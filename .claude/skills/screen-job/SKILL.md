@@ -20,7 +20,7 @@ Determine input type:
 
 Extract the following from the job posting:
 
-- **Title:** derive three forms:
+- **Title:** derive these forms:
   - Original title: as-is from the posting
   - Normalized title: original stripped of team/product mentions, tech stack details and domain qualifiers. Keep seniority level.
     - "Software Engineering Manager, Marketplace" → "Engineering Manager"
@@ -64,14 +64,16 @@ Qualifications are rules for evaluating the candidate against the job. Extract t
 
 **Categories:**
 
-These are common categories. If a qualification does not fit any of them, create a new category with an appropriate name. When communication is mentioned, categorize by its subject (e.g. product strategy → Product management), not the act of communicating.
+These are common categories. If a qualification does not fit any of them, create a new category with an appropriate name.
+If qualification fits well into more than one category, split it between those categories instead of picking the best one.
+When communication is mentioned, categorize by its subject (e.g. product strategy → Product management), not the act of communicating.
+
 - **Baseline:** normalized job title, X years in role/industry/engineering (general experience, not specific skill), spoken language proficiency.
 - **People management:** hiring, career development, performance assessments, team growth/scaling, etc.
 - **Product management:** delivery, backlog management, ownership, stakeholder alignment, requirements gathering, cross-functional communication about product/strategy, etc.
 - **Process management:** SDLC, Agile/Scrum/Kanban, CI/CD, Shift left / qa automation, process optimization, incident response/on-call, post-mortems as well as process tools (Jira, Confluence, Miro, etc.).
 - **Product domain:** industry vertical and business domain knowledge (e.g. fintech, healthcare, non-profit, e-commerce), third-party system integrations (HRIS, CRM, Salesforce, ERP, payment processors, etc.) and CMS tools
-- **Technical:** architectural oversight, system design, tech-debt management, code reviews, exploration/experimentation, etc.
-- **Tech stack:** specific technologies, development tools, frameworks and programming languages.
+- **Technical:** architectural oversight, system design, tech-debt management, code reviews, exploration/experimentation, specific technologies, development tools, frameworks and programming languages.
 - **Education:** degree, certification, formal credential requirements.
 - **Soft skills:** general communication ability (written/verbal clarity), culture, adaptability, etc.
 
