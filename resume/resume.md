@@ -29,9 +29,10 @@ Engineering Manager who has built several high-performing engineering teams and 
 *Platform accomplishments:*
 * Stood up a platform team of 5 senior/staff engineers that extracted a critical calculation engine from the monolith into an independently scalable microservice and built core services enabling other teams to transition to a microservices architecture.
 * Stood up a DBA team that managed daily operations across thousands of dev/test SQL databases, streamlining provisioning and ensuring data compliance.
+* Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
 * Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services, removing scheduled downtime for all customers.
 
-*Skills/tools:* Kubernetes (AKS), Microservices, Kafka, Terraform, Docker, CI/CD, REST API design, Redis, ElasticSearch, Prometheus+Grafana, Azure DevOps, Git, SOC 2, GDPR, .NET Core, JavaScript/TypeScript, SQL Server
+*Skills/tools:* Kubernetes (AKS), Microservices, Kafka, Terraform, Docker, CI/CD, REST API design, Redis, ElasticSearch, Prometheus+Grafana, Azure DevOps, Git, SOC 2, GDPR, .NET Core, JavaScript/TypeScript, SQL Server, Claude Code
 
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
