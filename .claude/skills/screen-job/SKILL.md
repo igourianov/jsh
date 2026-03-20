@@ -9,8 +9,8 @@ Screen job: $ARGUMENTS
 
 Determine input type:
 - **Lever URL** (contains jobs.lever.co): Use lever-parser.js script with Bash
-  - First ensure dependencies are installed: `cd .claude/skills/screen-job && npm install`
-  - Then run: `node lever-parser.js <url>`
+  - First ensure dependencies are installed: `cd ${CLAUDE_SKILL_DIR} && npm install`
+  - Then run: `node ${CLAUDE_SKILL_DIR}/lever-parser.js <url>`
   - Script extracts JSON and outputs to stdout
 - **Other URL** (starts with http/https): Use WebFetch to retrieve content
 - **File path** (e.g., temp.txt): Use Read to load content
@@ -84,7 +84,7 @@ When communication is mentioned, categorize by its subject (e.g. product strateg
 3. Use the Write tool to save the JSON array to the path returned by mktemp
 4. Run the script with that path and delete the temp file:
 ```
-node .claude/skills/screen-job/group-qualifications.js <path> && rm <path>
+node ${CLAUDE_SKILL_DIR}/group-qualifications.js <path> && rm <path>
 ```
 
 Input JSON array: `[{ "category": "...", "text": "...", "weight": 10 }, ...]`
@@ -119,7 +119,7 @@ Once all match values are assigned, add `"match_value"` to each entry and run:
 3. Use the Write tool to save the JSON array to the path returned by mktemp
 4. Run the script with that path and delete the temp file:
 ```
-node .claude/skills/screen-job/calculate-match.js <path> && rm <path>
+node ${CLAUDE_SKILL_DIR}/calculate-match.js <path> && rm <path>
 ```
 
 Input JSON array: `[{ "category": "...", "weight": 30, "match_value": 75 }, ...]`
@@ -169,7 +169,7 @@ DEI language goes beyond a standard equal-opportunity footer and is embedded int
 
 **Language:** Write the screen file in the same language as the original job posting. Do not translate unless explicitly asked.
 
-**Filename:** run `bash .claude/skills/screen-job/sanitize.sh '<Company>' '<Full Original Title>'` to get the sanitized company folder name and title (output: two lines).
+**Filename:** run `bash ${CLAUDE_SKILL_DIR}/sanitize.sh '<Company>' '<Full Original Title>'` to get the sanitized company folder name and title (output: two lines).
 
 Save to `jobs/{sanitized company}/{sanitized title}.md` using the template in [output-template.md](output-template.md).
 
