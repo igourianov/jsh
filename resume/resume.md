@@ -35,7 +35,7 @@ Engineering Manager who has built several high-performing engineering teams and 
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
 
-* Led technical design and delivery of Ceridian's first Recruiting module, establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
+* Led technical design and delivery of a greenfield ATS (Applicant Tracking System), establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
 * Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts.
 * Optimized localization data architecture, enabling zero-downtime language updates and reducing internationalization time-to-market from weeks to hours.
 
@@ -44,4 +44,5 @@ Engineering Manager who has built several high-performing engineering teams and 
 Digital agency providing marketing services for healthcare industry.
 
 * Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda
-* Contributed to the development of the in-house built CMS (Content Management System)
+* Contributed to a proprietary CMS powering client-facing marketing sites
+* Contributed to an internal work tracking system used across the agency
