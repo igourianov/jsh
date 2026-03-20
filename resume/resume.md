@@ -46,3 +46,4 @@ Digital agency providing marketing services for healthcare industry.
 * Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda
 * Contributed to a proprietary CMS powering client-facing marketing sites
 * Contributed to an internal work tracking system used across the agency
+* Contributed to an internal web framework including a custom ORM
