@@ -16,18 +16,16 @@ Engineering Manager who has built several high-performing engineering teams and 
 
 ### Engineering Manager, Transformation @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Jan 2022 \- Oct 2025
 
-*Product:* [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment processing sensitive data at scale.
+[DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment processing sensitive data at scale.
 
-*Accomplishments:*
 * Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition and core platform services.
 * Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
 * Extracted a critical calculation engine from the monolith into an independently scalable microservice.
 * Built core platform services enabling other teams to transition to a microservices architecture.
-* Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services, removing scheduled downtime for all customers.
+* Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services.
 
 ### Engineering Manager, Product @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Jan 2022
 
-*Accomplishments:*
 * Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
 * Scaled from one team to three high-performing cross-functional product teams (8-12 devs+QA each, 30+ engineers total). Designed the engineering interview process and hired 20+ engineers. Managed up to 25 engineers directly and via technical leads.
 * Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
@@ -37,7 +35,6 @@ Engineering Manager who has built several high-performing engineering teams and 
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
 
-*Accomplishments:*
 * Led technical design and delivery of Ceridian's first Recruiting module, establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
 * Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts.
 * Optimized localization data architecture, enabling zero-downtime language updates and reducing internationalization time-to-market from weeks to hours.
@@ -46,6 +43,5 @@ Engineering Manager who has built several high-performing engineering teams and 
 
 Digital agency providing marketing services for healthcare industry.
 
-*Accomplishments:*
 * Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda
 * Contributed to the development of the in-house built CMS (Content Management System)
