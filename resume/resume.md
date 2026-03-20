@@ -10,7 +10,7 @@ Engineering Manager who has built several high-performing engineering teams and 
 * **Technical leadership:** system design, code reviews, technical mentorship, AI tooling adoption
 * **Product delivery:** roadmap planning, OKRs, SDLC ownership, DORA metrics, data-driven decision-making, cross-functional partnership with Product, UX and Architecture
 * **Process:** Scrum, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
-* **Tech stack:** Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Angular, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, microservices, event-driven architecture, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
+* **Tech stack:** Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, microservices, event-driven architecture, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
 
 # Experience
 
