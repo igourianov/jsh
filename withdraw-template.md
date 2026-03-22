@@ -1,6 +1,6 @@
 Hi {recruiter_name},
 
-Thank you for taking the time to discuss the {title} role at {company} with me. After careful consideration, I've decided to move forward with other opportunities.
+Thank you for taking the time to discuss the {title} role at {company} with me. After careful consideration, I've decided to pursue other opportunities.
 
 I appreciate your interest in my candidacy and the time you've invested in speaking with me, and wish you success in searching for suitable candidates for this role.
 
