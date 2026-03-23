@@ -60,7 +60,7 @@ Qualifications are rules for evaluating the candidate against the job. Extract t
 **Implicit qualifications** (add even if not listed):
 - Normalized job title. Expected to match one of candidate's work experiences (preferably most recent).
 - Industry/domain experience if a domain is mentioned in the posting. Weight=10% if implied, 20% if explicitly required.
-- French language for Quebec-based roles.
+- French language for Quebec-based roles, companies headquartered in Quebec, or postings that include a French translation of the job description.
 
 **Categories:**
 
