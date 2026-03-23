@@ -56,6 +56,7 @@ Qualifications are rules for evaluating the candidate against the job. Extract t
 - Split qualifications with examples into required core + optional examples. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java or Python or Go".
 - Convert responsibilities into qualifications. "Champion AI tool adoption" → "AI tooling experience".
 - Degree requirements assume "X degree OR equivalent experience in the corresponding role". CS degree => software developer experience. Bachelor => 5+ years equivalent. Master's => 8+ years equivalent.
+- If daily coding is expected (Coding % ≥ 10%), double the weight of the core Technical language/framework qualification.
 
 **Implicit qualifications** (add even if not listed):
 - Normalized job title. Expected to match one of candidate's work experiences (preferably most recent).
