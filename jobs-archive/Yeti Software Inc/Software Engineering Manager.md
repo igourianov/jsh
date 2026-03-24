@@ -1,59 +1,62 @@
-# Engineering Manager | Product | B2B SaaS, Property Maintenance | 76%
+# Engineering Manager | Product | Property Management SaaS | 76%
 
-- **Saved:** 2026-03-17
+- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4381642673/
 - **Company:** Yeti Software Inc.
-- **Location:** Remote, Canada
-- **Compensation:** Not stated (estimated 150-180k CAD)
+- **Location:** Canada, Remote
+- **Compensation:** Not stated (~$150K-$180K CAD estimated)
 - **Benefits:** Not stated
-- **Team size:** Small, globally distributed
+- **Team size:** Small (developers, QA, contractors)
 
 ## Qualifications
 
-### Tech stack (weight:32%, match:37%)
-- AWS (infrastructure, scalability, security best practices)
+### Technical (weight:48%, match:56%)
+- AWS infrastructure, scalability and security best practices
 - Laravel (PHP) backend development
-- Angular and/or Ionic for frontend and mobile-friendly applications
+- Angular or Ionic frontend/mobile development
+- Modernizing or refactoring production SaaS systems
+- System architecture ownership and evolution
+- AI/ML integration into production products
+- Build vs buy decision-making
 
-### Baseline (weight:30%, match:100%)
-- Engineering Manager experience
+### Baseline (weight:24%, match:100%)
+- Engineering Manager or Technical Lead experience in SaaS
 - 8+ years software engineering experience including senior or lead roles
 
-### Technical (weight:13%, match:81%)
-- Modernizing or refactoring production SaaS systems
-- AI/ML integration into production products
+### People management (weight:11%, match:100%)
+- Leading and mentoring a small globally distributed engineering team
+- Establishing engineering standards and code quality practices
 
-### Product management (weight:10%, match:100%)
+### Product management (weight:6%, match:100%)
 - Cross-functional collaboration with Product, Customer Success and Leadership
-- Translate product requirements into technical plans and timelines
+- Translating product requirements into technical plans and timelines
 
-### People management (weight:5%, match:100%)
-- Lead and mentor a small globally distributed engineering team
+### Process management (weight:4%, match:100%)
+- CI/CD, testing and release process improvement
 
-### Product domain (weight:5%, match:75%)
+### Product domain (weight:4%, match:50%)
 - Small/fast-moving SaaS or startup experience
 
-### Process management (weight:3%, match:100%)
-- CI/CD, testing and release process improvements
-
-### Soft skills (weight:2%, match:100%)
-- Clear written and spoken English
+### Soft skills (weight:3%, match:100%)
+- Written and spoken English communication
 
 ## Summary
 
-Hands-on Engineering Manager role at a small, growing B2B SaaS company. The role combines technical leadership with people management, requiring someone who stays close to the code while owning architecture, technical direction and engineering execution. Key focus areas include modernizing the existing stack (AWS, Laravel, Angular/Ionic), integrating AI capabilities into the platform and scaling engineering practices. Reports to founders/product leadership.
+Hands-on Engineering Manager role at a growing B2B SaaS company. The role combines technical leadership with people management, reporting to founders. Focus on modernizing the existing stack (AWS, Laravel, Angular/Ionic), integrating AI capabilities into the product, and scaling engineering practices. The ideal candidate is a senior engineer transitioning into management who still wants to be close to the code.
 
-- **Coding:** 40% - Specific tech stack required (Laravel, Angular/Ionic), "hands-on", "close to the code", architecture ownership
-- Own and evolve engineering architecture across the full stack
-- Lead modernization initiatives for performance, scalability, security and maintainability
+- **Coding:** 20% (hands-on with Laravel/Angular stack, architecture ownership, code reviews)
+- Own and evolve engineering architecture across AWS, Laravel, Angular/Ionic
+- Lead modernization initiatives for performance, scalability, security
 - Identify and operationalize AI opportunities within the platform
+- Lead, mentor and support a globally distributed engineering team
 - Establish engineering standards, code quality practices and delivery discipline
-- Improve development workflows, CI/CD, testing and release processes
+- Improve CI/CD, testing and release processes
+- Partner with Product, Customer Success and Leadership on priorities
 
 ## Company
 
-Yeti Software is a SaaS company serving B2B customers in the property maintenance industry. Their platform is the leading solution for managing exterior property maintenance operations (snow removal and lawn care) year-round. Features include crew tracking, work documentation, route optimization and liability reduction. Trusted by leading property maintenance companies across North America. The company is in a growth phase, described as lean and product-driven.
+Yeti Software is a B2B SaaS company based in Canada that provides a platform for managing exterior property maintenance operations (snow removal and lawn care). The platform helps property maintenance companies track crews, document work, optimize routes and reduce liability. Trusted by leading companies across North America. The company is in a growth phase, lean and product-driven.
 
 ## Keywords
 
-AWS, Laravel, PHP, Angular, Ionic, SaaS, B2B, microservices, CI/CD, AI integration, ML, engineering management, technical leadership, architecture, system design, scalability, security, code quality, cross-functional collaboration, agile, startup, distributed team, modernization, refactoring, data pipelines, automation
+Engineering Manager, AWS, Laravel, PHP, Angular, Ionic, SaaS, B2B, microservices, CI/CD, AI integration, system architecture, code reviews, mentoring, distributed teams, scalability, security, performance optimization, modernization, refactoring, technical leadership, cross-functional collaboration, agile, startup
