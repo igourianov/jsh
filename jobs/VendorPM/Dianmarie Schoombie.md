@@ -39,3 +39,12 @@ Hi Ilia! Of course, I've attached a JD for you to review. :)
 
 Thank you Dianmarie, this looks like interested opportunity. I've scheduled a call for us on Wednesday, Apr 1st.
 
+---
+
+Dianmarie Schoombie <dianmarie@calyptus.co>
+3:07 PM (0 minutes ago)
+to me
+
+Hey Ilia, it was nice meeting with you earlier. Our conversation is now live on the platform and attached to your account. If you wanted to log-in and register specific interest in any roles, or complete your profile further, please feel free to. Here’s the link to log-in: https://app.calyptus.co/auth/candidate/sign-in
+
+Any questions, I’m here to help :) 
