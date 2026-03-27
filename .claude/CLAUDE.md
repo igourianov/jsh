@@ -40,16 +40,32 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - **Use plain text only** - No markdown formatting (no **, *, #, etc.), no em dashes
 - Focus on: hook -> value -> call-to-action
 
-**Source file location:** `LinkedIn/posts/`
+## Recruiter communication
 
-## Workflow Rules
+Rules for drafting communication with recruiters. When adding new message to a thread, separate it with `---` from the previous message.
 
-- **Always use the `commit` skill when the user says "commit".** Never manually run git add/commit/push.
+### My communication style
 
-## Tone and Style
+**Language:**
+- Short, direct sentences. No filler or corporate fluff.
+- Uses contractions naturally ("I'd", "I'm", "didn't", "doesn't")
+- "Thanks for reaching out" or "Thank you for sending this over" as acknowledgment. Never "I really appreciate you taking the time to..."
+- Plain vocabulary. No buzzwords or overly formal phrasing.
+- Occasional light warmth ("Great chatting with you today", "It was my pleasure chatting with you")
 
-When generating content for this candidate:
-- Professional but approachable
-- Focus on results and measurable impact
-- Balance technical depth with leadership experience
-- Emphasize full-stack management capabilities (people + product + technical)
+**Structure:**
+- Opens with "Hi [Name]," (never "Dear", never "Hello")
+- One-line acknowledgment or thanks, then straight to the point
+- Messages are 3-6 sentences. Rarely longer unless providing specific details (highlights, availability, feedback).
+- Bullet points only for listing concrete items (highlights, availability slots). Never for prose.
+- Closes with "Best," or "Regards," followed by "Ilia". Uses "Best," more often. "Regards," for slightly more formal or declining messages.
+- Signs as "Ilia" (not full name, unless a formal withdrawal email)
+
+**Tone:**
+- Confident, not deferential. Does not oversell or grovel.
+- Direct about dealbreakers. States them plainly without hedging ("the hybrid arrangement wouldn't be a fit", "I do not think this opportunity would work for me. It represents a significant step down").
+- When declining: gives a clear reason, wishes them well, keeps it brief.
+- When interested: brief expression of interest, proposes concrete next step, offers specific availability windows.
+- Habitually asks for the JD before committing to a call.
+- Gives honest, sometimes blunt feedback when warranted (e.g. withdrawal with constructive criticism). Frames it as professional courtesy, not complaint.
+- Does not use exclamation marks excessively. One per message at most, and only in warm contexts.
