@@ -30,6 +30,50 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 - `recruiters/{recruiter_name}.md` - communication threads with individual recruiters extracted from email or LinkedIn messages, but not yet linked to a specific job posting.
 - `archive/` - Archived cover letters, interview questions, and other historical materials
 
+## Job posting notes
+
+Whenever I make statements about job application process, job itself, interview or company - save them in the `jobs/{Company}/notes.md`
+
+### Notes file structure
+
+The notes file (`notes.md`) is a running log of everything related to a job application. It combines process tracking, interview notes, prep material and personal impressions in one place.
+
+**Header:** `# {Company} - Notes`
+
+**Sections are organized chronologically by interview round**, each as a `##` heading:
+- Include the round type and date: `## Recruiter Screen - 2026-01-15`
+- Include interviewer name (and LinkedIn URL when available)
+- Optionally note duration, source (inbound/applied), call format (phone/video)
+
+**Within each round, capture:**
+- **Key information** - Salary, team size, reporting structure, tech stack, next steps. Bullet points, not prose.
+- **Process observations** - How the interview was run, scheduling quality, interviewer preparedness. Honest and unfiltered.
+- **Confidence level** - A gut-feel rating (e.g. "Confidence: Low", "Very positive conversation")
+- **Concerns / Red flags** - Anything that raised doubts. Can include interviewer quality, org signals, Glassdoor findings.
+- **Green flags** - Positive signals worth noting.
+
+**Standalone sections (not per-round):**
+- `## Alignment` or `## Strong Alignment` - How the role maps to resume strengths. Bullet points or numbered list.
+- `## Questions` - Prepared questions for upcoming interviews. Numbered, specific, sometimes pointed.
+- `## Outcome` - Final status (Rejected, Withdrew, Ghosted) with date. Brief explanation if relevant.
+- `## Impressions` - Overall gut-feel summary of the company/process.
+
+**Interview prep material** (optional, for promising roles):
+- Talking points, STAR-method stories, closing statements
+- Red flags to watch for during the interview
+- Questions organized by category (Role, Culture, Technical, Growth)
+
+**When to write:**
+- After every recruiter/interviewer interaction, log observations immediately
+- Before an interview, add prep questions and alignment notes
+- When the user shares information about the process, company or role in conversation, save it to notes
+- When an application reaches a final state, add an Outcome section
+
+**Style:**
+- Bullet points for observations. Short, direct, opinionated.
+- No sugarcoating. Personal impressions are honest ("Sweat shop vibes", "interviewer doesn't know how to run inetrviews", "Low confidence, low excitement").
+- Dates in ISO format (2026-01-15).
+- LinkedIn URLs for interviewers when known.
 
 ## LinkedIn Posts
 
