@@ -8,6 +8,9 @@
 - **Benefits:** 100% medical/dental/vision with dependents, pension contribution, 16 weeks parental leave, health & wellness stipend, remote workspace/internet/cellphone stipend, 21 vacation days, 80 hours sick leave, 11 paid holidays, equity
 - **Team size:** 6+ engineers
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Qualifications
 
 ### Baseline (weight:30%, match:100%)

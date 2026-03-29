@@ -8,6 +8,9 @@
 - **Benefits:** comprehensive benefits, unlimited vacation, stock options, maternity/paternity top-up, monthly internet and cell phone allowance, L&D program
 - **Team size:** not specified
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Qualifications
 
 ### Baseline (weight:32%, match:100%)

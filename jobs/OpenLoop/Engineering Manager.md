@@ -8,6 +8,9 @@
 - **Benefits:** Extended health plans via Sterling Capital Brokers (through Rippling EOR)
 - **Team size:** Not specified (building from ground up)
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Red flags
 - **Location mismatch:** Role is described as establishing a Toronto engineering hub. While tagged as Remote, the mandate to "establish and grow our Toronto engineering presence" suggests on-site expectations may emerge. Fort Erie is ~2 hours from Toronto.
 

@@ -8,6 +8,9 @@
 - **Benefits:** Not specified
 - **Team size:** Not specified
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Red flags
 - **Vague job description:** The posting is generic and lacks substance. No specific technologies, team size, product stage, or concrete responsibilities are mentioned. The qualifications are boilerplate and could apply to virtually any engineering manager role at any company.
 

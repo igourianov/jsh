@@ -16,6 +16,15 @@ Determine input type:
 - **File path** (e.g., temp.txt): Use Read to load content
 - **Inline text** (multi-line job description pasted directly): Use the argument text as-is as the job posting content
 
+## Step 1.5: Check History
+
+After determining the company name from the posting (before full analysis):
+
+1. Check if `jobs/{Company}/` folder already exists with a screening `.md` file
+2. If it exists, read the screening file and report to user: previous Status, Match %, Saved date
+3. Ask the user if they want to overwrite. If they decline, stop.
+4. If overwriting, note the existing **Status** and **Progress** values to preserve them in the new screening file
+
 ## Step 2: Parse
 
 Extract the following from the job posting:
@@ -173,6 +182,15 @@ DEI language goes beyond a standard equal-opportunity footer and is embedded int
 **Filename:** run `bash ${CLAUDE_SKILL_DIR}/sanitize.sh '<Company>' '<Full Original Title>'` to get the sanitized company folder name and title (output: two lines).
 
 Save to `jobs/{sanitized company}/{sanitized title}.md` using the template in [output-template.md](output-template.md).
+
+## Step 7: Create Junction
+
+If `jobs-active/{Company}` junction does not already exist, create it:
+```bash
+cmd //c "mklink /J \"jobs-active\\{Company}\" \"jobs\\{Company}\""
+```
+
+Note: use a .bat temp file if bash variable expansion causes issues with backslashes in mklink.
 
 ## Response
 

@@ -8,6 +8,9 @@
 - **Benefits:** parental leave, work-from-home stipend, birthday off, work anywhere up to 3 months
 - **Team size:** Not specified (net new position)
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Red flags
 - **Below-market compensation:** The range tops out at $190k CAD, which is on the lower end for a senior engineering manager role. Candidate target is $180-200k, so only the upper end of the range overlaps.
 

@@ -8,6 +8,9 @@
 - **Benefits:** Not specified
 - **Team size:** Small, senior-heavy team
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Qualifications
 
 ### Technical (weight:23.4%, match:100%)

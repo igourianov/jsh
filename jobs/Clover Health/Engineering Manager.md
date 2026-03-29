@@ -1,5 +1,6 @@
 # Engineering Manager | Product | Healthcare
 
+
 ### Match: 88%
 
 - **Saved:** 2026-03-15
@@ -8,6 +9,9 @@
 - **Compensation:** $134,600 - $175,000 CAD
 - **Benefits:** medical, dental, optical, equity, performance bonus, no-meeting Fridays, remote-first, parental leave, professional development funding, cell phone and internet stipend, office setup reimbursement
 - **Team size:** not specified
+
+- **Status:** Active
+- **Progress:** Applied
 
 ## Qualifications
 

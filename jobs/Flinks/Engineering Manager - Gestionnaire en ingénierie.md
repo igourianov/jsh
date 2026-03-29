@@ -8,6 +8,9 @@
 - **Benefits:** Not listed
 - **Team size:** 10-15 engineers across 1-2 squads
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Qualifications
 
 ### Baseline (weight:40%, match:75%)

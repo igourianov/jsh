@@ -17,14 +17,14 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 
 - `resume/` - Base resume (source of truth) and context
 - `pdf/` - output folder for generated resume PDFs
-- `jobs/` - Job postings organized by company folder. Active postings only - the ones I have applied to and expecting a response.
-	- `jobs/{Company}/{job_title}.md` - Result of the job screen and match against base resume
+- `jobs/` - All company folders. Permanent location, files never move.
+	- `jobs/{Company}/{job_title}.md` - Result of the job screen and match against base resume. Contains Status and Progress fields.
 	- `jobs/{Company}/resume.md` - Tailored resumes for specific companies
 	- `jobs/{Company}/company.md` - Company research online
 	- `jobs/{Company}/notes.md` - Notes about application and interview process. Questions, issues, log of actions.
 	- `jobs/{Company}/{recruiter_name}.md` - conversation thread with recruiter extracted from email or LinkedIn message. Used for logging and drafting responses.
 - `jobs/black-list.md` - Companies and recruiters to avoid. Check this list during job screening before proceeding.
-- `jobs-archive/` - job postings move here from the `jobs` folder after rejection or ghosting
+- `jobs-active/` - Directory junctions to active company folders in `jobs/`. Gitignored. Used as a lean view of current applications.
 - `LinkedIn-posts/{post_title}.md` - LinkedIn post drafts and editorial versions
 - `LinkedIn-search/` - LinkedIn search instructions
 - `recruiters/{recruiter_name}.md` - communication threads with individual recruiters extracted from email or LinkedIn messages, but not yet linked to a specific job posting.
@@ -74,6 +74,27 @@ The notes file (`notes.md`) is a running log of everything related to a job appl
 - No sugarcoating. Personal impressions are honest ("Sweat shop vibes", "interviewer doesn't know how to run inetrviews", "Low confidence, low excitement").
 - Dates in ISO format (2026-01-15).
 - LinkedIn URLs for interviewers when known.
+
+## Status Tracking
+
+Status and Progress fields live in each screening file's metadata block (the `- **Field:**` section at the top).
+
+**Fields:**
+- **Status** - `Screened` (default for new screens), `Active`, `Rejected`, `Ghosted`, `Withdrew`, `Blacklisted`
+- **Progress** - last process step with date: `Applied`, `Recruiter screen (2026-03-25)`, `Tech interview (2026-04-01)`, `Offer (2026-04-10)`, etc. Applied date is optional since it's usually the same as Saved.
+
+**Rules:**
+- When user screens a new job: Status=Screened, Progress empty
+- When user applies or says they applied: Status=Active, Progress=Applied
+- Update Progress as the application advances through steps
+- When an application reaches a terminal state: update Status to Rejected/Ghosted/Withdrew
+- Never move company folders between directories. Update the screening file fields instead.
+
+**Junction management (`jobs-active/`):**
+- `jobs-active/` contains Windows directory junctions pointing to active company folders in `jobs/`. It is gitignored.
+- When activating a company: create junction with `cmd //c "mklink /J \"jobs-active\\{Company}\" \"jobs\\{Company}\""` (use a .bat temp file if bash variable expansion causes issues)
+- When archiving a company: remove junction with `rmdir "jobs-active/{Company}"`
+- When user says "archive company": update Status in screening file (Rejected/Ghosted/Withdrew), remove junction from `jobs-active/`
 
 ## LinkedIn Posts
 

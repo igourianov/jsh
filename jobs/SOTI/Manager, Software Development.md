@@ -8,6 +8,9 @@
 - **Benefits:** Not specified
 - **Team size:** Not specified
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Red flags
 - **Location mismatch:** Hybrid role in Mississauga, ON. Candidate is in Fort Erie, ON (~150km, not commutable).
 - **Vague job description:** Responsibilities are generic coaching/Scrum language with no specifics about team size, product area, tech stack, or concrete deliverables. Could apply to almost any software company.

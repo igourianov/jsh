@@ -8,6 +8,9 @@
 - **Benefits:** Not stated
 - **Team size:** Not stated
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Red flags
 
 - **Visa sponsorship uncertainty:** Sponsorship for engineering roles is "not guaranteed" and is "based on business needs." Candidate is a Canadian citizen so this does not apply, but worth noting the company's general stance.

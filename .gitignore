@@ -19,3 +19,6 @@ pdf/*.md
 
 # resume text versions
 resume/*.txt
+
+# Active job junctions (directory junctions to jobs/ subfolders)
+jobs-active/*/

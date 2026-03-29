@@ -7,6 +7,8 @@
 - **Compensation:** {Salary range}
 - **Benefits:** {Benefits}
 - **Team size:** {number of reports}
+- **Status:** Screened
+- **Progress:**
 
 ## Red flags
 - **{Category}:** {description}

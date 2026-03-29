@@ -8,6 +8,9 @@
 - **Benefits:** Not stated
 - **Team size:** Not stated
 
+- **Status:** Active
+- **Progress:** Applied
+
 ## Red flags
 None
 
