@@ -80,7 +80,7 @@ The notes file (`notes.md`) is a running log of everything related to a job appl
 Status and Progress fields live in each screening file's metadata block (the `- **Field:**` section at the top).
 
 **Fields:**
-- **Status** - `Screened` (default for new screens), `Active`, `Rejected`, `Ghosted`, `Withdrew`, `Blacklisted`
+- **Status** - `Screened` (default for new screens), `Active`, `Rejected (2026-03-25)`, `Ghosted (2026-03-25)`, `Withdrew (2026-03-25)`, `Blacklisted`. Includes date when status changes to a terminal state.
 - **Progress** - last process step with date: `Applied`, `Recruiter screen (2026-03-25)`, `Tech interview (2026-04-01)`, `Offer (2026-04-10)`, etc. Applied date is optional since it's usually the same as Saved.
 
 **Rules:**
