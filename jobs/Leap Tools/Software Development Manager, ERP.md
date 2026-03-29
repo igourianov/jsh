@@ -7,8 +7,7 @@
 - **Compensation:** $140k-$190k CAD
 - **Benefits:** parental leave, work-from-home stipend, birthday off, work anywhere up to 3 months
 - **Team size:** Not specified (net new position)
-
-- **Status:** Active
+- **Status:** Rejected (2026-03-29)
 - **Progress:** Applied
 
 ## Red flags
