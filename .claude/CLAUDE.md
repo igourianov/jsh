@@ -80,7 +80,7 @@ The notes file (`notes.md`) is a running log of everything related to a job appl
 Status and Progress fields live in each screening file's metadata block (the `- **Field:**` section at the top).
 
 **Fields:**
-- **Status** - `Screened` (default for new screens), `Active`, `Rejected (2026-03-25)`, `Ghosted (2026-03-25)`, `Withdrew (2026-03-25)`, `Blacklisted`. Includes date when status changes to a terminal state.
+- **Status** - `Screened` (default for new screens), `Active`, `Passed (2026-03-25)`, `Rejected (2026-03-25)`, `Ghosted (2026-03-25)`, `Withdrew (2026-03-25)`. Includes date when status changes to a terminal state. `Passed` is for jobs never applied to. `Withdrew` is for jobs where an application was in progress.
 - **Progress** - last process step with date: `Applied`, `Recruiter screen (2026-03-25)`, `Tech interview (2026-04-01)`, `Offer (2026-04-10)`, etc. Applied date is optional since it's usually the same as Saved.
 
 **Rules:**
@@ -88,13 +88,20 @@ Status and Progress fields live in each screening file's metadata block (the `- 
 - When user applies or says they applied: Status=Active, Progress=Applied
 - Update Progress as the application advances through steps
 - When an application reaches a terminal state: update Status to Rejected/Ghosted/Withdrew
+- When user blacklists a company: add entry to `jobs/black-list.md` with reason. Do not change Status fields in screening files.
 - Never move company folders between directories. Update the screening file fields instead.
 
 **Junction management (`jobs-active/`):**
 - `jobs-active/` contains Windows directory junctions pointing to active company folders in `jobs/`. It is gitignored.
 - When activating a company: create junction with `cmd //c "mklink /J \"jobs-active\\{Company}\" \"jobs\\{Company}\""` (use a .bat temp file if bash variable expansion causes issues)
-- When archiving a company: remove junction with `rmdir "jobs-active/{Company}"`
-- When user says "archive company": update Status in screening file (Rejected/Ghosted/Withdrew), remove junction from `jobs-active/`
+- When archiving a company: remove junction via a temp .bat file (bash `rmdir` doesn't work on Windows junctions):
+  ```bash
+  cat > tmp_rmdir.bat << 'EOF'
+  rmdir "jobs-active\{Company}"
+  EOF
+  cmd //c "$(pwd)/tmp_rmdir.bat" && rm tmp_rmdir.bat
+  ```
+- When user says "archive company": update Status in screening file (Rejected/Ghosted/Withdrew), then check all screening `.md` files in the company folder. Only remove the junction if every screening file is in a terminal state (Rejected/Ghosted/Withdrew). If any screening file is still Screened or Active, keep the junction.
 
 ## LinkedIn Posts
 
