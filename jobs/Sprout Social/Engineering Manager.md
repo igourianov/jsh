@@ -8,7 +8,7 @@
 - **Benefits:** 100% employer-paid health/dental/vision/life/disability, 25 vacation days + 5 sick days + holidays + Rest & Recharge days, Modern Health mental health support, $950 CAD lifestyle stipend, remote work stipend ($550 USD setup + $50 USD/mo), financial wellness, Care.com, charitable match
 - **Team size:** not specified
 
-- **Status:** Active
+- **Status:** Rejected (2026-03-31)
 - **Progress:** Applied
 
 ## Qualifications
