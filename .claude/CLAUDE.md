@@ -93,7 +93,13 @@ Status and Progress fields live in each screening file's metadata block (the `- 
 
 **Junction management (`jobs-active/`):**
 - `jobs-active/` contains Windows directory junctions pointing to active company folders in `jobs/`. It is gitignored.
-- When activating a company: create junction with `cmd //c "mklink /J \"jobs-active\\{Company}\" \"jobs\\{Company}\""` (use a .bat temp file if bash variable expansion causes issues)
+- When activating a company: create junction via a temp .bat file:
+  ```bash
+  cat > tmp_mklink.bat << 'EOF'
+  mklink /J "jobs-active\{Company}" "jobs\{Company}"
+  EOF
+  cmd //c "$(pwd)/tmp_mklink.bat" && rm tmp_mklink.bat
+  ```
 - When archiving a company: remove junction via a temp .bat file (bash `rmdir` doesn't work on Windows junctions):
   ```bash
   cat > tmp_rmdir.bat << 'EOF'
