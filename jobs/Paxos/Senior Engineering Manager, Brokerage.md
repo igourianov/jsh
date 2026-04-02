@@ -1,52 +1,60 @@
-# Senior Engineering Manager | Product | Fintech/Crypto
+# Senior Engineering Manager | Product | Fintech/Crypto | 68%
 
-**URL:** https://jobs.ashbyhq.com/paxos/6d2f698e-7d17-49be-a731-73e203302615 \
-**Company:** Paxos \
-**Location:** Remote - United States/Canada \
-**Compensation:** $233,387 - $274,573 USD \
-**Benefits:** Equity, 25% performance bonus \
-**Posted:** March 2025 \
-**Match:** 65%
+- **Saved:** 2026-04-02
+- **URL:** https://www.linkedin.com/jobs/view/4395347808/
+- **Company:** Paxos
+- **Location:** Remote (Canada)
+- **Compensation:** $253,000 - $290,550 USD
+- **Benefits:** Not specified
+- **Team size:** Multiple teams (not specified)
+- **Status:** Passed (2026-04-02)
+- **Progress:**
 
-## Gaps
+## Qualifications
 
-- **Revenue Scale:** Role requires experience with products generating "hundreds of millions in revenue/ARR" - candidate's products contributed to enterprise success but no specific revenue figures stated
-- **Financial Services Domain:** No direct fintech/crypto/brokerage experience - candidate's background is in HCM/HRTech
-- **Brokerage Systems:** Role requires "deep expertise in high-performance brokerage solutions with 99.999% uptime SLAs" - candidate has high-availability experience but not specifically in brokerage/trading systems
-- **Location:** Candidate is in Canada; role lists "Remote - United States" as primary with Canada as secondary
+### Product domain (weight:33%, match:35%)
+- Financial services or fintech domain experience
+- Enterprise-grade B2B and B2C products driving hundreds of millions in revenue/ARR
+- Brokerage solutions experience with tier-1 SLAs (99.999% uptime)
+- Understanding of regulatory and business landscape of financial services
 
-## Alignment
+### Baseline (weight:26%, match:83%)
+- Senior Engineering Manager title
+- 10+ years software engineering experience
+- 5+ years management experience leading global, distributed, multi-layered engineering organizations
 
-- **Leadership Scale:** 10 years management experience, scaled from 1 to 3 teams (30+ engineers), developed 2 ICs into engineering managers
-- **Enterprise B2B SaaS:** Led product teams serving Fortune 500 customers on global enterprise platform
-- **High-Availability Systems:** Implemented zero-downtime deployments, eliminated maintenance windows affecting global customers
-- **Distributed Teams:** Led fully distributed remote teams post-COVID while maintaining velocity
+### Product management (weight:13%, match:75%)
+- Cross-functional collaboration with Product, Growth, Customer Success and Business Development
+- Resource planning, budget allocation and project prioritization
+- Managing multiple strategic initiatives simultaneously
+
+### People management (weight:13%, match:100%)
+- Talent development and mentorship of engineering managers, staff engineers and senior engineers
+- Recruiting, hiring and onboarding engineers to scale teams
+
+### Technical (weight:10%, match:88%)
+- Engineering best practices: code quality, testing, security and documentation
+- High-performance, scalable, secure systems architecture
+
+### Soft skills (weight:3%, match:75%)
+- Problem-solving in mission-critical, high-stakes environments
 
 ## Summary
 
-Senior Engineering Manager leading the Brokerage team at Paxos, responsible for crypto trading and custody platform serving major fintechs and enterprises. Role involves leading multiple engineering teams for a business unit generating tens of millions in annual revenue. Focus on building scalable, highly-available brokerage infrastructure.
+Lead multiple engineering teams building crypto brokerage infrastructure that powers partners like PayPal, Robinhood and Interactive Brokers. Own end-to-end engineering execution for a business unit generating tens of millions in annual revenue and hundreds of millions in daily gross trading volume. Drive technical strategy, operational excellence and cross-functional alignment across Product, Growth and Customer Success.
 
 - **Coding:** 0%
-- Lead and mentor multiple engineering teams
-- Oversee design, development, and deployment of brokerage platform
-- Drive cross-functional collaboration with Product, Growth, and Customer Success
-- Manage resource planning, budgets, and project prioritization
-- Recruit and onboard engineering talent
-
-## Required Qualifications
-
-- 10+ years software engineering experience; 5+ years in management roles
-- Experience leading global, distributed, multi-layered engineering organizations
-- Demonstrated success building enterprise B2B/B2C products generating hundreds of millions in revenue/ARR
-- Deep expertise in high-performance brokerage solutions with 99.999% uptime SLAs
-- Strong track record developing and scaling engineering talent
-- Ability to navigate financial services' strategic, regulatory, and business landscape
-- Proven capability managing multiple strategic initiatives simultaneously
-
-## Optional Qualifications
-
-- None specified
+- Lead and scale multiple software engineering teams for an independent business unit
+- Own design, development and deployment of brokerage components and tooling
+- Drive cross-functional collaboration to define scope, priorities and roadmap
+- Establish best practices in code quality, testing, security and documentation
+- Lead resource planning, budget allocation and project prioritization
+- Recruit, hire and onboard engineers to build the organization
 
 ## Company
 
-Paxos is a blockchain infrastructure company that enables financial institutions to tokenize, custody, trade and settle digital assets. Their clients include major players like Mastercard, Visa, Robinhood, and PayPal. The Brokerage team specifically provides crypto trading and custody through a fully regulated, scalable platform for fintechs and enterprises seeking to integrate cryptocurrency capabilities without building their own infrastructure.
+Paxos is a regulated blockchain infrastructure and tokenization platform enabling instant movement of assets for financial institutions. Partners include Mastercard, Visa, Robinhood, PayPal, Interactive Brokers, Mercado Libre and Nubank. Issues digital assets including PayPal USD (PYUSD), Pax Dollar (USDP) and Pax Gold (PAXG). Regulated by FIN-FSA (Europe), OCC (US), MAS (Singapore) and FSRA (Abu Dhabi). 201-500 employees, $500M+ raised from Oak HC/FT, Declaration Partners, Founders Fund and PayPal Ventures.
+
+## Keywords
+
+engineering management, senior engineering manager, brokerage, crypto, blockchain, fintech, financial services, B2B, B2C, enterprise, SLA, high-availability, uptime, distributed systems, scalability, cross-functional collaboration, product delivery, talent development, mentorship, hiring, resource planning, budget allocation, regulatory compliance, trading systems, tokenization, custody, broker-dealer, microservices, security
