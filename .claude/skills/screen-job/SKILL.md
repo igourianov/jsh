@@ -197,5 +197,5 @@ Note: use a .bat temp file if bash variable expansion causes issues with backsla
 Output only:
 ```
 Match: {X}% | {One-line take}
-`jobs/{Company}/{Title}.md`
+`jobs-active/{Company}/{Title}.md`
 ```
