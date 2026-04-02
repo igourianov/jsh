@@ -185,17 +185,18 @@ Save to `jobs/{sanitized company}/{sanitized title}.md` using the template in [o
 
 ## Step 7: Create Junction
 
-If `jobs-active/{Company}` junction does not already exist, create it:
+If `jobs-active/{sanitized company}` junction does not already exist, create it:
 ```bash
-cmd //c "mklink /J \"jobs-active\\{Company}\" \"jobs\\{Company}\""
+cat > tmp_mklink.bat << 'EOF'
+mklink /J "jobs-active\{sanitized company}" "jobs\{sanitized company}"
+EOF
+cmd //c "$(pwd)/tmp_mklink.bat" && rm tmp_mklink.bat
 ```
-
-Note: use a .bat temp file if bash variable expansion causes issues with backslashes in mklink.
 
 ## Response
 
 Output only:
 ```
 Match: {X}% | {One-line take}
-`jobs-active/{Company}/{Title}.md`
+`jobs-active/{sanitized company}/{sanitized title}.md`
 ```
