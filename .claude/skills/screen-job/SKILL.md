@@ -185,12 +185,8 @@ Save to `jobs/{sanitized company}/{sanitized title}.md` using the template in [o
 
 ## Step 7: Create Junction
 
-If `jobs-active/{sanitized company}` junction does not already exist, create it:
 ```bash
-cat > tmp_mklink.bat << 'EOF'
-mklink /J "jobs-active\{sanitized company}" "jobs\{sanitized company}"
-EOF
-cmd //c "$(pwd)/tmp_mklink.bat" && rm tmp_mklink.bat
+bash ${CLAUDE_SKILL_DIR}/create-junction.sh '{sanitized company}'
 ```
 
 ## Response
