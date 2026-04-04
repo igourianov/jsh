@@ -3,8 +3,8 @@
 # Get the directory where this script is located
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-# Calculate project root (3 levels up from .claude/skills/publish-pdf)
-PROJECT_ROOT="$(cd "$SCRIPT_DIR/../../.." && pwd)"
+# Calculate project root (4 levels up from .claude/skills/publish-pdf/scripts)
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/../../../.." && pwd)"
 
 # Set output directory to pdf folder under project root
 OUTPUT_DIR="$PROJECT_ROOT/pdf"
@@ -33,7 +33,7 @@ cp "$SOURCE_FILE" "$TEMP_MD"
 TARGET_FILE="$OUTPUT_DIR/$NAME - $TITLE.pdf"
 
 # Check for node dependencies
-CLAUDE_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)"
+CLAUDE_DIR="$(cd "$SCRIPT_DIR/../../.." && pwd)"
 
 if [ ! -d "$CLAUDE_DIR/node_modules" ]; then
     echo "Installing dependencies..."
@@ -46,7 +46,7 @@ if [ ! -d "$CLAUDE_DIR/node_modules" ]; then
 fi
 
 # Run the conversion node script with copied md, target file path, name, and title
-node "$SCRIPT_DIR/mdtopdf/convert-to-pdf.js" "$TEMP_MD" "$TARGET_FILE" "$NAME" "$TITLE"
+node "$SCRIPT_DIR/convert-to-pdf.js" "$TEMP_MD" "$TARGET_FILE" "$NAME" "$TITLE"
 RESULT=$?
 
 # Clean up temporary markdown file

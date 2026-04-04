@@ -18,17 +18,17 @@ Read the specified markdown file to extract name and title:
 ### 2. Run the Script
 
 ```bash
-${CLAUDE_SKILL_DIR}/publish-pdf.sh <source-file> <name> <title>
+${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh <source-file> <name> <title>
 ```
 
 **Base resume:**
 ```bash
-${CLAUDE_SKILL_DIR}/publish-pdf.sh resume/resume.md "Ilia Gourianov" "Engineering Manager"
+${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh resume/resume.md "Ilia Gourianov" "Engineering Manager"
 ```
 
 **Tailored resume:**
 ```bash
-${CLAUDE_SKILL_DIR}/publish-pdf.sh "jobs/Sprout Social/resume.md" "Ilia Gourianov" "Software Engineering Manager"
+${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh "jobs/Sprout Social/resume.md" "Ilia Gourianov" "Software Engineering Manager"
 ```
 
 Output goes to `pdf/{name} - {title}.pdf`.

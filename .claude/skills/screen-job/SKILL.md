@@ -8,10 +8,7 @@ Screen job: $ARGUMENTS
 ## Step 1: Fetch Job Posting
 
 Determine input type:
-- **Lever URL** (contains jobs.lever.co): Use lever-parser.js script with Bash
-  - First ensure dependencies are installed: `cd ${CLAUDE_SKILL_DIR}/../.. && npm install`
-  - Then run: `node ${CLAUDE_SKILL_DIR}/lever-parser.js <url>`
-  - Script extracts JSON and outputs to stdout
+- **Lever URL** (contains jobs.lever.co): Use lever-parser.js script with Bash `node ${CLAUDE_SKILL_DIR}/scripts/lever-parser.js <url>`. Script extracts JSON and outputs to stdout.
 - **Other URL** (starts with http/https): Use WebFetch to retrieve content
 - **File path** (e.g., temp.txt): Use Read to load content
 - **Inline text** (multi-line job description pasted directly): Use the argument text as-is as the job posting content
@@ -94,7 +91,7 @@ When communication is mentioned, categorize by its subject (e.g. product strateg
 3. Use the Write tool to save the JSON array to the path returned by mktemp
 4. Run the script with that path and delete the temp file:
 ```
-node ${CLAUDE_SKILL_DIR}/group-qualifications.js <path> && rm <path>
+node ${CLAUDE_SKILL_DIR}/scripts/group-qualifications.js <path> && rm <path>
 ```
 
 Input JSON array: `[{ "category": "...", "text": "...", "weight": 10 }, ...]`
@@ -129,7 +126,7 @@ Once all match values are assigned, add `"match_value"` to each entry and run:
 3. Use the Write tool to save the JSON array to the path returned by mktemp
 4. Run the script with that path and delete the temp file:
 ```
-node ${CLAUDE_SKILL_DIR}/calculate-match.js <path> && rm <path>
+node ${CLAUDE_SKILL_DIR}/scripts/calculate-match.js <path> && rm <path>
 ```
 
 Input JSON array: `[{ "category": "...", "weight": 30, "match_value": 75 }, ...]`
@@ -179,14 +176,14 @@ DEI language goes beyond a standard equal-opportunity footer and is embedded int
 
 **Language:** Write the screen file in the same language as the original job posting. Do not translate unless explicitly asked.
 
-**Filename:** run `bash ${CLAUDE_SKILL_DIR}/sanitize.sh '<Company>' '<Full Original Title>'` to get the sanitized company folder name and title (output: two lines).
+**Filename:** run `bash ${CLAUDE_SKILL_DIR}/scripts/sanitize.sh '<Company>' '<Full Original Title>'` to get the sanitized company folder name and title (output: two lines).
 
 Save to `jobs/{sanitized company}/{sanitized title}.md` using the template in [output-template.md](output-template.md).
 
 ## Step 7: Create Junction
 
 ```bash
-bash ${CLAUDE_SKILL_DIR}/create-junction.sh '{sanitized company}'
+bash ${CLAUDE_SKILL_DIR}/scripts/create-junction.sh '{sanitized company}'
 ```
 
 ## Response
