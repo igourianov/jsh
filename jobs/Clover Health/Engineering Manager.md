@@ -10,7 +10,7 @@
 - **Benefits:** medical, dental, optical, equity, performance bonus, no-meeting Fridays, remote-first, parental leave, professional development funding, cell phone and internet stipend, office setup reimbursement
 - **Team size:** not specified
 
-- **Status:** Active
+- **Status:** Ghosted (2026-04-04)
 - **Progress:** Applied
 
 ## Qualifications

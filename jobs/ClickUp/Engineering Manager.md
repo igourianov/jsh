@@ -8,7 +8,7 @@
 - **Benefits:** Not stated
 - **Team size:** Not stated
 
-- **Status:** Active
+- **Status:** Ghosted (2026-04-04)
 - **Progress:** Applied
 
 ## Red flags

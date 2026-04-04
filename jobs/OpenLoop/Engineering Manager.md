@@ -8,7 +8,7 @@
 - **Benefits:** Extended health plans via Sterling Capital Brokers (through Rippling EOR)
 - **Team size:** Not specified (building from ground up)
 
-- **Status:** Active
+- **Status:** Ghosted (2026-04-04)
 - **Progress:** Applied
 
 ## Red flags
