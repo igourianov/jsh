@@ -14,14 +14,16 @@ SOURCE_FILE="$1"
 NAME="$2"
 TITLE="$3"
 
+# Resolve relative paths against project root
+if [[ "$SOURCE_FILE" != /* ]]; then
+    SOURCE_FILE="$PROJECT_ROOT/$SOURCE_FILE"
+fi
+
 # Verify source file exists
 if [ ! -f "$SOURCE_FILE" ]; then
     echo "✗ Source file not found: $SOURCE_FILE"
     exit 1
 fi
-
-# Convert source to absolute path
-SOURCE_FILE="$(cd "$(dirname "$SOURCE_FILE")" && pwd)/$(basename "$SOURCE_FILE")"
 
 # Copy source markdown into pdf/ folder for in-place conversion
 TEMP_MD="$OUTPUT_DIR/$(basename "$SOURCE_FILE")"
@@ -31,11 +33,11 @@ cp "$SOURCE_FILE" "$TEMP_MD"
 TARGET_FILE="$OUTPUT_DIR/$NAME - $TITLE.pdf"
 
 # Check for node dependencies
-cd "$SCRIPT_DIR/mdtopdf" || exit 1
+CLAUDE_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)"
 
-if [ ! -d "node_modules" ]; then
+if [ ! -d "$CLAUDE_DIR/node_modules" ]; then
     echo "Installing dependencies..."
-    npm install
+    (cd "$CLAUDE_DIR" && npm install)
     if [ $? -ne 0 ]; then
         echo "✗ Failed to install dependencies"
         rm -f "$TEMP_MD"
@@ -44,7 +46,7 @@ if [ ! -d "node_modules" ]; then
 fi
 
 # Run the conversion node script with copied md, target file path, name, and title
-node convert-to-pdf.js "$TEMP_MD" "$TARGET_FILE" "$NAME" "$TITLE"
+node "$SCRIPT_DIR/mdtopdf/convert-to-pdf.js" "$TEMP_MD" "$TARGET_FILE" "$NAME" "$TITLE"
 RESULT=$?
 
 # Clean up temporary markdown file

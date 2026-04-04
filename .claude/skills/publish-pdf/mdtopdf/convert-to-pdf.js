@@ -1,7 +1,7 @@
-const fs = require('fs');
-const path = require('path');
-const { mdToPdf } = require('md-to-pdf');
-const { PDFDocument } = require('pdf-lib');
+import fs from 'fs';
+import path from 'path';
+import { mdToPdf } from 'md-to-pdf';
+import { PDFDocument } from 'pdf-lib';
 
 
 async function convertToPdf(inputPath, outputPath, authorName, title) {

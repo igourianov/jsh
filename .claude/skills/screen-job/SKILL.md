@@ -9,7 +9,7 @@ Screen job: $ARGUMENTS
 
 Determine input type:
 - **Lever URL** (contains jobs.lever.co): Use lever-parser.js script with Bash
-  - First ensure dependencies are installed: `cd ${CLAUDE_SKILL_DIR} && npm install`
+  - First ensure dependencies are installed: `cd ${CLAUDE_SKILL_DIR}/../.. && npm install`
   - Then run: `node ${CLAUDE_SKILL_DIR}/lever-parser.js <url>`
   - Script extracts JSON and outputs to stdout
 - **Other URL** (starts with http/https): Use WebFetch to retrieve content
