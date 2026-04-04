@@ -23,9 +23,6 @@ fi
 # Convert source to absolute path
 SOURCE_FILE="$(cd "$(dirname "$SOURCE_FILE")" && pwd)/$(basename "$SOURCE_FILE")"
 
-# Purge existing PDFs from output directory
-rm -f "$OUTPUT_DIR"/*.pdf
-
 # Copy source markdown into pdf/ folder for in-place conversion
 TEMP_MD="$OUTPUT_DIR/$(basename "$SOURCE_FILE")"
 cp "$SOURCE_FILE" "$TEMP_MD"
