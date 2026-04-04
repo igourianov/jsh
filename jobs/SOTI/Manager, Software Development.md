@@ -8,8 +8,8 @@
 - **Benefits:** Not specified
 - **Team size:** Not specified
 
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Rejected (2026-04-04)
+- **Progress:** Recruiter screen (2026-03-23)
 
 ## Red flags
 - **Location mismatch:** Hybrid role in Mississauga, ON. Candidate is in Fort Erie, ON (~150km, not commutable).

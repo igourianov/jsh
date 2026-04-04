@@ -30,3 +30,13 @@ Meanwhile, can you please send me the full job description so I can review befor
 
 My resume is attached. We can discuss salary expectations and other details when we connect.
 
+---
+
+Hi Fitz,
+
+Hope you're doing well. Wanted to check in on the SOTI role. Did you get a chance to confirm the hybrid/remote arrangement with the hiring manager?
+
+Let me know where things stand.
+
+Best,
+Ilia
