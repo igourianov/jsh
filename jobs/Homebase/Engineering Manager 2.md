@@ -1,43 +1,68 @@
-# Engineering Manager 2 | Product | B2B SaaS - Workforce Management
+# Engineering Manager | Product | SMB Workforce Management | 93%
 
-**URL:** https://jobs.ashbyhq.com/homebase/addfa09c-d10c-4672-be1b-1986846a655e \
-**Company:** Homebase \
-**Posted by:** Direct \
-**Location:** Hybrid (Toronto, Ontario, Canada) \
-**Salary Range:** $171,000 - $201,500 USD \
-**Hands-on:** 35% | **Coding:** 5% \
-**Posted:** January 2026 \
-**Match:** 72%
+Strong baseline match. AI leadership experience is the only notable gap.
 
-## Gaps
-- **AI leadership:** Limited AI project leadership experience - candidate has AI tooling interest and personal project experience with Claude Code, but no track record leading enterprise-scale AI initiatives (Homebase's 2025 strategic focus areas)
-- **Location:** Requires ~1.5 hour commute from Fort Erie to Toronto for hybrid work
-- **Product domain:** Workforce management domain is adjacent to HCM/payroll background but not identical
+- **Saved:** 2026-04-05
+- **URL:** https://www.linkedin.com/jobs/view/4313944625/
+- **Company:** Homebase
+- **Location:** Hybrid (Toronto, ON) - Tues/Wed in-office
+- **Compensation:** Not stated (estimated $170K-$200K USD based on previous posting)
+- **Benefits:** Stock options, TFSA/RRSP 4% match, medical/dental/vision, flex time off, parental leave EI top-up, life/disability insurance, meals, Work From Anywhere month
+- **Team size:** Not specified
+- **Status:** Active
+- **Progress:** Applied
 
-## Strengths
-- **Leadership experience:** 10 years as Engineering Manager at Dayforce (enterprise B2B SaaS HCM) exceeds 3-year leadership requirement; scaled teams 1→3 (30+ engineers), hired 20+ engineers, developed 2 ICs into managers
-- **Tech stack:** Experience with React, microservices, Kubernetes, CI/CD matches Homebase's React-based environment
-- **Product domain:** HCM/payroll experience at Dayforce overlaps with Homebase's workforce management domain (scheduling, time tracking, payroll)
-- **Culture fit:** Led distributed remote teams during COVID transition; company culture emphasizes supportive environment (matches Homebase's 4.2 Glassdoor rating, warm culture)
-- **Company stability:** Homebase financial stability (Series D, $189M raised, no layoffs since 2020); salary range $171K-$201.5K USD fits candidate level
+## Red flags
+- **Location mismatch:** Hybrid role requires Tuesday and Wednesday in-office in Toronto. Fort Erie is ~1.5 hours away.
 
-## Required Qualifications
+## Qualifications
 
-- Bachelor's degree in Computer Science, Engineering, or related field
-- Minimum 5 years software engineering experience
-- At least 3 years in a leadership capacity
-- Strong organizational and project management abilities
-- Excellent communication and collaboration skills
-- Demonstrated capability mentoring technical teams
+### Baseline (weight:36%, match:100%)
+- Engineering Manager title match
+- 5+ years software engineering experience
+- 3+ years engineering leadership
 
-## Optional Qualifications
+### Technical (weight:18%, match:77%)
+- Guide development and adoption of AI-powered features and workflows
+- Establish engineering practices, technical standards and operational discipline
+- Ensure reliability, performance and technical excellence
 
-- Experience leading AI projects and initiatives
+### Product management (weight:16%, match:100%)
+- Own delivery for team roadmap, balancing speed, quality and maintainability
+- Partner with Product, Design and peer Engineering Managers for cross-functional delivery
+
+### People management (weight:14%, match:100%)
+- Lead and grow engineering team: coaching, career development, clear direction
+
+### Product domain (weight:4%, match:50%)
+- SMB or workforce management industry experience
+
+### Process management (weight:4%, match:100%)
+- Project management skills
+
+### Education (weight:4%, match:100%)
+- Bachelor's degree in CS/Engineering or equivalent practical experience (5+ years as software developer)
+
+### Soft skills (weight:4%, match:100%)
+- Communication and collaboration in cross-functional environments
 
 ## Summary
 
-Lead engineering team in Toronto hub focusing on AI-powered initiatives for Homebase's workforce management platform. Role emphasizes strategic project execution, team mentorship, and building AI fluency across the organization. Drive AI system development aligned with business goals while partnering cross-functionally and maintaining technical quality standards.
+Lead a product engineering team at Homebase's Toronto hub, owning a core product line with clear scope. Partner with Product and Design to ship AI-enabled solutions for small businesses. Hands-on leadership role focused on execution, team development and raising engineering standards.
+
+- **Coding:** 0%
+- Lead and grow a team of software engineers, providing coaching and career development
+- Own delivery for team roadmap, balancing speed, quality and maintainability
+- Guide development and adoption of AI-powered features and workflows
+- Partner with Product, Design and peer EMs for end-to-end product delivery
+- Foster AI fluency through experimentation and tool adoption
+- Establish engineering practices, technical standards and operational discipline
+- Ensure reliability, performance and technical excellence
 
 ## Company
 
-Homebase is "the everything app for hourly teams" serving over 100,000 small businesses. The platform provides scheduling, payroll, communication, HR, and related workforce management functions for more than 2.5 million hourly workers. Benefits include stock options, TFSA/RRSP matching (4%), comprehensive health coverage, flexible time off, parental leave support, and workspace perks.
+Homebase is the everything app for hourly teams, serving 100K+ small businesses and 2.5M+ workers. The platform provides scheduling, time clocks, payroll, communication and HR tools. Series D startup (201-500 employees). Recognized by Forbes (Best Startup Employers 2024), Fast Company (Brands That Matter 2024) and Webby Awards (Best HR App 2023-2025).
+
+## Keywords
+
+Engineering Manager, software engineering, AI, machine learning, product development, team leadership, coaching, career development, mentoring, roadmap ownership, cross-functional collaboration, technical standards, reliability, performance, scheduling, payroll, HR, workforce management, small business, SaaS, product-focused
