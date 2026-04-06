@@ -9,7 +9,7 @@ Strong leadership match but no e-commerce domain experience and Toronto hybrid i
 - **Compensation:** Not stated
 - **Benefits:** Not stated
 - **Team size:** Not stated (small to mid-sized)
-- **Status:** Active
+- **Status:** Rejected (2026-04-06)
 - **Progress:** Applied
 
 ## Red flags
