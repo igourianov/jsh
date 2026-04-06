@@ -1,5 +1,7 @@
 # {Normalized Title} | {Engineering domain} | {Product domain} | {overall match}%
 
+{One-line take}
+
 - **Saved:** {current date: yyyy-MM-dd}
 - **URL:** {original job URL, if present}
 - **Company:** {Company}
