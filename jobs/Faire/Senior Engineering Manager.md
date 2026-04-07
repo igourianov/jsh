@@ -9,7 +9,7 @@ Strong match. Core people and technical leadership skills align well. No e-comme
 - **Compensation:** $190,500 - $262,000 CAD + equity
 - **Benefits:** Equity, benefits (details not specified in posting)
 - **Team size:** Not specified (cross-functional team)
-- **Status:** Active
+- **Status:** Rejected (2026-04-07)
 - **Progress:** Applied
 
 ## Red flags

@@ -13,7 +13,7 @@
 - **Tech stack:** C# (.NET / ASP.NET Core), Python, AWS (Lambda, API Gateway, RDS, DynamoDB), REST APIs, OAuth2, JWT, CI/CD, Angular, React
 - **Team size:** Not specified (shared services / platform team across 20+ squads)
 
-- **Status:** Active
+- **Status:** Ghosted (2026-04-07)
 - **Progress:** Applied
 
 ## Gaps
