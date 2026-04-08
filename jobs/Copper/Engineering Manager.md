@@ -8,7 +8,7 @@
 - **Benefits:** comprehensive benefits, unlimited vacation, stock options, maternity/paternity top-up, monthly internet and cell phone allowance, L&D program
 - **Team size:** not specified
 
-- **Status:** Active
+- **Status:** Rejected (2026-04-08)
 - **Progress:** Applied
 
 ## Qualifications
