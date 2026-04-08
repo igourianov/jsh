@@ -9,7 +9,7 @@ Strong baseline match. AI leadership experience is the only notable gap.
 - **Compensation:** Not stated (estimated $170K-$200K USD based on previous posting)
 - **Benefits:** Stock options, TFSA/RRSP 4% match, medical/dental/vision, flex time off, parental leave EI top-up, life/disability insurance, meals, Work From Anywhere month
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-04-08)
 - **Progress:** Applied
 
 ## Red flags
