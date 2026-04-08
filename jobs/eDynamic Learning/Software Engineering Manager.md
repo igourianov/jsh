@@ -7,7 +7,7 @@
 - **Compensation:** CAD $180,000 - $220,000 DOE
 - **Benefits:** Annual Bonus + Benefits
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-04-08)
 - **Progress:** Applied
 
 ## Qualifications
