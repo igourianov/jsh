@@ -9,8 +9,8 @@ Strong match. Third posting for the same role at Heart & Stroke. Core EM skills 
 - **Compensation:** CAD $130,000-$160,000 (estimated)
 - **Benefits:** Not stated
 - **Team size:** Software Developers I + Business System Analyst
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Withdrew (2026-04-09)
+- **Progress:** Recruiter screen (2026-04-09)
 
 ## Red flags
 - **Below-market compensation:** Previous Heart & Stroke posting for a similar role listed $80,000-$105,000 CAD. Even at the higher estimated range ($130K-$160K), this is likely below candidate's $180K-$200K target.

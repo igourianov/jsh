@@ -9,7 +9,7 @@ Excellent management fit. 8+ years leading engineering teams, strong SDLC and pr
 - **Compensation:** $140,000-$205,700 CAD (stated for Canada-BC; Toronto range likely similar)
 - **Benefits:** Annual cash bonuses, stock grants, comprehensive benefits package
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-04-09)
 - **Progress:** Applied
 
 ## Red flags
