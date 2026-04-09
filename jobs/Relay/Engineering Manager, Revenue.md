@@ -9,7 +9,7 @@ Strong role fit with excellent comp. Startup experience gap and no fintech backg
 - **Compensation:** $207,000 - $253,000 CAD (typical starting $230,000)
 - **Benefits:** Not detailed in posting; references Candidate Hub for perks and benefits
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-04-09)
 - **Progress:** Applied
 
 ## Red flags

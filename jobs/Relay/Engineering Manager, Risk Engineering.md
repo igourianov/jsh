@@ -9,7 +9,7 @@ Strong EM skills match but no startup or fintech experience. Risk/fraud domain i
 - **Compensation:** $207,000 - $253,000 CAD (typical starting $230,000)
 - **Benefits:** Not detailed in posting
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-04-09)
 - **Progress:** Applied
 
 ## Red flags
