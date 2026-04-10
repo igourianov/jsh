@@ -7,7 +7,7 @@
 - **Compensation:** $150,000-$180,000 CAD (estimated)
 - **Benefits:** not stated
 - **Team size:** 6-10+
-- **Status:** Active
+- **Status:** Rejected (2026-04-10)
 - **Progress:** Applied
 
 ## Qualifications
