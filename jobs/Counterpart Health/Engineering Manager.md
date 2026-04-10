@@ -1,35 +1,58 @@
-# Engineering Manager | Product | Healthcare
+#  Engineering Manager | Product | Healthcare | 86%
 
-**URL:** Not provided \
-**Company:** Counterpart Health \
-**Location:** Remote - Canada \
-**Salary Range:** $140,000-$180,000 CAD (estimated) \
-**Hands-on:** 50% | **Coding:** 25% \
-**Posted:** December 2025 \
-**Match:** 85%
+Player/coach EM role at a Clover Health subsidiary building an AI-enabled primary care tool. Strong people and delivery alignment, mild gap on stated language stack and direct clinical healthcare product experience.
 
-## Gaps
+- **Saved:** 2026-04-09
+- **URL:** https://www.linkedin.com/jobs/view/4400336494/
+- **Company:** Counterpart Health
+- **Location:** Remote - Canada
+- **Compensation:** $134,000 - $175,000 CAD
+- **Benefits:** Equity, performance bonus, medical/dental/vision, mental health resources, paid parental leave, No-Meeting Fridays, office setup reimbursement, cell phone and internet stipend, professional development funding
+- **Team size:** 3+ engineers
+- **Status:** Active
+- **Progress:** Applied
 
-- No direct healthcare product development experience (has healthcare agency/marketing background from Klick Health, but not product-focused healthcare tech)
+## Qualifications
 
-## Required Qualifications
+### People management (weight:33.2%, match:100%)
+- Technical leadership experience managing teams of 3+ engineers
+- Lead hiring, development and retention to build high-performing team
+- Track record of creating opportunities for others to grow into leadership roles
+- Cultivate healthy, results-driven, collaborative team culture
 
-- Software engineer with personnel manager or team lead experience, hands-on experience leading 5+ engineers
-- Led development projects and created space and opportunity for other people to become leaders
-- Worked with various stakeholders outside of engineering to build projects
-- Worked in fast-paced environments making quick decisions under conflicting constraints, moving rapidly to meet demands of fast-growing company
-- Deep experience with system design and general purpose programming languages (e.g., Python, Ruby, Go, Java, Typescript)
-- Track record of successfully delivering complex projects for web applications and services
-- Able to work in different technical systems and concerns alongside other stakeholders
+### Technical (weight:32.2%, match:75%)
+- System design background
+- Proficiency in general-purpose programming language (Python, Ruby, Go or Java)
+- Proven ability to deliver complex web applications and services
+- Adaptable across various technical systems and concerns
 
-## Optional Qualifications
+### Baseline (weight:13.8%, match:100%)
+- Engineering Manager / Manager, Software Developer role
 
-None specified
+### Product management (weight:12.4%, match:100%)
+- Partner with Product Managers and Designers to shape technical roadmap
+- Set and communicate clear team objectives aligned with company goals
+- Represent team in engineering-wide planning and initiatives
+
+### Product domain (weight:8.8%, match:25%)
+- Healthcare / health tech / clinical software experience
 
 ## Summary
 
-Player/coach Engineering Manager role leading teams to build and scale Counterpart Assistant, an AI-enabled primary care tool for physicians. Responsibilities include building strong engineering teams, hands-on technical leadership (contributing to codebase, architecture and design, code reviews), collaboration with Product and Design on roadmap, and fostering a results-oriented culture. Expected to grow and mentor direct reports, participate in hiring, and be able to fill in as tech lead when needed.
+Player/coach Manager, Software Developer role leading a team of 3+ engineers building Counterpart Assistant, an AI-enabled clinical tool for primary care physicians. Combines technical leadership, execution and people management. Partners with Product and Design on roadmap, drives hiring and team development, sets team objectives aligned with company goals and represents the team in engineering-wide planning.
+
+- **Coding:** 0% broad language options ("such as Python, Ruby, Go, Java"), no specific tech stack required, emphasis on leadership and team building
+- Drive team impact through technical productivity and reliability
+- Build and develop strong engineering teams
+- Shape technical roadmap with Product Managers and Designers
+- Set and communicate clear team objectives
+- Lead hiring, development and retention efforts
+- Represent team in engineering-wide planning and initiatives
 
 ## Company
 
-Counterpart Health is a subsidiary of Clover Health focused on transforming primary care through technology. Their flagship product, Counterpart Assistant, is an AI-enabled clinical tool that integrates into physician workflows to support early diagnosis and management of chronic conditions. Launched in 2018, the platform is now used by thousands of practitioners to improve disease management, reduce medical expenses, and drive value-based care adoption. The company operates at the intersection of healthcare technology and value-based care, with an exceptional team of value-based care and technology experts driving innovation at the speed of software. Remote-first culture with flexibility to work from home or office.
+Counterpart Health is a subsidiary of Clover Health focused on transforming primary care through technology. Their flagship product, Counterpart Assistant, is an AI-enabled clinical tool that integrates into physician workflows to support early diagnosis and longitudinal management of chronic conditions. Launched in 2018, the platform is now used by thousands of practitioners to improve disease management, reduce medical expenses and drive value-based care adoption. The company operates at the intersection of healthcare technology and value-based care. Remote-first culture. 51-200 employees.
+
+## Keywords
+
+Engineering Manager, Software Developer Manager, technical leadership, people management, hiring, team building, mentorship, system design, Python, Ruby, Go, Java, web applications, services, microservices, player/coach, roadmap, cross-functional, Product Managers, Designers, healthcare, health tech, clinical software, primary care, value-based care, AI-enabled, remote
