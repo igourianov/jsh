@@ -8,7 +8,7 @@ Strong people-management match with a timezone concern. B2B contractor arrangeme
 - **Compensation:** Not stated (estimated)
 - **Benefits:** Health insurance (after probation), sports/wellness compensation, 22 vacation days, 5 wellness days, 5 paid sick days, English lessons via Preply
 - **Team size:** Not stated
-- **Status:** Screened
+- **Status:** Rejected (2026-04-14)
 - **Progress:**
 
 ## Red flags
