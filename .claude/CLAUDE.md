@@ -107,7 +107,8 @@ Status and Progress fields live in each screening file's metadata block (the `- 
   EOF
   cmd //c "$(pwd)/tmp_rmdir.bat" && rm tmp_rmdir.bat
   ```
-- When user says "archive company": update Status in screening file (Rejected/Ghosted/Withdrew), then check all screening `.md` files in the company folder. Only remove the junction if every screening file is in a terminal state (Rejected/Ghosted/Withdrew). If any screening file is still Screened or Active, keep the junction.
+- When user says "archive company": update Status in screening file (Rejected/Ghosted/Withdrew), then check all screening `.md` files in the company folder. Only remove the junction if every screening file is in a terminal state (Passed/Rejected/Ghosted/Withdrew). If any screening file is still Screened or Active, keep the junction.
+- Older screening files that lack a Status field entirely are treated as terminal state for junction cleanup purposes.
 
 ## LinkedIn Posts
 
