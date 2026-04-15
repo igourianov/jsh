@@ -7,7 +7,9 @@
 **Compensation:** CAD $210,000-$250,000 \
 **Benefits:** Health, dental, vision, disability insurance \
 **Posted:** January 2026 \
-**Match:** 78%
+**Match:** 78% \
+**Status:** Rejected (2026-01-30) \
+**Progress:** Tech interview (2026-01-30)
 
 ## Gaps
 
