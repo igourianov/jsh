@@ -13,8 +13,8 @@
 - **Tech stack:** Ruby on Rails, Python (preferred)
 - **Team size:** Not specified
 
-- **Status:** Rejected
-- **Progress:** 
+- **Status:** Active
+- **Progress:** Recruiter screen (2026-04-22)
 
 ## Gaps
 
