@@ -8,7 +8,7 @@
 - **Benefits:** Not specified
 - **Team size:** Small, senior-heavy team
 
-- **Status:** Active
+- **Status:** Ghosted (2026-04-17)
 - **Progress:** Applied
 
 ## Qualifications

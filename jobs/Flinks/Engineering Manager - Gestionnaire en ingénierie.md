@@ -8,7 +8,7 @@
 - **Benefits:** Not listed
 - **Team size:** 10-15 engineers across 1-2 squads
 
-- **Status:** Active
+- **Status:** Ghosted (2026-04-17)
 - **Progress:** Applied
 
 ## Qualifications
