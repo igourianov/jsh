@@ -9,7 +9,7 @@ Strong management and technical fit. Remote-first SaaS company, solid compensati
 - **Compensation:** $142,700 - $214,100 CAD
 - **Benefits:** Stock options, annual cash bonuses, merit increases, comprehensive benefits
 - **Team size:** Not specified (ideally 5+)
-- **Status:** Active
+- **Status:** Rejected (2026-04-17)
 - **Progress:** Applied
 
 ## Red flags
