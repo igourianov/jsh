@@ -78,7 +78,7 @@ For each base resume section, decide what to change:
   - Reorder bullets so the most role-relevant ones come first.
   - Rephrase bullets to use the JD's language, keeping the underlying fact intact.
   - Emphasize numbers, scope and outcomes that map to the role.
-- You must not add new bullets. You may drop a bullet only if the base has more than 4 bullets for that role AND the dropped bullet is clearly the least relevant. Target 4-6 bullets per role.
+- You must not add new bullets. You may drop a bullet only if it is not relevant to the target role.
 
 ### Step 4. ATS keyword pass
 
