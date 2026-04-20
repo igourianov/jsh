@@ -7,7 +7,7 @@
 - **Compensation:** $145K–$185K CAD
 - **Benefits:** Not specified
 - **Team size:** New team, built from scratch
-- **Status:** Active
+- **Status:** Rejected (2026-04-20)
 - **Progress:** Applied
 
 ## Red flags
