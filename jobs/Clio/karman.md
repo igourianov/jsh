@@ -34,3 +34,47 @@ Looking forward to connecting.
 
 Best,
 Ilia
+
+---
+
+
+Karman Kua 
+Mon, Apr 20, 11:57 AM (1 day ago)
+to Ilia
+
+Hey Ilia!
+
+The JD is not much different from the last time when you had applied. You can find it here and happy to tell you more when we chat.
+
+I can switch to Zoom, however this step is audio-only regardless of method (phone, Zoom) so if you prefer a Zoom audio call then I'm happy to switch over!
+
+Speak with you soon,
+
+
+---
+
+## 2026-04-21 - Follow-up draft (post-screen)
+
+Hi Karman,
+
+Great chatting earlier today. A couple of thoughts I had after the call.
+
+I spent some time on Clio's GitHub. I went through the Ruby library for injecting tenant IDs into DB queries for row-level tenancy. While I strongly disagree with technical assumptions that went into it (happy to unpack why in a technical round), I love the fact that Clio maintains public OSS and puts its reasoning out in the open, which is a strong engineering culture signal.
+
+That connects to something I forgot to bring up on the call: I have significant hands-on experience modernizing monolithic apps, migrating large legacy codebases (AI-assisted) and implementing multi-tenancy at scale. Seems relevant to Clio's context.
+
+Best,
+Ilia
+
+---
+
+
+Karman Kua 
+12:46 PM (3 hours ago)
+to Ilia
+
+Hey Ilia!
+
+Thanks for that input, I'll pass it forward to the team. 
+
+Enjoy your day!
