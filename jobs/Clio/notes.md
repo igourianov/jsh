@@ -21,3 +21,7 @@
 ### Self-positioning concerns
 - Over-emphasized technical leadership over IC contribution. Need to rebalance in next conversations to show I still write code and stay close to the work.
 - Cut myself off from potential platform roles by projecting negative Ceridian platform experience onto platform work in general. That experience was Ceridian-specific, not a rejection of platform domain. Should stay open to platform roles in future screens.
+
+## Outcome
+
+Rejected (2026-04-24). Clio expected the EM to be hands-on. Confirms the self-positioning concern from the recruiter screen: over-emphasis on technical leadership over IC contribution read as not hands-on enough for their bar.

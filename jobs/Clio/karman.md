@@ -78,3 +78,26 @@ Hey Ilia!
 Thanks for that input, I'll pass it forward to the team. 
 
 Enjoy your day!
+
+---
+
+Hey Ilia,
+
+Thank you for taking the time to speak with us regarding our Software Development Manager position.
+
+I had a chance to connect with the team and unfortunately at this time we have decided to not proceed based on a misalignment of our values. Specifically, I thoroughly enjoyed speaking with you, and understand your beliefs as a manager include not being in the code as much as possible because it may mean impeding on your team's ownership or domain if you were coding regularly. For Clio Engineering, we intentionally structure our teams to be relatively small on purpose, as all of our Engineering leaders (including Senior Managers, Directors, Senior Directors, VPs and our CTO) are actively and regularly in the code as a standard expectation. This doesn't mean they are in the critical path and block releases, but we believe there's so much our leaders can unlock by being in the code alongside the teams.
+
+So it's just a mismatch on how we function! Regardless we're extremely grateful for your time and interest.
+
+Take care,
+
+Karman
+
+---
+
+Hi Karman,
+
+I appreciate the detailed feedback.
+
+Best of luck to Clio and yourself.
+

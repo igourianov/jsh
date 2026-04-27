@@ -9,7 +9,7 @@ Tech-agnostic SDM role. No specific language required. Strong fit on management 
 - **Compensation:** $176,000 - $264,000 CAD (midpoint $220,000)
 - **Benefits:** Health, dental, vision, RRSP matching, RESP contribution, $2,000 counseling benefit, flexible time off (20 days encouraged)
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-04-24)
 - **Progress:** Recruiter screen (2026-04-22)
 
 ## Qualifications
