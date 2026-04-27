@@ -10,7 +10,7 @@ Near-perfect profile match. Remote Canada, strong comp, founder-led SaaS. AI coa
 - **Benefits:** comprehensive benefits package (details on company site)
 - **Team size:** not specified (splitting one team into two focused teams)
 - **Status:** Active
-- **Progress:** Recruiter screen (2026-04-23)
+- **Progress:** Recruiter screen (2026-04-27)
 
 ## Qualifications
 
