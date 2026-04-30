@@ -9,7 +9,7 @@ Excellent EM profile match for a web-focused product team. Only gap is fintech d
 - **Compensation:** CA$232,000 - $333,000 plus equity
 - **Benefits:** Unlimited PTO, 12-week parental leave, 4-week sabbatical (5-year), health/vision/dental, HSA match, 401k match, life insurance, STD/LTD, work from anywhere 4 weeks/year
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-04-30)
 - **Progress:** Applied
 
 ## Red flags
