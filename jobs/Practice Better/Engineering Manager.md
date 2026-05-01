@@ -9,7 +9,7 @@ Strong profile match. Exceeds experience requirements, direct alignment on peopl
 - **Compensation:** CA$160,000–$170,000/yr
 - **Benefits:** Health, dental, vision from day 1, RRSP matching, paid parental leave, unlimited vacation, $1,000 L&D allowance, $750 wellness allowance, $500 home office allowance, December company closure, mental health support
 - **Team size:** Two teams (Core + Growth), size not specified
-- **Status:** Active
+- **Status:** Rejected (2026-05-01)
 - **Progress:** Applied (2026-04-21)
 
 ## Red flags
