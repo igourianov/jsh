@@ -9,7 +9,7 @@ Strong C# / .NET / platform leadership match with hands-on AI tooling angle, but
 - **Compensation:** Not stated (estimated $160,000–$200,000 CAD)
 - **Benefits:** Health, dental, vision, paid time off, company holidays
 - **Team size:** Not specified (senior-heavy shared services team across 20+ squads)
-- **Status:** Active
+- **Status:** Rejected (2026-05-01)
 - **Progress:** Applied
 
 ## Qualifications
