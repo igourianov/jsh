@@ -9,7 +9,7 @@ Strong match. Hybrid Toronto with 50% coding expectation is the main considerati
 - **Compensation:** CA$180K - CA$250K/yr
 - **Benefits:** Not specified
 - **Team size:** Not specified (building AMER hub, managing engineers across Europe and North America)
-- **Status:** Active
+- **Status:** Rejected (2026-05-04)
 - **Progress:** Applied
 
 ## Red flags
