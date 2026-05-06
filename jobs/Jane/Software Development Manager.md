@@ -9,8 +9,8 @@ Near-perfect profile match. Remote Canada, strong comp, founder-led SaaS. AI coa
 - **Compensation:** $158,400 - $247,500 CAD (typical hire: $188,100)
 - **Benefits:** comprehensive benefits package (details on company site)
 - **Team size:** not specified (splitting one team into two focused teams)
-- **Status:** Active
-- **Progress:** Recruiter screen (2026-04-27)
+- **Status:** Rejected (2026-05-06)
+- **Progress:** Recruiter screen (2026-04-23)
 
 ## Qualifications
 

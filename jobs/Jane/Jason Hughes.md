@@ -41,3 +41,22 @@ Following up on the EM role. Can you confirm whether I'm still being considered?
 
 Thanks,
 Ilia
+
+---
+
+
+Jason Hughes
+6:35 PM (1 minute ago)
+to ilia.gourianov
+
+Hi Ilia
+ 
+Apologies for the delay in coming back to you. We have an engineering-wide hackathon taking place this week, which has meant a slight delay in completing this stage of the hiring process.
+
+We appreciate you taking the time to interview for our Development Manager - Billing role at Jane. It was great to meet you and find out more about your experience and skills. While impressed with your credentials for this role, we have decided to move forward in the process with other candidates on this occasion.
+ 
+Thank you for considering Jane as a potential employer - it would be great to keep in touch with a view to future positions we are hiring. All of our future roles will be posted on our careers page - please do apply to any roles you spot that you believe would be a great fit for your skills.
+ 
+Please let me know if you have any questions - thanks again for the time and effort you have invested in this process.
+ 
+Warmly,
