@@ -28,3 +28,5 @@
 ## Outcome - 2026-05-06
 
 Rejected (2026-05-06). Jason went silent past the promised EoW response. Sent a follow-up asking to close the loop and received a rejection citing other candidates moving forward. Cited an engineering-wide hackathon as reason for the delay.
+
+Jason's rejection response sounded apologetic. Likely filled with an internal hire.
