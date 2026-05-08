@@ -1,16 +1,17 @@
 # Ilia Gourianov | Engineering Manager
 
-[ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | Fort Erie, ON, Canada
+[ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
+Fort Erie, ON, Canada
 
-Engineering Manager who has built and led distributed remote teams across multiple time zones, including offshore contributors, delivering B2B SaaS at scale. Technical leader across service-oriented architecture, event-driven systems and cross-functional project delivery, staying hands-on in system design and code reviews while championing AI-augmented development. Deep expertise in multi-tenant enterprise SaaS and regulated industries.
+Engineering Manager who has built and led distributed remote teams across multiple time zones, delivering B2B SaaS at scale. Technical leader across service-oriented architecture, event-driven systems and cross-functional project delivery, staying hands-on in system design and code reviews while championing AI-augmented development. Deep expertise in multi-tenant enterprise SaaS and regulated industries.
 
 # Competencies
 
-* **People leadership:** hiring, scaling, mentorship and career development, leading remote and distributed teams across multiple time zones, managing offshore contributors, performance management
-* **Technical leadership:** system design, service-oriented architecture, microservices decomposition, event-driven systems, message brokers, scalable systems, code reviews, technical mentorship, AI tooling adoption
+* **People leadership:** hiring, mentoring, scaling teams, leading remote and distributed teams across multiple time zones, performance management and career development
+* **Technical leadership:** system design, service-oriented architecture, microservices decomposition, event-driven systems, message brokers, scalable systems, code reviews, technical mentorship, AI tooling adoption, security best practices
 * **Product delivery:** project management from inception to delivery, cross-functional partnership with Product, UX and Architecture, stakeholder communication, risk identification and mitigation, roadmap planning, OKRs, SDLC ownership, DORA metrics, data-driven decision-making
-* **Process:** Scrum, CI/CD, automated testing, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
-* **Tech stack:** JavaScript/TypeScript, ReactJS, Node.js, HTML/CSS, Kafka, microservices, event-driven architecture, REST APIs, Docker, Kubernetes (AKS), Terraform, Redis, ElasticSearch, Prometheus+Grafana, AWS/Azure, CI/CD, Azure DevOps, Git, NUnit/xUnit, Selenium, C\#, .NET Core, ASP.NET MVC, SQL Server, EntityFramework, Dapper, Claude Code
+* **Process:** Agile/Scrum, CI/CD, automated testing, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
+* **Tech stack:** JavaScript/TypeScript, ReactJS, Node.js, Kafka, microservices, event-driven architecture, REST APIs, Docker, Kubernetes (AKS), Terraform, Redis, ElasticSearch, Prometheus+Grafana, AWS/Azure, CI/CD, Azure DevOps, Git, HTML/CSS, NUnit/xUnit, Selenium, C\#, .NET Core, ASP.NET MVC, SQL Server, EntityFramework, Dapper, Claude Code
 
 # Experience
 
@@ -32,6 +33,7 @@ Engineering Manager who has built and led distributed remote teams across multip
 * Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
 * Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
 * Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 90% and enabling teams to ship independently.
+* Identified and documented eligible R&D projects for SR&ED tax credit claims, recovering up to $300K annually.
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
 
