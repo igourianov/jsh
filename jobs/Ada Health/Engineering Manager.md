@@ -1,61 +1,67 @@
-# Engineering Manager | Integrations | Healthcare
+# Engineering Manager | Integrations | Healthcare / Clinical AI | 73%
 
+Player-coach EM for client integration layer. Leadership and SaaS depth strong; Kotlin/Spring Boot gap and no shipped SDKs.
 
-### Match: 65%
-
-- **Saved:** 2026-03-11
-- **URL:** https://www.linkedin.com/jobs/view/4382889034/
+- **Saved:** 2026-05-11
+- **URL:** https://www.linkedin.com/jobs/view/4412671550/
 - **Company:** Ada Health
-- **Location:** Remote (Canada, Eastern/Atlantic preferred)
-- **Compensation:** Not stated (estimated $140K–$175K CAD)
-- **Benefits:** Health insurance, 20 days vacation, home office setup, co-working subscription option, parental benefits, EAP
-- **Coding:** 35%
-- **Tech stack:** Kotlin, Spring Boot, React, REST APIs, SDKs, SSO
-- **Team size:** Small (likely 3–6)
+- **Location:** Remote (Canada, Eastern or Atlantic time zones preferred)
+- **Compensation:** Not stated (estimated $140K-$175K CAD)
+- **Benefits:** Flexible hours, 20 days vacation plus public holidays, corporate health insurance, home office setup, co-working subscription option, parental benefits, Employee Assistance Programs, Online Academy
+- **Team size:** Small (likely 3-6)
+- **Status:** Passed (2026-05-11)
+- **Progress:**
 
-- **Status:** Rejected
-- **Progress:** 
+## Qualifications
 
-## Gaps
-- **Tech stack:** Candidate's backend is C#/.NET; role requires hands-on contribution in Kotlin/Spring Boot. React overlaps, but server-side gap is real for a coding-expected EM.
-- **Integration/SDK domain:** No explicit experience shipping customer-facing SDKs or managing enterprise integration projects (SSO, API onboarding). REST API design experience is present but adjacent.
+### Technical (weight:32%, match:50%)
+- Hands-on coding in Kotlin/Spring Boot/React (daily coding, doubled)
+- Software architecture, REST APIs and modern cloud infrastructure
+- Code reviews and driving architectural decisions
+- AI-assisted/agentic coding workflows (Copilot, Cursor, etc.)
 
-## Alignment
-- 10 years as Engineering Manager at enterprise SaaS (Dayforce), far exceeding the 1–2 year leadership requirement.
-- Healthcare domain exposure via 8 years at Klick Health delivering healthcare marketing apps for Pfizer, AstraZeneca, Takeda.
-- Remote team leadership with demonstrated results (zero voluntary attrition across 25+ engineers).
-- Hands-on technical background with architecture, code reviews and AI-augmented development practices explicitly on the resume.
-- On-call and incident response experience managing high-availability platform services.
+### Baseline (weight:20.5%, match:100%)
+- Engineering Manager title match (implicit)
+- 5+ years software engineering with full-stack background
+- 1-2+ years leadership experience (Team Lead, Tech Lead, or Engineering Manager)
+
+### Product domain (weight:20.5%, match:50%)
+- External client integrations, APIs or SDKs in a SaaS environment
+- Healthcare industry experience (implied)
+- Enterprise client requirements: security, SLAs, compliance
+
+### People management (weight:15.5%, match:100%)
+- Manage team: 1:1s, performance feedback, career growth planning
+- Coaching and mentoring engineers to improve their craft
+- Experience leading distributed/remote teams
+
+### Process management (weight:7%, match:75%)
+- On-call rotation and incident response for production services
+- Sprint and release cycle ownership, on-time delivery
+
+### Product management (weight:3.5%, match:100%)
+- Stakeholder collaboration with PM, Solution Architects and enterprise clients
+
+### Soft skills (weight:1.5%, match:100%)
+- Translate technical complexity into clear updates for stakeholders
 
 ## Summary
 
-Player-coach Engineering Manager role leading a small cross-functional team that owns Ada's client-facing integration layer: SDKs, APIs and SSO configurations deployed into Health Systems and Life Sciences customer environments. Roughly 35% of time is expected to be spent writing Kotlin/Spring Boot/React code and reviewing PRs; the remainder is people management, delivery planning and enterprise client technical engagement.
+Player-coach Engineering Manager leading a small cross-functional team that owns Ada's client-facing integration layer (SDKs, APIs, SSO) deployed into Health Systems and Life Sciences customer environments. Roughly 35% of the role is hands-on Kotlin/Spring Boot/React code and PR review; the rest is people management, delivery ownership and technical engagement with enterprise clients. EU/European team overlap drives the Eastern/Atlantic time-zone preference.
 
-- Own reliability and scalability of integration services and participate in on-call rotation
-- Manage team of engineers through 1:1s, performance feedback and career growth planning
-- Partner with Solution Architects and Product Managers to scope and estimate complex integration projects
-- Serve as technical voice in enterprise client conversations around integration requirements
-
-## Required Qualifications
-
-- 5+ years software engineering, full-stack background
-- 1–2+ years leadership (Team Lead, Tech Lead or EM)
-- Hands-on experience with Kotlin/Spring Boot/React (team's actual stack)
-- External client integration experience: APIs, SDKs in a SaaS context
-- Experience leading distributed/remote teams
-- Software architecture, REST APIs, modern cloud infrastructure
-- Familiarity with AI-assisted/agentic coding workflows (Copilot, Cursor, etc.)
-- On-call and production environment ownership
-
-## Optional Qualifications
-
-- Experience with enterprise client requirements: security, SLAs, compliance
-- Eastern or Atlantic time zone (preference, not hard requirement)
+- **Coding:** 35% (explicit Kotlin/Spring Boot/React code contribution, architecture and PR review)
+- Contribute code and drive architectural decisions for the integration layer
+- Ensure reliability and scalability of SDKs, APIs and SSO services
+- Participate in on-call rotation and lead incident response
+- Manage engineers via 1:1s, performance feedback and career growth planning
+- Partner with Solution Architects and PMs to scope and estimate enterprise integration projects
+- Serve as technical voice with enterprise clients during integration scoping
+- Own delivery process: sprints, predictable release cycles, on-time initiative delivery
 
 ## Company
 
-Ada Health is a Berlin-based clinical AI company with 13 million users and 32 million completed health assessments globally. Their core product is a symptom assessment and patient-finding platform regulated as a Class IIa medical device in the EU. Ada helps pharma organizations engage patients earlier in their care journey and helps health systems route patients to appropriate care. The engineering team this role leads owns the integration layer used to onboard and configure Ada's solutions inside enterprise Health System and Life Sciences customer environments.
+Ada Health is a Berlin-based clinical AI company with 13M users and 32M completed health assessments globally. Their core product is a symptom assessment and patient-finding platform regulated as a Class IIa medical device in the EU. Pharma organizations use Ada to engage patients earlier in their care journey; health systems and insurers route patients to appropriate care and surface underutilized benefits. The engineering team behind this role owns the integration layer used to onboard and configure Ada's solutions inside enterprise Health System and Life Sciences customer environments.
 
 ## Keywords
 
-engineering manager, kotlin, spring boot, react, full-stack, player-coach, api integration, sdk, sso, rest api, saas, enterprise, cross-functional, people management, 1:1s, performance management, career development, incident response, on-call, healthcare, b2b, stakeholder management, technical leadership, code review, software architecture, distributed teams, remote, agile, scrum, ai-assisted development, github copilot, cursor, client integrations, sla, compliance, microservices, solution architects, enterprise clients
+engineering manager, kotlin, spring boot, react, full-stack, player-coach, api integration, sdk, sso, rest api, saas, enterprise, cross-functional, people management, 1:1s, performance management, career development, incident response, on-call, healthcare, clinical ai, b2b, stakeholder management, technical leadership, code review, software architecture, distributed teams, remote, agile, scrum, ai-assisted development, github copilot, cursor, client integrations, sla, compliance, microservices, solution architects, enterprise clients, life sciences, health systems
