@@ -9,7 +9,7 @@ Strong baseline and leadership match. No tax/fintech domain experience is the on
 - **Compensation:** $185,000-$231,500 CAD + equity
 - **Benefits:** Medical, dental, vision, disability, life insurance, RRSP with employer match, mental health program, PTO, paid parental leave, wellness benefit, paid holidays
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-05-15)
 - **Progress:** Applied
 
 ## Red flags

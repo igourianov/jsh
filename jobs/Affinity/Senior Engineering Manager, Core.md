@@ -7,7 +7,7 @@
 - **Compensation:** $196,000 - $245,000 CAD
 - **Benefits:** Extended health (employee + dependents), flexible personal & sick days, RRSP, L&D budget, wellness reimbursement (internet, meals, fitness)
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Ghosted (2026-05-15)
 - **Progress:** Applied
 
 ## Qualifications

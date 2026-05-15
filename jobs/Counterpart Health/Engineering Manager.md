@@ -9,7 +9,7 @@ Player/coach EM role at a Clover Health subsidiary building an AI-enabled primar
 - **Compensation:** $134,000 - $175,000 CAD
 - **Benefits:** Equity, performance bonus, medical/dental/vision, mental health resources, paid parental leave, No-Meeting Fridays, office setup reimbursement, cell phone and internet stipend, professional development funding
 - **Team size:** 3+ engineers
-- **Status:** Active
+- **Status:** Ghosted (2026-05-15)
 - **Progress:** Applied
 
 ## Qualifications

@@ -9,7 +9,7 @@ Strong technical and leadership match at the right title level. No legal tech do
 - **Compensation:** CA$174,729 - CA$236,398
 - **Benefits:** Medical/dental/vision, life/accident/critical illness insurance, flexible PTO, sick leave, short/long-term disability, home office stipend, RRSP, paid parental leave
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Ghosted (2026-05-15)
 - **Progress:** Applied
 
 ## Red flags

@@ -9,7 +9,7 @@ Strong technical match on .NET stack, but this is a hands-on IC role, not a mana
 - **Compensation:** $140K-$170K CAD (estimated)
 - **Benefits:** Health benefits, RRSP employer contributions
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Ghosted (2026-05-15)
 - **Progress:** Applied
 
 ## Red flags

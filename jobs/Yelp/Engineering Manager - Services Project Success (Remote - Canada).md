@@ -9,7 +9,7 @@ Strong leadership and cross-functional fit; domain gap in consumer marketplace i
 - **Compensation:** $200,000+ CAD (top of range, stated)
 - **Benefits:** RSUs, standard Yelp benefits package
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Ghosted (2026-05-15)
 - **Progress:** Applied
 
 ## Red flags

@@ -9,7 +9,7 @@ Strong technical and people leadership match. Title is a step up but scope align
 - **Compensation:** ~180-220k CAD (estimated)
 - **Benefits:** Mental health coverage ($3,000), tuition subsidies ($5,000/yr), WFH allowance, full dependent coverage
 - **Team size:** 2+ teams
-- **Status:** Active
+- **Status:** Ghosted (2026-05-15)
 - **Progress:** Applied
 
 ## Red flags

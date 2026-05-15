@@ -9,7 +9,7 @@ Strong technical and leadership fit. .NET/microservices stack aligns well, AI to
 - **Compensation:** CAD $140,000 - $190,000
 - **Benefits:** Annual bonus, 3% CPP matching, gym discounts, EAP, conferences & training budget
 - **Team size:** Not specified (building/growing a full-stack team)
-- **Status:** Active
+- **Status:** Ghosted (2026-05-15)
 - **Progress:** Applied
 
 ## Red flags

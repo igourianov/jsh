@@ -7,7 +7,7 @@
 - **Compensation:** $241,000 - $275,925 USD
 - **Benefits:** Not specified in posting
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Ghosted (2026-05-15)
 - **Progress:** Applied
 
 ## Qualifications
