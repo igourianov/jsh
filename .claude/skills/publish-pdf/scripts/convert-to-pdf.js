@@ -58,8 +58,7 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 }
 
 convertToPdf(process.argv[2], process.argv[3], process.argv[4], process.argv[5])
-	.then(outFile => {
-		console.log(`✓ PDF generated: ${outFile}`);
+	.then(() => {
 		process.exit(0);
 	})
 	.catch(error => {

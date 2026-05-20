@@ -31,4 +31,6 @@ ${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh resume/resume.md "Ilia Gourianov" "En
 ${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh "jobs/Sprout Social/resume.md" "Ilia Gourianov" "Software Engineering Manager"
 ```
 
-Output goes to `pdf/{name} - {title}.pdf`.
+**Output location:** The script prints the path of the generated PDF (relative to project root) as the final line of stdout. Use that value. Do not reconstruct it from inputs.
+
+PDF is always compiled inside `pdf/` (where the `assets/` folder lives) under a temp name, then moved to the final destination. By convention that destination is the source's folder when the source lives inside `jobs/`, otherwise `pdf/`.

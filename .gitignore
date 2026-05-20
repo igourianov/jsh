@@ -11,7 +11,7 @@ tmp.*.json
 nul
 
 # Build outputs
-pdf/*.pdf
+*.pdf
 pdf/*.md
 
 # Separate git repository (published resume)
