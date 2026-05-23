@@ -9,7 +9,7 @@ Strong operational management fit. 8+ years leading engineering teams, SOC 2 com
 - **Compensation:** $156,000-$228,800 CAD
 - **Benefits:** Annual cash bonuses, stock grants, comprehensive benefits package
 - **Team size:** Not specified (software engineers, QA and DevOps)
-- **Status:** Active
+- **Status:** Ghosted (2026-05-23)
 - **Progress:** Applied
 
 ## Qualifications

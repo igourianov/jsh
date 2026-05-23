@@ -9,7 +9,7 @@ Strong technical and management fit; Canadian-based remote-friendly SaaS role at
 - **Compensation:** $150,000 – $200,000 CAD
 - **Benefits:** Generous time off, healthcare, retirement benefits, reward and recognition programs, employee resource groups
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Ghosted (2026-05-23)
 - **Progress:** Applied
 
 ## Qualifications
