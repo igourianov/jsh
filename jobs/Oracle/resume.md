@@ -3,15 +3,15 @@
 [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
 Fort Erie, ON, Canada
 
-Engineering Manager who has built high-performing engineering teams and shipped products from concept to production. Hands-on technical leader in cloud-native microservices on Kubernetes, championing Generative AI and Claude Code in development workflows. Deep expertise in multi-tenant enterprise SaaS, regulated industries and healthcare.
+Engineering Manager who has built high-performing software development teams and shipped products from concept to production. Hands-on technical leader in software architecture and system design across cloud-native microservices, championing AI-augmented development with Claude Code. Deep expertise in multi-tenant enterprise SaaS, cloud platforms and regulated industries.
 
 # Competencies
 
-* **Technical leadership:** system design and software architecture, code reviews, hands-on engineering, technical mentorship, engineering excellence, Generative AI and Claude Code adoption
+* **Technical leadership:** software architecture, system design, code reviews, hands-on engineering, technical mentorship, engineering excellence, AI tooling and Claude Code adoption
 * **People leadership:** hiring, mentoring, scaling teams, performance management and career development, leading remote and multi-location teams
-* **Product delivery:** cross-functional partnership with Product, UX and Architecture, roadmap planning, OKRs, project delivery, SDLC ownership, DORA metrics, data-driven decision-making
+* **Product delivery:** roadmap planning, OKRs, project delivery, SDLC ownership, DORA metrics, data-driven decision-making, cross-functional partnership with Product, UX and Architecture
 * **Process:** Agile/Scrum, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
-* **Tech stack:** Kubernetes (AKS), Docker, microservices, event-driven architecture, AWS/Azure, Terraform (IaC), Claude Code, ReactJS, modern UI, JavaScript/TypeScript, Node.js, HTML/CSS, C\#, .NET Core, ASP.NET MVC, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Prometheus+Grafana (observability), CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
+* **Tech stack:** AWS/Azure, microservices, event-driven architecture, Kubernetes (AKS), Docker, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, Terraform (IaC), Prometheus+Grafana (observability), CI/CD, Azure DevOps, Git, REST APIs, Claude Code, NUnit/xUnit, Selenium
 
 # Experience
 
@@ -37,9 +37,9 @@ Engineering Manager who has built high-performing engineering teams and shipped 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
 
 * Led technical design and delivery of a greenfield ATS (Applicant Tracking System), establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
-* Led remediation of SOC 2 audit findings, implementing access controls, audit logging and change management processes for the team's codebase.
-* Optimized localization data architecture, enabling zero-downtime language updates and reducing internationalization time-to-market from weeks to hours.
 * Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts.
+* Optimized localization data architecture, enabling zero-downtime language updates and reducing internationalization time-to-market from weeks to hours.
+* Led remediation of SOC 2 audit findings, implementing access controls, audit logging and change management processes for the team's codebase.
 
 ### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2005 \- Mar 2013
 
