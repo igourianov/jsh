@@ -9,7 +9,7 @@ Perfect on-paper match for an enterprise C# application development manager role
 - **Compensation:** $100,000 – $110,000 CAD annually
 - **Benefits:** Not specified
 - **Team size:** Not specified (multiple application development teams)
-- **Status:** Screened
+- **Status:** Passed (2026-06-03)
 - **Progress:**
 
 ## Red flags

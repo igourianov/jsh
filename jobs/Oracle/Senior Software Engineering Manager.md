@@ -9,7 +9,7 @@ Excellent fit with strong comp clearing target, but the posting is near-empty bo
 - **Compensation:** CAD $139,700 - $233,900 per year (M4 career level)
 - **Benefits:** Medical/dental/vision, life insurance and AD&D, disability, 401(k) match, ESPP, paid parental leave, flexible vacation (US package listed; CA equivalents likely)
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Rejected (2026-06-03)
 - **Progress:** Applied (2026-06-01)
 
 ## Red flags
