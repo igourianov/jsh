@@ -1,62 +1,66 @@
-# Engineering Manager | Product (Backend) | Consumer platform | 73%
+# Engineering Manager | Backend/Platform | Consumer auto platform | 77%
 
-Hands-on backend EM role for an undisclosed Canadian consumer platform. Strong leadership and legacy modernization fit, but core stack is Node.js/Nest.js/GraphQL which is a gap.
+Hands-on backend EM for an undisclosed Canadian consumer car-ownership platform. Strong on leadership, system design and legacy modernization; core gap is the TypeScript/Node.js/GraphQL stack and consumer/insurance domain.
 
-- **Saved:** 2026-04-10
-- **URL:** https://www.linkedin.com/jobs/view/4398105654/
+- **Saved:** 2026-06-03
+- **URL:** https://www.linkedin.com/jobs/view/4424094245/
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Remote, Canada
-- **Compensation:** CA$230,000 - CA$280,000 base + equity
-- **Benefits:** Health, dental, vision, RRSP with employer matching, PTO, parental leave, wellness programs
+- **Compensation:** CA$230,000 - CA$280,000 base + equity (estimated, from prior posting of same role)
+- **Benefits:** Health, dental, vision, RRSP with employer contributions, PTO, parental leave, wellness programs
 - **Team size:** Not stated
-- **Status:** Passed (2026-04-10)
-- **Progress:**
+- **Status:** Active
+- **Progress:** Applied (2026-06-03)
 
 ## Qualifications
 
-### Technical (weight:57%, match:65%)
-- Hands-on with TypeScript, Node.js (Nest.js)
-- System design, asynchronous and event-driven architectures
-- State management, failure handling, retry logic, system decoupling
-- Lead complex refactoring and modernization of legacy systems
+### Technical (weight:52%, match:70%)
+- Hands-on with TypeScript and Node.js (core backend stack)
+- System design for asynchronous, event-driven, high-reliability architectures
+- Lead complex refactoring/modernization of large-scale production systems into decoupled, fault-tolerant architectures
+- State management, retry logic, observability, system reliability at scale
+- AWS or equivalent cloud platform
+- Debugging edge cases and system failure analysis
 - GraphQL
-- AWS (preferred cloud)
-- AI-driven tooling or automation systems
+- AI-first internal tooling and automation systems
 
-### Baseline (weight:21%, match:90%)
+### Baseline (weight:18%, match:95%)
 - Engineering Manager title match
-- 7+ years software engineering with backend and distributed systems focus
-- Startup or early-stage product environment background
+- 8+ years backend engineering, distributed systems or platform engineering
 
-### Product domain (weight:9%, match:50%)
-- High-scale consumer-facing products with large data volumes
+### People management (weight:11%, match:100%)
+- 2+ years in engineering leadership or management role
+- Mentor and grow engineers; balance hands-on work with team leadership
 
-### People management (weight:7%, match:100%)
-- Mentor, coach, grow engineers
+### Product domain (weight:9%, match:40%)
+- High-scale consumer-facing platform serving millions of users
+- External system integrations (insurance and partner systems)
 
-### Product management (weight:4%, match:90%)
-- Partner with product and cross-functional teams, bridge technical and non-technical stakeholders
+### Product management (weight:5%, match:90%)
+- Partner with product, engineering and executive leadership; translate business complexity into technical solutions
 
-### Process management (weight:4%, match:95%)
-- Define engineering standards, testing strategies, reliability practices
+### Soft skills (weight:3%, match:95%)
+- Influence technical and non-technical stakeholders
+
+### Process management (weight:3%, match:95%)
+- Define engineering standards and reliability practices across services
 
 ## Summary
 
-Lead a backend engineering team owning core automation and orchestration systems for a large-scale consumer platform. The role sits at the intersection of architecture, hands-on engineering and team leadership. A major part of the mission is refactoring legacy, tightly coupled systems into scalable, fault-tolerant and testable distributed architectures. Fast-paced, high-ownership, minimal process overhead.
+Lead a backend engineering team owning the core orchestration layer that powers complex, multi-step transactions across external insurance and partner systems for a high-scale consumer car-ownership platform. The role blends architecture, hands-on engineering and team leadership. A central mandate is refactoring legacy, tightly coupled automation into scalable, decoupled and fault-tolerant distributed systems. Fast-moving, deeply technical, high-ownership, minimal bureaucracy, with direct exposure to the co-founder/CTO.
 
-- **Coding:** 25% Role explicitly requires actively contributing to architecture and implementation work alongside engineers.
-- Lead design, development and evolution of backend systems for complex multi-step orchestration and transactions
-- Guide refactoring of legacy systems into decoupled, scalable, fault-tolerant architectures
-- Define engineering standards, system design principles and testing strategies
-- Oversee async workflows, state management and failure recovery at scale
-- Drive technical decision-making for reliability, performance and scalability
-- Mentor engineers and foster engineering excellence
-- Contribute to AI-driven automation tools and internal platforms
+- **Coding:** 25% Role explicitly expects significant time coding, reviewing systems and solving distributed-systems challenges alongside the team.
+- Lead design, development and evolution of backend orchestration systems for end-to-end transaction flows
+- Drive refactoring of legacy, tightly coupled automation into scalable, decoupled, fault-tolerant architectures
+- Define engineering standards for async workflows, state management, retry logic and reliability
+- Partner with product, engineering and executive leadership to translate business complexity into technical solutions
+- Guide the team on edge-case debugging, observability and transaction success rates
+- Contribute to AI-first internal tooling to scale the platform from millions to tens of millions of users
 
 ## Company
 
-Jobgether is an AI-powered career coach and matching platform for remote professionals. They use AI to match candidates against job requirements and share shortlists with hiring companies. The actual employer for this role is undisclosed. Jobgether is a small company (11-50 employees) operating a remote job database and profile-matching product.
+Jobgether is an AI-powered career navigation and matching platform for senior remote professionals. It uses an AI matching process to score candidates against role requirements and shares a shortlist with the hiring company, which manages all interviews and final decisions. Jobgether is a small company (11-50 employees). The actual employer for this role is an undisclosed partner: a consumer platform redefining car ownership through automation and AI-driven systems, serving millions of customers and integrating with a fragmented ecosystem of external insurance and partner systems.
 
 ## Keywords
 
-Engineering Manager, backend engineering, distributed systems, TypeScript, Node.js, Nest.js, GraphQL, AWS, system design, event-driven architecture, asynchronous workflows, state management, retry logic, failure handling, system decoupling, legacy refactoring, modernization, orchestration engines, fault-tolerant, scalable, consumer platform, high-scale, large data volumes, engineering leadership, tech lead, founding engineer, mentoring, engineering standards, testing strategies, reliability, performance, AI-driven automation, startup, remote
+Engineering Manager, backend engineering, distributed systems, platform engineering, TypeScript, Node.js, GraphQL, AWS, system design, event-driven architecture, asynchronous workflows, state management, retry logic, fault tolerance, observability, system reliability, legacy refactoring, modernization, orchestration systems, transaction flows, insurance integrations, consumer platform, high-scale, failure analysis, edge cases, AI-first tooling, automation, engineering standards, mentoring, technical leadership, cross-functional collaboration, remote
