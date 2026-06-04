@@ -9,8 +9,8 @@ Strong leadership, technical and delivery match; fintech/payments domain is the 
 - **Compensation:** $180,000 - $195,000 CAD total compensation (Ontario)
 - **Benefits:** Medical, dental, wellness, life and disability insurance, RRSP plan and match, paid parental leave top-up, paid time off, equity for all employees
 - **Team size:** Not stated (manages a software development team directly and indirectly via a Technical Lead Staff Engineer)
-- **Status:** Screened
-- **Progress:**
+- **Status:** Active
+- **Progress:** Recruiter screen scheduled (2026-06-08)
 
 ## Red flags
 - **Below-target compensation:** Range of $180,000 - $195,000 CAD is labeled "total compensation" (components not defined in the posting). Candidate's 180-200k CAD target is base, assuming no significant bonus/equity. If total comp includes any bonus or equity, base falls below the target floor; at best it overlaps the bottom of the range.

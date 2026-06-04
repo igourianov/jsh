@@ -9,7 +9,7 @@ Near-perfect fit: hands-on EM, cloud SaaS, .NET stack and AI-driven development.
 - **Compensation:** $160,000 - $230,000 per year (currency unspecified)
 - **Benefits:** "Excellent benefits" (unspecified)
 - **Team size:** 10-15 engineers (full-stack, backend, DevOps)
-- **Status:** Active
+- **Status:** Rejected (2026-06-04)
 - **Progress:** Applied (2026-06-01)
 
 ## Qualifications
