@@ -9,7 +9,7 @@ Strong fit on leadership and SaaS scale. Previously applied to this exact role a
 - **Compensation:** $196,000 - $245,000 CAD
 - **Benefits:** Extended health (employee + dependents), flexible personal & sick days, RRSP, L&D budget, wellness reimbursement (internet, meals, fitness)
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-06-04)
 - **Progress:** Applied (2026-05-20)
 
 ## Red flags

@@ -9,7 +9,7 @@ Strong manager-of-managers fit at an AI-first HR/payroll SaaS; only gap is a for
 - **Compensation:** $200,000-$260,000 CAD (estimated)
 - **Benefits:** ESOP (employee share options), generous parental leave, subsidised egg freezing, WFH office expense budget, learning & development budget, annual global gathering
 - **Team size:** Cohort of Engineering Managers and Engineers across HR and Payroll domains (count not stated)
-- **Status:** Active
+- **Status:** Rejected (2026-06-04)
 - **Progress:** Applied
 
 ## Qualifications
