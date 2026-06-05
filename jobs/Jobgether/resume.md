@@ -1,17 +1,17 @@
-# Ilia Gourianov | Engineering Manager
+# Ilia Gourianov | Engineering Leader
 
 [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
 Fort Erie, ON, Canada
 
-Engineering Manager who has built high-performing platform teams and shipped multi-tenant SaaS products from zero to general availability. Technical leader who stays hands-on in distributed systems architecture and code reviews, championing AI-augmented development. Deep expertise in scalable platform architecture, replatforming and enterprise SaaS in regulated industries.
+Engineering leader who has scaled high-performing, distributed engineering teams and shipped multi-tenant SaaS products from zero to general availability in high-scale, data-intensive environments. Stays hands-on in distributed systems architecture and code reviews, championing AI-augmented development and metrics-driven delivery. Deep expertise in scalable platform architecture, organizational design and enterprise SaaS in regulated industries.
 
 # Competencies
 
-* **Technical leadership:** system design, distributed systems, scalable platform architecture, API design, code reviews, technical mentorship, AI tooling adoption
-* **People leadership:** hiring, coaching, mentoring, scaling teams, performance management and career development, leading remote teams
-* **Product delivery:** cross-functional partnership with Product, UX and Architecture, roadmap planning and alignment, stakeholder communication, OKRs, SDLC ownership, DORA metrics, data-driven decision-making
-* **Process:** Agile/Scrum, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
-* **Tech stack:** AWS/Azure, Kubernetes (AKS), Docker, Terraform (IaC), microservices, event-driven architecture, REST APIs, Kafka, Redis, ElasticSearch, SQL Server, EntityFramework, Dapper, Prometheus+Grafana (observability), CI/CD, Azure DevOps, Git, Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, NUnit/xUnit, Selenium
+* **People leadership:** hiring, mentoring, scaling and organizational design, leading remote and globally distributed teams, performance management, career development and succession planning
+* **Technical leadership:** system design, distributed systems, scalable infrastructure and platform architecture, API design, code reviews, technical mentorship, AI tooling adoption
+* **Process:** DORA metrics, SDLC ownership, process optimization and automation, Agile/Scrum, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR, data privacy and security
+* **Product delivery:** cross-functional partnership with Product, UX and Architecture, roadmap planning and alignment, stakeholder management, OKRs, technical debt management, data-driven decision-making
+* **Tech stack:** AWS/Azure, Kubernetes (AKS), Docker, Terraform (IaC), microservices, event-driven architecture, REST APIs, Kafka, Redis, ElasticSearch, SQL Server, EntityFramework, Dapper, Prometheus+Grafana (observability/SRE), CI/CD, Azure DevOps, Git, Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, NUnit/xUnit, Selenium
 
 # Experience
 
@@ -38,9 +38,9 @@ Engineering Manager who has built high-performing platform teams and shipped mul
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
 
 * Led technical design and delivery of a greenfield ATS (Applicant Tracking System), establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
-* Optimized localization data architecture, enabling zero-downtime language updates and reducing internationalization time-to-market from weeks to hours.
-* Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts.
 * Led remediation of SOC 2 audit findings, implementing access controls, audit logging and change management processes for the team's codebase.
+* Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts.
+* Optimized localization data architecture, enabling zero-downtime language updates and reducing internationalization time-to-market from weeks to hours.
 
 ### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2005 \- Mar 2013
 
