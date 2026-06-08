@@ -2,8 +2,14 @@
 
 ## Recruiter Screen - 2026-06-08
 
-- Recruiter reached out (inbound) for the Software Development Manager (Engineering Manager, Payments) role.
-- Recruiter screen scheduled for Monday 2026-06-08.
+- Applied to the Software Development Manager (Engineering Manager, Payments) posting; they reached out to schedule the screen (automated ATS email, not a personal inbound).
+- Recruiter: Venkatesh (Venky) Kothapalli.
+- Recruiter screen scheduled for Monday 2026-06-08, 10:30.
+- **No-show.** Venky did not join. Emailed at the 7-min mark ("are we still on?"), dropped at 15 min with a note to connect later. No response as of end of day. (Full thread in `Venkatesh Kothapalli.md`.)
+
+### Red flags
+- Recruiter no-show for the first call, no acknowledgement or apology, no reply to reschedule request. Poor candidate experience and disorganized process. Consistent with the management-churn / disorganization signals from company research.
+- **Confidence: Low.** First impression is a negative process signal before any real conversation.
 
 ## Positioning for Recruiter Screen
 
