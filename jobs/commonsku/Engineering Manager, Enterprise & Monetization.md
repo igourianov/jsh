@@ -6,7 +6,9 @@
 **Salary Range:** CAD $140,000–$160,000 + 5% bonus \
 **Hands-on:** 40% | **Coding:** 0% \
 **Posted:** January 2026 \
-**Match:** 78%
+**Match:** 78% \
+**Status:** Rejected (2026-01) \
+**Progress:** Applied
 
 ## Gaps
 
