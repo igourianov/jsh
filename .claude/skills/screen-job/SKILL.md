@@ -13,6 +13,10 @@ Determine input type:
 - **File path** (e.g., temp.txt): Use Read to load content
 - **Inline text** (multi-line job description pasted directly): Use the argument text as-is as the job posting content
 
+## Step 1.1: Check job type
+
+Early exit on complete job mismatch. E.g. the candidate resume is in Software engineering, but role is in Civil or Industrial engineering.
+
 ## Step 1.5: Check History
 
 After determining the company name from the posting (before full analysis):
