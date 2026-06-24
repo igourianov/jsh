@@ -5,7 +5,9 @@
 **Salary Range:** CAD $193,000 - $214,000 \
 **Hands-on:** 40-50% | **Coding:** 0% \
 **Posted:** December 2025 \
-**Match:** 60%
+**Match:** 60% \
+**Status:** Rejected (2026-06-24) \
+**Progress:**
 
 ### Gaps
 
