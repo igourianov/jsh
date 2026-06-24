@@ -10,10 +10,12 @@
     - Problem 2: "Vibe coded" (fed product-level requirement directly to chatbot). Quality and complexity are uncertain as time ran out.
 
 ## Outcome
-- Rejected following technical interview with Karat.
+- 2026-06-22: Rejected following technical interview with Karat.
 - ServiceTitan provided no details beyond "the assessment results did not receive a passing score".
-- Karat's support refused to provide results.
+- 2026-06-22: Karat's support refused to provide results.
 - Sent legal request to Karat's privacy officer for this information.
+- 2026-06-24: Karat Privacy Team replied requesting identity verification before fulfilling the request. Required info: full name on record, prospective employer applied to/interviewed with through Karat, date of interview.
+- 2026-06-24: Replied with verification details (Ilia Gourianov, ServiceTitan, interview date 2026-06-20) and specified the request scope: full assessment results including scores, interviewer notes, problem-level breakdowns and any rubric or evaluation criteria.
 
 ## Impressions
 - Genuinely confused about the purpose and expectations of the interview.
