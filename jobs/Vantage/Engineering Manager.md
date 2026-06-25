@@ -1,62 +1,62 @@
-# Engineering Manager | Product | Ad Tech / Retail Media
+# Engineering Manager | Product | Ad Tech / Retail Media | 89%
 
+Strong leadership and SaaS fit; only gaps are retail media domain and the Python/Django stack. Note: previously rejected for this same role (Feb 2026).
 
-### Match: 82%
-
-- **Saved:** 2026-02-27
-- **URL:** https://www.linkedin.com/jobs/view/4379056541/
+- **Saved:** 2026-06-25
+- **URL:** https://www.linkedin.com/jobs/view/4433355910/
 - **Company:** Vantage
 - **Location:** Remote (Toronto-based company)
 - **Compensation:** CA$170K - CA$210K
 - **Benefits:** Home office support, annual company retreats
-- **Coding:** 0%
-- **Tech stack:** Django, Celery, RabbitMQ, Redis, MySQL, Postgres, CI/CD
 - **Team size:** Not specified
+- **Status:** Active
+- **Progress:** Applied (2026-06-25)
 
-- **Status:** Rejected
-- **Progress:** 
+## Qualifications
 
-## Gaps
+### Baseline (weight:26.4%, match:100%)
+- Engineering Manager (normalized title, matches most recent role)
+- 3+ years managing software engineering teams
+- 7+ years total engineering experience working with SaaS platforms
 
-- **Tech stack:** Preferred stack is Python/Django-based; candidate's background is .NET/C#. Stack gap in preferred qualifications only, not required.
-- **Domain:** No retail media, ad platform or commerce media experience. Ad platform API expertise (Facebook, Google, Pinterest) listed as preferred.
+### People management (weight:22.4%, match:100%)
+- Track record of hiring, mentoring and performance-managing engineers across levels
+- Hire, mentor and grow a mixed-level team with clear goals and regular feedback
+- Build a strong feedback culture focused on ownership, quality and continuous improvement
 
-## Alignment
+### Product management (weight:21.4%, match:100%)
+- Collaborate with Product Managers, Designers and stakeholders to plan, prioritize and deliver customer-impacting product initiatives
+- Own delivery planning and execution including risk management and stakeholder communication
+- Ensure work is aligned with product strategy and customer outcomes
 
-- 8+ years of engineering management experience exceeds the 3-year minimum requirement.
-- Managed teams of 25+ engineers across multiple cross-functional product teams, directly matching people leadership scope.
-- Owned SDLC and CI/CD governance at Dayforce, including branching strategy redesign that reduced deployment failures by 90%.
-- Track record of hiring 20+ engineers, performance management and growing ICs into managers aligns directly with required qualifications.
-- 7+ years of SaaS platform experience (Dayforce is enterprise multi-tenant SaaS), matching the preferred qualification.
+### Product domain (weight:11.6%, match:25%)
+- Retail media / ad tech domain experience
+- Ad platform API expertise (Facebook, Google, Pinterest, etc.)
+
+### Process management (weight:9.6%, match:100%)
+- Own SDLC and CI/CD governance, shorten feedback loops, streamline releases and reduce engineering toil
+- CI/CD and DevOps experience
+
+### Technical (weight:8.6%, match:70%)
+- Set and evolve team-level technical direction in alignment with broader architecture
+- Experience with Celery, RabbitMQ, Redis, MySQL, Postgres and Django
 
 ## Summary
 
-Engineering Manager role at Vantage, a remote-first Toronto-headquartered company building a retail media orchestration platform. The role leads a product engineering team responsible for building and scaling the SaaS platform. Responsibilities span people leadership, delivery ownership and technical direction. The position is newly created.
+Engineering Manager role at Vantage, a remote-first Toronto-headquartered company building a retail media orchestration platform. Leads a mixed-level product engineering team building and scaling the SaaS platform. The role sits at the intersection of people leadership and technical strategy, partnering with product, design and other stakeholders. This is a backfill for an existing vacancy.
 
+- **Coding:** 0% (tech stack listed only as preferred, with broad "etc." language and no required language; role is people leadership plus technical direction)
 - Hire, mentor and grow a mixed-level engineering team with clear goals and regular feedback
 - Own delivery planning and execution including risk management and stakeholder communication
-- Own SDLC and CI/CD governance, shorten feedback loops and reduce engineering toil
+- Own SDLC and CI/CD governance, shorten feedback loops, streamline releases and reduce engineering toil
 - Collaborate with product managers and designers to build customer-facing product
 - Set and evolve team-level technical direction aligned with broader architecture
 - Build a feedback culture focused on ownership, quality and continuous improvement
 
-## Required Qualifications
-
-- 3+ years managing software engineering teams
-- Ability to collaborate with Product Managers, Designers and stakeholders to plan, prioritize and deliver product initiatives
-- Track record of hiring, mentoring and performance-managing engineers across levels
-
-## Optional Qualifications
-
-- Experience with Celery, RabbitMQ, Redis, MySQL, Postgres and Django
-- Ad platform API expertise (Facebook, Google, Pinterest, etc.)
-- Experience with CI/CD and DevOps
-- 7+ years total engineering experience working with SaaS platforms
-
 ## Company
 
-Vantage is a Toronto-based company building a unified orchestration platform for retail and commerce media. The platform helps enterprise retailers launch and scale retail media networks, enabling onsite, offsite and in-store advertising. It integrates with ad platforms and uses ML/AI for targeted, automated advertising at scale. The company has a global presence in North America and Asia-Pacific and counts The Home Depot among its customers. Vantage is a remote-first team spread across North America.
+Vantage is a Toronto-based, remote-first company building the first unified platform purpose-built for retail media orchestration. It connects the tools, workflows and teams behind retail media, bringing campaign planning, activation and measurement into one coordinated operation so enterprise retailers can run onsite, offsite and in-store advertising as a scalable business. It integrates with existing ad tech, ecommerce and data systems. The company has a global presence in North America and Asia-Pacific and is trusted by leading retailers like The Home Depot. Company size is 51-200 employees.
 
 ## Keywords
 
-engineering manager, people management, team leadership, hiring, mentoring, performance management, SDLC, CI/CD, devops, SaaS, Django, Celery, RabbitMQ, Redis, MySQL, Postgres, ad platform, retail media, cross-functional, stakeholder management, product delivery, technical direction, agile, developer velocity, microservices
+engineering manager, people management, team leadership, hiring, mentoring, performance management, SDLC, CI/CD, devops, SaaS, Django, Celery, RabbitMQ, Redis, MySQL, Postgres, ad platform API, retail media, ad tech, cross-functional, stakeholder management, product delivery, technical direction, agile, developer velocity, architecture
