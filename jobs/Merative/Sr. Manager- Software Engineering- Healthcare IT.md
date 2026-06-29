@@ -10,7 +10,7 @@ Strong fit: enterprise SaaS EM with Claude Code adoption track record, remote-fr
 - **Benefits:** Extended health, paramedical, dental and vision; RRSP and TFSA plans; tuition reimbursement; life insurance; EAP; paid vacation and leave
 - **Team size:** 10-15 engineers
 - **Status:** Active
-- **Progress:** Applied (2026-05-22)
+- **Progress:** Applied (2026-06-29)
 
 ## Qualifications
 
