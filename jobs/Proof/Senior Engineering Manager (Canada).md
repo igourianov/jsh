@@ -9,7 +9,7 @@ Strong leadership and architecture fit at a remote-Canada legal tech scale-up. T
 - **Compensation:** CAD $210,000-$250,000
 - **Benefits:** Health, dental, vision, disability insurance, flexible time off, equipment provided
 - **Team size:** Not specified (multi-team, backend/frontend/full-stack, includes offshore contractors)
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Qualifications

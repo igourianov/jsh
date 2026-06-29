@@ -9,7 +9,7 @@ Remote Canada EM role at an undisclosed health-tech SaaS. Near-perfect fit on de
 - **Compensation:** Not stated (estimated 150-190k CAD)
 - **Benefits:** 4-6 weeks paid vacation, 5 personal days, group insurance from day one, employer-contributed RRSP/DPSP, annual wellness allowance, telehealth, hybrid work allowance, flexible hours
 - **Team size:** 8-12
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied (2026-06-02)
 
 ## Qualifications

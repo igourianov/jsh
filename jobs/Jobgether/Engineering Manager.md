@@ -9,7 +9,7 @@ Generic EM role at a healthcare staffing marketplace startup; near-perfect fit o
 - **Compensation:** Not stated; ~$150,000-$190,000 CAD (estimated)
 - **Benefits:** Unlimited paid time off, remote-first/flexible work model, async-first culture
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Qualifications

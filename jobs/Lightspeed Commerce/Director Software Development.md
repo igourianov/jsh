@@ -9,7 +9,7 @@ Solid leadership match with title and fintech domain gaps; payments focus is a s
 - **Compensation:** Not stated (estimated 200-260k CAD base for Director level + equity)
 - **Benefits:** Equity scheme, flexible PTO, $500/year health and wellness, paid parental leave, mental health platform, volunteer day
 - **Team size:** Not stated (leads Engineering Managers and Software Developers across Payments department, which has grown 3x)
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied (2026-05-26)
 
 ## Qualifications

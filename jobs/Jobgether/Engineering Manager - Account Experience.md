@@ -9,7 +9,7 @@ Strong fit: platform/people leadership for a merchant-facing system, only soft g
 - **Compensation:** Not stated (estimated 180-210k CAD + equity)
 - **Benefits:** Equity participation, uncapped vacation, coworking access, company retreats, home office allowance, professional development budget, private medical insurance
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied (2026-06-02)
 
 ## Qualifications

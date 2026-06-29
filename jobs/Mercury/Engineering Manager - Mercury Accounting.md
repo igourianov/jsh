@@ -9,7 +9,7 @@ Strong leadership and technical fit, but no fintech or accounting domain experie
 - **Compensation:** CAD $189,700 - $237,100 (US: $200,700 - $250,900)
 - **Benefits:** Equity (stock options), benefits package
 - **Team size:** 6+
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Qualifications

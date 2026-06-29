@@ -9,7 +9,7 @@ Strong leadership/technical fit; main gap is external developer-facing platform 
 - **Compensation:** Not stated (estimated 170-200k CAD)
 - **Benefits:** Equity/share options, flexible vacation, coworking access, annual retreats/workations, home office allowance + premium equipment, learning budget, private medical insurance
 - **Team size:** Multiple teams (manager of teams)
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied (2026-06-02)
 
 ## Qualifications

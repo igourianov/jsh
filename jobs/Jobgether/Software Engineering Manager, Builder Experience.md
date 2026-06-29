@@ -9,7 +9,7 @@ Strong EM fit for an AI-powered healthcare automation product, but role is hybri
 - **Compensation:** Not stated (estimated 180-220k CAD base for Toronto SaaS EM)
 - **Benefits:** Competitive compensation, hybrid work, leadership growth opportunities
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Red flags

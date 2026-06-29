@@ -9,7 +9,7 @@ Strong leadership and AI-assisted SDLC alignment, but backend stack mismatch (Ja
 - **Compensation:** $180,000-$200,000 (currency ambiguous, posting covers US and Canada)
 - **Benefits:** Rewards and recognition programs, learning and development opportunities. No explicit health, retirement or equity disclosed.
 - **Team size:** Multiple teams across Connected Curriculum product suite, scaling to additional product lines (manager-of-managers)
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Qualifications

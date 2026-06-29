@@ -9,7 +9,7 @@ Strong leadership and platform-services fit; only soft gap is fraud/identity dom
 - **Compensation:** Not stated (estimated 160-200k CAD base)
 - **Benefits:** Fully remote, flexible work environment, career growth opportunities (no specifics on health/retirement/equity)
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Qualifications

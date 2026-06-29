@@ -9,7 +9,7 @@ Strong product-leadership match for a Docker-native SaaS EM; AI-agent sandboxing
 - **Compensation:** $197,650 - $318,250 USD
 - **Benefits:** Equity, 16 weeks paid parental leave, $100/mo tech stipend, training stipend, PTO, quarterly Whaleness Days, end-of-year break, medical/retirement (varies by country)
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Qualifications

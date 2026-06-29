@@ -9,7 +9,7 @@ Hands-on backend EM for an undisclosed Canadian consumer car-ownership platform.
 - **Compensation:** CA$230,000 - CA$280,000 base + equity (estimated, from prior posting of same role)
 - **Benefits:** Health, dental, vision, RRSP with employer contributions, PTO, parental leave, wellness programs
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied (2026-06-03)
 
 ## Qualifications

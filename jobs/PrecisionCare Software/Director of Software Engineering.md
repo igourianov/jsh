@@ -9,7 +9,7 @@ Strong .NET/Angular modernization and leadership fit; healthcare-EMR domain and 
 - **Compensation:** Not stated (estimated 180-220k CAD base; de facto head of engineering reporting to President)
 - **Benefits:** Not stated
 - **Team size:** Not stated (oversees managers and senior developers)
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied (2026-06-05)
 
 ## Qualifications

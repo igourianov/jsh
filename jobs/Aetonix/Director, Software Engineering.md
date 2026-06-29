@@ -9,7 +9,7 @@ Strong match for an inward-facing engineering leader role at a small digital hea
 - **Compensation:** Not stated (estimated 160-200k CAD)
 - **Benefits:** Medical, dental, vision, life insurance
 - **Team size:** 12 engineers across 4-5 squads (managed via tech leads)
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Qualifications

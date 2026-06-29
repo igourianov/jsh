@@ -9,7 +9,7 @@ Strong EM-fit backend leadership role; only soft gap is fraud/ML domain exposure
 - **Compensation:** Not stated (estimated 180-220k CAD for senior EM remote)
 - **Benefits:** Not stated
 - **Team size:** ~8-10 engineers
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Qualifications

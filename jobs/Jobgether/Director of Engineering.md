@@ -9,7 +9,7 @@ Strong fit on high-scale distributed systems, AI tooling and team scaling. Main 
 - **Compensation:** USD 200,000-260,000 (estimated)
 - **Benefits:** Fully remote with schedule autonomy, professional development and training resources
 - **Team size:** Global org of engineering managers and distributed software teams
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied (2026-06-05)
 
 ## Qualifications

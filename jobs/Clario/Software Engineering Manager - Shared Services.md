@@ -9,7 +9,7 @@ Near-identical twin of the already-rejected Cardiac Services screen, same shared
 - **Compensation:** Not stated (estimated $160,000–$200,000 CAD)
 - **Benefits:** Health, dental, vision, paid time off, company holidays
 - **Team size:** Not specified (senior-heavy shared services team across 20+ squads)
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied (2026-06-05)
 
 ## Qualifications

@@ -9,7 +9,7 @@ Strong C#/SQL Server EM role for financial and internal tooling at a fleet-tech 
 - **Compensation:** Not stated (estimated 160-200k CAD)
 - **Benefits:** Not stated
 - **Team size:** Not stated (multiple teams: financial systems and internal tooling)
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied (2026-05-20)
 
 ## Qualifications

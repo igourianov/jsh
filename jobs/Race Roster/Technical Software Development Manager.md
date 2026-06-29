@@ -9,7 +9,7 @@ Hands-on EM role at ASICS Apps subsidiary running endurance event tech. Strong l
 - **Compensation:** Not stated (estimated 140-170k CAD)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Ghosted (2026-06-29)
 - **Progress:** Applied
 
 ## Qualifications
