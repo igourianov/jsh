@@ -6,3 +6,7 @@
 - This is a backfill re-post of the same role I applied to and was rejected for in Feb 2026 (prior job ID 4379056541).
 - Remote-first, Toronto HQ. Comp CA$170K - CA$210K.
 - Match: 89%. Gaps: no retail media / ad platform domain experience; preferred stack is Python/Django/Celery vs my .NET/C# background.
+
+## Outcome
+
+- Rejected (2026-06-30). Second rejection for this same role (also rejected Feb 2026).

@@ -9,7 +9,7 @@ Strong leadership and SaaS fit; only gaps are retail media domain and the Python
 - **Compensation:** CA$170K - CA$210K
 - **Benefits:** Home office support, annual company retreats
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected (2026-06-30)
 - **Progress:** Applied (2026-06-25)
 
 ## Qualifications
