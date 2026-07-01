@@ -1,12 +1,12 @@
-The latest in AI recruiting horror stories.
+#AI recruiting horror story / How to pass Karat interview.
 
-I interviewed with Karat (a recruiting slop vendor) for a company that shall remain unnamed. It's a pair-coding session with LeetCode problems and a bunch of bizarre expectations they don't tell you about. I had to file a formal PIPEDA request to get this info, so listen up.
+I interviewed with Karat (a recruiting slop vendor) for a company that shall remain unnamed. It's a pair-coding session with LeetCode problems and a bunch of hidden expectations designed to make you fail. I had to submit a formal PIPEDA request to get this info, so listen up.
 
 1) They expect you to solve at least 3 LeetCode problems in a one hour interview (realistically 45 minutes of coding). Yeah, you heard me right.
 The interviewer refused to specify this when I asked at the start of the call. It matters a lot, because it defines how you approach the whole thing.
 
 2) They expect you to vibe code all the way. The editor has a built-in GPT 4.1 chatbot. Paste the requirements straight in and copy the code back.
-The interviewer will say it's just for API questions. Ignore that. Nobody solves 3 LeetCode problems in 45 minutes using LLM only as a Google search.
+The interviewer will say it's just for API questions. Ignore that. Nobody solves 3 LeetCode problems in 45 minutes using LLM only as a Google search. Especially considering their envorinment takes good 20 seconds to build and run your code every single time.
 
 3) The interviewer will keep asking you to work out the solution and complexity in your head. Either an outdated script or active sabotage.
 Give vague answers while passing the problem to the chatbot, then answer from the ready solution. The only human work is figuring Big O.
@@ -22,7 +22,7 @@ They documented "struggled with debugging" when I spent 30 seconds finding a mis
 
 7) Don't expect feedback. Record the interview yourself.
 They actively resist handing over your assessment. I had to threaten them with a formal complaint to govt agency to get any of this.
-The irony: they send you a feedback survey the moment interview ends. Don't fill it out until after they send your results to the employer.
+Juicy irony: they send you a feedback survey the moment interview ends. Don't fill it out until after they send your results to the employer.
 
 Your real enemy here is TIME. Don't let the interviewer bog you down theorizing on the first problem.
 
