@@ -9,7 +9,7 @@ Strong people-management and transition-leadership match; real gap on shipping c
 - **Compensation:** Not stated ($150,000–$180,000 CAD estimated)
 - **Benefits:** Not specified
 - **Team size:** Not specified (Landing Page Builder group within ~55-person engineering org)
-- **Status:** Active
+- **Status:** Withdrew (2026-07-07)
 - **Progress:** Applied
 
 ## Qualifications

@@ -24,3 +24,35 @@ A couple things I need clarified before we go further:
 
 Best,
 Ilia
+
+---
+
+Hi Ilia
+Yes its Full Time Role and it's a Salary Base Only
+Hiring Company is Unbounce - Cloud X Working Partner
+
+---
+
+Hi Mohammad,
+
+Thanks for clarifying. I'm looking for $200,000 CAD total compensation for this role.
+
+Best,
+Ilia
+
+---
+
+Hi Ilia
+
+The offer is 120K Per Annum
+
+---
+
+Hi Mohammad,
+
+$120K is well below both my ask and the market rate, especially given no bonus/equity for this role. This isn't something I am interested in moving forward with.
+
+My suggestion to you is to lead with the number in the future to save time and effort for everyone involved. Preferably in the job posting.
+
+Best of luck in your search,
+Ilia
