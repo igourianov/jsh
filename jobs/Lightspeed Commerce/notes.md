@@ -1,5 +1,14 @@
 # Lightspeed Commerce - Notes
 
+## Recruiter Screen - 2026-07-08
+
+- New recruiter reached out: Sarah Stroppetti, Talent Acquisition Advisor. Different person from Venky Kothapalli, who no-showed on 2026-06-08 and never followed up.
+- Moving forward with the first interview step; sent a scheduling link to pick availability. (Full thread in `Sarah Stroppetti.md`.)
+- Discloses use of an AI note-taking assistant on the call, with an opt-out option.
+
+### Observations
+- Positive sign that the process is moving again after Venky's no-show, via a different recruiter rather than the same one following up.
+
 ## Recruiter Screen - 2026-06-08
 
 - Applied to the Software Development Manager (Engineering Manager, Payments) posting; they reached out to schedule the screen (automated ATS email, not a personal inbound).
