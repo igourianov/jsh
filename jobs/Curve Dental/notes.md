@@ -9,3 +9,7 @@
 ### Concerns / Red flags
 - Location/work model mismatch risk: posting tagged Remote but application form probes office willingness, suggesting hybrid expectations not disclosed upfront.
 - Pay flagged as below market on Glassdoor; no funding event since 2018.
+
+## Outcome
+
+- Rejected (2026-07-09).

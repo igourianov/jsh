@@ -9,7 +9,7 @@ Strong all-around match; only real gap is direct healthcare-vertical SaaS experi
 - **Compensation:** Not stated (estimated CAD 150k-190k base)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Rejected (2026-07-09)
 - **Progress:** Applied
 
 ## Qualifications
