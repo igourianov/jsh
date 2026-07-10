@@ -11,7 +11,12 @@
 ## Interview Process
 
 - Next step: call with Barry (Director, hiring manager). Sarah to schedule and send his LinkedIn profile.
+- Received the calendar booking link for the Barry call; provided availability.
 - Steps: Barry call -> tech interview (system design) -> product interview with PMs -> senior leader screen (VP?).
+- Barry Beldam, LinkedIn: https://www.linkedin.com/in/barry-beldam-b848844. Started career early 2000s, eng background.
+
+### Concerns / Red flags
+- Barry's LinkedIn has posts pushing DEI agenda
 
 ## Recruiter Screen - 2026-07-08
 
