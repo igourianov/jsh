@@ -1,5 +1,18 @@
 # Lightspeed Commerce - Notes
 
+## Screen - 2026-07-10
+
+- French not required (confirmed).
+- Full remote confirmed.
+- Comp: $185k base + 35% RSU + 4% RRSP match.
+- Role open due to a team split.
+- Team: 5 engineers, expected to grow to 10 within a year.
+
+## Interview Process
+
+- Next step: call with Barry (Director, hiring manager). Sarah to schedule and send his LinkedIn profile.
+- Steps: Barry call -> tech interview (system design) -> product interview with PMs -> senior leader screen (VP?).
+
 ## Recruiter Screen - 2026-07-08
 
 - New recruiter reached out: Sarah Stroppetti, Talent Acquisition Advisor. Different person from Venky Kothapalli, who no-showed on 2026-06-08 and never followed up.
