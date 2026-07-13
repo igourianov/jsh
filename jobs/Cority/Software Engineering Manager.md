@@ -10,7 +10,7 @@ Hands-on first-line EM role on a mature .NET/Angular EHS platform. Near-perfect 
 - **Benefits:** Health, dental, RRSP/401k, home office allowance, subsidized internet, annual fitness allowance, mental health support (Calm, Talkspace), training allowance and certifications
 - **Team size:** Not stated (first-line team of software engineers)
 - **Status:** Active
-- **Progress:** Applied (2026-06-24)
+- **Progress:** Recruiter screen scheduled (2026-07-14)
 
 ## Qualifications
 
