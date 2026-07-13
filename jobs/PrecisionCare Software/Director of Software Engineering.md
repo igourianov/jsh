@@ -6,11 +6,11 @@ Strong .NET/Angular modernization and leadership fit; healthcare-EMR domain and 
 - **URL:** https://www.linkedin.com/jobs/view/4424932212/
 - **Company:** PrecisionCare Software
 - **Location:** Remote (Canada)
-- **Compensation:** Not stated (estimated 180-220k CAD base; de facto head of engineering reporting to President)
+- **Compensation:** Not stated (estimated 165-200k CAD base; small PE-owned company likely pays below the Toronto Director market median of ~198-208k CAD despite broad de facto head-of-engineering scope)
 - **Benefits:** Not stated
 - **Team size:** Not stated (oversees managers and senior developers)
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied (2026-06-05)
+- **Status:** Active
+- **Progress:** Applied (2026-07-13)
 
 ## Qualifications
 
