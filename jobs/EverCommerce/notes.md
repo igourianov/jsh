@@ -28,3 +28,7 @@ Product success. I measure myself by outcomes for customers, not output. For Joi
 A high-performing team. The product only stays successful if the team can sustain it. Success is two squads that own their outcomes, ship independently without stepping on each other, and hold a high quality bar on their own. It's engineers growing into bigger roles, low attrition because people want to stay, and a delivery process that's fast without burning anyone out.
 
 The two reinforce each other. A healthy, motivated team is what makes consistent product wins possible, and real product impact is what keeps a team engaged. My job is to set the vision, remove roadblocks and create the conditions for both.
+
+## Outcome - 2026-07-14
+
+Rejected for Senior Engineering Manager, Joist.

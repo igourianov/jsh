@@ -9,7 +9,7 @@ Strong leadership and delivery fit; only gap is the trades/SMB vertical, and com
 - **Compensation:** $175,000 - $195,000 CAD base
 - **Benefits:** Annual wellness stipend, flexible/generous FTO, Employee Stock Purchase Program, RRSP with 4% company match
 - **Team size:** Two cross-functional product squads
-- **Status:** Ghosted (2026-06-29)
+- **Status:** Rejected (2026-07-14)
 - **Progress:** Applied (2026-06-06)
 
 ## Qualifications
