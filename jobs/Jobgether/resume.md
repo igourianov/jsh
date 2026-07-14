@@ -1,17 +1,17 @@
-# Ilia Gourianov | Engineering Leader
+# Ilia Gourianov | Engineering Manager
 
 [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
 Fort Erie, ON, Canada
 
-Engineering Leader who has built several high-performing engineering teams and products from zero to general availability. Technical leader who stays hands-on in architecture decisions and code reviews, championing AI-assisted engineering and global team leadership. Deep expertise in multi-tenant enterprise SaaS, cloud-native platform integration and regulated industries, including healthcare intelligence.
+Engineering Manager who builds and scales high-performing engineering teams, delivering products from zero to general availability. Technical leader who stays hands-on in architecture decisions and code reviews for distributed, scalable systems, championing AI-augmented development. Deep expertise in multi-tenant enterprise SaaS and regulated industries.
 
 # Competencies
 
-* **People leadership:** leading global distributed teams, hiring, mentoring, scaling teams, performance management and career development
-* **Technical leadership:** system design, API architecture, code reviews, technical mentorship, AI tooling adoption
-* **Product delivery:** cross-functional partnership with Product, UX and Architecture, stakeholder management, roadmap planning, OKRs, SDLC ownership, DORA metrics, data-driven decision-making
-* **Process:** Agile/Scrum, CI/CD, DevOps, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
-* **Tech stack:** AWS/Azure, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, microservices, event-driven architecture, REST APIs, Node.js, JavaScript/TypeScript, C\#, .NET Core, ASP.NET MVC, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Claude Code, Azure DevOps, Git, NUnit/xUnit, Selenium
+* **People leadership:** mentoring, performance management and career development, scaling teams, hiring and recruitment, leading remote teams
+* **Technical leadership:** system design, software architecture, code reviews, technical mentorship, AI tooling adoption
+* **Product delivery:** roadmap planning, stakeholder management, cross-functional partnership with Product, UX and Architecture, OKRs, KPIs, SDLC ownership, DORA metrics, data-driven decision-making
+* **Process:** engineering standards and documentation practices, Agile/Scrum, capacity planning, on-call rotations, SLOs, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
+* **Tech stack:** Kafka, Kubernetes (AKS), Docker, containerization, orchestration, Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Terraform, Prometheus+Grafana, microservices, distributed systems, event-driven architecture, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
 
 # Experience
 
@@ -19,11 +19,11 @@ Engineering Leader who has built several high-performing engineering teams and p
 
 [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment processing sensitive data at scale.
 
-* Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition and core platform services.
-* Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
-* Extracted a critical calculation engine from the monolith into an independently scalable microservice, implementing high-performance data platform engineering patterns.
+* Extracted a critical calculation engine from the monolith into an independently scalable microservice.
 * Built core platform services enabling other teams to transition to a microservices architecture.
+* Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition and core platform services.
 * Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services.
+* Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
 
 ### Engineering Manager, Product @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Jan 2022
 
@@ -31,9 +31,8 @@ Engineering Leader who has built several high-performing engineering teams and p
 * Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
 * Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
 * Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
-* Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
-* Identified and documented eligible R&D projects for SR&ED tax credit claims, recovering up to $300K annually.
 * Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 90% and enabling teams to ship independently.
+* Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
 
@@ -46,7 +45,7 @@ Engineering Leader who has built several high-performing engineering teams and p
 
 Digital agency providing marketing services for healthcare industry.
 
-* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda, contributing to healthcare intelligence and data-driven product delivery.
+* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda
 * Contributed to a proprietary CMS powering client-facing marketing sites
 * Contributed to an internal work tracking system used across the agency
 * Contributed to an internal web framework including a custom ORM

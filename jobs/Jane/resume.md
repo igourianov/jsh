@@ -1,15 +1,16 @@
 # Ilia Gourianov | Engineering Manager
 
-[ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | Fort Erie, ON, Canada
+[ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
+Fort Erie, ON, Canada
 
-Engineering Manager who builds high-performing teams and coaches engineers to deliver meaningful customer-facing products. Champions AI-augmented development and hands-on technical leadership through architecture decisions and code reviews. Deep expertise in multi-tenant SaaS, cross-functional delivery and growing senior and staff-level engineers.
+Engineering Manager who has built several high-performing engineering teams and products from zero to general availability, partnering closely with Product and Design to turn ambiguous, systems-level problems into delivered outcomes. Technical leader who stays hands-on in architecture decisions and code reviews, championing AI adoption and AI-augmented development. Deep expertise in multi-tenant enterprise SaaS and regulated industries.
 
 # Competencies
 
-* **People leadership:** coaching, career development, performance management, hiring, scaling and leading remote teams
-* **Technical leadership:** AI tooling adoption, system design, code reviews, technical mentorship, technical quality advocacy
-* **Product delivery:** cross-functional partnership with Product, UX and Architecture, roadmap planning, OKRs, SDLC ownership, DORA metrics, data-driven decision-making
-* **Process:** Scrum, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
+* **Technical leadership:** systems thinking, technical strategy, system design, code reviews, technical mentorship, AI tooling adoption
+* **People leadership:** mentoring, coaching, career development and performance management, hiring, scaling teams, leading remote teams
+* **Product delivery:** cross-functional partnership (triad model) with Product, UX/Design and Architecture, roadmap planning and delivery, OKRs, SDLC ownership, accountability, DORA metrics, data-driven decision-making
+* **Process:** SOC 2, GDPR, balancing feature/debt/ops work streams, Agile/Scrum, capacity planning, on-call rotations, blameless postmortems
 * **Tech stack:** Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, microservices, event-driven architecture, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
 
 # Experience
@@ -18,25 +19,25 @@ Engineering Manager who builds high-performing teams and coaches engineers to de
 
 [DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment processing sensitive data at scale.
 
-* Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
+* Built core platform services enabling other teams to transition to a microservices architecture.
 * Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition and core platform services.
 * Extracted a critical calculation engine from the monolith into an independently scalable microservice.
-* Built core platform services enabling other teams to transition to a microservices architecture.
+* Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
 * Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services.
 
 ### Engineering Manager, Product @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Jan 2022
 
 * Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
+* Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
 * Scaled from one team to three high-performing cross-functional product teams (8-12 devs+QA each, 30+ engineers total). Designed the engineering interview process and hired 20+ engineers. Managed up to 25 engineers directly and via technical leads.
 * Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
-* Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
 * Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
 * Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 90% and enabling teams to ship independently.
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
 
-* Led technical design and delivery of a greenfield ATS (Applicant Tracking System), establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
 * Led remediation of SOC 2 audit findings, implementing access controls, audit logging and change management processes for the team's codebase.
+* Led technical design and delivery of a greenfield ATS (Applicant Tracking System), establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
 * Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts.
 * Optimized localization data architecture, enabling zero-downtime language updates and reducing internationalization time-to-market from weeks to hours.
 
