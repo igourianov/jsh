@@ -9,7 +9,7 @@ Strong EM fit on people, technical and cloud SaaS leadership; only real gap is A
 - **Compensation:** US$148,000-$264,990 base (US roles); Canada not stated, est. ~CA$170,000-$230,000 base
 - **Benefits:** Health and financial benefits, paid time off, wellness programs, annual cash bonuses, stock grants
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Ghosted (2026-07-16)
 - **Progress:** Applied (2026-06-18)
 
 ## Red flags

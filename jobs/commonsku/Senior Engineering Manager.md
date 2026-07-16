@@ -9,7 +9,7 @@ Strong leadership and technical fit; only real gap is e-commerce/promo-products 
 - **Compensation:** CAD $185,000–$200,000 + 5% annual bonus
 - **Benefits:** Health/dental, $1,000 healthcare spending account, RRSP/TFSA contributions up to $3,000/yr (no employee contribution), Dec 25–Jan 1 closure, twice-yearly company summits
 - **Team size:** eCommerce and Supplier teams (size not stated)
-- **Status:** Active
+- **Status:** Ghosted (2026-07-16)
 - **Progress:** Applied (2026-06-18)
 
 ## Qualifications

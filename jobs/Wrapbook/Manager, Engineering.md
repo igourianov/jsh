@@ -9,7 +9,7 @@ Exceptional payroll/workforce domain fit; only real gap is the Ruby on Rails sta
 - **Compensation:** CA$174K - CA$237.1K
 - **Benefits:** Unlimited PTO, work from anywhere in Canada/USA, health and dental, up to $1,500 USD/$2,025 CAD home IT setup, up to 2% RRSP/401K match, L&D budget, up to $50 USD/$67.50 CAD internet/cell stipend
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Ghosted (2026-07-16)
 - **Progress:** Applied (2026-06-20)
 
 ## Qualifications

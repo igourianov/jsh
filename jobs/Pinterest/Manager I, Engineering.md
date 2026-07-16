@@ -9,7 +9,7 @@ Strong leadership and backend/distributed-systems fit; main gap is consumer-inte
 - **Compensation:** $190K-$240K CAD base (estimated) + equity (RSUs) + bonus
 - **Benefits:** Health, dental, vision, retirement plan, equity, bonus, PinFlex flexible work (estimated; not stated in posting)
 - **Team size:** Not stated (existing team, expected to grow via hiring in first year)
-- **Status:** Active
+- **Status:** Ghosted (2026-07-16)
 - **Progress:** Applied (2026-06-24)
 
 ## Qualifications

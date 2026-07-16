@@ -9,7 +9,7 @@ Execution-focused EM role that maps almost perfectly to your delivery, on-call, 
 - **Compensation:** $150k-$190k CAD base (estimated) + equity
 - **Benefits:** Meaningful equity package; flexible, remote-first, async-friendly environment
 - **Team size:** ~10 engineers (USA, Canada, EU, UK, China)
-- **Status:** Active
+- **Status:** Ghosted (2026-07-16)
 - **Progress:** Applied (2026-06-16)
 
 ## Qualifications

@@ -9,7 +9,7 @@ Strong people/technical leadership fit in a regulated SaaS context; comp is the 
 - **Compensation:** $130,000–$160,000 CAD + bonus
 - **Benefits:** Bonus, Flex PTO, health/dental/vision, 13 paid holidays, company volunteer days, remote-first
 - **Team size:** 2-3 teams, ~12-20 engineers (blend of contractors and FT, incl. POs and tech leads)
-- **Status:** Active
+- **Status:** Ghosted (2026-07-16)
 - **Progress:** Applied (2026-06-08)
 
 ## Red flags

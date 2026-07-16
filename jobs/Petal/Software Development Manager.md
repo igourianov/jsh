@@ -1,45 +1,50 @@
-# Engineering Manager | Product | Healthcare | 86%
+# Engineering Manager | Product | Healthcare | 85%
 
-Strong delivery-leadership fit at a Canadian health-tech SaaS; main gaps are French and deep healthcare-systems domain.
+Strong delivery-leadership fit at a Canadian health-tech SaaS; main gaps are French and deep healthcare-systems domain. Repost of a role already applied to and rejected.
 
-- **Saved:** 2026-06-01
-- **URL:** https://www.linkedin.com/jobs/view/4422894529/
+- **Saved:** 2026-07-16
+- **URL:** https://www.linkedin.com/jobs/view/4440751461/
 - **Company:** Petal
 - **Location:** Remote (Canada)
 - **Compensation:** $150K-$185K CAD (estimated)
 - **Benefits:** Hybrid work allowance, 4-6 weeks paid vacation, 5 paid personal days, group RRSP/DPSP with employer contribution, group insurance from day 1, annual wellness allowance, telehealth app, flexible hours
 - **Team size:** 8-12 (multidisciplinary delivery team)
-- **Status:** Rejected (2026-06-05)
-- **Progress:** Applied
+- **Status:** Active
+- **Progress:** Applied (2026-07-16)
 
 ## Qualifications
 
-### Baseline (weight:31.8%, match:75%)
-- Software Development Manager (Engineering Manager) role match
+### Baseline (weight:36.6%, match:75%)
+- Software Development Manager (Engineering Manager) role title match
 - 6+ years software development/engineering experience
-- 4+ years team leadership or management
+- 4+ years team leadership or management experience
 - French language proficiency (Quebec-headquartered company)
 
-### Product management (weight:19.6%, match:100%)
+### Product management (weight:22.6%, match:100%)
 - Manage end-to-end software delivery in fast-paced SaaS/product organization
-- Collaborate with Product Management and Architecture to align on vision, scope and solutions
-- Bridge gap between technical and business perspectives
+- Plan and oversee delivery execution: objectives, timelines, prioritization
+- Collaborate with Product Management and Architecture on vision, scope and solutions
+- Act as thought partner to Product/Architecture balancing technical feasibility, customer value and business impact
 
-### Process management (weight:17.6%, match:90%)
+### Process management (weight:16.6%, match:90%)
+- Delivery and quality management principles: planning, estimation, testing, deployment
+- Identify and remove delivery blockers, optimize workflow/tools/processes
+- Maintain quality/performance metrics, delivery velocity and predictability
 - Agile and Kanban delivery principles, continuous improvement
-- Delivery and quality management: planning, estimation, testing, deployment
-- Maintain quality and performance metrics, delivery velocity and predictability
 
-### People management (weight:11.4%, match:100%)
+### People management (weight:10.8%, match:100%)
+- Lead and support multidisciplinary delivery team (8-12), set direction, feedback, accountability
 - Coach team members on problem-solving, communication and professional growth
-- Build healthy high-performing team culture, ownership and accountability
 
-### Technical (weight:10.4%, match:100%)
+### Product domain (weight:6.4%, match:50%)
+- Healthcare / health technology domain experience
+
+### Technical (weight:4.8%, match:100%)
 - Technical literacy to engage with developers, QA and architects, make sound delivery decisions
 - AI tooling adoption to improve team productivity
 
-### Product domain (weight:9.2%, match:50%)
-- Healthcare / health technology domain experience
+### Soft skills (weight:1.4%, match:100%)
+- Communication skills bridging technical and business perspectives
 
 ## Summary
 
