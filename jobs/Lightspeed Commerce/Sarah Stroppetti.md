@@ -31,3 +31,32 @@ Thanks for reaching out. I tried to book time on your calendar but the schedulin
 
 Best,
 Ilia
+
+---
+
+**Sarah - 2026-07-17:**
+
+Hi Ilia,
+
+Thank you again for taking the time to meet with us. It was a genuine pleasure getting to know you and learning more about your background and experiences.
+
+After thoughtful discussions with the team, we've decided not to move forward with your application at this time. We truly appreciate the effort you put into the process. This isn't an easy message to share, and it's certainly not a reflection on your value or potential.
+
+Thanks again for considering Lightspeed. We're growing fast, and new opportunities open up regularly. Feel free to stay connected through our Careers Page.
+
+Wishing you all the best in your journey ahead.
+
+Warm regards,
+Sarah Stroppetti
+Talent Acquisition Advisor
+
+---
+
+**Me - 2026-07-17:**
+
+Hi Sarah,
+
+Thanks for letting me know. Would you be able to share any feedback from the team on where I fell short? It would help me going forward.
+
+Best,
+Ilia

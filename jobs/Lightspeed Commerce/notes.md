@@ -1,5 +1,9 @@
 # Lightspeed Commerce - Notes
 
+## Outcome
+
+- **Rejected (2026-07-17)** - Software Development Manager role. Rejection came via email from Sarah Stroppetti after the Barry (hiring manager) call stage, no further detail given (generic template language).
+
 ## Screen - 2026-07-10
 
 - French not required (confirmed).
