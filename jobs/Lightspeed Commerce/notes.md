@@ -3,6 +3,11 @@
 ## Outcome
 
 - **Rejected (2026-07-17)** - Software Development Manager role. Rejection came via email from Sarah Stroppetti after the Barry (hiring manager) call stage, no further detail given (generic template language).
+- Expected this outcome after the Barry interview:
+  - Barry started disinterested and felt rushed.
+  - Conversation picked up and finished lively on the topic of AI adoption.
+  - No clear signal to continue at the end of the call, he said they'd get back by end of week. A genuinely interested hiring manager usually gives clearer next-step signals.
+  - Suspect internal hire or diversity quota.
 
 ## Screen - 2026-07-10
 
