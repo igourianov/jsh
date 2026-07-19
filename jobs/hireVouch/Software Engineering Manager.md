@@ -9,7 +9,7 @@ Strong technical and leadership match for a hands-on EM role; main gaps are lega
 - **Compensation:** CA$175K/yr - CA$220K/yr
 - **Benefits:** Not stated
 - **Team size:** Multiple teams, mix of onshore/offshore Tech Leads and ICs (size not stated)
-- **Status:** Active
+- **Status:** Rejected (2026-07-19)
 - **Progress:** Applied
 
 ## Qualifications
