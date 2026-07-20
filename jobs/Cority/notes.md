@@ -13,3 +13,7 @@
 * PE exit timeline and org stability
 * actual team/product this role is in (accquisition sprawl concerning) - unclear beyond "core product CorityOne"
 
+## Outcome
+
+- Rejected (2026-07-20)
+
