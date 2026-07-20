@@ -1,44 +1,67 @@
-# Manager, Application Development | Product Engineering | IT Research SaaS
+# Engineering Manager | Application Development | IT Research SaaS | 91%
 
-**URL:** https://recruiting.ultipro.ca/INF5000IFTC/JobBoard/1cffe7b2-1234-4d4c-9533-76e0d034f72a/OpportunityDetail?opportunityId=bd0155ca-bed1-457a-9572-8f52a69f6dce \
-**Company:** Info-Tech Research Group \
-**Location:** Remote - Canada \
-**Salary Range:** Not disclosed \
-**Hands-on:** 35% | **Coding:** 0% \
-**Posted:** November 5, 2025 \
-**Match:** 70%
+Strong match; candidate is overqualified on experience/leadership, main gaps are Ruby on Rails and IT-research domain specificity.
 
-## Gaps
+- **Saved:** 2026-07-20
+- **URL:** https://www.linkedin.com/jobs/view/4442762790/
+- **Company:** Info-Tech Research Group
+- **Location:** Remote (Canada)
+- **Compensation:** Not disclosed
+- **Benefits:** Not disclosed
+- **Team size:** Not disclosed
+- **Status:** Screened
+- **Progress:**
 
-- Tech stack mismatch: Role prefers Ruby on Rails experience; candidate has .NET/C#/React/TypeScript background
-- No post-secondary degree in Computer Science or IT explicitly mentioned in resume (required qualification)
-- IT Research domain vs HRTech/HCM SaaS experience
-- No bilingual proficiency (French, Spanish, or German) - nice-to-have
+## Qualifications
+
+### Baseline (weight:33%, match:92%)
+- Engineering Manager / Manager, Application Development title match
+- 4+ years hands-on technical leadership and people management experience
+- 10 years development experience
+- Bilingual proficiency in French, Spanish or German
+
+### Technical (weight:14%, match:81%)
+- Oversee technical direction of large-scale projects, define technical solutions, document system responsibilities and data flows
+- Ruby on Rails exposure
+- Cloud-based infrastructure experience
+
+### Product management (weight:13%, match:100%)
+- Write epics and detailed user stories, estimate backlog for release planning
+- Manage stakeholder relationships and lead requirements gathering
+
+### Process management (weight:10%, match:83%)
+- Facilitate Agile/Scrum ceremonies (standups, planning, retro, review, demos), track velocity
+- Agile Certification or Project Management Certification
+
+### Education (weight:9%, match:100%)
+- Post-secondary degree in Computer Science, Application Development, or IT, or equivalent experience
+
+### People management (weight:8%, match:100%)
+- Team management: hiring, scheduling absences, maintaining minimum team size
+- Technical mentorship for programmers on development teams
+
+### Soft skills (weight:8%, match:100%)
+- Strong communicator, collaborate across multiple teams
+- Analyze processes and information, identify problems and trends, develop effective solutions
+
+### Product domain (weight:4%, match:50%)
+- IT research/advisory SaaS domain experience
 
 ## Summary
 
-The Manager, Application Development role at Info-Tech Research Group oversees an application development team managing planning, design, coordination, and software implementation. The position influences system scaling and product growth while working on core products, expansion initiatives, and new ventures. Responsibilities include defining technical solutions addressing business requirements and system specifications, facilitating Agile ceremonies including standups, retrospectives and sprint planning, documenting data flows and system responsibilities, creating epics and user stories for backlog management, directing development team operations and managing scheduling, and providing technical mentorship to programmers. The role requires hands-on technical leadership combined with people management experience.
+The Manager, Application Development role leads a team of developers through planning, design, coordination and implementation of software applications, working on core products, growth-division products and new product initiatives. The manager owns technical solutions and system/data-flow documentation, runs Agile ceremonies (standups, retros, sprint/release planning, demos), writes and estimates epics/user stories for backlog management, and provides technical mentorship to programmers. People-management duties include scheduling, absence approval and maintaining minimum team size. Ruby on Rails exposure and cloud-infrastructure experience are preferred but not required; bilingual French, Spanish or German is a nice-to-have.
 
-## Required Qualifications
-
-- Post-secondary degree in Computer Science or IT
-- Four+ years hands-on technical leadership with people management
-- Experience overseeing large-scale project technical direction
-- Strong collaborative communication across teams
-- Analytical problem-solving skills
-- Ability to define technical solutions for business requirements
-- Experience facilitating Agile ceremonies
-- Experience creating epics and user stories for backlog management
-- Technical mentorship capabilities
-
-## Optional Qualifications
-
-- 10 years development experience
-- Agile or Project Management certification
-- Ruby on Rails exposure
-- Cloud infrastructure experience
-- Bilingual proficiency (French, Spanish, or German)
+- **Coding:** 0%
+- Define technical solutions and evaluate alternatives against business/system requirements
+- Facilitate Scrum ceremonies and track team velocity/sprint progress
+- Write and estimate epics/user stories for the product backlog
+- Manage development team operations, scheduling and technical mentorship
+- Advocate ongoing system/platform updates
 
 ## Company
 
-Info-Tech Research Group delivers IT research to CIOs and technology leaders across 30,000+ professionals globally. The organization maintains double-digit growth and ranks in the Top 3 on LinkedIn's Top Companies List in Canada. Info-Tech operates in the IT research and SaaS space, providing research and advisory services to technology professionals. The company focuses on scaling systems and product growth while managing core products, expansion initiatives, and new ventures. Info-Tech emphasizes Agile development practices and collaborative team environments, operating as a remote-first organization across Canada. The company is committed to non-discrimination and accommodation throughout recruitment and offers opportunities to work on large-scale projects with technical direction oversight.
+Info-Tech Research Group is an IT research and advisory firm serving 30,000+ IT professionals and CIOs worldwide with impartial research, tools and training to support technology decision-making. The company has grown consistently for 30 years, including double-digit growth through the pandemic, and ranks in the Top 3 on LinkedIn's Top Companies List in Canada. It operates a research/advisory SaaS-style product line rather than a traditional software product company, with an emphasis on entrepreneurial, growth-focused culture and internal professional development funding.
+
+## Keywords
+
+Application Development, technical leadership, people management, Agile, Scrum, sprint planning, backlog management, epics, user stories, stakeholder management, requirements gathering, system design, technical direction, data flow documentation, Ruby on Rails, cloud infrastructure, Agile certification, Project Management certification, bilingual French, bilingual Spanish, bilingual German, IT research, SaaS
