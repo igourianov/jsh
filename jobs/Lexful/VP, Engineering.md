@@ -9,7 +9,7 @@ Strong technical and people-leadership fit, but title level (VP vs. EM) and lack
 - **Compensation:** $175,000 - $200,000 base + up to $40,000 OTE (total OTE $240,000)
 - **Benefits:** 100% employer-paid extended health and dental for employee and family, equity
 - **Team size:**
-- **Status:** Active
+- **Status:** Rejected (2026-07-21)
 - **Progress:** Recruiter screen (2026-07-15)
 
 ## Qualifications
