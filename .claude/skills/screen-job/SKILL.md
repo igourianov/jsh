@@ -22,7 +22,7 @@ Early exit on complete job mismatch. E.g. the candidate resume is in Software en
 After determining the company name from the posting (before full analysis):
 
 1. Check if `jobs/{Company}/` folder already exists with a screening `.md` file
-2. If it exists, read the screening file and report to user: previous Status, Match %, Saved date
+2. If it exists, read the screening file and report to user: previous Status, Match %, Saved date and the file path (`jobs/{Company}/{file}.md`)
 3. Ask the user if they want to overwrite. If they decline, stop.
 4. If overwriting, note the existing **Status** and **Progress** values to preserve them in the new screening file
 
