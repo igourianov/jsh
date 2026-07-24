@@ -10,7 +10,7 @@ Strong leadership and backend-platform fit; main gap is no Python/Go/Ruby and no
 - **Benefits:** Medical, dental, vision; flexible hours; generous PTO; employee well-being allowance; maternity/paternity schemes (vary by location)
 - **Team size:** Not stated (reports to an Engineering Director)
 - **Status:** Active
-- **Progress:** Applied (2026-06-26)
+- **Progress:** Applied (2026-07-24)
 
 ## Qualifications
 
