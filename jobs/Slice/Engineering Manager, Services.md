@@ -9,7 +9,7 @@ Strong leadership and backend-platform fit; main gap is no Python/Go/Ruby and no
 - **Compensation:** Not stated (estimated 160-200K CAD base)
 - **Benefits:** Medical, dental, vision; flexible hours; generous PTO; employee well-being allowance; maternity/paternity schemes (vary by location)
 - **Team size:** Not stated (reports to an Engineering Director)
-- **Status:** Active
+- **Status:** Rejected (2026-07-30)
 - **Progress:** Applied (2026-07-24)
 
 ## Qualifications
