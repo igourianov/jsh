@@ -15,7 +15,8 @@
 			"Skill(cleanup-seo)",
 			"Skill(screen-job)",
 			"Skill(research-company)",
-			"Skill(convert-txt)"
+			"Skill(convert-txt)",
+			"Skill(update-config)"
 		],
 		"deny": [],
 		"ask": []
