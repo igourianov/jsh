@@ -24,6 +24,7 @@ When a script needs a JSON payload written to a temp file:
 ## Key Files
 
 - `resume/` - Base resume (source of truth) and context
+- `roles/engineering-leader.md` - Baseline qualification profile: what every engineering leadership posting asks. Used by screen-job to filter boilerplate out before matching against the resume, so only job-specific factors are scored. See Screening baseline.
 - `pdf/` - output folder for generated resume PDFs
 - `scripts/job.mjs` - Job application state machine. Only writer of Status and Progress. See Status Tracking.
 - `jobs/` - All company folders. Permanent location, files never move.
@@ -80,7 +81,7 @@ There is no `## Outcome` section any more. The terminal Progress entry is the ou
 |---|---|---|
 | metadata block | yes | `URL`, `Company`, `Location`, `Compensation`, `Benefits`, `Team size`, `Status`, `Progress` |
 | `## Red flags` | no | Omitted when none found |
-| `## Qualifications` | yes | `### {Category} (weight:X%, match:Y%)` |
+| `## Qualifications` | yes | Bare `### {Category}`, one per category, no numbers on the heading. Each item carries `(weight:X%, match:Y%)` or `(baseline)` |
 | `## Summary` | yes | Role summary, `- **Coding:** X%`, responsibilities |
 | `## Company` | yes | Company and product description |
 | `## Keywords` | yes | Flat comma-separated ATS keywords |
@@ -88,6 +89,23 @@ There is no `## Outcome` section any more. The terminal Progress entry is the ou
 | `## Log` | no | Round narratives, added as the application progresses |
 
 Do not invent other sections. `## Gaps`, `## Alignment`, `## Required Qualifications` and `## Optional Qualifications` appear in 84 or so older files from a previous screen format. They are legacy, not a pattern to follow, and are left alone rather than migrated.
+
+### Screening baseline
+
+Every engineering leadership posting asks for the same fifteen things. Scoring them buried the handful of requirements that actually distinguish one job from another, which is why the older files cluster between 77% and 93% and rank almost nothing.
+
+`roles/engineering-leader.md` is the fix. It is a closed whitelist of that boilerplate, keyed to a grade (Technical Lead, Manager, Director) assigned from the posting's stated scope rather than its title. `screen-job` classifies each extracted qualification against it:
+
+- **Baseline** (covered by the file): kept in the screening file for reference, marked `(baseline)`, given no weight and no match value, excluded from the number.
+- **Job-specific** (not covered): weights renormalized across these alone, and they are the entire match.
+
+Both tiers live under one `###` heading per category. Categories are never split by tier.
+
+The baseline is a Product EM who consumes platform, infrastructure and tooling. Building any of it is job-specific, as is any non-Product engineering domain, any named technology and any named product domain.
+
+**Match numbers under this format are not comparable to older ones and will be much lower.** 20-50% is normal. Never adjust match values to bring a total closer to what the old files showed.
+
+Edit `roles/engineering-leader.md` only from observed recurrence: when the same qualification keeps scoring as job-specific across unrelated postings. Every entry added lowers all future match scores.
 
 **Sections in `notes.md`** (company-scoped, no dates in headings):
 - `## Research` - What the company does, funding, org signals, Glassdoor.

@@ -52,6 +52,14 @@ Extract the following from the job posting:
 - **Company Description** - Succinct overview of the company and the product (or type of projects) they develop. 300 words max.
 - **Keywords** - ATS keywords a recruiter would use to filter resumes. Include: technical skills and tools, methodologies, domain terms, role-specific terms, certifications. Exclude: generic filler, company branding, compensation terms. Output as a flat comma-separated list, no duplicates.
 
+## Step 2.5: Assign Grade
+
+Read [roles/engineering-leader.md](../../../roles/engineering-leader.md). It is the baseline profile: what a posting shares with every other posting of its kind. Its `## Title mapping` section assigns the grade.
+
+Grade is set by **stated scope**, not by title: team size, number of teams, and whether managers or leads report in. Titles are a weak prior and inflation is common, especially at small companies. Where the posting states scope, scope wins. Where it states none, use the title prior and company size.
+
+Record the grade (`Technical Lead`, `Manager`, `Director`). It selects which grade section applies in Step 3.
+
 ## Step 3: Extract Qualifications
 
 Qualifications are rules for evaluating the candidate against the job. Extract them from required qualifications, preferred/nice-to-have qualifications, and responsibilities sections of the posting. Each qualification gets a weight reflecting its importance to the role.
@@ -59,6 +67,10 @@ Qualifications are rules for evaluating the candidate against the job. Extract t
 **Weights:**
 - Hard requirements: 10-20%+
 - Nice-to-haves: 2-5%
+
+**One qualification per item.** Never bundle. `CI/CD practices, PR review process, engineering process improvement` is three qualifications and must be three items. `Architectural oversight: cloud-native architectures, RESTful APIs, system design` is a generic duty bundled with two named technologies, which is four.
+
+Bundling is not a formatting preference. Step 3.5 assigns one tier per item, so a bundle spanning both tiers takes a single verdict and silently discards the rest: classify that architecture bundle as `baseline` and `cloud-native architectures` and `RESTful APIs` vanish from the score without ever being evaluated. If you cannot give an item one tier and one weight without hesitating, it is more than one qualification.
 
 **Transformations:**
 - Strip fluffy qualifiers (strong, exceptional, demonstrated, etc.)
@@ -79,7 +91,8 @@ These are common categories. If a qualification does not fit any of them, create
 If qualification fits well into more than one category, split it between those categories instead of picking the best one.
 When communication is mentioned, categorize by its subject (e.g. product strategy → Product management), not the act of communicating.
 
-- **Baseline:** normalized job title, X years in role/industry/engineering (general experience, not specific skill), spoken language proficiency.
+- **Eligibility:** normalized job title, X years in role/industry/engineering (general experience, not specific skill), spoken language proficiency. Threshold facts that gate consideration. Named `Eligibility` and not `Baseline` because `baseline` is the tier assigned in Step 3.5, and a category sharing that name reads as though the whole category were filtered.
+- **Engineering domain:** what the team or org reporting into this role builds (product, platform, infrastructure, DevOps, data, security, ML, mobile, embedded, developer experience). Role-scoped, not company-scoped.
 - **People management:** hiring, career development, performance assessments, team growth/scaling, etc.
 - **Product management:** delivery, backlog management, ownership, stakeholder alignment, requirements gathering, cross-functional communication about product/strategy, etc.
 - **Process management:** SDLC, Agile/Scrum/Kanban, CI/CD, Shift left / qa automation, process optimization, incident response/on-call, post-mortems as well as process tools (Jira, Confluence, Miro, etc.).
@@ -88,16 +101,40 @@ When communication is mentioned, categorize by its subject (e.g. product strateg
 - **Education:** degree, certification, formal credential requirements.
 - **Soft skills:** general communication ability (written/verbal clarity), culture, adaptability, etc.
 
-**Group by category (run script):**
+## Step 3.5: Classify Against the Baseline
+
+Every EM posting asks for the same fifteen things. Scoring those buries the handful of requirements that actually distinguish this job. This step separates them.
+
+Classify each qualification against `roles/engineering-leader.md`, using `## Qualifications` plus the grade section from Step 2.5 (Director inherits Manager, Manager inherits nothing, Technical Lead is a side branch that uses only the entries its section names).
+
+- **`baseline`** - covered by an entry in that file.
+- **`scored`** - not covered.
+
+**The file is a closed whitelist.** Match against what is written or mark it `scored`. Never reason about whether a requirement is "typical" for the role, and never treat an entry's absence as an oversight. That judgment is what the file exists to remove: it is the only thing keeping scores comparable between screens.
+
+**The file carries no weights.** It contains no numbers except hard bounds. Do not infer importance, priority or weighting from it in any way.
+
+A qualification is `scored` when it falls outside an entry that otherwise resembles it:
+
+- **Exceeds a bound.** `excludes: 16+` against an entry covering 5 to 15 engineers.
+- **More specific than the generic.** Every named language, framework, database, cloud, tool or platform. Every named product domain. Every named third-party system.
+- **Builds rather than consumes.** The baseline is a Product EM who *uses* platform, infrastructure and tooling. Building any of it as a platform others consume is a different qualification wearing the same words, and is always `scored`. Applies to every entry, not only those with an explicit `excludes:` line.
+- **A non-Product engineering domain.** Scores once, as its own qualification. Do not additionally re-score the generic entries because of it: CI/CD phrased generically is boilerplate in a DevOps posting exactly as in a product posting.
+
+**Under-scoped asks are not qualifications.** When a posting falls below a grade's `below:` bound, it is a fact about the job's seniority, not a gap. Do not emit it as a qualification at all. Carry it to Step 6 as a seniority flag.
+
+**Group by tier and category (run script):**
 
 Following the Temp Files convention in the project CLAUDE.md, write the input JSON array to a temp file and run:
 ```
 node ${CLAUDE_SKILL_DIR}/scripts/group-qualifications.js <path> && rm <path>
 ```
 
-Input JSON array: `[{ "category": "...", "text": "...", "weight": 10 }, ...]`
+Input JSON array: `[{ "category": "...", "text": "...", "weight": 10, "tier": "scored" }, ...]`
 
-The script normalizes weights to sum to 100, merges qualifications by category and returns one entry per category sorted by total weight descending. Use this output for the evaluation step.
+`tier` is required on every entry. Baseline entries need no weight. The script normalizes scored weights to sum to 100 **across scored qualifications only**, then returns one entry per category holding both tiers, each item keeping its own weight.
+
+`thin: true` means fewer than four scored qualifications, so one unusual requirement can swing the result. Carry it to Step 6.
 
 ## Step 4: Evaluate Match
 
@@ -109,7 +146,9 @@ Also read `resume/context.md` for additional candidate context that is not in th
 
 **Approach:** Assume in-house recruiter role. Be critical, but don't invent non-existent gaps. Evaluate against qualifications as transformed in Step 3, not the original posting text. Do not speculate about unstated preferences or ATS behavior.
 
-For each qualification, assign a **match value** (0–100) representing how well the candidate meets it:
+**Evaluate the `scored` qualifications only.** Baseline qualifications get no match value and never enter the number. They were filtered because meeting them distinguishes nothing: every applicant meets them, so scoring them only drags every posting toward the same result. They still appear in the output file for reference.
+
+For each scored qualification, assign a **match value** (0–100) representing how well the candidate meets it:
 
 | Value | Meaning |
 |-------|---------|
@@ -120,14 +159,16 @@ For each qualification, assign a **match value** (0–100) representing how well
 | 0 | Does not meet the requirement |
 
 
-Once all match values are assigned, add `"match_value"` to each entry. Following the Temp Files convention in the project CLAUDE.md, write the input JSON array to a temp file and run:
+Once all match values are assigned, add `"match_value"` to each **scored item** in the object from Step 3.5. Leave baseline items untouched: the script rejects the input if any of them carries a match value. Following the Temp Files convention in the project CLAUDE.md, write the JSON to a temp file and run:
 ```
 node ${CLAUDE_SKILL_DIR}/scripts/calculate-match.js <path> && rm <path>
 ```
 
-Input JSON array: `[{ "category": "...", "weight": 30, "match_value": 75 }, ...]`
-
 The script outputs the final match percentage.
+
+**Note the engineering domain's own match value.** Non-Product postings spend scored weight on domain fit that Product postings never spend, so they sit lower on a match-sorted list even when they are good fits. Carry that number to Step 6, where the one-line take has to account for it.
+
+**Expect lower numbers than the old format produced.** Boilerplate no longer inflates the result. A match in the 20-50 range is normal and does not mean a weak candidate: it means that share of what makes the job specific is covered. Do not compare against the numbers in screening files predating this format. Never adjust a match value to bring the total closer to what looks familiar.
 
 ## Step 5: Detect Red Flags
 
@@ -158,6 +199,13 @@ Quote offending text verbatim.
 ### Vague job description
 Posting is too short, generic, or lacks substance: no specific responsibilities, mostly boilerplate, could apply to any company.
 
+Step 3.5 gives direct evidence: a posting that produced few or no scored qualifications is boilerplate by measurement, not by impression. A `thin` result with nothing distinctive in it is this flag.
+
+### Mislabeled role
+One whole baseline category thoroughly absent while the others are detailed. An Engineering Manager posting with substantial technical, product and process requirements and no people management is a tech lead requisition wearing a manager title.
+
+Scattered gaps against `roles/engineering-leader.md` are how postings get written and mean nothing. Only flag a category that is systematically missing.
+
 ### Below-market compensation
 Salary significantly below market rate for the role, level and location.
 Hourly pay instead of salaried (signals contractor/temp role disguised as full-time).
@@ -175,6 +223,22 @@ DEI language goes beyond a standard equal-opportunity footer and is embedded int
 **Filename:** run `bash ${CLAUDE_SKILL_DIR}/scripts/sanitize.sh '<Company>' '<Full Original Title>'` to get the sanitized company folder name and title (output: two lines).
 
 Save to `jobs/{sanitized company}/{sanitized title}.md` using the template in [output-template.md](output-template.md).
+
+**Qualification sections.** One bare `###` heading per category, never split by tier, ordered as the script returns them (heaviest first, all-baseline categories last). Headings carry no numbers.
+
+Every item is annotated: job-specific ones with `(weight:X%, match:Y%)`, baseline ones with `(baseline)` and nothing else. Baseline items are kept for reference and for `tailor-resume`. Never give one a weight or a match value.
+
+**The one-line take must account for anything that makes the match misleading.** These do not get their own line. They are the take's job, and it is wrong when it omits one:
+
+| Condition | What the take has to convey |
+|---|---|
+| Engineering domain is not Product | That the number is carrying domain weight, and whether the domain itself matched |
+| Posting fell below a grade `below:` bound | That the role is scoped under your level. Never as a gap: it is a fact about the job |
+| Script returned `thin: true` | That few job-specific qualifications drove the number, so it is volatile |
+
+A high match on a role scoped below your level is the failure case this prevents. The take says so, in your voice, rather than reading as a recommendation.
+
+Seniority never affects the match and does not belong in `## Red flags` either. The posting's scope is already recorded in the `Team size` metadata field.
 
 ## Step 7: Validate and reconcile
 

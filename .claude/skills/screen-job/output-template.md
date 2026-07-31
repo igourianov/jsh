@@ -17,9 +17,10 @@
 
 ## Qualifications
 
-### {Category} (weight:{weight}%, match:{match_value}%)
-- {qualification 1}
-- {qualification 2}
+### {Category}
+- {job-specific qualification} (weight:{weight}%, match:{match_value}%)
+- {job-specific qualification} (weight:{weight}%, match:{match_value}%)
+- {baseline qualification} (baseline)
 
 ## Summary
 
