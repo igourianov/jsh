@@ -22,9 +22,9 @@ Early exit on complete job mismatch. E.g. the candidate resume is in Software en
 After determining the company name from the posting (before full analysis):
 
 1. Check if `jobs/{Company}/` folder already exists with a screening `.md` file
-2. If it exists, read the screening file and report to user: previous Status, Match %, Saved date and the file path (`jobs/{Company}/{file}.md`)
+2. If it exists, read the screening file and report to user: previous Status, Match %, first Progress date and the file path (`jobs/{Company}/{file}.md`)
 3. Ask the user if they want to overwrite. If they decline, stop.
-4. If overwriting, note the existing **Status** and **Progress** values to preserve them in the new screening file
+4. If overwriting, carry the existing **Progress** log into the new file unchanged and append a new `Screened` entry dated today. Never discard log entries: a rescreen is a new cycle of the same application, and the history is the record of what already happened. **Status** is derived, so it needs no preserving.
 
 ## Step 2: Parse
 
@@ -176,11 +176,14 @@ DEI language goes beyond a standard equal-opportunity footer and is embedded int
 
 Save to `jobs/{sanitized company}/{sanitized title}.md` using the template in [output-template.md](output-template.md).
 
-## Step 7: Create Junction
+## Step 7: Validate and reconcile
 
 ```bash
-bash ${CLAUDE_SKILL_DIR}/scripts/create-junction.sh '{sanitized company}'
+node scripts/job.mjs check 'jobs/{sanitized company}/{sanitized title}.md'
+node scripts/job.mjs sync --apply
 ```
+
+`check` must pass before reporting the result. `sync` derives the `jobs-active/` junction from the new record's open Status, so no junction is created by hand.
 
 ## Response
 

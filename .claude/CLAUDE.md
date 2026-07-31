@@ -74,10 +74,20 @@ Sits at the bottom of the screening file. One `###` heading per round, matching 
 
 There is no `## Outcome` section any more. The terminal Progress entry is the outcome, and its narrative goes under the matching `###` heading.
 
-**Other sections in the screening file** (not per-round):
-- `## Alignment` or `## Strong Alignment` - How the role maps to resume strengths. Bullet points or numbered list.
-- `## Questions` - Prepared questions for upcoming interviews. Numbered, specific, sometimes pointed.
-- `## Prep` - Talking points, STAR-method stories, closing statements, red flags to watch for.
+**Screening file structure.** Sections are produced by the screen-job skill from `.claude/skills/screen-job/output-template.md`, which is the authority. In order:
+
+| Section | Always | Content |
+|---|---|---|
+| metadata block | yes | `URL`, `Company`, `Location`, `Compensation`, `Benefits`, `Team size`, `Status`, `Progress` |
+| `## Red flags` | no | Omitted when none found |
+| `## Qualifications` | yes | `### {Category} (weight:X%, match:Y%)` |
+| `## Summary` | yes | Role summary, `- **Coding:** X%`, responsibilities |
+| `## Company` | yes | Company and product description |
+| `## Keywords` | yes | Flat comma-separated ATS keywords |
+| `## Questions` | no | Role-specific questions not yet tied to a round. See Interview prep |
+| `## Log` | no | Round narratives, added as the application progresses |
+
+Do not invent other sections. `## Gaps`, `## Alignment`, `## Required Qualifications` and `## Optional Qualifications` appear in 84 or so older files from a previous screen format. They are legacy, not a pattern to follow, and are left alone rather than migrated.
 
 **Sections in `notes.md`** (company-scoped, no dates in headings):
 - `## Research` - What the company does, funding, org signals, Glassdoor.
@@ -86,9 +96,21 @@ There is no `## Outcome` section any more. The terminal Progress entry is the ou
 - `## Impressions` - Overall gut-feel summary of the company.
 - `## Lessons` - What to do differently next time. Survives the application it came from.
 
+### Interview prep
+
+Prep goes to the narrowest scope it is still true at:
+
+| Scope | Where | Example |
+|---|---|---|
+| Every interview, any company | `interview.md` (repo root) | "About Me", "Why I'm Interested", standing talking points |
+| One company, any role there | `jobs/{Company}/notes.md` `## Questions` | PE exit timeline, org stability, comp bands |
+| One application, nothing scheduled yet | screening file `## Questions` | Questions raised by this specific posting |
+| One round | `#### Questions` under that round's `###` heading in `## Log` | Questions for the named interviewer on that call |
+
+Once a round is scheduled, log `Scheduled` and move that round's prep under its `###` heading, so prep sits next to the notes it will produce. `check` only constrains `###` headings of the form `YYYY-MM-DD Stage`, so `####` sub-blocks are free-form.
+
 **When to write:**
 - After every recruiter/interviewer interaction, log the stage with `job.mjs log`, then write observations under its `###` heading
-- Before an interview, add prep questions to the screening file
 - When the user shares information about the process, company or role in conversation, save it to the right scope
 - When an application closes, log the terminal stage and write why underneath it
 

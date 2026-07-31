@@ -2,7 +2,6 @@
 
 {One-line take}
 
-- **Saved:** {current date: yyyy-MM-dd}
 - **URL:** {original job URL, if present}
 - **Company:** {Company}
 - **Location:** {Location}
@@ -11,6 +10,7 @@
 - **Team size:** {number of reports}
 - **Status:** Screened
 - **Progress:**
+  - {current date: yyyy-MM-dd} Screened
 
 ## Red flags
 - **{Category}:** {description}
@@ -36,3 +36,9 @@
 ## Keywords
 
 {comma-separated list of recruiter-matching keywords}
+
+## Log
+
+### {current date: yyyy-MM-dd} Screened
+
+{omit this section entirely if there is nothing to say beyond the screen itself}

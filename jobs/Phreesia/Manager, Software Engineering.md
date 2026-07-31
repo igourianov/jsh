@@ -8,10 +8,11 @@ Strong all-round fit; main gap is direct Voice AI/LLM production experience, off
 - **Compensation:** CAD $145,000–$170,000 total cash
 - **Benefits:** Comprehensive Total Rewards package (unspecified details)
 - **Team size:** Not specified
-- **Status:** Applied
+- **Status:** Active
 - **Progress:**
   - 2026-07-17 Screened
   - 2026-07-17 Applied
+  - 2026-07-28 Scheduled - recruiter screen 2026-08-03
 
 ## Qualifications
 
@@ -67,3 +68,9 @@ Phreesia is a healthcare SaaS company founded in 2005, providing a patient intak
 ## Keywords
 
 Engineering Manager, VoiceAI, Voice AI, LLM, agentic development, AI-assisted development, .NET, C#, Java, MySQL, DynamoDB, cloud-native, RESTful APIs, CI/CD, JavaScript, HTML, CSS, React, Angular, AWS, distributed systems, sprint planning, people management, hiring, mentoring, code reviews, pull requests, production support, healthcare, patient engagement, contractor management, vendor management
+
+## Questions
+
+1. How did the May 2026 restructuring (~220 roles cut) affect the VoiceAI team specifically, and is the team still growing or backfilling?
+2. What does team structure look like: team size, reporting line, mix of employees vs. contractors?
+3. What's the state of the current Voice AI/LLM production system: greenfield, actively shipping, or early-stage?
