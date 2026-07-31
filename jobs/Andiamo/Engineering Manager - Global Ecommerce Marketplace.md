@@ -65,3 +65,9 @@ Andiamo is a staffing and consulting firm headquartered in New York with offices
 ## Keywords
 
 Engineering Manager, distributed systems, live commerce, video streaming, real-time systems, e-commerce, marketplace, full-stack, backend, frontend, system design, scalability, high availability, reliability, performance optimization, Agile, Scrum, sprint planning, backlog management, cross-functional, product collaboration, mentoring, hiring, career development, technical strategy, architecture, low-latency, interactive chat, data analytics, global scale
+
+## Log
+
+### 2026-04-06 Rejected
+
+Rejected (2026-04-06). Actual client is eBay. Hybrid in Toronto was non-negotiable.

@@ -61,3 +61,10 @@ Yelp connects consumers with local businesses through user-generated reviews (26
 ## Keywords
 
 Engineering Manager, people management, coaching, mentorship, hiring, cross-functional collaboration, product management, roadmap, technical leadership, full-stack, frontend, backend, iOS, Android, mobile, marketplace, services marketplace, booking, scheduling, pricing, consumer product, B2C, user experience, UX, engineering standards, project management, SDLC, architecture, team leadership, remote
+
+## Log
+
+### 2026-04-13 Applied
+
+- Role: Engineering Manager - Services Project Success (Remote - Canada)
+- Source: LinkedIn (inbound/applied direct)

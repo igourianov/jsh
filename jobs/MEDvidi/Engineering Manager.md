@@ -67,3 +67,9 @@ MEDvidi is a US-based telehealth platform operating for 6+ years, serving patien
 ## Keywords
 
 Engineering Manager, telehealth, healthcare, ADHD, people management, team empowerment, cross-functional collaboration, product management, career development, performance management, hiring, onboarding, mentoring, retrospectives, culture building, remote teams, zero-to-one, career ladders, development plans
+
+## Log
+
+### 2026-04-14 Rejected
+
+Rejected (2026-04-14).

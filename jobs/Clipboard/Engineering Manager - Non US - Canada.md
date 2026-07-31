@@ -71,3 +71,9 @@ Clipboard is a YC Top Company, Series C marketplace connecting workplaces (healt
 ## Keywords
 
 Engineering Manager, software development, people management, performance management, hiring, onboarding, mentoring, team leadership, distributed teams, remote teams, agile, roadmap, product management, stakeholder collaboration, customer-centric, PR reviews, code reviews, architecture, system design, design documents, technical coaching, process optimization, TypeScript, React, NestJS, microservices, web applications, mobile applications, marketplace, healthcare, Long Term Care, startup, Series C, YC
+
+## Log
+
+### 2026-04-16 Passed
+
+Passed (2026-04-16). Application requires reviewing a PR as the first screening step, which involves downloading and running their project locally. This is a significant security concern: executing untrusted code from a hiring funnel is a plausible vector for malware or exploit injection. Legitimate PR review exercises can be done via read-only access to a hosted repo. Not worth the risk for a marketplace role with no marketplace domain fit on my side.

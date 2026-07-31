@@ -85,3 +85,17 @@ Heart & Stroke is a Canadian non-profit organization focused on fighting heart d
 ## Keywords
 
 Engineering Manager, Application Engineering, React, Node.js, JavaScript, Python, Azure, GCP, APIs, microservices, event-driven systems, CI/CD, Git, Agile, AI-assisted development, solution architecture, system integration, vendor management, security-by-design, Contentful, Optimizely, Sitecore, HRIS, stakeholder collaboration, technical leadership, code reviews, automated testing, observability, technical debt
+
+## Log
+
+### 2026-04-09 Recruiter screen
+
+- Recruiter from Imploy
+- Salary confirmed: $80,000-$105,000 CAD. Extremely low for the role.
+- Recruiter ran through prepackaged screening questions, some of which didn't make sense for the role. Felt like a waste of time.
+- Poor English from the recruiter.
+- Confidence: None. Not worth pursuing.
+
+### 2026-04-09 Withdrew
+
+- Withdrew (2026-04-09). Compensation is far below market and the screening experience was poor.

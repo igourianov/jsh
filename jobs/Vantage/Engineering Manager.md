@@ -62,3 +62,16 @@ Vantage is a Toronto-based, remote-first company building the first unified plat
 ## Keywords
 
 engineering manager, people management, team leadership, hiring, mentoring, performance management, SDLC, CI/CD, devops, SaaS, Django, Celery, RabbitMQ, Redis, MySQL, Postgres, ad platform API, retail media, ad tech, cross-functional, stakeholder management, product delivery, technical direction, agile, developer velocity, architecture
+
+## Log
+
+### 2026-06-25 Applied
+
+- Applied to the Engineering Manager role (LinkedIn job ID 4433355910).
+- This is a backfill re-post of the same role I applied to and was rejected for in Feb 2026 (prior job ID 4379056541).
+- Remote-first, Toronto HQ. Comp CA$170K - CA$210K.
+- Match: 89%. Gaps: no retail media / ad platform domain experience; preferred stack is Python/Django/Celery vs my .NET/C# background.
+
+### 2026-06-30 Rejected
+
+- Rejected (2026-06-30). Second rejection for this same role (also rejected Feb 2026).

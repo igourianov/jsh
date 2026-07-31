@@ -47,3 +47,9 @@ Oracle is a global cloud technology company providing infrastructure (OCI), the 
 ## Keywords
 
 Senior Software Engineering Manager, Software Development Manager, Engineering Manager, M4, Software Architecture, Software Development, Debugging, Application Development, Databases, Operating Systems, Cloud, OCI, Oracle Cloud Infrastructure, Engineering Leadership, People Management, Team Leadership, Technical Leadership, System Design, SDLC, Remote, Canada
+
+## Log
+
+### 2026-06-03 Rejected
+
+- Rejected (2026-06-03) - "Senior Software Engineering Manager" (M4, applied 2026-06-01).

@@ -60,3 +60,11 @@ Jobber makes software for small home service businesses (plumbers, painters, lan
 ## Keywords
 
 Engineering Manager, Software Engineering Manager, Fintech, Bookkeeping, Accounting, 0-to-1 product development, Ruby on Rails, ReactJS, TypeScript, PostgreSQL, GraphQL, AI-augmented development, full-stack architecture, system design, hiring, coaching, career development, performance management, team scaling, cross-functional collaboration, Agile, stakeholder alignment, technical direction, platform reliability
+
+## Log
+
+### 2026-07-10 Applied
+
+- Applied to Manager, Software Engineering, Fintech New Bets
+- Application form asked about willingness to be in office 1 day per week - posting was listed as fully remote (Canada), no hybrid requirement mentioned in JD
+- Confidence: Low

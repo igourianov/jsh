@@ -1,7 +1,6 @@
-# VendorPM - Recruiter Call Notes
+# VendorPM - Notes
 
 ## Questions for Calyptus (Mar 25)
-
 1. **What is the situation with current VP/Eng Apurav Chauhan?** Is this a replacement, or is the role being created alongside the existing position? What prompted the search?
 
 2. **Why is a 10-15 person tech team using tools like GraphQL and NestJS?** These are typically scaling-stage choices. What's the platform complexity that justifies this stack, and is there architectural debt from adopting them too early?
@@ -23,7 +22,6 @@
 10. **What's the equity structure?** Options or shares, vesting schedule, strike price context. At Series A stage with no B round in sight, what's the realistic liquidity timeline?
 
 ## Call Notes (Mar 25) - Dianmarie @ Calyptus
-
 - Recruiter had no answers about the company. No insight into team, product or tech.
 - Dianmarie is based in South Africa. Unclear why a South African agency is sourcing for a Toronto company.
 - Recorded an "about myself" video segment for the hiring manager. HM identity still unknown.

@@ -1,6 +1,5 @@
 # Engineering Manager | Product | GovTech / Public Sector SaaS
 
-
 ### Match: 82%
 
 - **URL:** https://www.linkedin.com/jobs/view/4343505443/
@@ -55,3 +54,9 @@ NEOGOV is a privately held SaaS company serving 13,000+ public sector agencies (
 ## Keywords
 
 engineering manager, c#, .net core, .net framework, asp.net mvc, angular, knockout.js, mongodb, sql server, elastic search, apache solr, azure, git, ci/cd, ddd, domain-driven design, cqrs, microservices, cloud-native, saas, agile, scrum, ai coding tools, github copilot, platform modernization, multi-threading, async programming, performance tuning, oop, design patterns, unit testing, integration testing, performance testing, shift left, event-driven architecture, public sector, govtech
+
+## Log
+
+### 2026-03-20 Withdrew
+
+- Withdrew candidacy

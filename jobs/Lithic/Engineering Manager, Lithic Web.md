@@ -65,3 +65,9 @@ Lithic is a modern card issuing and processing platform for fintech companies. T
 ## Keywords
 
 Engineering Manager, full-stack, TypeScript, Node.js, Express, Vue, React, web portals, dashboards, card issuing, card processing, fintech, payments, frontend, code quality, operational excellence, cross-functional, hiring, team leadership, technical direction, modern web stacks
+
+## Log
+
+### 2026-04-30 Rejected
+
+Rejected (Engineering Manager, Lithic Web). Applied 2026-04-08.

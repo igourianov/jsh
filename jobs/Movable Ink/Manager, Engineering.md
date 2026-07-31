@@ -66,3 +66,9 @@ Movable Ink is a SaaS company (~600 employees) headquartered in New York City th
 ## Keywords
 
 Engineering Manager, distributed systems, event-driven architecture, behavioral analytics, real-time decisioning, event streaming, pub/sub, asynchronous processing, Google Cloud Platform, GCP, scalable backend services, microservices, observability, monitoring, alerting, incident response, on-call, postmortems, cart abandonment, marketing automation, MarTech, content personalization, player-coach, people management, roadmap planning, cross-functional collaboration
+
+## Log
+
+### 2026-04-04 Ghosted
+
+Ghosted (2026-04-04). Applied for Manager, Engineering. No response.

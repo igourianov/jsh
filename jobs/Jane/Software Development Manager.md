@@ -11,7 +11,9 @@ Near-perfect profile match. Remote Canada, strong comp, founder-led SaaS. AI coa
 - **Status:** Failed
 - **Progress:**
   - 2026-04-17 Screened
-  - 2026-04-23 Recruiter screen
+  - 2026-04-23 Contacted
+  - 2026-04-27 Recruiter screen
+  - 2026-04-27 Follow-up
   - 2026-05-06 Failed
 
 ## Qualifications
@@ -56,3 +58,33 @@ Jane is a founder-led, high-growth SaaS company based in North Vancouver, BC. Th
 ## Keywords
 
 Engineering Manager, Software Development Manager, people leadership, hiring, coaching, performance management, senior engineers, staff engineers, cross-functional, Product, Design, SaaS, healthcare, clinic management, practice management, EMR, invoicing, payments, billing, AI adoption, AI coaching, technical quality, system design, accountability, delivery, remote, Canada
+
+## Log
+
+### 2026-04-23 Contacted
+
+- **Recruiter:** Jason Hughes, Talent Acquisition ([email](mailto:jason.hughes@jane.app))
+- **Format:** 30-min video call via Calendly
+- Inbound response to application
+- They use transcription software during interviews
+- Casual vibe (t-shirt, coffee)
+
+### 2026-04-27 Recruiter screen
+
+- **Recruiter:** Jason Hughes, Talent Acquisition
+- Follow-up call with Jason
+- Positive vibe
+- Short on time, didn't get to all the questions
+- Jason promised to reach back by EoW
+- Sent follow-up email with unanswered questions on delivery ownership, remote status, and hiring manager confirmation
+
+### 2026-04-27 Follow-up
+
+- Sent email with unanswered questions on delivery ownership, remote status, hiring manager confirmation and future team growth
+- Jason replied same day: fully remote, Nakisa confirmed as hiring manager, no further growth planned for 2026, QA execution is team-owned (Quality Foundations team only handles tooling and standards)
+
+### 2026-05-06 Failed
+
+Rejected (2026-05-06). Jason went silent past the promised EoW response. Sent a follow-up asking to close the loop and received a rejection citing other candidates moving forward. Cited an engineering-wide hackathon as reason for the delay.
+
+Jason's rejection response sounded apologetic. Likely filled with an internal hire.

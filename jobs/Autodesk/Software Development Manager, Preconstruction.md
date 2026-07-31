@@ -81,3 +81,12 @@ Autodesk builds design and make software spanning architecture, engineering, con
 ## Keywords
 
 Engineering Manager, Software Development Manager, engineering leadership, people management, hiring, coaching, cloud-native, SaaS, public cloud, AWS, Azure, Google Cloud, React, Node.js, TypeScript, web development, microservices, distributed systems, event-driven architecture, AI, generative AI, machine learning, AI-assisted development, SDLC, Agile, code quality, testing, security, operational excellence, incident management, reliability, data-driven, experimentation, cross-functional, construction, preconstruction, AEC, customer-facing web applications, cloud services
+
+## Log
+
+### 2026-06-18 Applied
+
+- Applied to Software Development Manager, Preconstruction (Forma Construction). Remote, Canada.
+
+### Concerns / Red flags
+- Heavy DEI emphasis in the application form, beyond what was in the posting.

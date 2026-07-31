@@ -66,3 +66,14 @@ SOTI is a global enterprise software company specializing in mobile and IoT devi
 ## Keywords
 
 Engineering Manager, Software Development Manager, Scrum, Agile, SDLC, software development lifecycle, coaching, mentoring, technical leadership, team development, enterprise mobility, IoT, MDM, EMM, UEM, mobile device management, product delivery, roadmap planning, CI/CD, best practices, cross-functional collaboration
+
+## Log
+
+### 2026-03-23 Recruiter screen
+
+- Fitz reached out first (inbound).
+- Spoke with Fitz on the phone.
+- Confirmed salary 150-200k range.
+- Outstanding issue: hybrid vs remote. Fitz will confirm with HM.
+- Otherwise very strong match.
+- Fitz emphasized general people and process leadership. Indirectly confirms company assessment findings about management/leadership gaps (see company.md: "Management lacks technical competence", "chaotic development process").

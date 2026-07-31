@@ -66,3 +66,9 @@ Posted by Jobot, an employee-owned staffing and recruiting agency (founded 2018,
 ## Keywords
 
 Engineering Manager, software engineering management, hands-on technical leader, architecture, cloud, AWS, Azure, GCP, SaaS, distributed systems, APIs, microservices, .NET, Java, Node.js, Python, React, CI/CD, Docker, Kubernetes, DevOps, code quality, design reviews, engineering standards, healthcare, HIPAA, SOC2, regulated environment, AI-assisted development, Copilot, Claude, code generation, test automation, hiring, performance management, team scaling, technical debt, scalability, cloud-native
+
+## Log
+
+### 2026-06-04 Rejected
+
+Rejected (2026-06-04).

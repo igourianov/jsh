@@ -71,3 +71,16 @@ Practice Better is an all-in-one EHR and practice management platform for health
 ## Keywords
 
 Engineering Management, People Management, Team Leadership, React, Node.js, TypeScript, APIs, Integrations, Stripe, Zoom, SaaS, EHR, Health Tech, Wellness, Telehealth, Payments, Onboarding, Third-party Integrations, Vendor Management, Build vs Buy, Roadmap Planning, Cross-functional Collaboration, Agile, CI/CD, Technical Debt, Platform Scalability, AI, Remote Leadership
+
+## Log
+
+### 2026-04-21 Applied
+
+- Applied via LinkedIn
+- Asked for CA$200K salary on the form (their range is CA$160K-170K)
+- Confidence: Low
+- Glassdoor reviews from prior research flagged toxic culture, burnout, quiet layoffs, 1.0 engineering rating
+
+### 2026-05-01 Rejected
+
+Rejected (2026-05-01)

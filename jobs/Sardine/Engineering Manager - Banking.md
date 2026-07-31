@@ -58,3 +58,9 @@ Sardine is a remote-first fraud prevention and AML compliance platform. Its agen
 ## Keywords
 
 Engineering Manager, banking, fintech, fraud prevention, AML, financial crime, compliance, data ingestion, data processing, technical architecture, system design, roadmap, prioritization, stakeholder management, remote team management, people management, Golang, Go, backend, production services, machine learning, device intelligence, behavior biometrics
+
+## Log
+
+### 2026-06-11 Passed
+
+Passed (2026-06-11). Role carries a ~70% IC / hands-on coding requirement, too much individual contributor time for what I'm targeting in an EM role.

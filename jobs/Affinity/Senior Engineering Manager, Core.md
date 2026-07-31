@@ -73,3 +73,9 @@ Affinity is a Relationship Intelligence platform that automates data entry and s
 ## Keywords
 
 Engineering Manager, Senior Engineering Manager, full-stack, SaaS, CRM, React, TypeScript, Ruby, PostgreSQL, AWS, Kubernetes, Docker, Agile, Scrum, sprint planning, mentorship, career development, hiring, scaling teams, roadmap, cross-functional, data-intensive, data models, microservices, AI tools, relationship intelligence, enterprise software, web applications, system design, architecture
+
+## Log
+
+### 2026-06-04 Rejected
+
+Senior Engineering Manager, Core: Rejected (2026-06-04).

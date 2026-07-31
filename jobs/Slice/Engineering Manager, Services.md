@@ -11,6 +11,7 @@ Strong leadership and backend-platform fit; main gap is no Python/Go/Ruby and no
 - **Status:** Rejected
 - **Progress:**
   - 2026-06-26 Screened
+  - 2026-06-26 Applied
   - 2026-07-24 Applied
   - 2026-07-30 Rejected
 
@@ -68,3 +69,14 @@ Slice provides technology, infrastructure and scale advantages to local pizzeria
 ## Keywords
 
 Engineering Manager, backend services, APIs, distributed systems, asynchronous workflows, microservices, service migrations, reliability, security, performance, Python, Go, Ruby, AWS, observability, databases, production operations, cloud infrastructure, system design, architecture, people management, hiring, coaching, performance management, cross-functional, Product, Design, Data, Operations, customer outcomes, SaaS, platform, incidents, operational metrics, remote, async communication
+
+## Log
+
+### 2026-06-26 Applied
+
+- 2026-06-26 - Applied to Engineering Manager, Services
+- 2026-07-24 - Re-applied to Engineering Manager, Services
+
+### 2026-07-30 Rejected
+
+- 2026-07-30 - Rejected

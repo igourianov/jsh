@@ -74,3 +74,9 @@ hireVouch is a Canadian recruitment agency (referral-based search) hiring on beh
 ## Keywords
 
 C#, .NET, .NET Framework 4.7.2, .NET 10, SQL Server, schema design, query optimization, data modeling, event-driven architecture, Kafka, Microsoft Azure, AWS, AWS-Azure migration, RESTful API design, integration patterns, microservices, LLM, AI/ML integration, document processing, document automation, CI/CD, release automation, DevOps, git, branching strategy, Azure DevOps, clean architecture, DDD, domain-driven design, VSA, vertical slice architecture, code review, automated testing, SDLC governance, people management, hiring, performance management, career development, retention, onshore offshore management, roadmap delivery, release planning, stakeholder communication, legaltech, legal SaaS
+
+## Log
+
+### 2026-07-19 Rejected
+
+Rejected - 2026-07-19

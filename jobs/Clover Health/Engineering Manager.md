@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Healthcare
 
-
 ### Match: 88%
 
 - **Company:** Clover Health (subsidiary: Counterpart Health)
@@ -52,3 +51,9 @@ Clover Health (Nasdaq: CLOV) is a physician enablement company focused on senior
 ## Keywords
 
 engineering management, software development, team leadership, system design, Python, Ruby, Go, Java, web applications, healthcare, health tech, value-based care, AI, clinical decision support, player-coach, agile, cross-functional collaboration, mentorship, coaching, hiring, remote-first, product development, technical roadmap
+
+## Log
+
+### 2026-04-04 Ghosted
+
+Ghosted (2026-04-04). Applied for Engineering Manager. No response.

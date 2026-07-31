@@ -11,6 +11,7 @@ Strong leadership, technical and delivery match; fintech/payments domain is the 
 - **Status:** Failed
 - **Progress:**
   - 2026-06-03 Screened
+  - 2026-06-08 Recruiter screen
   - 2026-07-10 Recruiter screen
   - 2026-07-17 Failed
 
@@ -77,3 +78,40 @@ Lightspeed Commerce is a Montreal-founded, dual-listed (NYSE/TSX: LSPD) one-stop
 ## Keywords
 
 Software Development Manager, Engineering Manager, Financial Services, Payments, Fintech, SaaS, microservices, scalable, cloud, Java, TypeScript, Node.js, AWS, GCP, full-stack, continuous delivery, agile, Scrum, DevOps, test automation, scalability, resilience, people management, hiring, mentoring, performance management, career development, cross-functional, stakeholder alignment, roadmap, technical leadership, EST
+
+## Log
+
+### 2026-06-08 Recruiter screen
+
+- Applied to the Software Development Manager (Engineering Manager, Payments) posting; they reached out to schedule the screen (automated ATS email, not a personal inbound).
+- Recruiter: Venkatesh (Venky) Kothapalli.
+- Recruiter screen scheduled for Monday 2026-06-08, 10:30.
+- **No-show.** Venky did not join. Emailed at the 7-min mark ("are we still on?"), dropped at 15 min with a note to connect later. No response as of end of day. (Full thread in `Venkatesh Kothapalli.md`.)
+
+### Red flags
+- Recruiter no-show for the first call, no acknowledgement or apology, no reply to reschedule request. Poor candidate experience and disorganized process. Consistent with the management-churn / disorganization signals from company research.
+- **Confidence: Low.** First impression is a negative process signal before any real conversation.
+
+### 2026-07-10 Recruiter screen
+
+- French not required (confirmed).
+- Full remote confirmed.
+- Comp: $185k base + 35% RSU + 4% RRSP match.
+- Role open due to a team split.
+- Team: 5 engineers, expected to grow to 10 within a year.
+
+- New recruiter reached out: Sarah Stroppetti, Talent Acquisition Advisor. Different person from Venky Kothapalli, who no-showed on 2026-06-08 and never followed up.
+- Moving forward with the first interview step; sent a scheduling link to pick availability. (Full thread in `Sarah Stroppetti.md`.)
+- Discloses use of an AI note-taking assistant on the call, with an opt-out option.
+
+### Observations
+- Positive sign that the process is moving again after Venky's no-show, via a different recruiter rather than the same one following up.
+
+### 2026-07-17 Failed
+
+- **Rejected (2026-07-17)** - Software Development Manager role. Rejection came via email from Sarah Stroppetti after the Barry (hiring manager) call stage, no further detail given (generic template language).
+- Expected this outcome after the Barry interview:
+  - Barry started disinterested and felt rushed.
+  - Conversation picked up and finished lively on the topic of AI adoption.
+  - No clear signal to continue at the end of the call, he said they'd get back by end of week. A genuinely interested hiring manager usually gives clearer next-step signals.
+  - Suspect internal hire or diversity quota.

@@ -68,3 +68,12 @@ Embrace Software is a founder-led, PE-backed holding company ($130M+ raised) tha
 ## Keywords
 
 C#, ASP.NET, ASP.NET Web Forms, ASP.NET MVC, .NET Core, Angular, RESTful APIs, SQL Server, Classic ASP, VBScript, code reviews, mentoring, legacy modernization, system design, architecture, AI tooling, Claude Code, Cursor, GitHub Copilot, private cloud, co-location, EdTech, education software, technical leadership
+
+## Log
+
+### 2026-04-05 Applied
+
+- Applied via LinkedIn
+- Role is a step down from EM to hands-on IC lead (50-60% coding)
+- Reframed resume as "Engineering Leader" to bridge the gap
+- Asking $180K CAD

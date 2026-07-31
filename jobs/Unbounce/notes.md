@@ -1,54 +1,11 @@
 # Unbounce - Notes
 
-## Recruiter Screen - 2026-07-07
-
-- Interviewer/contact: Mohammad Anwar, Infoway Software/Amicus Systems Inc. (mohammad@infowaysoftware.com)
-- Source: Applied via LinkedIn posting
-- Format: Email
-
-**Key information**
-- Recruiter states role is "with CloudX/Unbounce" - CloudX was not mentioned anywhere in the original job posting. Unclear relationship between CloudX, Unbounce and Infoway.
-- Recruiter asked for "Pay Rate Per Month Basis" despite the posting stating Employment Type: Full-time. A monthly rate basis is inconsistent with full-time/salaried employment and suggests the actual arrangement is contract (C2C/1099), matching the "Contract" tag on the original LinkedIn posting that conflicted with the "Full-time" text in the JD.
-
-**Process observations**
-- Reply arrived 3 minutes after application submission with the full JD pasted back verbatim - templated/automated response, not yet reviewed by a human.
-- Generic greeting, no reference to resume or application specifics.
-- Signature phone number malformed (918-578-237, missing a digit).
-
-**Confidence level:** Low - pay structure and employer identity unclear pending clarification.
-
-**Concerns / Red flags**
-- Full-time vs. pay-rate-per-month inconsistency - likely disguised contract role.
-- Undisclosed intermediary (CloudX) not named in original posting.
-- Automated/bulk-feeling first response.
-
-**Green flags**
-- None yet - too early in process.
-
-**Location check:** Posting explicitly lists "Location: Canada & US (Remote)" - Canadian remote applicants are within scope, no location mismatch.
-
-## Recruiter Screen - 2026-07-07 (update, same day)
-
-- Mohammad confirmed via email (3:44 PM): "Yes its Full Time Role and it's a Salary Base Only. Hiring Company is Unbounce - Cloud X Working Partner."
-- Resolves both open questions: role is salaried full-time, hiring company is Unbounce, CloudX is described as a "working partner" (staffing/delivery partner alongside Infoway), not the employer.
-- Confidence level updated: Moderate - employment structure and employer identity now clear. Still no salary range or team size disclosed.
-
-## Recruiter Screen - 2026-07-07 (comp offer, same day)
-
-- Requested $200,000 CAD total compensation.
-- Mohammad responded (4:08 PM): "The offer is 120K Per Annum."
-- $120K is roughly 40% below the ask, below our $150-175K estimate for this role, and below the general Canadian EM market median (~$161-168K).
-- $120K is base only, no bonus - confirmed earlier by "Salary Base Only" framing. As total comp, this reads even lower relative to the $200K total comp ask than the raw number suggests.
-- Combined with the "Salary Base Only" framing, reads as a firm lowball rather than an opening position.
-- Confidence level: Low - compensation is significantly below market and below target.
-
 ## Questions
 1. ~~Is this a full-time salaried role or a contract engagement?~~ Resolved: salaried full-time.
 2. ~~Who is CloudX and what is its relationship to Unbounce and Infoway?~~ Resolved: CloudX is a "working partner" alongside Infoway; Unbounce is the hiring company.
 3. ~~What is the salary range for this role?~~ Resolved: $120K CAD offered, well below ask and market.
 
 ## Company Research - 2026-07-07
-
 **Unbounce**
 - Real, established company. Vancouver-based landing page/CRO SaaS, founded 2009.
 - Owned by Crest Rock Partners (Denver PE firm), majority stake.
@@ -74,7 +31,3 @@
 - Nothing alarming found.
 
 **Net assessment:** Infoway and Amicus check out as real, small-to-mid IT staffing operations. Unbounce is confirmed as a legitimate, well-funded hiring company. CloudX remains the open question pending recruiter clarification.
-
-## Outcome
-
-**Withdrew (2026-07-07).** Recruiter withheld a comp number through two direct asks, then countered a $200K CAD total comp ask with a $120K offer - well below market and below our own $150-175K estimate for the role. Declined and called out the withholding directly. Not pursuing further.

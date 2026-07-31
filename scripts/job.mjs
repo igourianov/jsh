@@ -146,19 +146,40 @@ export function parseText(text, file) {
 
 // Status is a pure function of the log: the terminal entry if the log closed,
 // otherwise the furthest rank any entry reached.
+// Stages that reopen a closed application. Reapplying is normal: Petal's role was
+// reposted under a new URL, Slice was re-applied to a month after the first attempt.
+const REOPEN = new Set(['Screened', 'Applied', 'Contacted']);
+
 export function derive(log) {
   if (!log.length) return null;
   const last = log[log.length - 1];
   if (TERMINAL[last.stage]) return TERMINAL[last.stage];
 
+  // Only the current cycle counts. A record that reached a technical interview,
+  // got rejected, then reapplied is at Applied again, not Active.
+  let start = 0;
+  for (let i = log.length - 1; i >= 0; i--) {
+    if (TERMINAL[log[i].stage]) {
+      start = i + 1;
+      break;
+    }
+  }
+
   let best = -1;
-  for (const e of log) {
+  for (const e of log.slice(start)) {
     const r = RANK[e.stage];
     if (typeof r === 'number' && r > best) best = r;
   }
   if (best >= 2) return 'Active';
   if (best >= 1) return 'Applied';
   return 'Screened';
+}
+
+// Ordering weight for entries that share a date. Follow-up sits above the pipeline
+// stages but below a close, since chasing happens after whatever it chases.
+function sortRank(stage) {
+  if (TERMINAL[stage]) return 99;
+  return RANK[stage] ?? 50;
 }
 
 // The ghost clock measures silence, so a Follow-up you sent cannot restart it.
@@ -230,9 +251,11 @@ export function check(file, text = null) {
   const first = rec.log[0].stage;
   if (first !== 'Screened' && first !== 'Contacted') push(`first entry is "${first}", expected Screened or Contacted`);
 
-  // 5. terminal only at the end
+  // 5. a terminal entry ends the log, unless the next entry reopens the application
   for (let i = 0; i < rec.log.length - 1; i++) {
-    if (TERMINAL[rec.log[i].stage]) push(`terminal stage "${rec.log[i].stage}" is not the final entry`);
+    if (TERMINAL[rec.log[i].stage] && !REOPEN.has(rec.log[i + 1].stage)) {
+      push(`terminal stage "${rec.log[i].stage}" is followed by "${rec.log[i + 1].stage}", which does not reopen it`);
+    }
   }
 
   // 1. status matches the log
@@ -424,7 +447,17 @@ function cmdLog(args) {
     console.error(`${file} is not migrated yet; run migrate first`);
     return 1;
   }
-  const log = [...rec.log, { date, stage, note }];
+  // Insert in date order rather than append: backfilling a round you forgot to log
+  // is normal, and it must not land after the entry that closed the application.
+  const log = [...rec.log];
+  const entry = { date, stage, note };
+  let at = log.length;
+  while (at > 0 && log[at - 1].date > date) at--;
+  // Same-day entries order by rank, not by when they were typed: you are screened
+  // before you apply even when both happen in one sitting, and a terminal ends the day.
+  while (at > 0 && log[at - 1].date === date && sortRank(log[at - 1].stage) > sortRank(stage)) at--;
+  log.splice(at, 0, entry);
+
   const { status } = write(rec, log);
   console.log(`${path.relative(ROOT, file)}\n  + ${date} ${stage}${note ? ' - ' + note : ''}\n  Status: ${status}`);
   return 0;
@@ -581,6 +614,249 @@ function cmdMigrate(args) {
   return 0;
 }
 
+// ------------------------------------------------------------------- notes
+
+// Company-scoped material: true of the company regardless of which role you applied
+// for, so it stays in notes.md. Everything else belongs to one application.
+const COMPANY_SECTION = /impression|research|key contacts|interview process|speculation|glassdoor/i;
+
+function splitSections(text) {
+  const lines = text.split(/\r?\n/);
+  const out = [];
+  let cur = null;
+  for (const l of lines) {
+    const m = l.match(/^## (.+?)\s*$/);
+    if (m) {
+      if (cur) out.push(cur);
+      cur = { heading: m[1], body: [] };
+    } else if (cur) cur.body.push(l);
+    else out.push({ preamble: true, heading: null, body: [l] });
+  }
+  if (cur) out.push(cur);
+  return out;
+}
+
+// Attributes a notes section to one application by matching its date against the
+// Progress logs. A shared notes.md carries no role reference, so date agreement is
+// the only evidence available.
+function attribute(section, records) {
+  const body = section.body.join('\n');
+  // Dates and role names live in the body as often as the heading, e.g.
+  // "Ghosted (2026-04-04). Applied for Engineering Manager, Monetization."
+  const d = (section.heading?.match(/(\d{4}-\d{2}-\d{2})/) ?? body.match(/(\d{4}-\d{2}-\d{2})/))?.[1] ?? null;
+  if (records.length === 1) return { rec: records[0], entry: pickEntry(records[0], section, d), reason: 'only screening file' };
+
+  // A body naming the role is stronger evidence than a date two applications share.
+  const named = records.filter((r) => body.includes(path.basename(r.file, '.md')));
+  if (named.length === 1) {
+    return { rec: named[0], entry: pickEntry(named[0], section, d), reason: `body names ${path.basename(named[0].file)}` };
+  }
+
+  if (!d) return { rec: null, reason: 'no date in heading or body, and company has multiple applications' };
+
+  // Stage dominates date. Clio screened one application on 2026-04-22 and passed on
+  // another 2026-04-20; both sit a day from the notes date, but only one had a
+  // recruiter screen, and that is the record the notes describe.
+  const want = headingStage(section.heading);
+  const isOutcome = /^outcome/i.test(section.heading);
+
+  const hits = [];
+  for (const r of records) {
+    for (const e of r.log) {
+      if (want && e.stage !== want) continue;
+      if (isOutcome && !TERMINAL[e.stage]) continue;
+      const gap = Math.abs(days(e.date, d));
+      if (gap <= 3) hits.push({ rec: r, entry: e, gap });
+    }
+  }
+  if (!hits.length) {
+    return { rec: null, reason: `no ${want ?? (isOutcome ? 'terminal' : 'Progress')} entry within 3 days of ${d}` };
+  }
+
+  const best = Math.min(...hits.map((h) => h.gap));
+  const closest = hits.filter((h) => h.gap === best);
+  const files = new Set(closest.map((h) => h.rec.file));
+  if (files.size > 1) return { rec: null, reason: `${d} matches ${files.size} applications equally` };
+  return { rec: closest[0].rec, entry: closest[0].entry, reason: `${d} matches ${path.basename(closest[0].rec.file)}` };
+}
+
+// What stage a notes heading is talking about. Needed because 64 application dates
+// were approximated to the screen date, so date alone cannot tell "Application"
+// from "Screened" when both entries share a day.
+const HEADING_STAGE = [
+  [/outreach|reached out/i, 'Contacted'],
+  [/recruiter\s*screen|^screen\b/i, 'Recruiter screen'],
+  [/technical\s*interview/i, 'Technical interview'],
+  [/leadership|hiring manager|vp interview/i, 'Hiring manager'],
+  [/panel|onsite/i, 'Panel'],
+  [/offer/i, 'Offer'],
+  [/follow-?up/i, 'Follow-up'],
+  [/appl/i, 'Applied'],
+  [/scheduled/i, 'Scheduled'], // last: a heading naming a round beats the word "scheduled"
+];
+
+function headingStage(heading) {
+  for (const [re, stage] of HEADING_STAGE) if (re.test(heading)) return stage;
+  return null;
+}
+
+// Picks which log entry a section anchors to. Outcome sections attach to the
+// terminal entry; everything else to the entry whose stage the heading names.
+function pickEntry(rec, section, d) {
+  const heading = section.heading ?? '';
+  if (/^outcome/i.test(heading)) {
+    // Prefer the close this section is actually about. A reopened record has more
+    // than one terminal entry, and the newest is not the one the notes describe.
+    const terminals = rec.log.filter((e) => TERMINAL[e.stage]);
+    if (!terminals.length) return null;
+    if (d) {
+      const near = terminals.filter((e) => Math.abs(days(e.date, d)) <= 3);
+      if (near.length) return near[0];
+    }
+    const last = rec.log[rec.log.length - 1];
+    return TERMINAL[last.stage] ? last : null;
+  }
+  const want = headingStage(heading);
+  // With one application and no date, the stage name alone is unambiguous.
+  if (!d) return want ? (rec.log.find((e) => e.stage === want) ?? null) : null;
+
+  const near = rec.log.filter((e) => Math.abs(days(e.date, d)) <= 3);
+  if (!near.length) return null;
+
+  if (want) {
+    // A heading naming a stage the log does not have means the log is incomplete.
+    // Better to surface that than to anchor the notes to the wrong event.
+    return near.find((e) => e.stage === want) ?? null;
+  }
+  return near.reduce((best, e) => (!best || Math.abs(days(e.date, d)) < Math.abs(days(best.date, d)) ? e : best), null);
+}
+
+function cmdNotes(args) {
+  const apply = args.includes('--apply');
+  const companies = new Map();
+  for (const f of screeningFiles()) {
+    const c = path.relative(JOBS, f).split(path.sep)[0];
+    if (!companies.has(c)) companies.set(c, []);
+    companies.get(c).push(parse(f));
+  }
+
+  const pending = new Map(); // screening file -> [{heading, body}]
+  const report = [];
+  let moved = 0,
+    kept = 0,
+    manual = 0;
+
+  for (const dir of fs.readdirSync(JOBS)) {
+    const n = path.join(JOBS, dir, 'notes.md');
+    if (!fs.existsSync(n)) continue;
+    const records = companies.get(dir) ?? [];
+    const sections = splitSections(fs.readFileSync(n, 'utf8'));
+    const stay = [];
+    const lines = [`### ${dir}`];
+
+    for (const s of sections) {
+      if (s.preamble || !s.heading) {
+        stay.push(s);
+        continue;
+      }
+      if (COMPANY_SECTION.test(s.heading)) {
+        stay.push(s);
+        kept++;
+        lines.push(`  keep    ## ${s.heading}`);
+        continue;
+      }
+      if (!records.length) {
+        stay.push(s);
+        manual++;
+        lines.push(`  MANUAL  ## ${s.heading}  (company has no screening file)`);
+        continue;
+      }
+      const { rec, entry, reason } = attribute(s, records);
+      if (!rec || !entry) {
+        stay.push(s);
+        // At a single-application company notes.md is unambiguous, so material
+        // that is not a round is fine where it is. Only report a real conflict.
+        const roundish = headingStage(s.heading) || /^outcome/i.test(s.heading);
+        if (records.length === 1 && !roundish) {
+          kept++;
+          lines.push(`  keep    ## ${s.heading}`);
+        } else {
+          manual++;
+          const why = rec && !entry ? `log has no ${headingStage(s.heading) ?? 'terminal'} entry to anchor to` : reason;
+          lines.push(`  MANUAL  ## ${s.heading}  (${why})`);
+        }
+        continue;
+      }
+      moved++;
+      lines.push(`  move    ## ${s.heading}  ->  ${path.basename(rec.file)}  ### ${entry.date} ${entry.stage}`);
+      if (!pending.has(rec.file)) pending.set(rec.file, []);
+      pending.get(rec.file).push({ entry, body: s.body });
+    }
+
+    if (lines.length > 1) report.push(lines.join('\n'));
+    if (apply) writeNotes(n, dir, stay);
+  }
+
+  if (apply) {
+    for (const [file, blocks] of pending) appendLog(file, blocks);
+  }
+
+  console.log(report.join('\n\n'));
+  console.log(`\n${moved} section(s) move to a ## Log, ${kept} stay company-scoped, ${manual} need manual attribution`);
+  if (!apply) console.log('dry run, pass --apply to write');
+  return 0;
+}
+
+function writeNotes(file, company, stay) {
+  const real = stay.filter((s) => s.heading);
+  if (!real.length) {
+    fs.unlinkSync(file); // nothing company-scoped left
+    return;
+  }
+  const out = [`# ${company} - Notes`, ''];
+  for (const s of real) {
+    out.push(`## ${s.heading}`);
+    out.push(...trimBlank(s.body));
+    out.push('');
+  }
+  fs.writeFileSync(file, out.join('\n').replace(/\n{3,}/g, '\n\n').trimEnd() + '\n');
+}
+
+function appendLog(file, blocks) {
+  const text = fs.readFileSync(file, 'utf8');
+  const lines = text.split(/\r?\n/);
+  let idx = lines.findIndex((l) => /^## Log\s*$/.test(l));
+  if (idx < 0) {
+    while (lines.length && !lines[lines.length - 1].trim()) lines.pop();
+    lines.push('', '## Log');
+    idx = lines.length - 1;
+  }
+  blocks.sort((a, b) => (a.entry.date < b.entry.date ? -1 : 1));
+
+  // Several notes sections can anchor to one entry, e.g. three same-day updates
+  // after a recruiter screen. Merge them so headings stay unique.
+  const merged = new Map();
+  for (const b of blocks) {
+    const key = `${b.entry.date} ${b.entry.stage}`;
+    if (!merged.has(key)) merged.set(key, []);
+    const body = merged.get(key);
+    if (body.length) body.push('');
+    body.push(...trimBlank(b.body));
+  }
+
+  const add = [];
+  for (const [key, body] of merged) add.push('', `### ${key}`, '', ...body);
+  lines.splice(idx + 1, 0, ...add);
+  fs.writeFileSync(file, lines.join('\n').replace(/\n{3,}/g, '\n\n').trimEnd() + '\n');
+}
+
+function trimBlank(body) {
+  const b = [...body];
+  while (b.length && !b[0].trim()) b.shift();
+  while (b.length && !b[b.length - 1].trim()) b.pop();
+  return b;
+}
+
 function flag(args, name) {
   const i = args.indexOf(name);
   return i >= 0 ? args[i + 1] : null;
@@ -600,5 +876,5 @@ stages: ${[...STAGES].join(', ')}`);
 }
 
 const [cmd, ...rest] = process.argv.slice(2);
-const table = { log: cmdLog, check: cmdCheck, ghost: cmdGhost, sync: cmdSync, list: cmdList, migrate: cmdMigrate };
+const table = { log: cmdLog, check: cmdCheck, ghost: cmdGhost, sync: cmdSync, list: cmdList, migrate: cmdMigrate, notes: cmdNotes };
 process.exit((table[cmd] ?? usage)(rest));

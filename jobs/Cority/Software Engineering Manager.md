@@ -12,6 +12,7 @@ Hands-on first-line EM role on a mature .NET/Angular EHS platform. Near-perfect 
 - **Progress:**
   - 2026-06-24 Screened
   - 2026-07-14 Scheduled - recruiter screen
+  - 2026-07-14 Recruiter screen
   - 2026-07-20 Failed
 
 ## Qualifications
@@ -74,3 +75,22 @@ Cority is a 40-year-old market leader in EHS+ (environmental, health, safety) an
 ## Keywords
 
 Software Engineering Manager, Engineering Manager, C#, .NET, .NET Core, .NET Framework, JavaScript, TypeScript, Angular, MS SQL Server, SQL, stored procedures, object-oriented programming, OOP, SaaS, GitHub Copilot, Claude Code, Cursor, AI-assisted development, agentic frameworks, RAG, vector databases, MCP, LLM, Agile, Scrum, Scrum Master, automated testing, QA automation, code reviews, system architecture, people management, performance management, career development, mentoring, delivery management, cross-functional collaboration, Product Management, EHS, EHSQ&S, sustainability, remote
+
+## Log
+
+### 2026-07-14 Recruiter screen
+
+- Recruiter: Katharine Montalvo (Katharine.Montalvo@cority.com) reached back
+- Nice chat with Katharine
+- Comp is a point of concern: $160-180k base + possible (unconfirmed) 10% bonus + 2% RRSP match
+- Katharine will check with the team whether they can do 180k+10%; otherwise would pass
+- Interview process: screen, hiring manager + other director interview, senior (VP or CTO) interview
+
+### Questions
+* reasons for position opening - answered: current manager going on mat leave, team expected to grow by the time she's back
+* PE exit timeline and org stability
+* actual team/product this role is in (accquisition sprawl concerning) - unclear beyond "core product CorityOne"
+
+### 2026-07-20 Failed
+
+- Rejected (2026-07-20)

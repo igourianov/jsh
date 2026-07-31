@@ -59,3 +59,10 @@ Clubspeed and Resova provide SaaS software for entertainment venues (1,700+ attr
 ## Keywords
 
 engineering leadership, product management, product roadmap, cloud migration, on-premise to cloud, legacy modernization, SaaS, PCI DSS 4.0.1, compliance readiness, architecture review, technical decision-making, engineering delivery, operational excellence, AI tooling adoption, AI development tools, player-coach, team coaching, career development, engineering best practices, cloud infrastructure, software architecture, CEO partnership, stakeholder alignment
+
+## Log
+
+### 2026-07-09 Applied
+
+- Applied via LinkedIn posting.
+- Asked for $180K CAD on the application form.

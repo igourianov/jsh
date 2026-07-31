@@ -62,3 +62,9 @@ Vanta is a Trust Management Platform founded in 2018 that helps businesses autom
 ## Keywords
 
 Engineering Manager, backend systems, platform engineering, monetization, billing systems, entitlement management, usage tracking, SaaS, distributed systems, API design, microservices, data modeling, operational excellence, self-serve commerce, product-led growth, enterprise billing, pricing platforms, revenue operations, financial data platforms, cross-functional collaboration, GTM, go-to-market, technical strategy, AI tooling, compliance, SOC 2, trust management
+
+## Log
+
+### 2026-04-04 Ghosted
+
+Ghosted (2026-04-04). Applied for Engineering Manager, Monetization. No response.

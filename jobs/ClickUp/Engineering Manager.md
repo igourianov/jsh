@@ -71,3 +71,9 @@ ClickUp is a productivity SaaS company that builds a converged AI workspace unif
 ## Keywords
 
 Engineering Manager, fullstack, Node.js, frontend framework, relational databases, AWS, cloud infrastructure, API development, scalability, reliability, performance optimization, code reviews, software architecture, technical debt, microservices, web development, collaborative editing, SaaS, team leadership, mentoring, cross-functional collaboration, product development, operational excellence, CI/CD, system design
+
+## Log
+
+### 2026-04-04 Ghosted
+
+Ghosted (2026-04-04). Applied for Engineering Manager. No response.

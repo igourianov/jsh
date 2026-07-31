@@ -12,6 +12,7 @@ Strong people-management and transition-leadership match; real gap on shipping c
 - **Progress:**
   - 2026-07-07 Screened
   - 2026-07-07 Applied
+  - 2026-07-07 Recruiter screen
   - 2026-07-07 Withdrew
 
 ## Qualifications
@@ -66,3 +67,47 @@ Unbounce is a landing page and conversion-optimization SaaS product, currently m
 ## Keywords
 
 Engineering Manager, engineering leadership, Agile, Scrum, sprint planning, story sizing, burndown, retrospectives, CI/CD, code review, delivery predictability, vendor management, contractor management, knowledge transfer, people development, technical leadership development, AI/ML tooling, generative AI, agentic features, product transition, legacy modernization, parallel workstreams, deprecation planning, cross-functional partnership, roadmap planning, SaaS, landing page builder, conversion optimization, remote, fractional CTO
+
+## Log
+
+### 2026-07-07 Recruiter screen
+
+- Interviewer/contact: Mohammad Anwar, Infoway Software/Amicus Systems Inc. (mohammad@infowaysoftware.com)
+- Source: Applied via LinkedIn posting
+- Format: Email
+
+**Key information**
+- Recruiter states role is "with CloudX/Unbounce" - CloudX was not mentioned anywhere in the original job posting. Unclear relationship between CloudX, Unbounce and Infoway.
+- Recruiter asked for "Pay Rate Per Month Basis" despite the posting stating Employment Type: Full-time. A monthly rate basis is inconsistent with full-time/salaried employment and suggests the actual arrangement is contract (C2C/1099), matching the "Contract" tag on the original LinkedIn posting that conflicted with the "Full-time" text in the JD.
+
+**Process observations**
+- Reply arrived 3 minutes after application submission with the full JD pasted back verbatim - templated/automated response, not yet reviewed by a human.
+- Generic greeting, no reference to resume or application specifics.
+- Signature phone number malformed (918-578-237, missing a digit).
+
+**Confidence level:** Low - pay structure and employer identity unclear pending clarification.
+
+**Concerns / Red flags**
+- Full-time vs. pay-rate-per-month inconsistency - likely disguised contract role.
+- Undisclosed intermediary (CloudX) not named in original posting.
+- Automated/bulk-feeling first response.
+
+**Green flags**
+- None yet - too early in process.
+
+**Location check:** Posting explicitly lists "Location: Canada & US (Remote)" - Canadian remote applicants are within scope, no location mismatch.
+
+- Mohammad confirmed via email (3:44 PM): "Yes its Full Time Role and it's a Salary Base Only. Hiring Company is Unbounce - Cloud X Working Partner."
+- Resolves both open questions: role is salaried full-time, hiring company is Unbounce, CloudX is described as a "working partner" (staffing/delivery partner alongside Infoway), not the employer.
+- Confidence level updated: Moderate - employment structure and employer identity now clear. Still no salary range or team size disclosed.
+
+- Requested $200,000 CAD total compensation.
+- Mohammad responded (4:08 PM): "The offer is 120K Per Annum."
+- $120K is roughly 40% below the ask, below our $150-175K estimate for this role, and below the general Canadian EM market median (~$161-168K).
+- $120K is base only, no bonus - confirmed earlier by "Salary Base Only" framing. As total comp, this reads even lower relative to the $200K total comp ask than the raw number suggests.
+- Combined with the "Salary Base Only" framing, reads as a firm lowball rather than an opening position.
+- Confidence level: Low - compensation is significantly below market and below target.
+
+### 2026-07-07 Withdrew
+
+**Withdrew (2026-07-07).** Recruiter withheld a comp number through two direct asks, then countered a $200K CAD total comp ask with a $120K offer - well below market and below our own $150-175K estimate for the role. Declined and called out the withholding directly. Not pursuing further.

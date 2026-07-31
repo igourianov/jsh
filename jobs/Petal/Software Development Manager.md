@@ -10,6 +10,9 @@ Strong delivery-leadership fit at a Canadian health-tech SaaS; main gaps are Fre
 - **Team size:** 8-12 (multidisciplinary delivery team)
 - **Status:** Applied
 - **Progress:**
+  - 2026-06-01 Screened
+  - 2026-06-01 Applied
+  - 2026-06-05 Rejected
   - 2026-07-16 Screened
   - 2026-07-16 Applied
 
@@ -67,3 +70,13 @@ Petal is a leading Canadian health technology company (Quebec City HQ, 201-500 e
 ## Keywords
 
 Software Development Manager, Engineering Manager, software delivery, delivery execution, people leadership, team leadership, Agile, Kanban, continuous improvement, SaaS, product organization, cross-functional collaboration, Product Management, Architecture, delivery management, quality management, planning, estimation, testing, deployment, delivery velocity, predictability, coaching, mentorship, performance metrics, AI adoption, AI transformation, healthcare, health technology, healthcare BI, medical billing, technical literacy, stakeholder alignment
+
+## Log
+
+### 2026-06-05 Rejected
+
+Rejected (2026-06-05). Applied 2026-06-01, no interview.
+
+### 2026-07-16 Applied
+
+Role reposted under a new URL. Reapplied 2026-07-16.

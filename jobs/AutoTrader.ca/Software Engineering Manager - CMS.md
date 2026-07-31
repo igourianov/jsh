@@ -66,3 +66,12 @@ TRADER Corporation operates AutoTrader.ca, Canada's largest and most trusted aut
 ## Keywords
 
 Engineering Manager, .NET, AWS, full-stack, microservices, distributed systems, SRE, CI/CD, AI, Generative AI, code reviews, system design, legacy modernization, greenfield development, team building, hiring, coaching, cross-functional, Product partnership, agile, automation, cloud platforms, technical leadership, collateral management, lien services
+
+## Log
+
+### 2026-04-05 Applied
+
+- Applied via LinkedIn
+- Application form explicitly asks to confirm 2 days per week in-office
+- Confidence: Low. Fort Erie to Toronto is not a realistic commute for hybrid.
+- Hoping to negotiate with recruiter to remote with occasional (1-2 per month) in-office visits.

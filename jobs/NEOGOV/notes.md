@@ -1,4 +1,4 @@
-# NEOGOV Interview Notes
+# NEOGOV - Notes
 
 ## Recruiter screen
 - Confirmed salary: $190K base
@@ -15,9 +15,6 @@
 
 ## Post technical interview
 - Ghosted for 1 week
-
-## Outcome
-- Withdrew candidacy
 
 ## Impressions
 - Sweat shop vibes

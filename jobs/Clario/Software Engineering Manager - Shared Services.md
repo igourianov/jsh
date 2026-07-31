@@ -71,3 +71,12 @@ Clario, part of Thermo Fisher Scientific, is a leading provider of endpoint data
 ## Keywords
 
 Software Development Manager, Software Engineering Manager, Engineering Manager, Platform Engineering, Shared Services, C#, .NET, ASP.NET Core, Python, AWS, Lambda, API Gateway, RDS, DynamoDB, REST API, backend services, microservices, CI/CD, DevOps, OAuth2, JWT, API keys, API security, secure SDLC, incident response, L4 escalation, production support, async patterns, observability, performance optimization, device APIs, device lifecycle, offline sync, provisioning, deprovisioning, agentic AI, Claude Code, GitHub Copilot, Cursor, AI-augmented development, code review, architecture spikes, player-coach, technical leadership, mentorship, hiring, cross-functional collaboration, agile, distributed teams, clinical trials, life sciences, cardiac, respiratory, regulated environment
+
+## Log
+
+### 2026-06-05 Applied
+
+- Applied to Software Engineering Manager (Shared Services / device lifecycle), URL https://www.linkedin.com/jobs/view/4424759069/
+- 5th Clario role applied to. Prior history: two ghosted (Clinical Platform Integrations, Platform Solution), one rejected (Cardiac Services 2026-05-01).
+- This posting is functionally a near-duplicate of the rejected Cardiac Services role, expanded to cover respiratory.
+- **Decision: applying one last time. If ghosted again, blacklist Clario.**

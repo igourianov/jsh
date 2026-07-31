@@ -68,3 +68,19 @@ Curve Dental is a cloud-based dental practice management platform used by 80,000
 ## Keywords
 
 Software Development Manager, Engineering Manager, people management, performance management, mentoring, career development, hiring, recruitment, onboarding, agile, SaaS, AWS, relational databases, object-oriented development, C#, Java, PHP, REST APIs, JavaScript, system design, architecture, scalability, reliability, code review, technical debt, estimation, backlog management, user stories, cross-functional collaboration, product management, UX, QA, customer support, AI-assisted development, Claude Code, Cursor, GitHub Copilot, AI/ML, dental practice management, healthcare SaaS, HIPAA, cloud-based platform
+
+## Log
+
+### 2026-07-07 Applied
+
+- Applied to Software Development Manager role.
+- Application form asked about willingness to work in the Calgary office. Not stated as hybrid in the posting, but heavily implied by the question.
+- Confidence: Very low.
+
+### Concerns / Red flags
+- Location/work model mismatch risk: posting tagged Remote but application form probes office willingness, suggesting hybrid expectations not disclosed upfront.
+- Pay flagged as below market on Glassdoor; no funding event since 2018.
+
+### 2026-07-09 Rejected
+
+- Rejected (2026-07-09).

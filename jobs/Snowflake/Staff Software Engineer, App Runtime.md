@@ -8,9 +8,10 @@ Staff/Principal IC role, deeply hands-on coding expected; strong platform domain
 - **Compensation:** Not stated
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Screened
+- **Status:** Active
 - **Progress:**
   - 2026-07-21 Screened
+  - 2026-07-21 Contacted
 
 ## Qualifications
 
@@ -65,3 +66,9 @@ Snowflake Computing is a cloud data platform company, positioning itself as buil
 ## Keywords
 
 Staff Software Engineer, Principal Engineer, App Runtime, Snowflake, Kubernetes, container platform, multi-tenant, SDK design, API design, Node.js, Java, Python, TypeScript, Go, distributed systems, security, governance, horizontal scaling, suspend/resume, Cortex AI, developer platform, 0-to-1 product, technical leadership, mentoring, cross-team collaboration, roadmap ownership, customer partnership
+
+## Log
+
+### 2026-07-21 Contacted
+
+- Sent tailored resume to several recruiters at Snowflake, positioning as looking for a technical leadership or senior IC role (lead), not tied specifically to the Staff Software Engineer, App Runtime screening.

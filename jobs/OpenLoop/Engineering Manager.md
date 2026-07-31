@@ -69,3 +69,9 @@ OpenLoop is a US-based white-label digital health infrastructure provider poweri
 ## Keywords
 
 engineering management, software engineering, team building, hiring, mentoring, coaching, cloud environments, AWS, system design, software architecture, SDLC, CI/CD, agile, stakeholder management, cross-functional collaboration, telehealth, digital health, virtual care, product engineering, technical leadership, scalability, microservices
+
+## Log
+
+### 2026-04-04 Ghosted
+
+Ghosted (2026-04-04). Applied for Engineering Manager. No response.
