@@ -25,11 +25,12 @@ When a script needs a JSON payload written to a temp file:
 
 - `resume/` - Base resume (source of truth) and context
 - `pdf/` - output folder for generated resume PDFs
+- `scripts/job.mjs` - Job application state machine. Only writer of Status and Progress. See Status Tracking.
 - `jobs/` - All company folders. Permanent location, files never move.
-	- `jobs/{Company}/{job_title}.md` - Result of the job screen and match against base resume. Contains Status and Progress fields.
+	- `jobs/{Company}/{job_title}.md` - The complete record of one application: screen and match against base resume, Status and Progress fields, and the `## Log` narrative.
 	- `jobs/{Company}/resume.md` - Tailored resumes for specific companies
 	- `jobs/{Company}/company.md` - Company research online
-	- `jobs/{Company}/notes.md` - Notes about application and interview process. Questions, issues, log of actions.
+	- `jobs/{Company}/notes.md` - Company-scoped notes only. Anything tied to one application belongs in that application's `## Log`.
 	- `jobs/{Company}/{recruiter_name}.md` - conversation thread with recruiter extracted from email or LinkedIn message. Used for logging and drafting responses.
 - `jobs/black-list.md` - Companies and recruiters to avoid. Check this list during job screening before proceeding.
 - `jobs-active/` - Directory junctions to active company folders in `jobs/`. Gitignored. Used as a lean view of current applications.
@@ -40,18 +41,29 @@ When a script needs a JSON payload written to a temp file:
 
 ## Job posting notes
 
-Whenever I make statements about job application process, job itself, interview or company - save them in the `jobs/{Company}/notes.md`
+Whenever I make statements about the application process, the job, an interview or the company, save them. Which file depends on scope.
 
-### Notes file structure
+**Application-scoped** goes in the screening file's `## Log`: rounds, outcomes, what was said in an interview, why a specific role died.
 
-The notes file (`notes.md`) is a running log of everything related to a job application. It combines process tracking, interview notes, prep material and personal impressions in one place.
+**Company-scoped** goes in `jobs/{Company}/notes.md`: research, Glassdoor findings, key contacts, the published interview process, overall impressions, lessons that carry across roles.
 
-**Header:** `# {Company} - Notes`
+A company can have many applications, so anything tied to one role must live with that role. When in doubt, ask whether the note would still be true if you applied to a different job at the same company. If yes, it is company-scoped.
 
-**Sections are organized chronologically by interview round**, each as a `##` heading:
-- Include the round type and date: `## Recruiter Screen - 2026-01-15`
-- Include interviewer name (and LinkedIn URL when available)
-- Optionally note duration, source (inbound/applied), call format (phone/video)
+### `## Log` in the screening file
+
+Sits at the bottom of the screening file. One `###` heading per round, matching a Progress entry exactly by date and stage:
+
+```
+## Log
+
+### 2026-04-21 Recruiter screen
+
+- Interviewer: Karman (Technical Recruiter)
+- Expected range: $210-220k CAD base, no bonus
+- Confidence: pretty positive
+```
+
+`check` enforces the match, so log the entry with `job.mjs log` first, then write the narrative under it.
 
 **Within each round, capture:**
 - **Key information** - Salary, team size, reporting structure, tech stack, next steps. Bullet points, not prose.
@@ -60,22 +72,25 @@ The notes file (`notes.md`) is a running log of everything related to a job appl
 - **Concerns / Red flags** - Anything that raised doubts. Can include interviewer quality, org signals, Glassdoor findings.
 - **Green flags** - Positive signals worth noting.
 
-**Standalone sections (not per-round):**
+There is no `## Outcome` section any more. The terminal Progress entry is the outcome, and its narrative goes under the matching `###` heading.
+
+**Other sections in the screening file** (not per-round):
 - `## Alignment` or `## Strong Alignment` - How the role maps to resume strengths. Bullet points or numbered list.
 - `## Questions` - Prepared questions for upcoming interviews. Numbered, specific, sometimes pointed.
-- `## Outcome` - Final status (Rejected, Withdrew, Ghosted) with date. Brief explanation if relevant.
-- `## Impressions` - Overall gut-feel summary of the company/process.
+- `## Prep` - Talking points, STAR-method stories, closing statements, red flags to watch for.
 
-**Interview prep material** (optional, for promising roles):
-- Talking points, STAR-method stories, closing statements
-- Red flags to watch for during the interview
-- Questions organized by category (Role, Culture, Technical, Growth)
+**Sections in `notes.md`** (company-scoped, no dates in headings):
+- `## Research` - What the company does, funding, org signals, Glassdoor.
+- `## Key Contacts` - Recruiters and hiring managers, with LinkedIn URLs.
+- `## Interview Process` - The published or reported loop, when it applies to the company rather than one role.
+- `## Impressions` - Overall gut-feel summary of the company.
+- `## Lessons` - What to do differently next time. Survives the application it came from.
 
 **When to write:**
-- After every recruiter/interviewer interaction, log observations immediately
-- Before an interview, add prep questions and alignment notes
-- When the user shares information about the process, company or role in conversation, save it to notes
-- When an application reaches a final state, add an Outcome section
+- After every recruiter/interviewer interaction, log the stage with `job.mjs log`, then write observations under its `###` heading
+- Before an interview, add prep questions to the screening file
+- When the user shares information about the process, company or role in conversation, save it to the right scope
+- When an application closes, log the terminal stage and write why underneath it
 
 **Style:**
 - Bullet points for observations. Short, direct, opinionated.
@@ -85,38 +100,87 @@ The notes file (`notes.md`) is a running log of everything related to a job appl
 
 ## Status Tracking
 
-Status and Progress fields live in each screening file's metadata block (the `- **Field:**` section at the top).
+State lives in each screening file's metadata block:
 
-**Fields:**
-- **Status** - `Screened` (default for new screens), `Active`, `Passed (2026-03-25)`, `Rejected (2026-03-25)`, `Ghosted (2026-03-25)`, `Withdrew (2026-03-25)`. Includes date when status changes to a terminal state. `Passed` is for jobs never applied to. `Withdrew` is for jobs where an application was in progress.
-- **Progress** - last process step with date: `Applied`, `Recruiter screen (2026-03-25)`, `Tech interview (2026-04-01)`, `Offer (2026-04-10)`, etc. Applied date is optional since it's usually the same as Saved.
+```
+- **Status:** Active
+- **Progress:**
+  - 2026-06-24 Screened
+  - 2026-06-25 Applied
+  - 2026-07-08 Scheduled - recruiter screen 2026-07-14
+  - 2026-07-14 Recruiter screen
+```
 
-**Rules:**
-- When user screens a new job: Status=Screened, Progress empty
-- When user applies or says they applied: Status=Active, Progress=Applied
-- Update Progress as the application advances through steps
-- When an application reaches a terminal state: update Status to Rejected/Ghosted/Withdrew
-- When user blacklists a company: add entry to `jobs/black-list.md` with reason. Do not change Status fields in screening files.
-- Never move company folders between directories. Update the screening file fields instead.
+The Progress log is the source of truth. There are no `Saved` or `Updated` fields: the first and last log dates carry them.
 
-**Junction management (`jobs-active/`):**
-- `jobs-active/` contains Windows directory junctions pointing to active company folders in `jobs/`. It is gitignored.
-- When activating a company: create junction via a temp .bat file:
-  ```bash
-  cat > tmp_mklink.bat << 'EOF'
-  mklink /J "jobs-active\{Company}" "jobs\{Company}"
-  EOF
-  cmd //c "$(pwd)/tmp_mklink.bat" && rm tmp_mklink.bat
-  ```
-- When archiving a company: remove junction via a temp .bat file (bash `rmdir` doesn't work on Windows junctions):
-  ```bash
-  cat > tmp_rmdir.bat << 'EOF'
-  rmdir "jobs-active\{Company}"
-  EOF
-  cmd //c "$(pwd)/tmp_rmdir.bat" && rm tmp_rmdir.bat
-  ```
-- When user says "archive company": update Status in screening file (Rejected/Ghosted/Withdrew), then check all screening `.md` files in the company folder. Only remove the junction if every screening file is in a terminal state (Passed/Rejected/Ghosted/Withdrew). If any screening file is still Screened or Active, keep the junction.
-- Older screening files that lack a Status field entirely are treated as terminal state for junction cleanup purposes.
+**Never hand-edit Status or Progress.** `scripts/job.mjs` is the only writer, which is what keeps the summary from drifting away from the history:
+
+```
+node scripts/job.mjs log <file> <stage> [--date YYYY-MM-DD] [--note "..."]
+```
+
+It appends the entry in date order, recomputes Status and validates the result.
+
+### Status values
+
+Derived, never set by hand.
+
+| Status | Open | Meaning |
+|---|---|---|
+| `Screened` | yes | Evaluated, not applied |
+| `Applied` | yes | Submitted, no contact yet. Ghost clock running |
+| `Active` | yes | Contact made: outreach, scheduled, interviewing, awaiting result |
+| `Passed` | — | I declined without applying |
+| `Rejected` | — | They said no, no human contact |
+| `Failed` | — | They said no after contact |
+| `Ghosted` | — | No response for 21+ days |
+| `Withdrew` | — | I pulled out mid-process |
+| `Accepted` | — | Offer taken |
+
+### Stages
+
+| Rank | Stages |
+|---|---|
+| 0 | `Screened` |
+| 1 | `Applied` |
+| 2 | `Contacted`, `Scheduled`, `Recruiter screen`, `Hiring manager`, `Technical interview`, `Panel`, `Offer` |
+| neutral | `Follow-up` |
+| terminal | `Passed`, `Rejected`, `Failed`, `Ghosted`, `Withdrew`, `Accepted` |
+
+Status is the furthest rank reached in the current cycle, or the terminal entry if the log ends in one.
+
+- `Contacted` is inbound recruiter outreach. A record that starts from outreach rather than a posting opens with it instead of `Screened`.
+- `Scheduled` is a transition to `Active`, not the interview. Date it when the scheduling happened and put the future date in the note, so no log date is ever in the future.
+- `Follow-up` is outbound, so it does not reset the ghost clock. Chasing a silent application must not hide that it is dead.
+- Reapplying appends to the same record. A terminal entry may be followed by `Screened`, `Applied` or `Contacted`, which reopens it.
+
+### Rules
+
+- New screen: one `Screened` entry, dated that day.
+- User applies: `node scripts/job.mjs log <file> Applied`.
+- Any round, outcome or outreach: log it with the stage and date.
+- Ghost sweep is a query, not a judgment call: `node scripts/job.mjs ghost` lists anything silent past 21 days, `--apply` marks them.
+- Blacklisting a company: add an entry to `jobs/black-list.md` with the reason. Do not touch Status.
+- Never move company folders. The state machine tracks state, the filesystem does not.
+
+### Junctions (`jobs-active/`)
+
+Gitignored directory junctions pointing at companies with at least one open application. Fully derived, so never create or remove them by hand:
+
+```
+node scripts/job.mjs sync            # dry run
+node scripts/job.mjs sync --apply
+```
+
+### Validation
+
+```
+node scripts/job.mjs check           # all records
+node scripts/job.mjs list --open     # live pipeline
+node scripts/job.mjs list --stale    # open and silent past 21 days
+```
+
+`check` runs automatically after edits under `jobs/`. If it reports a violation, fix it with `job.mjs log` rather than by editing the file.
 
 ## LinkedIn Posts
 

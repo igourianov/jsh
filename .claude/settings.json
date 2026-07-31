@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"D:/Projects/JobSearch/scripts/job.mjs\" hook",
+            "timeout": 30,
+            "statusMessage": "Validating job status log"
+          }
+        ]
+      }
+    ]
+  }
+}

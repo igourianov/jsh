@@ -18,7 +18,7 @@ import { execFileSync } from 'node:child_process';
 const ROOT = path.resolve(new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1'));
 const JOBS = path.join(ROOT, 'jobs');
 const ACTIVE = path.join(ROOT, 'jobs-active');
-const GHOST_DAYS = 21;
+const GHOST_DAYS = 21; // "no response in over 3 weeks"
 
 // ---------------------------------------------------------------- vocabulary
 
@@ -69,12 +69,15 @@ const RESERVED = new Set(['notes.md', 'resume.md', 'company.md', 'match.md', 'bl
 // region, meaning above the first h2. Requiring the header region rather than
 // matching anywhere keeps prose like "- **Status:** Monday meeting confirmed"
 // inside a notes file from being mistaken for state.
+function isScreeningFile(p) {
+  if (!p.endsWith('.md')) return false;
+  if (RESERVED.has(path.basename(p).toLowerCase())) return false;
+  const head = fs.readFileSync(p, 'utf8').split(/^## /m)[0];
+  return /^[ \t]*-[ \t]+\*\*Status:\*\*/m.test(head);
+}
+
 function screeningFiles(base = JOBS) {
-  return walk(base).filter((p) => {
-    if (RESERVED.has(path.basename(p).toLowerCase())) return false;
-    const head = fs.readFileSync(p, 'utf8').split(/^## /m)[0];
-    return /^[ \t]*-[ \t]+\*\*Status:\*\*/m.test(head);
-  });
+  return walk(base).filter(isScreeningFile);
 }
 
 // -------------------------------------------------------------------- parse
@@ -417,7 +420,14 @@ function notesDate(file, stage) {
 
 function cmdCheck(args) {
   const target = args.find((a) => !a.startsWith('--'));
-  const files = target ? (fs.statSync(target).isDirectory() ? screeningFiles(target) : [target]) : screeningFiles();
+  let files;
+  if (!target) files = screeningFiles();
+  else if (fs.statSync(target, { throwIfNoEntry: false })?.isDirectory()) files = screeningFiles(target);
+  // A single file still has to be a screening file: notes.md and resume.md carry
+  // no state to validate.
+  else files = isScreeningFile(target) ? [target] : [];
+
+  if (!files.length) return 0;
   let bad = 0;
   for (const f of files) {
     const v = check(f);
@@ -857,6 +867,34 @@ function trimBlank(body) {
   return b;
 }
 
+// Entry point for the PostToolUse hook. Reads the hook payload on stdin so the
+// hook needs no jq, which this machine does not have.
+async function cmdHook() {
+  let raw = '';
+  for await (const chunk of process.stdin) raw += chunk;
+
+  let file;
+  try {
+    const p = JSON.parse(raw || '{}');
+    file = p.tool_input?.file_path ?? p.tool_response?.filePath;
+  } catch {
+    return 0; // malformed payload is not the data's problem
+  }
+  if (!file) return 0;
+
+  const rel = path.relative(JOBS, path.resolve(file));
+  if (rel.startsWith('..') || path.isAbsolute(rel)) return 0; // outside jobs/
+  if (!fs.existsSync(file) || !isScreeningFile(file)) return 0; // notes.md, resume.md, company.md
+
+  const v = check(file);
+  if (!v.length) return 0;
+
+  console.error(`${path.relative(ROOT, file)} violates the Progress log rules:`);
+  for (const x of v) console.error(`  ${x.msg}`);
+  console.error('Fix with: node scripts/job.mjs log <file> <stage> [--date D]');
+  return 2; // blocking, so the violation is surfaced rather than left on disk
+}
+
 function flag(args, name) {
   const i = args.indexOf(name);
   return i >= 0 ? args[i + 1] : null;
@@ -876,5 +914,5 @@ stages: ${[...STAGES].join(', ')}`);
 }
 
 const [cmd, ...rest] = process.argv.slice(2);
-const table = { log: cmdLog, check: cmdCheck, ghost: cmdGhost, sync: cmdSync, list: cmdList, migrate: cmdMigrate, notes: cmdNotes };
-process.exit((table[cmd] ?? usage)(rest));
+const table = { log: cmdLog, check: cmdCheck, ghost: cmdGhost, sync: cmdSync, list: cmdList, migrate: cmdMigrate, notes: cmdNotes, hook: cmdHook };
+process.exit(await (table[cmd] ?? usage)(rest));
