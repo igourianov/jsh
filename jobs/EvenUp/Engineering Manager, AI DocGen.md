@@ -10,7 +10,7 @@ Strong technical and leadership match at the right title level. No legal tech do
 - **Team size:** Not specified
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-04-06 Screened
+  - 2026-04-06 Saved
   - 2026-04-06 Applied
   - 2026-05-15 Ghosted
 

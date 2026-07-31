@@ -10,7 +10,7 @@ Strong overall match; Claude Code and platform-building experience align well, b
 - **Team size:** Not stated
 - **Status:** Applied
 - **Progress:**
-  - 2026-07-24 Screened
+  - 2026-07-24 Saved
   - 2026-07-24 Applied
 
 ## Qualifications

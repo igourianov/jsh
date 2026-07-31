@@ -10,7 +10,7 @@ Strong leadership fit, but core requirement is deep blockchain infrastructure ex
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-22 Screened
+  - 2026-07-22 Saved
   - 2026-07-22 Passed
 
 ## Qualifications

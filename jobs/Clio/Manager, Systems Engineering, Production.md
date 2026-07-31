@@ -10,7 +10,7 @@ Solid people-management fit, but the AWS-specific infra requirement and legal-te
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-20 Screened
+  - 2026-07-20 Saved
   - 2026-07-20 Passed
 
 ## Qualifications

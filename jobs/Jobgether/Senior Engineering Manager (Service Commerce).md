@@ -10,7 +10,7 @@ Excellent fit: product engineering leadership over multiple SaaS squads at on-ta
 - **Team size:** Multiple engineering squads (not specified)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-09 Screened
+  - 2026-06-09 Saved
   - 2026-06-09 Applied
   - 2026-07-31 Ghosted
 

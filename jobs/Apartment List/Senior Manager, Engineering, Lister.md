@@ -10,7 +10,7 @@ Strong management fit, but the core technical ask (external partner data pipelin
 - **Team size:** 3 team leads (3 pods), plus engineers under each
 - **Status:** Applied
 - **Progress:**
-  - 2026-07-30 Screened
+  - 2026-07-30 Saved
   - 2026-07-30 Applied
 
 ## Qualifications

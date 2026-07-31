@@ -10,7 +10,7 @@ Strong platform/modernization fit on a Microsoft stack, but French is a hard req
 - **Team size:** Not stated (Platform, SRE, DevOps function)
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-16 Screened
+  - 2026-06-16 Saved
   - 2026-06-16 Passed
 
 ## Qualifications

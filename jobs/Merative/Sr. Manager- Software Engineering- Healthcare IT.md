@@ -10,7 +10,7 @@ Strong fit: enterprise SaaS EM with Claude Code adoption track record, remote-fr
 - **Team size:** 10-15 engineers
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-22 Screened
+  - 2026-05-22 Saved
   - 2026-06-29 Applied
   - 2026-07-31 Ghosted
 

@@ -10,7 +10,7 @@ Strong people leadership and platform delivery fit. Main gap is depth in shippin
 - **Team size:** 12 to 20 direct reports
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-13 Screened
+  - 2026-04-13 Saved
   - 2026-04-13 Passed
 
 ## Qualifications

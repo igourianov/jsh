@@ -10,7 +10,7 @@ Strong role fit with excellent comp. Startup experience gap and no fintech backg
 - **Team size:** Not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-06 Screened
+  - 2026-04-06 Saved
   - 2026-04-06 Applied
   - 2026-04-09 Rejected
 

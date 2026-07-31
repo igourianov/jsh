@@ -10,7 +10,7 @@ Strong platform-leadership fit; main gap is the specific AWS/MongoDB stack and p
 - **Team size:** Multiple teams / multiple charters (not specified)
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-28 Screened
+  - 2026-05-28 Saved
   - 2026-05-28 Passed
 
 ## Qualifications

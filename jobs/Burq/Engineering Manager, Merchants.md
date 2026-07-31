@@ -10,7 +10,7 @@ Strong people-management and delivery fit, but weak on payments/billing domain a
 - **Team size:** 2 engineering leads (Core, Growth) + their teams
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-20 Screened
+  - 2026-07-20 Saved
   - 2026-07-20 Passed
 
 ## Qualifications

@@ -10,7 +10,7 @@ Strong EM fit on people, technical and cloud SaaS leadership; only real gap is A
 - **Team size:** Not specified
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-18 Screened
+  - 2026-06-18 Saved
   - 2026-06-18 Applied
   - 2026-07-16 Ghosted
 

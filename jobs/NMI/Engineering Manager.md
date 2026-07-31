@@ -10,7 +10,7 @@ Strong people/technical leadership fit in a regulated SaaS context; comp is the 
 - **Team size:** 2-3 teams, ~12-20 engineers (blend of contractors and FT, incl. POs and tech leads)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-08 Screened
+  - 2026-06-08 Saved
   - 2026-06-08 Applied
   - 2026-07-16 Ghosted
 

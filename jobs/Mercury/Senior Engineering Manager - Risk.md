@@ -10,7 +10,7 @@ Strong leadership and platform fit, but applied AI/ML product launches and KYC/A
 - **Team size:** Multiple teams of 4-8 engineers each
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-07 Screened
+  - 2026-05-07 Saved
   - 2026-05-07 Passed
 
 ## Qualifications

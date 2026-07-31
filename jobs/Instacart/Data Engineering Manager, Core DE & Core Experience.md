@@ -10,7 +10,7 @@ Specialized data engineering manager role requiring deep DE stack experience (Sp
 - **Team size:** 7 data engineers across two teams
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-07 Screened
+  - 2026-04-07 Saved
   - 2026-04-07 Passed
 
 ## Red flags

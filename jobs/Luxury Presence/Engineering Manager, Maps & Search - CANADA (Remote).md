@@ -10,7 +10,7 @@ Hands-on EM role owning a billion-request/month search platform at an AI-forward
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-17 Screened
+  - 2026-07-17 Saved
   - 2026-07-17 Passed
 
 ## Qualifications

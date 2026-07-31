@@ -10,7 +10,7 @@ Strong leadership and AI-transformation fit, but Ottawa hybrid mandate and zero 
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-14 Screened
+  - 2026-05-14 Saved
   - 2026-05-14 Passed
 
 ## Red flags

@@ -10,7 +10,7 @@ Strong leadership/technical fit; main gap is external developer-facing platform 
 - **Team size:** Multiple teams (manager of teams)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-02 Screened
+  - 2026-06-02 Saved
   - 2026-06-02 Applied
   - 2026-06-29 Ghosted
 

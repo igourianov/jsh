@@ -10,7 +10,7 @@ Strong fit: platform/people leadership for a merchant-facing system, only soft g
 - **Team size:** Not stated
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-02 Screened
+  - 2026-06-02 Saved
   - 2026-06-02 Applied
   - 2026-06-29 Ghosted
 

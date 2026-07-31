@@ -10,7 +10,7 @@ Pre-sales channel SE management role, not a software engineering position. Funda
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-12 Screened
+  - 2026-05-12 Saved
   - 2026-05-12 Passed
 
 ## Qualifications

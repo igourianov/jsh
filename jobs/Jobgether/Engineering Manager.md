@@ -10,7 +10,7 @@ Generic EM role at a healthcare staffing marketplace startup; near-perfect fit o
 - **Team size:** Not specified
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-15 Screened
+  - 2026-05-15 Saved
   - 2026-05-15 Applied
   - 2026-06-29 Ghosted
 

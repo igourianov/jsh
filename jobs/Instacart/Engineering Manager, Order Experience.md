@@ -10,7 +10,7 @@ Strong people-leader and platform-modernization fit; e-commerce/checkout domain 
 - **Team size:** 8+ engineers
 - **Status:** Applied
 - **Progress:**
-  - 2026-07-11 Screened
+  - 2026-07-11 Saved
   - 2026-07-11 Applied
 
 ## Qualifications

@@ -24,7 +24,7 @@ After determining the company name from the posting (before full analysis):
 1. Check if `jobs/{Company}/` folder already exists with a screening `.md` file
 2. If it exists, read the screening file and report to user: previous Status, Match %, first Progress date and the file path (`jobs/{Company}/{file}.md`)
 3. Ask the user if they want to overwrite. If they decline, stop.
-4. If overwriting, carry the existing **Progress** log into the new file unchanged and append a new `Screened` entry dated today. Never discard log entries: a rescreen is a new cycle of the same application, and the history is the record of what already happened. **Status** is derived, so it needs no preserving.
+4. If overwriting, carry the existing **Progress** log into the new file unchanged and append a new `Saved` entry dated today. Never discard log entries: a rescreen is a new cycle of the same application, and the history is the record of what already happened. **Status** is derived, so it needs no preserving.
 
 ## Step 2: Parse
 

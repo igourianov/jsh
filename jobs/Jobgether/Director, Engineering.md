@@ -10,7 +10,7 @@ Director role to build a new SaaS billing platform from zero to one. Strong lead
 - **Team size:** Multiple teams including engineering managers and senior tech leaders
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-27 Screened
+  - 2026-05-27 Saved
   - 2026-05-27 Passed
 
 ## Qualifications

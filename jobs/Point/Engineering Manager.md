@@ -10,7 +10,7 @@ Solid alignment on leadership, process and product delivery. Main gap is no dire
 - **Team size:** Two engineering teams
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-22 Screened
+  - 2026-04-22 Saved
   - 2026-04-22 Passed
 
 ## Red flags

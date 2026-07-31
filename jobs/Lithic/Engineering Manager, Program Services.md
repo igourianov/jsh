@@ -10,7 +10,7 @@ Strong EM profile match with a gap in fintech domain and hands-on agentic AI sys
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-08 Screened
+  - 2026-04-08 Saved
   - 2026-04-08 Passed
 
 ## Red flags

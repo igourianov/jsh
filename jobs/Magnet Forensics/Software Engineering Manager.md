@@ -10,7 +10,7 @@ Strong technical and management fit; Canadian-based remote-friendly SaaS role at
 - **Team size:** Not stated
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-04-29 Screened
+  - 2026-04-29 Saved
   - 2026-04-29 Applied
   - 2026-05-23 Ghosted
 

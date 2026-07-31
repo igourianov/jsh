@@ -8,7 +8,7 @@
 - **Team size:** New team, built from scratch
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-02 Screened
+  - 2026-04-02 Saved
   - 2026-04-02 Applied
   - 2026-04-20 Rejected
 

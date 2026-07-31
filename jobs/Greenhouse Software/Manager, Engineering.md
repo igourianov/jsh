@@ -10,7 +10,7 @@ Strong management and technical fit. Remote-first SaaS company, solid compensati
 - **Team size:** Not specified (ideally 5+)
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-09 Screened
+  - 2026-04-09 Saved
   - 2026-04-09 Applied
   - 2026-04-17 Rejected
 

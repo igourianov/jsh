@@ -10,7 +10,7 @@ Strong leadership and technical-depth fit, but JVM/Scala stack and direct fintec
 - **Team size:** ~3 engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-01 Screened
+  - 2026-06-01 Saved
   - 2026-06-01 Passed
 
 ## Qualifications

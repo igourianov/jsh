@@ -8,9 +8,9 @@ Strong leadership and product fit at a well-funded AI support startup; the only 
 - **Compensation:** $230,000 - $270,000 USD base + stock options
 - **Benefits:** Medical, dental, vision; unlimited PTO + paid holidays + sick time; paid parental leave; monthly credits for professional development, wellness and commuting; 401(k) (note: benefits listed as U.S. benefits)
 - **Team size:** Not stated ("sizable team")
-- **Status:** Screened
+- **Status:** Saved
 - **Progress:**
-  - 2026-06-02 Screened
+  - 2026-06-02 Saved
 
 ## Qualifications
 

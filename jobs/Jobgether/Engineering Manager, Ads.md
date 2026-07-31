@@ -10,7 +10,7 @@ Solid EM fit on leadership and process, but no adtech/privacy-tech domain backgr
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-29 Screened
+  - 2026-07-29 Saved
   - 2026-07-29 Passed
 
 ## Qualifications

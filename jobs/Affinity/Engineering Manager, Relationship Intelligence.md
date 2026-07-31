@@ -10,7 +10,7 @@ Strong hands-on EM fit with the right SaaS, AI tooling and scaling story. Ruby/P
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-17 Screened
+  - 2026-04-17 Saved
   - 2026-04-18 Passed
 
 ## Qualifications

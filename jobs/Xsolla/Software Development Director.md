@@ -10,7 +10,7 @@ Strong functional match, but no Director title on record and no gaming/fintech d
 - **Team size:** Not specified (multiple engineering teams, team leads and senior developers)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-21 Screened
+  - 2026-07-21 Saved
   - 2026-07-21 Passed
 
 ## Red flags

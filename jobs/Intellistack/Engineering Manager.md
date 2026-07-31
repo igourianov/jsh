@@ -10,7 +10,7 @@ Strong leadership match, but the heavy front-end platform/design systems focus i
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-06 Screened
+  - 2026-04-06 Saved
   - 2026-04-06 Passed
 
 ## Red flags

@@ -10,8 +10,7 @@ Hands-on first-line EM role on a mature .NET/Angular EHS platform. Near-perfect 
 - **Team size:** Not stated (first-line team of software engineers)
 - **Status:** Failed
 - **Progress:**
-  - 2026-06-24 Screened
-  - 2026-07-14 Scheduled - recruiter screen
+  - 2026-06-24 Saved
   - 2026-07-14 Recruiter screen
   - 2026-07-20 Failed
 

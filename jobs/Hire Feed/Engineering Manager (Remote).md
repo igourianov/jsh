@@ -10,7 +10,7 @@ Solid people-management fit, but the role is managing an RLHF/data-labeling deli
 - **Team size:** 20+
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-16 Screened
+  - 2026-07-16 Saved
   - 2026-07-16 Passed
 
 ## Qualifications

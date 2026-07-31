@@ -10,7 +10,7 @@ Strong fit on leadership and SaaS scale. Previously applied to this exact role a
 - **Team size:** Not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-05-20 Screened
+  - 2026-05-20 Saved
   - 2026-05-20 Applied
   - 2026-06-04 Rejected
 

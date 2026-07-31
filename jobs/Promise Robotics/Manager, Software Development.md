@@ -10,7 +10,7 @@ Remote EM role at a venture-backed construction robotics startup, leading a team
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-12 Screened
+  - 2026-05-12 Saved
   - 2026-05-12 Passed
 
 ## Qualifications

@@ -10,7 +10,7 @@ Solid leadership match with title and fintech domain gaps; payments focus is a s
 - **Team size:** Not stated (leads Engineering Managers and Software Developers across Payments department, which has grown 3x)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-26 Screened
+  - 2026-05-26 Saved
   - 2026-05-26 Applied
   - 2026-06-29 Ghosted
 

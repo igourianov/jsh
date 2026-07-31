@@ -10,7 +10,7 @@ Strong technical and leadership fit on the .NET/SQL/Azure stack; comp tops out b
 - **Team size:** Existing team of developers and team leads (count not stated)
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-11 Screened
+  - 2026-06-11 Saved
   - 2026-06-11 Passed
 
 ## Red flags

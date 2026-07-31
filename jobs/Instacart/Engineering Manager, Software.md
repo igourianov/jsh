@@ -10,7 +10,7 @@ Strong people-leader EM, but the data/ML platform depth and grocery-catalog doma
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-15 Screened
+  - 2026-05-15 Saved
   - 2026-05-15 Passed
 
 ## Qualifications

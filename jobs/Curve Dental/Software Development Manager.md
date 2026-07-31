@@ -10,7 +10,7 @@ Strong all-around match; only real gap is direct healthcare-vertical SaaS experi
 - **Team size:** Not stated
 - **Status:** Rejected
 - **Progress:**
-  - 2026-07-07 Screened
+  - 2026-07-07 Saved
   - 2026-07-07 Applied
   - 2026-07-09 Rejected
 

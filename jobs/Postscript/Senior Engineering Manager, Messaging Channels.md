@@ -10,7 +10,7 @@ Strong leadership and platform-as-product fit, but no e-commerce/messaging domai
 - **Team size:** 8 product and platform engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-05 Screened
+  - 2026-06-05 Saved
   - 2026-06-05 Passed
 
 ## Qualifications

@@ -10,7 +10,7 @@ Strong leadership and architecture fit at a remote-Canada legal tech scale-up. T
 - **Team size:** Not specified (multi-team, backend/frontend/full-stack, includes offshore contractors)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-08 Screened
+  - 2026-05-08 Saved
   - 2026-05-08 Applied
   - 2026-06-29 Ghosted
 

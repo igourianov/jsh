@@ -10,7 +10,7 @@ Strong technical and leadership match. Salary ceiling below target and hybrid Wa
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-07 Screened
+  - 2026-04-07 Saved
   - 2026-04-07 Passed
 
 ## Red flags

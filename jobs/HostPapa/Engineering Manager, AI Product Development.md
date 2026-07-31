@@ -10,7 +10,7 @@ Strong leadership and platform fit; main gaps are the Next.js/Supabase product s
 - **Team size:** A team of senior software engineers (size unspecified)
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-05 Screened
+  - 2026-06-05 Saved
   - 2026-06-05 Passed
 
 ## Qualifications

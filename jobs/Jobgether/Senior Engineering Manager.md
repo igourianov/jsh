@@ -10,7 +10,7 @@ Strong leadership and SaaS fit, but the role skews infra/SRE/security and the JD
 - **Team size:** Multiple teams / workstreams (not specified)
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-29 Screened
+  - 2026-05-29 Saved
   - 2026-05-29 Passed
 
 ## Red flags

@@ -10,7 +10,7 @@ Strong management and .NET fit, but it's really a hands-on Dynamics 365 / X++ sp
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-11 Screened
+  - 2026-06-11 Saved
   - 2026-06-11 Passed
 
 ## Qualifications

@@ -8,9 +8,9 @@ Strong leadership and platform fit; only gap is the music licensing domain.
 - **Compensation:** Not stated (estimated 170-210k CAD)
 - **Benefits:** Health and wellness coverage, paid time off and holidays, learning and development / training budget
 - **Team size:** 6-10+ engineers
-- **Status:** Screened
+- **Status:** Saved
 - **Progress:**
-  - 2026-06-03 Screened
+  - 2026-06-03 Saved
 
 ## Qualifications
 

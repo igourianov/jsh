@@ -10,7 +10,7 @@ Solid people-management and technical fit, but limited security/ML domain overla
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-21 Screened
+  - 2026-07-21 Saved
   - 2026-07-21 Passed
 
 ## Red flags

@@ -10,7 +10,7 @@ Strong leadership and technical fit, but no domain experience in promotions/digi
 - **Team size:** Not stated
 - **Status:** Applied
 - **Progress:**
-  - 2026-07-14 Screened
+  - 2026-07-14 Saved
   - 2026-07-14 Applied
 
 ## Qualifications

@@ -10,7 +10,7 @@ Strong technical and leadership fit, but the role requires US work authorization
 - **Team size:** Two teams, scaling toward 5-10 engineers each
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-03 Screened
+  - 2026-06-03 Saved
   - 2026-06-03 Passed
 
 ## Red flags

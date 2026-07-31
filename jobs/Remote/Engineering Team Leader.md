@@ -10,7 +10,7 @@ Strong people leadership and HR SaaS domain fit, but this is a Team Lead role (r
 - **Team size:** 2-5 engineers (backend and frontend)
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-16 Screened
+  - 2026-04-16 Saved
   - 2026-04-16 Passed
 
 ## Red flags

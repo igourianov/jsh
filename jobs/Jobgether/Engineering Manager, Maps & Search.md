@@ -10,7 +10,7 @@ Strong leadership/process fit, but core stack is TS/Node/React/GraphQL and the d
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-21 Screened
+  - 2026-07-21 Saved
   - 2026-07-21 Passed
 
 ## Qualifications

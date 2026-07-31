@@ -15,7 +15,7 @@
 
 - **Status:** Rejected
 - **Progress:**
-  - 2026-02-18 Screened
+  - 2026-02-18 Saved
   - 2026-02-18 Rejected
 
 ## Red Flags

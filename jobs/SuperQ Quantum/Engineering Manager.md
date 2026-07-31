@@ -10,7 +10,7 @@ Strong people/delivery EM, but the role wants a hands-on systems engineer coding
 - **Team size:** Not stated (small company, 11-50 employees, ~15 on LinkedIn)
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-16 Screened
+  - 2026-06-16 Saved
   - 2026-06-16 Passed
 
 ## Red flags

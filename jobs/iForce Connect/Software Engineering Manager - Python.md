@@ -10,7 +10,7 @@ Strong leadership and architecture fit, but the core ask is hands-on Python mast
 - **Team size:** A squad of engineers (size not stated)
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-01 Screened
+  - 2026-06-01 Saved
   - 2026-06-01 Passed
 
 ## Qualifications

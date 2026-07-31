@@ -10,7 +10,7 @@ Strong management fit; only real gap is direct fintech domain experience.
 - **Team size:** Not specified
 - **Status:** Applied
 - **Progress:**
-  - 2026-07-10 Screened
+  - 2026-07-10 Saved
   - 2026-07-10 Applied
 
 ## Qualifications

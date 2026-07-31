@@ -10,7 +10,7 @@ Near-perfect profile match. Remote Canada, strong comp, founder-led SaaS. AI coa
 - **Team size:** not specified (splitting one team into two focused teams)
 - **Status:** Failed
 - **Progress:**
-  - 2026-04-17 Screened
+  - 2026-04-17 Saved
   - 2026-04-23 Contacted
   - 2026-04-27 Recruiter screen
   - 2026-04-27 Follow-up

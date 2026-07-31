@@ -10,10 +10,10 @@ Strong delivery-leadership fit at a Canadian health-tech SaaS; main gaps are Fre
 - **Team size:** 8-12 (multidisciplinary delivery team)
 - **Status:** Applied
 - **Progress:**
-  - 2026-06-01 Screened
+  - 2026-06-01 Saved
   - 2026-06-01 Applied
   - 2026-06-05 Rejected
-  - 2026-07-16 Screened
+  - 2026-07-16 Saved
   - 2026-07-16 Applied
 
 ## Qualifications

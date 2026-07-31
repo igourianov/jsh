@@ -8,9 +8,9 @@ Strong leadership and product-engineering fit with real Claude Code experience, 
 - **Compensation:** $200,000-$260,000 USD (estimated)
 - **Benefits:** Not stated; equity component likely (Series C startup)
 - **Team size:** Pod of frontend, backend and full-stack engineers (size not stated)
-- **Status:** Screened
+- **Status:** Saved
 - **Progress:**
-  - 2026-05-16 Screened
+  - 2026-05-16 Saved
 
 ## Red flags
 - **Location / work eligibility:** Role is "US Remote" and tagged NAMER. TRM's North American hubs are all US cities (San Francisco, Los Angeles, New York, Washington D.C.). Candidate is Canada-based with Canadian citizenship and no US work authorization, so eligibility is a likely blocker.

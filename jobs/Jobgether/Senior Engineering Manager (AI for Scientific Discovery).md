@@ -10,7 +10,7 @@ Strong leadership and delivery fit; main gap is direct AI/ML or scientific-resea
 - **Team size:** 4-6 engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-28 Screened
+  - 2026-07-28 Saved
   - 2026-07-28 Passed
 
 **Note:** Duplicate of `jobs/FirstPrinciples/Senior Engineering Manager.md` — same role (AI platform for scientific discovery, 4-6 engineer team), reposted anonymously via Jobgether. Already passed on the FirstPrinciples version.

@@ -10,7 +10,7 @@ Strong leadership and technical fit, but no fintech or accounting domain experie
 - **Team size:** 6+
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-07 Screened
+  - 2026-05-07 Saved
   - 2026-05-07 Applied
   - 2026-06-29 Ghosted
 

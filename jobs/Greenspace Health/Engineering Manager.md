@@ -10,7 +10,7 @@ Strong EM/leadership and AI-tooling fit; main gap is the Python/Django backend s
 - **Team size:** Lean team (small), reports to Head of Engineering Operations
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-12 Screened
+  - 2026-06-12 Saved
   - 2026-06-12 Passed
 
 ## Qualifications

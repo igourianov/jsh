@@ -10,7 +10,7 @@ Strong overall fit on management scope and seniority; main gaps are PLG/experime
 - **Team size:** ~9 engineers across multiple product teams
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-07-07 Screened
+  - 2026-07-07 Saved
   - 2026-07-07 Applied
   - 2026-07-31 Ghosted
 

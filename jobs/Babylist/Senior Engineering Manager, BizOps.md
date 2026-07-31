@@ -10,7 +10,7 @@ Strong people and process fit, but no AI agent production experience and zero e-
 - **Team size:** Growing team across multiple sub-domains (not specified)
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-08 Screened
+  - 2026-04-08 Saved
   - 2026-04-08 Passed
 
 ## Qualifications

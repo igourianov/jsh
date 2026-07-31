@@ -10,7 +10,7 @@ Strong technical and leadership fit for a greenfield EHR org, but compensation t
 - **Team size:** 3-6 engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-08 Screened
+  - 2026-05-08 Saved
   - 2026-05-08 Passed
 
 ## Red flags

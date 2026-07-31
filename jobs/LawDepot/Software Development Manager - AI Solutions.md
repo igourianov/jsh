@@ -10,7 +10,7 @@ Strong leadership and .NET stack fit; AI subject-matter depth and consumer legal
 - **Team size:** Not stated (Software Developers, Data Scientists, technical contributors)
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-09 Screened
+  - 2026-06-09 Saved
   - 2026-06-11 Passed
 
 ## Qualifications

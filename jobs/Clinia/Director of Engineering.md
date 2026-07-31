@@ -8,7 +8,7 @@
 - **Team size:** ~25 engineers via team leads
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-02 Screened
+  - 2026-04-02 Saved
   - 2026-04-02 Passed
 
 ## Red flags

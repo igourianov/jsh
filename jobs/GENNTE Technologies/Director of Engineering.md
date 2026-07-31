@@ -10,7 +10,7 @@ Misleading title: posted as "Director of Engineering" but it's a client-facing d
 - **Team size:** Large, globally distributed teams (number not specified)
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-16 Screened
+  - 2026-06-16 Saved
   - 2026-06-16 Passed
 
 ## Red flags

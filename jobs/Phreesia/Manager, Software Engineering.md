@@ -10,9 +10,9 @@ Strong all-round fit; main gap is direct Voice AI/LLM production experience, off
 - **Team size:** Not specified
 - **Status:** Active
 - **Progress:**
-  - 2026-07-17 Screened
+  - 2026-07-17 Saved
   - 2026-07-17 Applied
-  - 2026-07-28 Scheduled - recruiter screen 2026-08-03
+  - 2026-07-28 Contacted: recruiter screen booked for 2026-08-03
 
 ## Qualifications
 

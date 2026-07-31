@@ -10,7 +10,7 @@ Strong fit on management and delivery; meaningful gap on AI product building (LL
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-29 Screened
+  - 2026-06-29 Saved
   - 2026-06-29 Passed
 
 ## Qualifications

@@ -10,7 +10,7 @@ Strong .NET/Angular modernization and leadership fit; healthcare-EMR domain and 
 - **Team size:** Not stated (oversees managers and senior developers)
 - **Status:** Applied
 - **Progress:**
-  - 2026-06-05 Screened
+  - 2026-06-05 Saved
   - 2026-07-13 Applied
 
 ## Qualifications

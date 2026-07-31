@@ -10,7 +10,7 @@ Strong profile match for a well-compensated, remote EM role at a founder-led Saa
 - **Team size:** not specified (leads Insurance Setup team, one of three teams in Insurance group)
 - **Status:** Applied
 - **Progress:**
-  - 2026-07-14 Screened
+  - 2026-07-14 Saved
   - 2026-07-14 Applied
 
 ## Qualifications

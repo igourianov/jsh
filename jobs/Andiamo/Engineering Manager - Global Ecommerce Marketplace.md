@@ -10,7 +10,7 @@ Strong leadership match but no e-commerce domain experience and Toronto hybrid i
 - **Team size:** Not stated (small to mid-sized)
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-05 Screened
+  - 2026-04-05 Saved
   - 2026-04-05 Applied
   - 2026-04-06 Rejected
 

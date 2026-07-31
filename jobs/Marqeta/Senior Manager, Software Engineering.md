@@ -10,7 +10,7 @@ Strong leadership and technical fit for a platform EM role, but zero fintech/cre
 - **Team size:** Not specified (single team - Credit onboarding)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-07-09 Screened
+  - 2026-07-09 Saved
   - 2026-07-09 Applied
   - 2026-07-31 Ghosted
 

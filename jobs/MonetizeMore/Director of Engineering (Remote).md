@@ -10,7 +10,7 @@ Strong leadership and AI-modernization fit; the gap is the Director title step-u
 - **Team size:** Manages Engineering Managers and Software Engineers (global org; exact count not stated)
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-03 Screened
+  - 2026-06-03 Saved
   - 2026-06-03 Passed
 
 ## Qualifications

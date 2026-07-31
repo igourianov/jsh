@@ -10,7 +10,7 @@ Solid people-management fit, but AI/ML marketplace domain and mobile team scope 
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-31 Screened
+  - 2026-07-31 Saved
   - 2026-07-31 Passed
 
 ## Qualifications

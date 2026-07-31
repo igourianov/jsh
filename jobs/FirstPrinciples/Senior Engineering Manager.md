@@ -10,7 +10,7 @@ Strong people-management fit, but no physics/research domain or AI/ML systems ex
 - **Team size:** 4-6 engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-28 Screened
+  - 2026-07-28 Saved
   - 2026-07-28 Passed
 
 ## Qualifications

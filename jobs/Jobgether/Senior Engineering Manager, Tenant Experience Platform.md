@@ -8,9 +8,9 @@ Manager-of-managers platform role that maps cleanly onto Dayforce multi-tenant S
 - **Compensation:** Not stated. Estimated 200-260k CAD base + equity (estimated)
 - **Benefits:** Equity, ESPP, flexible PTO, parental leave, remote-first, professional development funding
 - **Team size:** Multiple teams (manager of engineering managers)
-- **Status:** Screened
+- **Status:** Saved
 - **Progress:**
-  - 2026-05-29 Screened
+  - 2026-05-29 Saved
 
 ## Qualifications
 

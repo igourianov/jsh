@@ -10,7 +10,7 @@ Strong technical and people leadership match. Title is a step up but scope align
 - **Team size:** 2+ teams
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-04-05 Screened
+  - 2026-04-05 Saved
   - 2026-04-05 Applied
   - 2026-05-15 Ghosted
 

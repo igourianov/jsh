@@ -10,7 +10,7 @@ Strong leadership match undermined by a major tech stack gap. The role requires 
 - **Team size:** Not stated (11-50 employees total, 10 on LinkedIn)
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-12 Screened
+  - 2026-04-12 Saved
   - 2026-04-12 Passed
 
 ## Red flags

@@ -10,7 +10,7 @@ Hands-on EM leadership is a strong fit, but the role's core requirement — a ba
 - **Team size:** not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-21 Screened
+  - 2026-07-21 Saved
   - 2026-07-21 Passed
 
 ## Qualifications

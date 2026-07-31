@@ -10,7 +10,7 @@ Hands-on backend EM for an undisclosed Canadian consumer car-ownership platform.
 - **Team size:** Not stated
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-03 Screened
+  - 2026-06-03 Saved
   - 2026-06-03 Applied
   - 2026-06-29 Ghosted
 

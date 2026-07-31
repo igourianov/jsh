@@ -10,7 +10,7 @@ Strong people-leadership and enterprise SaaS fit; US-only remote and no fulfillm
 - **Team size:** 10+ engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-28 Screened
+  - 2026-07-28 Saved
   - 2026-07-28 Passed
 
 ## Red flags

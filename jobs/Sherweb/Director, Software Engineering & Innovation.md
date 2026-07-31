@@ -10,7 +10,7 @@ Director-level role managing 80 people through 5 managers; strong AI-adoption ma
 - **Team size:** ~80 (through 5 direct manager reports)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-17 Screened
+  - 2026-07-17 Saved
   - 2026-07-17 Passed
 
 ## Red flags

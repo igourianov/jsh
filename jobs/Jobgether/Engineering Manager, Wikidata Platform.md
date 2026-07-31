@@ -8,7 +8,7 @@
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-03-29 Screened
+  - 2026-03-29 Saved
   - 2026-03-29 Passed
 
 ## Red flags

@@ -10,7 +10,7 @@ Strong baseline and people management fit, but the heavy data ingestion focus is
 - **Team size:** Platform, infrastructure and integration pods (size not specified)
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-23 Screened
+  - 2026-04-23 Saved
   - 2026-04-23 Passed
 
 ## Red flags

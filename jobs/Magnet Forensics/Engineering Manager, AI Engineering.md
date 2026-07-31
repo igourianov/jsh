@@ -10,7 +10,7 @@ Strong management fit, but the core "applied AI/ML systems" requirement is a rea
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-03 Screened
+  - 2026-06-03 Saved
   - 2026-06-03 Passed
 
 ## Qualifications

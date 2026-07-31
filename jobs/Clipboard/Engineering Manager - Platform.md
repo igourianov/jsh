@@ -10,7 +10,7 @@ Excellent platform-leadership fit. Candidate has stood up a platform team, built
 - **Team size:** Not stated (Platform team within ~100-person eng/product/design org)
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-30 Screened
+  - 2026-05-30 Saved
   - 2026-05-30 Passed
 
 ## Qualifications

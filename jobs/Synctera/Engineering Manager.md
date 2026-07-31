@@ -10,7 +10,7 @@ Solid people-management and platform-leadership fit, but no Go experience agains
 - **Team size:** Not stated (multiple backend/platform teams)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-17 Screened
+  - 2026-07-17 Saved
   - 2026-07-17 Passed
 
 ## Qualifications

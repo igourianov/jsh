@@ -8,9 +8,9 @@
 - **Compensation:** {Salary range}
 - **Benefits:** {Benefits}
 - **Team size:** {number of reports}
-- **Status:** Screened
+- **Status:** Saved
 - **Progress:**
-  - {current date: yyyy-MM-dd} Screened
+  - {current date: yyyy-MM-dd} Saved
 
 ## Red flags
 - **{Category}:** {description}
@@ -39,6 +39,6 @@
 
 ## Log
 
-### {current date: yyyy-MM-dd} Screened
+### {current date: yyyy-MM-dd} Saved
 
 {omit this section entirely if there is nothing to say beyond the screen itself}

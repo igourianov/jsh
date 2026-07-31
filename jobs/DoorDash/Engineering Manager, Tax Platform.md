@@ -10,7 +10,7 @@ Strong baseline and leadership match. No tax/fintech domain experience is the on
 - **Team size:** Not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-06 Screened
+  - 2026-04-06 Saved
   - 2026-04-06 Applied
   - 2026-05-15 Rejected
 

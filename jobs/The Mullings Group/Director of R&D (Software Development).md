@@ -10,7 +10,7 @@ Strong people leadership, but deep domain mismatch: no medical imaging, AI/ML fo
 - **Team size:** Growing team (size not specified)
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-05 Screened
+  - 2026-04-05 Saved
   - 2026-04-05 Passed
 
 ## Qualifications

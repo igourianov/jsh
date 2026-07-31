@@ -10,7 +10,7 @@ Strong EM-fit backend leadership role; only soft gap is fraud/ML domain exposure
 - **Team size:** ~8-10 engineers
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-12 Screened
+  - 2026-05-12 Saved
   - 2026-05-12 Applied
   - 2026-06-29 Ghosted
 

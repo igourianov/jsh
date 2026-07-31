@@ -10,7 +10,7 @@ Strong leadership and cross-functional fit; domain gap in consumer marketplace i
 - **Team size:** Not specified
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-04-13 Screened
+  - 2026-04-13 Saved
   - 2026-04-13 Applied
   - 2026-05-15 Ghosted
 

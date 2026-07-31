@@ -10,7 +10,7 @@ Strong management match undermined by zero semiconductor domain experience.
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-07 Screened
+  - 2026-04-07 Saved
   - 2026-04-07 Passed
 
 ## Red flags

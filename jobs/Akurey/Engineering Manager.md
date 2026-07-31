@@ -10,7 +10,7 @@ Strong process/people fit; AI-feature-shipping and exact tech stack (GraphQL/Pos
 - **Team size:** Not specified (candidates expected to have managed teams of 8+)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-30 Screened
+  - 2026-07-30 Saved
   - 2026-07-30 Passed
 
 ## Qualifications

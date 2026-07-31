@@ -10,7 +10,7 @@ Strong leadership/process fit for a fintech platform EM role, but the hard Go re
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-20 Screened
+  - 2026-07-20 Saved
   - 2026-07-20 Passed
 
 ## Qualifications

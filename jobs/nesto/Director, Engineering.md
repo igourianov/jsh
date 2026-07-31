@@ -10,7 +10,7 @@ Director-level fintech role with strong people leadership fit but meaningful gap
 - **Team size:** 30+ engineers across multiple Engineering Manager reports
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-28 Screened
+  - 2026-04-28 Saved
   - 2026-04-28 Passed
 
 ## Red flags

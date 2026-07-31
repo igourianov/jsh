@@ -10,7 +10,7 @@ Hands-on EM role at ASICS Apps subsidiary running endurance event tech. Strong l
 - **Team size:** Not stated
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-23 Screened
+  - 2026-05-23 Saved
   - 2026-05-23 Applied
   - 2026-06-29 Ghosted
 

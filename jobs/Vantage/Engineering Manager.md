@@ -10,7 +10,7 @@ Strong leadership and SaaS fit; only gaps are retail media domain and the Python
 - **Team size:** Not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-06-25 Screened
+  - 2026-06-25 Saved
   - 2026-06-25 Applied
   - 2026-06-30 Rejected
 

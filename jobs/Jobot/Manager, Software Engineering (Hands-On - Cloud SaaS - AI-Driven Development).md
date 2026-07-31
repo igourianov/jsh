@@ -10,7 +10,7 @@ Near-perfect fit: hands-on EM, cloud SaaS, .NET stack and AI-driven development.
 - **Team size:** 10-15 engineers (full-stack, backend, DevOps)
 - **Status:** Rejected
 - **Progress:**
-  - 2026-06-01 Screened
+  - 2026-06-01 Saved
   - 2026-06-01 Applied
   - 2026-06-04 Rejected
 

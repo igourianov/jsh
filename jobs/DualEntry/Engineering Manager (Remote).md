@@ -10,7 +10,7 @@ Strong leadership and architecture fit at an intense, fast-growing AI ERP startu
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-28 Screened
+  - 2026-05-28 Saved
   - 2026-05-28 Passed
 
 ## Qualifications

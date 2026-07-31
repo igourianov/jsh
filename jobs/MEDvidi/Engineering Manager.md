@@ -9,7 +9,7 @@ Strong people-management match with a timezone concern. B2B contractor arrangeme
 - **Team size:** Not stated
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-07 Screened
+  - 2026-04-07 Saved
   - 2026-04-14 Rejected
 
 ## Red flags

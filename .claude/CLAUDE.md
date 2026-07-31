@@ -130,11 +130,15 @@ State lives in each screening file's metadata block:
 ```
 - **Status:** Active
 - **Progress:**
-  - 2026-06-24 Screened
+  - 2026-06-24 Saved
   - 2026-06-25 Applied
-  - 2026-07-08 Scheduled - recruiter screen 2026-07-14
+  - 2026-07-08 Contacted: recruiter screen booked for 2026-07-14
   - 2026-07-14 Recruiter screen
 ```
+
+**Every entry is a fact about something that has already happened.** The log is a record, not a plan. An entry's stage names the event that occurred on that date, never an intention or a future action. A booked interview is not an entry; the recruiter reaching out to book it is, and the interview gets its own entry on the day it happens.
+
+Anything forward-looking after the colon is incidental and has a shelf life. "booked for 2026-07-14" is useful until the call happens and is then just trivia.
 
 The Progress log is the source of truth. There are no `Saved` or `Updated` fields: the first and last log dates carry them.
 
@@ -152,9 +156,9 @@ Derived, never set by hand.
 
 | Status | Open | Meaning |
 |---|---|---|
-| `Screened` | yes | Evaluated, not applied |
+| `Saved` | yes | Recorded and evaluated, not applied to |
 | `Applied` | yes | Submitted, no contact yet. Ghost clock running |
-| `Active` | yes | Contact made: outreach, scheduled, interviewing, awaiting result |
+| `Active` | yes | Contact made: outreach, interviewing, awaiting result |
 | `Passed` | — | I declined without applying |
 | `Rejected` | — | They said no, no human contact |
 | `Failed` | — | They said no after contact |
@@ -166,24 +170,25 @@ Derived, never set by hand.
 
 | Rank | Stages |
 |---|---|
-| 0 | `Screened` |
+| 0 | `Saved` |
 | 1 | `Applied` |
-| 2 | `Contacted`, `Scheduled`, `Recruiter screen`, `Hiring manager`, `Technical interview`, `Panel`, `Offer` |
+| 2 | `Contacted`, `Recruiter screen`, `Hiring manager`, `Technical interview`, `Panel`, `Offer` |
 | neutral | `Follow-up` |
 | terminal | `Passed`, `Rejected`, `Failed`, `Ghosted`, `Withdrew`, `Accepted` |
 
 Status is the furthest rank reached in the current cycle, or the terminal entry if the log ends in one.
 
-- `Contacted` is inbound recruiter outreach. A record that starts from outreach rather than a posting opens with it instead of `Screened`.
-- `Scheduled` is a transition to `Active`, not the interview. Date it when the scheduling happened and put the future date in the note, so no log date is ever in the future.
+- `Contacted` is any inbound approach from the company: a recruiter cold-reaching out, or reaching back after you applied to book a screen. It is the entry that moves a record to `Active`, because someone there engaged. A record that starts from outreach rather than a posting opens with it instead of `Saved`.
 - `Follow-up` is outbound, so it does not reset the ghost clock. Chasing a silent application must not hide that it is dead.
-- Reapplying appends to the same record. A terminal entry may be followed by `Screened`, `Applied` or `Contacted`, which reopens it.
+- Reapplying appends to the same record. A terminal entry may be followed by `Saved`, `Applied` or `Contacted`, which reopens it.
 
 ### Rules
 
-- New screen: one `Screened` entry, dated that day.
+- New screen: one `Saved` entry, dated that day.
 - User applies: `node scripts/job.mjs log <file> Applied`.
-- Any round, outcome or outreach: log it with the stage and date.
+- Any round, outcome or outreach: log it with the stage and the date it happened.
+- Recruiter reaches out to book a call: that is `Contacted`, dated the day they reached out. Put the booking in the note. Log the round itself on the day it takes place, with its notes.
+- A note goes after a colon: `2026-07-09 Applied: asked $180K CAD on application form`. Use it sparingly; anything longer than a clause belongs under the entry's `###` heading in `## Log`.
 - Ghost sweep is a query, not a judgment call: `node scripts/job.mjs ghost` lists anything silent past 21 days, `--apply` marks them.
 - Blacklisting a company: add an entry to `jobs/black-list.md` with the reason. Do not touch Status.
 - Never move company folders. The state machine tracks state, the filesystem does not.

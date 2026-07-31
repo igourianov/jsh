@@ -10,7 +10,7 @@ Strong leadership fit for a talent-magnet/PLG-focused role, but PLG experimentat
 - **Team size:** ~9 direct reports across Core (PLG) and DataIQ (AI/Agents) teams
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-07 Screened
+  - 2026-07-07 Saved
   - 2026-07-07 Passed
 
 ## Qualifications

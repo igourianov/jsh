@@ -10,7 +10,7 @@ Strong EM fit with platform-adjacent and AI-tooling depth; the main gap is the 1
 - **Team size:** Not stated (platform team across infra, DevOps, SRE, developer experience)
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-19 Screened
+  - 2026-05-19 Saved
   - 2026-05-19 Passed
 
 ## Qualifications

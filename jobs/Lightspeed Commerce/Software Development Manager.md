@@ -10,7 +10,7 @@ Strong leadership, technical and delivery match; fintech/payments domain is the 
 - **Team size:** Not stated (manages a software development team directly and indirectly via a Technical Lead Staff Engineer)
 - **Status:** Failed
 - **Progress:**
-  - 2026-06-03 Screened
+  - 2026-06-03 Saved
   - 2026-06-08 Recruiter screen
   - 2026-07-10 Recruiter screen
   - 2026-07-17 Failed

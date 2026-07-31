@@ -10,7 +10,7 @@ Strong leadership and technical fit, but zero insurance/payments domain experien
 - **Team size:** Not specified (multiple teams implied)
 - **Status:** Applied
 - **Progress:**
-  - 2026-07-22 Screened
+  - 2026-07-22 Saved
   - 2026-07-22 Applied
 
 ## Qualifications

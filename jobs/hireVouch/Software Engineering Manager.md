@@ -10,7 +10,7 @@ Strong technical and leadership match for a hands-on EM role; main gaps are lega
 - **Team size:** Multiple teams, mix of onshore/offshore Tech Leads and ICs (size not stated)
 - **Status:** Rejected
 - **Progress:**
-  - 2026-07-16 Screened
+  - 2026-07-16 Saved
   - 2026-07-16 Applied
   - 2026-07-19 Rejected
 

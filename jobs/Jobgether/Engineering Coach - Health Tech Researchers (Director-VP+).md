@@ -10,7 +10,7 @@ Part-time 1:1 coaching role for Director/VP+ leaders with AI/ML research backgro
 - **Team size:** N/A (1:1 coaching)
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-21 Screened
+  - 2026-04-21 Saved
   - 2026-04-21 Passed
 
 ## Red flags

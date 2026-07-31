@@ -10,7 +10,7 @@ Strong platform and people-leadership fit; SRE-specific reliability depth and th
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-19 Screened
+  - 2026-05-19 Saved
   - 2026-05-19 Passed
 
 ## Qualifications

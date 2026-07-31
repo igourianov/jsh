@@ -10,7 +10,7 @@ Strong operational management fit. 8+ years leading engineering teams, SOC 2 com
 - **Team size:** Not specified (software engineers, QA and DevOps)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-04-23 Screened
+  - 2026-04-23 Saved
   - 2026-04-23 Applied
   - 2026-05-23 Ghosted
 

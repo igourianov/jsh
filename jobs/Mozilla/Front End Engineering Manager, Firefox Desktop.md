@@ -10,7 +10,7 @@ Strong comp and title match, but the role is frontend-specialist (design systems
 - **Team size:** not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-14 Screened
+  - 2026-07-14 Saved
   - 2026-07-14 Passed
 
 ## Qualifications

@@ -8,7 +8,7 @@
 - **Team size:** Not specified (net new position)
 - **Status:** Rejected
 - **Progress:**
-  - 2026-03-24 Screened
+  - 2026-03-24 Saved
   - 2026-03-24 Applied
   - 2026-03-29 Rejected
 

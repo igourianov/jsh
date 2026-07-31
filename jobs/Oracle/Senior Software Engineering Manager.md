@@ -10,7 +10,7 @@ Excellent fit with strong comp clearing target, but the posting is near-empty bo
 - **Team size:** Not stated
 - **Status:** Rejected
 - **Progress:**
-  - 2026-06-01 Screened
+  - 2026-06-01 Saved
   - 2026-06-01 Applied
   - 2026-06-03 Rejected
 

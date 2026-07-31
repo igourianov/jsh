@@ -10,7 +10,7 @@ Strong leadership and platform-services fit; only soft gap is fraud/identity dom
 - **Team size:** Not stated
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-13 Screened
+  - 2026-05-13 Saved
   - 2026-05-13 Applied
   - 2026-06-29 Ghosted
 

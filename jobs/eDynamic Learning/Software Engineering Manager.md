@@ -8,7 +8,7 @@
 - **Team size:** Not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-01 Screened
+  - 2026-04-01 Saved
   - 2026-04-01 Applied
   - 2026-04-08 Rejected
 

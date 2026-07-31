@@ -10,7 +10,7 @@ Strong EM fit for an AI-powered healthcare automation product, but role is hybri
 - **Team size:** Not stated
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-12 Screened
+  - 2026-05-12 Saved
   - 2026-05-12 Applied
   - 2026-06-29 Ghosted
 

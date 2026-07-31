@@ -10,7 +10,7 @@ Exceptional payroll/workforce domain fit; only real gap is the Ruby on Rails sta
 - **Team size:** Not stated
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-20 Screened
+  - 2026-06-20 Saved
   - 2026-06-20 Applied
   - 2026-07-16 Ghosted
 

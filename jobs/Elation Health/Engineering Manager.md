@@ -10,7 +10,7 @@ Strong match. Player-coach EM role building AI-powered clinical tools. Stack mis
 - **Team size:** 3-5 engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-17 Screened
+  - 2026-04-17 Saved
   - 2026-04-17 Passed
 
 ## Red flags

@@ -10,7 +10,7 @@ Solid platform/people leadership match, but data-ingestion-specific platform wor
 - **Team size:** Not stated (data and platform engineers)
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-07 Screened
+  - 2026-05-07 Saved
   - 2026-05-07 Passed
 
 ## Red flags

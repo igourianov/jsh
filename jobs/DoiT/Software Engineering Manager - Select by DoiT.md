@@ -10,7 +10,7 @@ Strong leadership and process fit, but material gap on the modern data-platform 
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-21 Screened
+  - 2026-07-21 Saved
   - 2026-07-21 Passed
 
 ## Qualifications

@@ -10,7 +10,7 @@ Strong management and AI tooling fit, but role requires hands-on Ruby on Rails e
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-08 Screened
+  - 2026-05-08 Saved
   - 2026-05-08 Passed
 
 ## Qualifications

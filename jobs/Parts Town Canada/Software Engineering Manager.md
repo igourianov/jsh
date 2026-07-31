@@ -10,7 +10,7 @@ Strong leadership and process match; main gaps are ecommerce domain and Node.js/
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-04 Screened
+  - 2026-07-04 Saved
   - 2026-07-04 Passed
 
 ## Red flags

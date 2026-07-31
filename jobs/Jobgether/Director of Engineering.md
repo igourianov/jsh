@@ -10,7 +10,7 @@ Strong fit on high-scale distributed systems, AI tooling and team scaling. Main 
 - **Team size:** Global org of engineering managers and distributed software teams
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-05 Screened
+  - 2026-06-05 Saved
   - 2026-06-05 Applied
   - 2026-06-29 Ghosted
 

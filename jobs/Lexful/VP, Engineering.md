@@ -10,7 +10,7 @@ Strong technical and people-leadership fit, but title level (VP vs. EM) and lack
 - **Team size:**
 - **Status:** Failed
 - **Progress:**
-  - 2026-07-13 Screened
+  - 2026-07-13 Saved
   - 2026-07-15 Recruiter screen
   - 2026-07-15 Recruiter screen
   - 2026-07-21 Failed

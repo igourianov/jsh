@@ -10,7 +10,7 @@ Strong people-leadership and product EM fit, but role explicitly wants frontend-
 - **Team size:** ~10 engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-11 Screened
+  - 2026-04-11 Saved
   - 2026-04-11 Passed
 
 ## Qualifications

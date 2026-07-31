@@ -10,7 +10,7 @@ Strong leadership match but no e-commerce domain experience. Salary range $155-1
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-05 Screened
+  - 2026-04-05 Saved
   - 2026-04-05 Passed
 
 ## Red flags

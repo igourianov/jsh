@@ -10,7 +10,7 @@ Excellent EM profile match for a web-focused product team. Only gap is fintech d
 - **Team size:** Not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-08 Screened
+  - 2026-04-08 Saved
   - 2026-04-08 Applied
   - 2026-04-30 Rejected
 

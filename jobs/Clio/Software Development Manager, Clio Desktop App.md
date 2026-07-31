@@ -10,7 +10,7 @@ Strong management fit but the core technical requirement is Windows Desktop (C#/
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-17 Screened
+  - 2026-04-17 Saved
   - 2026-04-18 Passed
 
 ## Red flags

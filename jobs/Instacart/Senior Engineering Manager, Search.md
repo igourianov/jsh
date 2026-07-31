@@ -10,7 +10,7 @@ Strong people leader, but a heavily ML/search-weighted role he has no ranking/re
 - **Team size:** New team being stood up; senior engineers plus embedded MLEs/ML leads
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-04 Screened
+  - 2026-06-04 Saved
   - 2026-06-04 Passed
 
 ## Qualifications

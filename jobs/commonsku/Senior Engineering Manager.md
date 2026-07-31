@@ -10,7 +10,7 @@ Strong leadership and technical fit; only real gap is e-commerce/promo-products 
 - **Team size:** eCommerce and Supplier teams (size not stated)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-18 Screened
+  - 2026-06-18 Saved
   - 2026-06-18 Applied
   - 2026-07-16 Ghosted
 

@@ -15,7 +15,7 @@
 
 - **Status:** Rejected
 - **Progress:**
-  - 2026-02-05 Screened
+  - 2026-02-05 Saved
   - 2026-02-05 Rejected
 
 ## Gaps

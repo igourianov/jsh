@@ -10,7 +10,7 @@ Pre-sales/deal-cycle leadership role, not software engineering management. Candi
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-05 Screened
+  - 2026-07-05 Saved
   - 2026-07-05 Passed
 
 ## Qualifications

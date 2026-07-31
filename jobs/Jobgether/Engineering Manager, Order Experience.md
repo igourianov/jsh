@@ -10,7 +10,7 @@ Strong leadership/management fit, but e-commerce/checkout domain is a gap agains
 - **Team size:** 8+ engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-14 Screened
+  - 2026-07-14 Saved
   - 2026-07-14 Passed
 
 ## Qualifications

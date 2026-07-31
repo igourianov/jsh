@@ -10,7 +10,7 @@ Strong EM leadership fit, but the role is built around Python/ML/LLM dataset wor
 - **Team size:** 20+ engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-03 Screened
+  - 2026-06-03 Saved
   - 2026-06-03 Passed
 
 ## Qualifications

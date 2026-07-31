@@ -10,7 +10,7 @@ Strong general engineering leader, but zero trading/brokerage domain and no late
 - **Team size:** Not specified (build and scale a new institutional trading engineering org)
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-30 Screened
+  - 2026-05-30 Saved
   - 2026-05-30 Passed
 
 ## Qualifications

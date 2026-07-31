@@ -10,7 +10,7 @@ Strong leadership and technical fit, but candidate's domain is B2B enterprise Sa
 - **Team size:** Not specified
 - **Status:** Applied
 - **Progress:**
-  - 2026-07-29 Screened
+  - 2026-07-29 Saved
   - 2026-07-29 Applied
 
 ## Qualifications

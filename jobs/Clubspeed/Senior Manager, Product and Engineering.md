@@ -10,8 +10,8 @@ Strong match. Player-coach role leading Product and Engineering through an on-pr
 - **Team size:** Not specified (soon to hire a product manager as first direct report; engineering team size unstated)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-07-09 Screened
-  - 2026-07-09 Applied - asked $180K CAD on application form
+  - 2026-07-09 Saved
+  - 2026-07-09 Applied: asked $180K CAD on application form
   - 2026-07-31 Ghosted
 
 ## Qualifications

@@ -10,7 +10,7 @@ Strong technical/people-management fit with direct Claude Code experience matchi
 - **Team size:** not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-22 Screened
+  - 2026-07-22 Saved
   - 2026-07-22 Passed
 
 ## Qualifications

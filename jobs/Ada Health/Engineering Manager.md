@@ -10,7 +10,7 @@ Player-coach EM for client integration layer. Leadership and SaaS depth strong; 
 - **Team size:** Small (likely 3-6)
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-11 Screened
+  - 2026-05-11 Saved
   - 2026-05-11 Passed
 
 ## Qualifications

@@ -10,7 +10,7 @@ Strong leadership and technical fit, but no fintech, banking or payments domain 
 - **Team size:** 7+ backend and full-stack engineers
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-14 Screened
+  - 2026-05-14 Saved
   - 2026-05-14 Passed
 
 ## Qualifications

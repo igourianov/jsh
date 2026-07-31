@@ -10,7 +10,7 @@ Remote EM role owning CI/CD, testing frameworks and developer experience; leader
 - **Team size:** Distributed team of engineers, partly in Poland (exact count unstated)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-24 Screened
+  - 2026-07-24 Saved
   - 2026-07-24 Passed
 
 ## Qualifications

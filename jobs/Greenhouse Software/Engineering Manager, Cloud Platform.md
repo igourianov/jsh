@@ -10,7 +10,7 @@ Solid people-management fit but a weak technical match: role requires deep AWS h
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-22 Screened
+  - 2026-07-22 Saved
   - 2026-07-22 Passed
 
 ## Red flags

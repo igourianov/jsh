@@ -9,7 +9,7 @@
 
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-03-17 Screened
+  - 2026-03-17 Saved
   - 2026-03-17 Applied
   - 2026-04-04 Ghosted
 

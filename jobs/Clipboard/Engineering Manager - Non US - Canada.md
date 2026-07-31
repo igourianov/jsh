@@ -10,7 +10,7 @@ Strong EM/technical leadership match. Main gaps: no marketplace experience and h
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-16 Screened
+  - 2026-04-16 Saved
   - 2026-04-16 Passed
 
 ## Qualifications

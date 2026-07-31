@@ -10,7 +10,7 @@ Strong people/product leadership fit, but no mobile, marketplace or gig-economy 
 - **Team size:** 10-12 engineers
 - **Status:** Applied
 - **Progress:**
-  - 2026-07-28 Screened
+  - 2026-07-28 Saved
   - 2026-07-28 Applied
 
 ## Qualifications

@@ -10,7 +10,7 @@ Execution-focused EM role that maps almost perfectly to your delivery, on-call, 
 - **Team size:** ~10 engineers (USA, Canada, EU, UK, China)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-16 Screened
+  - 2026-06-16 Saved
   - 2026-06-16 Applied
   - 2026-07-16 Ghosted
 

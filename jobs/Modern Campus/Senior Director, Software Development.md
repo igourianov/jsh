@@ -10,7 +10,7 @@ Strong leadership and AI-assisted SDLC alignment, but backend stack mismatch (Ja
 - **Team size:** Multiple teams across Connected Curriculum product suite, scaling to additional product lines (manager-of-managers)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-05-14 Screened
+  - 2026-05-14 Saved
   - 2026-05-14 Applied
   - 2026-06-29 Ghosted
 

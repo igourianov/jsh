@@ -10,7 +10,7 @@ Strong technical and leadership fit, but a step up from EM to Director and a dom
 - **Team size:** Not stated (org of multiple teams/managers)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-07 Screened
+  - 2026-07-07 Saved
   - 2026-07-07 Passed
 
 ## Qualifications

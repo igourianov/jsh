@@ -10,7 +10,7 @@ Strong leadership fit, but the role centers on AI evaluation/experimentation inf
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-08 Screened
+  - 2026-07-08 Saved
   - 2026-07-08 Passed
 
 ## Qualifications

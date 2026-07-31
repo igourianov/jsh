@@ -10,7 +10,7 @@ Strong leadership and backend/distributed-systems fit; main gap is consumer-inte
 - **Team size:** Not stated (existing team, expected to grow via hiring in first year)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-24 Screened
+  - 2026-06-24 Saved
   - 2026-06-24 Applied
   - 2026-07-16 Ghosted
 

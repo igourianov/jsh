@@ -10,7 +10,7 @@ Remote Canada EM role at an undisclosed health-tech SaaS. Near-perfect fit on de
 - **Team size:** 8-12
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-02 Screened
+  - 2026-06-02 Saved
   - 2026-06-02 Applied
   - 2026-06-29 Ghosted
 

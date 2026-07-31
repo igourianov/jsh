@@ -10,7 +10,7 @@ Strong qualifications match, but the posting is thin on specifics and the actual
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-21 Screened
+  - 2026-07-21 Saved
   - 2026-07-21 Passed
 
 ## Red flags

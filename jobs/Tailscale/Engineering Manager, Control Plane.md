@@ -10,7 +10,7 @@ Strong people-management and technical-leadership fit; Go and networking domain 
 - **Team size:** 6-12 engineers (2-3 pods of 2-4 engineers each)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-29 Screened
+  - 2026-07-29 Saved
   - 2026-07-29 Passed
 
 ## Qualifications

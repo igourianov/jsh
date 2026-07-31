@@ -10,7 +10,7 @@ Strong technical and leadership match. No legal tech domain experience. Hybrid T
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-05 Screened
+  - 2026-04-05 Saved
   - 2026-04-05 Passed
 
 ## Red flags

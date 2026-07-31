@@ -10,7 +10,7 @@ Strong alignment across all management dimensions; only gap is AWS depth vs. pri
 - **Team size:** Not stated (single engineering pod)
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-29 Screened
+  - 2026-06-29 Saved
   - 2026-06-29 Applied
   - 2026-07-31 Ghosted
 

@@ -10,7 +10,7 @@ Strong leadership and SaaS delivery match; comp is below target and Java is the 
 - **Team size:** Multiple Agile teams (size unspecified)
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-07 Screened
+  - 2026-05-07 Saved
   - 2026-05-07 Passed
 
 ## Red flags

@@ -10,7 +10,7 @@ Strong baseline match. AI leadership experience is the only notable gap.
 - **Team size:** Not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-05 Screened
+  - 2026-04-05 Saved
   - 2026-04-05 Applied
   - 2026-04-08 Rejected
 

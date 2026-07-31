@@ -10,7 +10,7 @@ Strong leadership and delivery fit; only gap is the trades/SMB vertical, and com
 - **Team size:** Two cross-functional product squads
 - **Status:** Rejected
 - **Progress:**
-  - 2026-06-06 Screened
+  - 2026-06-06 Saved
   - 2026-06-06 Applied
   - 2026-07-14 Rejected
 

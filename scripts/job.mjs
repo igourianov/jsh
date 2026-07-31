@@ -24,10 +24,9 @@ const GHOST_DAYS = 21; // "no response in over 3 weeks"
 
 // Rank drives status: a record sits at the furthest rank its log reached.
 const RANK = {
-  Screened: 0,
+  Saved: 0,
   Applied: 1,
   Contacted: 2,
-  Scheduled: 2,
   'Recruiter screen': 2,
   'Hiring manager': 2,
   'Technical interview': 2,
@@ -46,7 +45,7 @@ const TERMINAL = {
 };
 
 const STAGES = new Set([...Object.keys(RANK), ...Object.keys(TERMINAL)]);
-const OPEN_STATUS = new Set(['Screened', 'Applied', 'Active']);
+const OPEN_STATUS = new Set(['Saved', 'Applied', 'Active']);
 
 // ---------------------------------------------------------------- primitives
 
@@ -86,15 +85,20 @@ const FIELD_RE = /^[ \t]*-[ \t]+\*\*([^*:]+):\*\*[ \t]*(.*)$/;
 const ENTRY_RE = /^[ \t]+-[ \t]+(\d{4}-\d{2}-\d{2})[ \t]+(.+?)[ \t]*$/;
 
 // Splits an entry body into stage and optional note. Longest stage name wins so
-// "Recruiter screen" is not mistaken for a bare token.
+// "Recruiter screen" is not mistaken for a bare token. Reads the old " - "
+// separator as well as the current ": " so pre-existing entries still parse.
 function splitStage(body) {
   const names = [...STAGES].sort((a, b) => b.length - a.length);
   for (const name of names) {
     if (body === name) return { stage: name, note: '' };
-    if (body.startsWith(name + ' - ')) return { stage: name, note: body.slice(name.length + 3).trim() };
+    for (const sep of [': ', ' - ']) {
+      if (body.startsWith(name + sep)) return { stage: name, note: body.slice(name.length + sep.length).trim() };
+    }
   }
   return { stage: body, note: '' }; // unknown; check() reports it
 }
+
+const entryLine = (e) => `${e.date} ${e.stage}${e.note ? ': ' + e.note : ''}`;
 
 export function parse(file) {
   return parseText(fs.readFileSync(file, 'utf8'), file);
@@ -151,7 +155,7 @@ export function parseText(text, file) {
 // otherwise the furthest rank any entry reached.
 // Stages that reopen a closed application. Reapplying is normal: Petal's role was
 // reposted under a new URL, Slice was re-applied to a month after the first attempt.
-const REOPEN = new Set(['Screened', 'Applied', 'Contacted']);
+const REOPEN = new Set(['Saved', 'Applied', 'Contacted']);
 
 export function derive(log) {
   if (!log.length) return null;
@@ -175,7 +179,7 @@ export function derive(log) {
   }
   if (best >= 2) return 'Active';
   if (best >= 1) return 'Applied';
-  return 'Screened';
+  return 'Saved';
 }
 
 // Ordering weight for entries that share a date. Follow-up sits above the pipeline
@@ -198,7 +202,7 @@ export function clockAnchor(log) {
 // The only place metadata state is rendered. Both log and migrate go through here.
 function renderState(log) {
   const out = ['- **Progress:**'];
-  for (const e of log) out.push(`  - ${e.date} ${e.stage}${e.note ? ' - ' + e.note : ''}`);
+  for (const e of log) out.push(`  - ${entryLine(e)}`);
   return out;
 }
 
@@ -236,7 +240,8 @@ export function check(file, text = null) {
   const rel = path.relative(ROOT, file);
   const push = (msg) => v.push({ file: rel, msg });
 
-  if (rec.fields.has('Saved')) push('has a Saved field; the date belongs in the log');
+  // The legacy "- **Saved:** date" field, not the Saved stage that replaced it.
+  if (rec.fields.has('Saved')) push('has a legacy Saved field; that date is now the first Progress entry');
   if (!rec.fields.has('Progress')) return [{ file: rel, msg: 'no Progress field' }];
   if (!rec.log.length) return [{ file: rel, msg: 'Progress log is empty' }];
 
@@ -252,7 +257,7 @@ export function check(file, text = null) {
 
   // 4. entry point
   const first = rec.log[0].stage;
-  if (first !== 'Screened' && first !== 'Contacted') push(`first entry is "${first}", expected Screened or Contacted`);
+  if (first !== 'Saved' && first !== 'Contacted') push(`first entry is "${first}", expected Saved or Contacted`);
 
   // 5. a terminal entry ends the log, unless the next entry reopens the application
   for (let i = 0; i < rec.log.length - 1; i++) {
@@ -319,10 +324,12 @@ function parseLegacyProgress(value) {
   const date = m[2] || null;
   const note = (m[3] || '').trim();
 
-  // "Recruiter screen scheduled" is a transition to Active, not the interview itself.
+  // "Recruiter screen scheduled" records the recruiter reaching out, not the
+  // interview. The interview gets its own entry on the day it happens.
   if (/scheduled$/i.test(label)) {
     const what = label.replace(/\s*scheduled$/i, '').trim();
-    return { stage: 'Scheduled', date, note: [what && `${what.toLowerCase()} ${date || ''}`.trim(), note].filter(Boolean).join('; ') };
+    const booked = [what && `${what.toLowerCase()} booked${date ? ` for ${date}` : ''}`, note].filter(Boolean).join('; ');
+    return { stage: 'Contacted', date, note: booked };
   }
   const found = [...STAGES].sort((a, b) => b.length - a.length).find((s) => s.toLowerCase() === label.toLowerCase());
   return { stage: found || label, date, note };
@@ -354,7 +361,7 @@ function migrateRecord(file) {
     notes.push(`no usable Saved field; used ${saved}`);
   }
 
-  const log = [{ date: saved, stage: 'Screened', note: '' }];
+  const log = [{ date: saved, stage: 'Saved', note: '' }];
 
   const prog = parseLegacyProgress(rec.fields.get('Progress')?.value ?? '');
   if (prog && prog.stage && RANK[prog.stage] !== undefined) {
@@ -385,6 +392,7 @@ function migrateRecord(file) {
     }
     log.push({ date: d, stage, note: '' });
   } else if (!['Screened', 'Active'].includes(base)) {
+    // "Screened" here is the pre-rename legacy Status value, not the current stage.
     notes.push(`unrecognised Status "${rawStatus}"; needs manual review`);
   }
 
@@ -451,6 +459,16 @@ function cmdLog(args) {
   }
   const date = flag(args, '--date') ?? today();
   const note = flag(args, '--note') ?? '';
+  if (!isDate(date)) {
+    console.error(`--date must be YYYY-MM-DD, got "${date}"`);
+    return 1;
+  }
+  // The log records what has happened. An interview you have booked is not an
+  // entry yet; the contact that booked it is.
+  if (date > today()) {
+    console.error(`${date} is in the future. The log is a record of facts, not a plan.\nLog the contact that scheduled it instead, then log the round on the day it happens.`);
+    return 1;
+  }
 
   const rec = parse(file);
   if (!rec.canonical) {
@@ -469,7 +487,7 @@ function cmdLog(args) {
   log.splice(at, 0, entry);
 
   const { status } = write(rec, log);
-  console.log(`${path.relative(ROOT, file)}\n  + ${date} ${stage}${note ? ' - ' + note : ''}\n  Status: ${status}`);
+  console.log(`${path.relative(ROOT, file)}\n  + ${entryLine(entry)}\n  Status: ${status}`);
   return 0;
 }
 
@@ -487,7 +505,7 @@ function cmdList(args) {
     const anchor = clockAnchor(rec.log);
     const age = days(anchor, today());
     if (wantOpen && !OPEN_STATUS.has(st)) continue;
-    if (wantStale && !(OPEN_STATUS.has(st) && st !== 'Screened' && age > GHOST_DAYS)) continue;
+    if (wantStale && !(OPEN_STATUS.has(st) && st !== 'Saved' && age > GHOST_DAYS)) continue;
     if (status && st !== status) continue;
     if (stage && !rec.log.some((e) => e.stage === stage)) continue;
     rows.push({ st, age, last: rec.log[rec.log.length - 1], file: path.relative(JOBS, f) });
@@ -588,7 +606,7 @@ function cmdMigrate(args) {
     const block = [
       `### ${rel}`,
       `Status: ${rec.fields.get('Status')?.value ?? '?'}  ->  ${status}`,
-      ...log.map((e) => `  - ${e.date} ${e.stage}${e.note ? ' - ' + e.note : ''}`),
+      ...log.map((e) => `  - ${entryLine(e)}`),
       ...notes.map((n) => `  ! ${n}`),
       '',
     ].join('\n');
@@ -692,7 +710,7 @@ function attribute(section, records) {
 
 // What stage a notes heading is talking about. Needed because 64 application dates
 // were approximated to the screen date, so date alone cannot tell "Application"
-// from "Screened" when both entries share a day.
+// from "Saved" when both entries share a day.
 const HEADING_STAGE = [
   [/outreach|reached out/i, 'Contacted'],
   [/recruiter\s*screen|^screen\b/i, 'Recruiter screen'],
@@ -702,7 +720,7 @@ const HEADING_STAGE = [
   [/offer/i, 'Offer'],
   [/follow-?up/i, 'Follow-up'],
   [/appl/i, 'Applied'],
-  [/scheduled/i, 'Scheduled'], // last: a heading naming a round beats the word "scheduled"
+  [/scheduled/i, 'Contacted'], // last: a heading naming a round beats the word "scheduled"
 ];
 
 function headingStage(heading) {

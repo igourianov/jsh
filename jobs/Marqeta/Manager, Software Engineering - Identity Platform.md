@@ -10,7 +10,7 @@ Fintech identity/compliance platform role. Strong leadership and AI-first alignm
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-14 Screened
+  - 2026-05-14 Saved
   - 2026-05-14 Passed
 
 ## Qualifications

@@ -10,7 +10,7 @@ Strong leadership and AI-tooling fit, but no title-level track record as Directo
 - **Team size:** Not stated (multiple squads, reports to engineering leader)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-29 Screened
+  - 2026-07-29 Saved
   - 2026-07-29 Passed
 
 ## Qualifications

@@ -10,7 +10,7 @@ Strong EM skills match but no startup or fintech experience. Risk/fraud domain i
 - **Team size:** Not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-06 Screened
+  - 2026-04-06 Saved
   - 2026-04-06 Applied
   - 2026-04-09 Rejected
 

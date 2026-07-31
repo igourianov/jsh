@@ -8,9 +8,9 @@ Strong platform/multi-tenancy and team leadership fit. Main gap is retail/commer
 - **Compensation:** CAD $229,000 - $241,500
 - **Benefits:** Equity grants + annual refresh, health and wellness, learning opportunities, team events
 - **Team size:** 10+ engineers (multiple platform/infrastructure initiatives)
-- **Status:** Screened
+- **Status:** Saved
 - **Progress:**
-  - 2026-05-22 Screened
+  - 2026-05-22 Saved
 
 ## Qualifications
 

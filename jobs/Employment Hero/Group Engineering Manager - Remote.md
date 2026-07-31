@@ -10,7 +10,7 @@ Strong manager-of-managers fit at an AI-first HR/payroll SaaS; only gap is a for
 - **Team size:** Cohort of Engineering Managers and Engineers across HR and Payroll domains (count not stated)
 - **Status:** Applied
 - **Progress:**
-  - 2026-05-15 Screened
+  - 2026-05-15 Saved
   - 2026-07-14 Applied
 
 ## Qualifications

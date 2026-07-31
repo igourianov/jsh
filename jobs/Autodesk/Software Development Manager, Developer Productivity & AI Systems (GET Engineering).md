@@ -10,7 +10,7 @@ Strong people and product management fit, but technical stack is web/growth-focu
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-06 Screened
+  - 2026-04-06 Saved
   - 2026-04-06 Passed
 
 ## Red flags

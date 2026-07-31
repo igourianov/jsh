@@ -10,7 +10,7 @@ Excellent management fit. 8+ years leading engineering teams, strong SDLC and pr
 - **Team size:** Not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-06 Screened
+  - 2026-04-06 Saved
   - 2026-04-06 Applied
   - 2026-04-09 Rejected
 

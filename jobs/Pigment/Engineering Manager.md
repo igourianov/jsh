@@ -10,7 +10,7 @@ Strong match. Hybrid Toronto with 50% coding expectation is the main considerati
 - **Team size:** Not specified (building AMER hub, managing engineers across Europe and North America)
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-06 Screened
+  - 2026-04-06 Saved
   - 2026-04-06 Applied
   - 2026-05-04 Rejected
 

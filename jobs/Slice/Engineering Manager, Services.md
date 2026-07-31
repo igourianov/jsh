@@ -10,7 +10,7 @@ Strong leadership and backend-platform fit; main gap is no Python/Go/Ruby and no
 - **Team size:** Not stated (reports to an Engineering Director)
 - **Status:** Rejected
 - **Progress:**
-  - 2026-06-26 Screened
+  - 2026-06-26 Saved
   - 2026-06-26 Applied
   - 2026-07-24 Applied
   - 2026-07-30 Rejected

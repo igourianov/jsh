@@ -10,7 +10,7 @@ Team lead role with real people/product management overlap, but the AI/LLM syste
 - **Team size:** Not stated (cross-functional Dev & QA team)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-29 Screened
+  - 2026-07-29 Saved
   - 2026-07-29 Passed
 
 ## Qualifications

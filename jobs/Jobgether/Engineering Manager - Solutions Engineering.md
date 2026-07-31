@@ -10,7 +10,7 @@ Solid people-management fit, but the role wants a hands-on Python/OpenStack/Linu
 - **Team size:** Not stated
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-04 Screened
+  - 2026-07-04 Saved
   - 2026-07-04 Passed
 
 ## Qualifications

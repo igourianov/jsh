@@ -10,7 +10,7 @@ Strong leadership and platform fit; main gap is no direct banking/fintech domain
 - **Team size:** Not specified
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-11 Screened
+  - 2026-06-11 Saved
   - 2026-06-11 Passed
 
 ## Qualifications

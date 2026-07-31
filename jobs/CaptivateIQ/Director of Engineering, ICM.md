@@ -10,7 +10,7 @@ Strong leadership and technical fit at a remote, well-funded SaaS; gaps are the 
 - **Team size:** Multiple engineering teams and managers (org-level, exact count unstated)
 - **Status:** Passed
 - **Progress:**
-  - 2026-06-06 Screened
+  - 2026-06-06 Saved
   - 2026-06-06 Passed
 
 ## Qualifications

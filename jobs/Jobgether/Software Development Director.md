@@ -10,7 +10,7 @@ Director role at an undisclosed Jobgether partner; strong leadership fit but sal
 - **Team size:** Multiple teams (EMs, leads, seniors across regions)
 - **Status:** Passed
 - **Progress:**
-  - 2026-05-27 Screened
+  - 2026-05-27 Saved
   - 2026-05-27 Passed
 
 ## Red flags

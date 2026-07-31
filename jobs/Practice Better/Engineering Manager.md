@@ -10,7 +10,7 @@ Strong profile match. Exceeds experience requirements, direct alignment on peopl
 - **Team size:** Two teams (Core + Growth), size not specified
 - **Status:** Rejected
 - **Progress:**
-  - 2026-04-21 Screened
+  - 2026-04-21 Saved
   - 2026-04-21 Applied
   - 2026-05-01 Rejected
 

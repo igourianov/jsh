@@ -10,7 +10,7 @@ Strong people-management and transition-leadership match; real gap on shipping c
 - **Team size:** Not specified (Landing Page Builder group within ~55-person engineering org)
 - **Status:** Withdrew
 - **Progress:**
-  - 2026-07-07 Screened
+  - 2026-07-07 Saved
   - 2026-07-07 Applied
   - 2026-07-07 Recruiter screen
   - 2026-07-07 Withdrew

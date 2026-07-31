@@ -10,7 +10,7 @@ Re-posting of the role you applied to in March (then ghosted); near-perfect fit,
 - **Team size:** Small, senior-heavy team
 - **Status:** Ghosted
 - **Progress:**
-  - 2026-06-09 Screened
+  - 2026-06-09 Saved
   - 2026-06-09 Applied
   - 2026-06-09 Ghosted
 
