@@ -84,7 +84,7 @@ There is no `## Outcome` section any more. The terminal Progress entry is the ou
 | `## Summary` | yes | Role summary, `- **Coding:** X%`, responsibilities |
 | `## Company` | yes | Company and product description |
 | `## Keywords` | yes | Flat comma-separated ATS keywords |
-| `## Questions` | no | Role-specific questions not yet tied to a round. See Interview prep |
+| `## Questions` | no | Live list of what to ask about this role. See Interview prep |
 | `## Log` | no | Round narratives, added as the application progresses |
 
 Do not invent other sections. `## Gaps`, `## Alignment`, `## Required Qualifications` and `## Optional Qualifications` appear in 84 or so older files from a previous screen format. They are legacy, not a pattern to follow, and are left alone rather than migrated.
@@ -104,10 +104,13 @@ Prep goes to the narrowest scope it is still true at:
 |---|---|---|
 | Every interview, any company | `interview.md` (repo root) | "About Me", "Why I'm Interested", standing talking points |
 | One company, any role there | `jobs/{Company}/notes.md` `## Questions` | PE exit timeline, org stability, comp bands |
-| One application, nothing scheduled yet | screening file `## Questions` | Questions raised by this specific posting |
-| One round | `#### Questions` under that round's `###` heading in `## Log` | Questions for the named interviewer on that call |
+| One application | screening file `## Questions` | Questions raised by this posting, and for any round of it |
 
-Once a round is scheduled, log `Scheduled` and move that round's prep under its `###` heading, so prep sits next to the notes it will produce. `check` only constrains `###` headings of the form `YYYY-MM-DD Stage`, so `####` sub-blocks are free-form.
+There is no per-round prep section. `## Questions` is one living list for the whole application, regardless of what is scheduled: prep is reused across rounds, and splitting it per round only forces you to move it every time something gets booked.
+
+The split that matters is direction, not scope. `## Questions` is forward-looking and mutable, pruned as things get answered. `## Log` is backward-looking and append-only. When a question is answered on a call, the answer is part of what happened, so it goes in that round's `###` block and the question leaves the list.
+
+`check` only constrains `###` headings of the form `YYYY-MM-DD Stage`, so `####` sub-blocks inside a round are free-form if you want to group its notes.
 
 **When to write:**
 - After every recruiter/interviewer interaction, log the stage with `job.mjs log`, then write observations under its `###` heading

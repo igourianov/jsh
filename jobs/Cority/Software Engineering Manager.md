@@ -86,7 +86,7 @@ Software Engineering Manager, Engineering Manager, C#, .NET, .NET Core, .NET Fra
 - Katharine will check with the team whether they can do 180k+10%; otherwise would pass
 - Interview process: screen, hiring manager + other director interview, senior (VP or CTO) interview
 
-#### Questions
+#### Questions asked
 * reasons for position opening - answered: current manager going on mat leave, team expected to grow by the time she's back
 * PE exit timeline and org stability
 * actual team/product this role is in (accquisition sprawl concerning) - unclear beyond "core product CorityOne"
