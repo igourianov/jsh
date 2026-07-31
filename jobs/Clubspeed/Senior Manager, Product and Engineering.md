@@ -8,10 +8,11 @@ Strong match. Player-coach role leading Product and Engineering through an on-pr
 - **Compensation:** $150K-190K CAD base (estimated, not disclosed) - Director of Engineering pay for small/PE-owned SaaS company (~38 employees, Valsoft/Manos roll-up), likely near the low end of candidate's 180-200K target given company size and conservative PE compensation norms
 - **Benefits:** Health, dental, vision, flexible time off
 - **Team size:** Not specified (soon to hire a product manager as first direct report; engineering team size unstated)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-07-09 Screened
   - 2026-07-09 Applied - asked $180K CAD on application form
+  - 2026-07-31 Ghosted
 
 ## Qualifications
 

@@ -8,10 +8,11 @@ Strong leadership and delivery fit; the Python/Java/Go language gap is the only 
 - **Compensation:** CAD 154,700 - CAD 212,800
 - **Benefits:** Equity, ESPP, RRSP, health/dental/vision/mental health, PTO, parental leave, professional development, AI tools access
 - **Team size:** Multiple teams
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-06-29 Screened
   - 2026-06-29 Applied
+  - 2026-07-31 Ghosted
 
 ## Qualifications
 

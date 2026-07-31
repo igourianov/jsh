@@ -8,10 +8,11 @@ Excellent fit: product engineering leadership over multiple SaaS squads at on-ta
 - **Compensation:** CAD 175,000 - 195,000 base
 - **Benefits:** ESPP, RRSP 4% match, flexible time off, annual wellness stipend, remote-first
 - **Team size:** Multiple engineering squads (not specified)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-06-09 Screened
   - 2026-06-09 Applied
+  - 2026-07-31 Ghosted
 
 ## Qualifications
 

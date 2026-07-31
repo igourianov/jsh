@@ -8,10 +8,11 @@ Strong overall fit on management scope and seniority; main gaps are PLG/experime
 - **Compensation:** CAD $150,000 - $190,000 base (stated)
 - **Benefits:** Wellness benefits + annual wellness stipend, 3 weeks vacation, paid volunteer day, 2 floating holidays, Employee Stock Purchase Program, RRSP with 4% company match
 - **Team size:** ~9 engineers across multiple product teams
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-07-07 Screened
   - 2026-07-07 Applied
+  - 2026-07-31 Ghosted
 
 ## Qualifications
 

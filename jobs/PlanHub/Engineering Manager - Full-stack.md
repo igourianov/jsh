@@ -8,10 +8,11 @@ Strong alignment across all management dimensions; only gap is AWS depth vs. pri
 - **Compensation:** Not stated (estimated $140,000–$180,000 USD)
 - **Benefits:** Open time-off policy, 401(k)/GRSP with company match
 - **Team size:** Not stated (single engineering pod)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-06-29 Screened
   - 2026-06-29 Applied
+  - 2026-07-31 Ghosted
 
 ## Qualifications
 
