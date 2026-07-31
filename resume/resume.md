@@ -7,7 +7,7 @@ Engineering Manager who has built several high-performing engineering teams and 
 
 # Competencies
 
-* **People leadership:** hiring, mentoring, scaling teams, performance management and career development, leading remote teams, managing contractors
+* **People leadership:** hiring, mentoring, scaling teams, performance management and "career" development, leading remote teams, managing contractors
 * **Technical leadership:** system design, code reviews, technical mentorship, AI tooling adoption
 * **Product delivery:** roadmap planning, OKRs, SDLC ownership, DORA metrics, data-driven decision-making, cross-functional partnership with Product, UX and Architecture
 * **Process:** Agile/Scrum, capacity planning, on-call rotations, escalation triage and prioritization, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR

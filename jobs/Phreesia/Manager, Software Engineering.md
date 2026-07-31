@@ -1,6 +1,6 @@
-# Engineering Manager | Product | Healthcare | 88%
+# Engineering Manager | Product | Healthcare | 70%
 
-Strong all-round fit; main gap is direct Voice AI/LLM production experience, offset by heavy weighting on people/technical management strengths.
+Strong technical and web stack fit (.NET, React, healthcare industry background) and genuine AI-adoption leadership experience (led an AI-assisted framework migration with Claude Code), but the role's headline ask, production Voice AI/LLM systems, is a real gap, and AWS/MySQL/DynamoDB sit outside an Azure/SQL Server background.
 
 - **URL:** https://www.linkedin.com/jobs/view/4441306016/
 - **Company:** Phreesia
@@ -13,49 +13,59 @@ Strong all-round fit; main gap is direct Voice AI/LLM production experience, off
   - 2026-07-17 Saved
   - 2026-07-17 Applied
   - 2026-07-28 Contacted: recruiter screen booked for 2026-08-03
+  - 2026-07-31 Saved
 
 ## Qualifications
 
-### Technical (weight:42%, match:82%)
-- Experience building/supporting distributed applications in .NET (C#) or Java
-- Experience designing, building or integrating Voice AI agents and LLM-powered workflows in production
-- Experience adopting/leading AI-assisted development tools (coding assistants, AI testing, code generation)
-- Established practices for reviewing and validating AI-generated code
-- Experience with MySQL, DynamoDB, cloud-native architectures, RESTful APIs, CI/CD pipelines
-- Experience with modern web apps: JavaScript, HTML, CSS, React or Angular
-- Experience deploying and operating distributed systems on AWS
+### Technical
+- Experience building and supporting highly distributed applications in .NET (C#) or Java (weight:30%, match:100%)
+- Experience designing, building or integrating Voice AI agents and LLM-powered workflows into production systems (weight:18%, match:25%)
+- Leading adoption of AI-assisted/agentic development tools; establishing practices to validate and safely incorporate AI-generated code (weight:16%, match:75%)
+- Experience deploying and operating distributed systems on AWS (weight:8%, match:50%)
+- Modern web app development: JavaScript, HTML, CSS, React or Angular (weight:6%, match:100%)
+- Experience with MySQL (weight:3%, match:50%)
+- Experience with DynamoDB (weight:3%, match:25%)
+- Cloud-native architectures (weight:3%, match:100%)
+- RESTful APIs (weight:2%, match:100%)
+- Architectural oversight, design reviews, system design and scalability (baseline)
+- CI/CD practices and release process for own team (baseline)
+- Code reviews via pull requests (baseline)
+- Meeting software quality and security standards for own team's services (baseline)
+- Hands-on technical work: implementing functionality, technical documentation (baseline)
 
-### Baseline (weight:34%, match:100%)
-- Engineering Manager title/experience
-- 8+ years building/supporting distributed software applications
-- 3+ years people management experience leading software engineering teams
-- 3+ years project management experience delivering successful software releases
+### Product domain
+- Healthcare industry experience (weight:8%, match:75%)
 
-### Product domain (weight:8%, match:50%)
-- Healthcare industry experience
+### People management
+- Managing contractors and external vendors (weight:4%, match:25%)
+- Hire, mentor and support engineers; foster inclusive, high-performing team (baseline)
+- Leading a distributed/remote engineering team (baseline)
+- Career development and growth of engineering talent (baseline)
 
-### People management (weight:7%, match:93%)
-- Hire, mentor and support engineers; foster inclusive high-performing team
-- Experience managing contractors and external vendors
+### Product management
+- Delivery and execution: sprint planning, delivering quality scalable software meeting business, customer and technical requirements (baseline)
+- Cross-functional partnership with Product, Engineering and Architecture (baseline)
+- 3+ years project management experience delivering successful software releases (baseline)
 
-### Product management (weight:7%, match:100%)
-- Lead sprint planning and execution; delivery accountability
-- Own product health: bug fixes, maintenance, production support, customer escalations
+### Process management
+- Own product health: bug fixes, maintenance, production support, customer escalations (baseline)
 
-### Education (weight:2%, match:100%)
-- Bachelor's degree in CS or related discipline, or equivalent experience
+### Eligibility
+- Engineering Manager title/experience (baseline)
+- 8+ years building and supporting highly distributed software applications (baseline)
+- 3+ years people management experience leading software engineering teams (baseline)
 
-### Process management (weight:1%, match:100%)
-- CI/CD practices and engineering process improvement
+### Education
+- Bachelor's degree in CS or related discipline, or equivalent experience (baseline)
 
-### Soft skills (weight:1%, match:100%)
-- Excellent technical and non-technical communication skills
+### Soft skills
+- Excellent technical and non-technical communication skills (baseline)
 
 ## Summary
 
 Manager, Software Engineering on Phreesia's VoiceAI team, leading a distributed team building AI-powered voice solutions for patient engagement. Blends people leadership, delivery accountability and hands-on technical execution, with an explicit mandate to drive responsible adoption of AI-assisted/agentic development practices across the team.
 
-- **Coding:** ~15% Contributes to implementation, technical documentation and design reviews alongside people management duties
+- **Coding:** ~15% Implements functionality, writes technical documentation and participates in design reviews alongside people management duties
 - Lead and grow the engineering team (hiring, mentoring)
 - Drive sprint planning/execution and own product health (bugs, production support, escalations)
 - Champion AI-assisted/agentic development tool adoption and establish validation practices for AI-generated code
