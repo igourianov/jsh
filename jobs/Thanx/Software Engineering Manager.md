@@ -3,7 +3,6 @@
 
 ### Match: 65%
 
-- **Saved:** 2026-02-09
 - **URL:** https://job-boards.greenhouse.io/thanx/jobs/7621728003
 - **Company:** Thanx
 - **Location:** Remote - Canada
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-09 Screened
+  - 2026-02-09 Rejected
 
 ## Gaps
 

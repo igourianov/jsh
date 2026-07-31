@@ -2,15 +2,16 @@
 
 Remote EM role at a venture-backed construction robotics startup, leading a team building BIM modeling automation and platform services in C#/Python; strong leadership and C# fit, but no BIM/CAD/GIS or construction-tech domain experience.
 
-- **Saved:** 2026-05-12
 - **URL:** https://www.linkedin.com/jobs/view/4413267743/
 - **Company:** Promise Robotics
 - **Location:** Remote (Greater Montreal Metropolitan Area)
 - **Compensation:** Not stated; "mid to above-average Canadian salaries" (estimated 160-200k CAD)
 - **Benefits:** Stock options, paramedical, dental, vision, drug coverage, HCSA from Day 1, flexible PTO, relocation assistance
 - **Team size:** Not stated
-- **Status:** Passed (2026-05-12)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-12 Screened
+  - 2026-05-12 Passed
 
 ## Qualifications
 

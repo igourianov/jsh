@@ -2,7 +2,6 @@
 
 Staff/Principal IC role, deeply hands-on coding expected; strong platform domain overlap but weak fit for candidate's management track.
 
-- **Saved:** 2026-07-21
 - **URL:** https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime
 - **Company:** Snowflake Computing
 - **Location:** Not specified (posting notes Ontario job posting compliance; salary/benefits directed to US careers site)
@@ -11,6 +10,7 @@ Staff/Principal IC role, deeply hands-on coding expected; strong platform domain
 - **Team size:** Not stated
 - **Status:** Screened
 - **Progress:**
+  - 2026-07-21 Screened
 
 ## Qualifications
 

@@ -2,15 +2,17 @@
 
 Strong fit on leadership and SaaS scale. Previously applied to this exact role and got ghosted. Re-posted under a new requisition.
 
-- **Saved:** 2026-05-20
 - **URL:** https://www.linkedin.com/jobs/view/4417008690/
 - **Company:** Affinity.co
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** $196,000 - $245,000 CAD
 - **Benefits:** Extended health (employee + dependents), flexible personal & sick days, RRSP, L&D budget, wellness reimbursement (internet, meals, fitness)
 - **Team size:** Not specified
-- **Status:** Rejected (2026-06-04)
-- **Progress:** Applied (2026-05-20)
+- **Status:** Rejected
+- **Progress:**
+  - 2026-05-20 Screened
+  - 2026-05-20 Applied
+  - 2026-06-04 Rejected
 
 ## Red flags
 - **Previously ghosted:** Candidate applied to this exact role on a prior requisition (4397166625) and was ghosted on 2026-05-15. Same posting re-listed under requisition 4417008690 within a week.

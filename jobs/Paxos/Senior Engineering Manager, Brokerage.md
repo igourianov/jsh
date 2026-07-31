@@ -1,14 +1,15 @@
 # Senior Engineering Manager | Product | Fintech/Crypto | 68%
 
-- **Saved:** 2026-04-02
 - **URL:** https://www.linkedin.com/jobs/view/4395347808/
 - **Company:** Paxos
 - **Location:** Remote (Canada)
 - **Compensation:** $253,000 - $290,550 USD
 - **Benefits:** Not specified
 - **Team size:** Multiple teams (not specified)
-- **Status:** Passed (2026-04-02)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-02 Screened
+  - 2026-04-02 Passed
 
 ## Qualifications
 

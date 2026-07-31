@@ -3,7 +3,6 @@
 
 ### Match: 45%
 
-- **Saved:** 2026-02-18
 - **URL:** https://www.linkedin.com/jobs/view/4374708309/
 - **Company:**
 - **Posted by:** Jobgether
@@ -15,7 +14,9 @@
 - **Team size:** Up to 20
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-18 Screened
+  - 2026-02-18 Rejected
 
 ## Red flags
 - **Vague job description:** The posting is extremely thin on specifics. No mention of the actual hiring company, product, industry, tech stack details, or concrete deliverables. The five listed accountabilities are generic people-management duties that apply to any engineering manager role. No information about what the team builds, what challenges exist, or what success looks like.

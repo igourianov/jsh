@@ -2,15 +2,17 @@
 
 Strong leadership and cross-functional fit; domain gap in consumer marketplace is the only material miss.
 
-- **Saved:** 2026-04-13
 - **URL:** https://www.linkedin.com/jobs/view/4401561079/
 - **Company:** Yelp
 - **Location:** Remote, Canada
 - **Compensation:** $200,000+ CAD (top of range, stated)
 - **Benefits:** RSUs, standard Yelp benefits package
 - **Team size:** Not specified
-- **Status:** Ghosted (2026-05-15)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-04-13 Screened
+  - 2026-04-13 Applied
+  - 2026-05-15 Ghosted
 
 ## Red flags
 - **Heavy DEI emphasis:** DEI language embedded in responsibilities ("build a strong and diverse team", "Foster and build a fun, diverse, and inclusive culture that reflects Yelp's values"), beyond a standard footer.

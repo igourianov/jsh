@@ -1,14 +1,15 @@
 # Director of Engineering | Platform | Financial Services | 56%
 
-- **Saved:** 2026-04-02
 - **URL:** https://www.linkedin.com/jobs/view/4380977659/
 - **Company:** Vancity
 - **Location:** Hybrid (Vancouver, BC; open to BC and Ontario)
 - **Compensation:** $148,000 - $182,800 CAD
 - **Benefits:** Customizable benefits from day 1 (health, dental, vision), defined benefit pension, 3-4 weeks vacation, 2 extra stat holidays, care days, annual incentive program
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-02)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-02 Screened
+  - 2026-04-02 Passed
 
 ## Red flags
 - **Location mismatch:** Role is hybrid based in Vancouver. Open to Ontario candidates but expects on-site presence for events and business demands. Travel to Vancouver from Fort Erie would be required periodically.

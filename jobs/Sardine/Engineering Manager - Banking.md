@@ -2,15 +2,16 @@
 
 Strong leadership and platform fit; main gap is no direct banking/fintech domain experience.
 
-- **Saved:** 2026-06-11
 - **URL:** https://www.linkedin.com/jobs/view/4407563369/
 - **Company:** Sardine
 - **Location:** Remote (US or Canada)
 - **Compensation:** $180k-220k USD base + equity (estimated)
 - **Benefits:** Cash + equity, early option exercise (incl. pre-vested), flexible PTO + year-end break, health/dental/vision (employees + dependents), 4% 401k/RRSP match, MacBook Pro, home office stipend, monthly meal + social stipends, annual health/wellness + learning stipends
 - **Team size:** Not specified
-- **Status:** Passed (2026-06-11)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-11 Screened
+  - 2026-06-11 Passed
 
 ## Qualifications
 

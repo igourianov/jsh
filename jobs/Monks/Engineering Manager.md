@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2025-02-10
 - **URL:** https://www.monks.com/careers/ontario/engineering-manager?gh_src=a9b949034us
 - **Company:** Monks (S4 Capital plc)
 - **Location:** Ontario, Canada (Hybrid - RTO policy applies if near office)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-10 Screened
+  - 2026-02-10 Rejected
 
 ## Gaps
 - **iOS / Native experience:** Job explicitly requires experience with Native (iOS) applications. Candidate's background is entirely web-based (.NET, React, Angular) with no native mobile development.

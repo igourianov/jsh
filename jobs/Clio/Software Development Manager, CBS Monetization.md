@@ -2,15 +2,16 @@
 
 Heavy product management component (requirement definition, stakeholder alignment). Strong management fit but no billing/payments domain experience and requires Burnaby commute.
 
-- **Saved:** 2026-04-20
 - **URL:** https://www.linkedin.com/jobs/view/4403659133/
 - **Company:** Clio (Themis Solutions Inc.)
 - **Location:** Hybrid (Burnaby hub only. Twice per week anchor days. Must be local or able to commute.)
 - **Compensation:** $176,000 - $264,000 CAD (midpoint $220,000)
 - **Benefits:** Health, dental, vision, RRSP matching, RESP contribution, $2,000 counseling benefit, flexible time off (20 days encouraged)
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-20)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-20 Screened
+  - 2026-04-20 Passed
 
 ## Red flags
 - **Location mismatch:** Explicitly requires candidates "local or able to commute to our Burnaby hub." Fort Erie is on the opposite side of the country. No remote option mentioned for this role.

@@ -2,15 +2,16 @@
 
 Player-coach EM for client integration layer. Leadership and SaaS depth strong; Kotlin/Spring Boot gap and no shipped SDKs.
 
-- **Saved:** 2026-05-11
 - **URL:** https://www.linkedin.com/jobs/view/4412671550/
 - **Company:** Ada Health
 - **Location:** Remote (Canada, Eastern or Atlantic time zones preferred)
 - **Compensation:** Not stated (estimated $140K-$175K CAD)
 - **Benefits:** Flexible hours, 20 days vacation plus public holidays, corporate health insurance, home office setup, co-working subscription option, parental benefits, Employee Assistance Programs, Online Academy
 - **Team size:** Small (likely 3-6)
-- **Status:** Passed (2026-05-11)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-11 Screened
+  - 2026-05-11 Passed
 
 ## Qualifications
 

@@ -2,15 +2,16 @@
 
 Platform EM role at a government services outsourcer; pay is well below target and infra-heavy scope leans away from candidate's product-EM background.
 
-- **Saved:** 2026-04-20
 - **URL:** https://www.linkedin.com/jobs/view/4404349733/
 - **Company:** WCG Services
 - **Location:** Remote (Canada)
 - **Compensation:** $120,000 - $130,000 CAD
 - **Benefits:** Health and dental, RRSP matching 1.5% base, PTO, learning and development
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-20)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-20 Screened
+  - 2026-04-20 Passed
 
 ## Red flags
 - **Below-market compensation:** $120-130k CAD salary is well below candidate's target of $180-200k CAD for an Engineering Manager role; also below market rate for a Platform EM with 7+ years cloud experience requirement.

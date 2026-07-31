@@ -2,15 +2,16 @@
 
 Strong people-leader and platform-modernization fit; e-commerce/checkout domain is the main gap.
 
-- **Saved:** 2026-07-11
 - **URL:** https://www.linkedin.com/jobs/view/4439501480/
 - **Company:** Instacart
 - **Location:** Remote (Canada - Ontario, Alberta, British Columbia, Nova Scotia only)
 - **Compensation:** CAD $196,000 - $207,000 base
 - **Benefits:** New hire equity grant, annual equity refresh grants, benefits package (not detailed)
 - **Team size:** 8+ engineers
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-11 Screened
+  - 2026-07-11 Applied
 
 ## Qualifications
 

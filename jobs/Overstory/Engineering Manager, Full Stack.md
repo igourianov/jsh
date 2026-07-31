@@ -3,7 +3,6 @@
 
 ### Match: 82%
 
-- **Saved:** 2026-02-25
 - **URL:** https://www.linkedin.com/jobs/view/4377889109/
 - **Company:** Overstory
 - **Location:** Remote (Canada eligible)
@@ -14,7 +13,9 @@
 - **Team size:** Up to 10 engineers (including Tech Leads)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-25 Screened
+  - 2026-02-26 Rejected
 
 ## Gaps
 

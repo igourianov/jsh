@@ -1,6 +1,5 @@
 # Director of Software Development | Product | B2B SaaS | 74%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4389841581/
 - **Company:** Loopio
 - **Location:** Remote (Ontario/BC, Canada)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-25 Rejected
 
 ## Red flags
 - **Heavy DEI emphasis:** DEI language is embedded into role qualifications ("track record of building inclusive, high-trust team environments") and responsibilities ("foster a high-performing, inclusive engineering culture centered on accountability, autonomy, and craft"), going beyond a standard equal-opportunity footer.

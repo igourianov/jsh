@@ -2,15 +2,16 @@
 
 Strong manager-of-managers fit at an AI-first HR/payroll SaaS; only gap is a formal Group EM title.
 
-- **Saved:** 2026-05-15
 - **URL:** https://www.linkedin.com/jobs/view/4415366837/
 - **Company:** Employment Hero
 - **Location:** Remote (Canada)
 - **Compensation:** $200,000-$260,000 CAD (estimated)
 - **Benefits:** ESOP (employee share options), generous parental leave, subsidised egg freezing, WFH office expense budget, learning & development budget, annual global gathering
 - **Team size:** Cohort of Engineering Managers and Engineers across HR and Payroll domains (count not stated)
-- **Status:** Active
-- **Progress:** Applied (2026-07-14)
+- **Status:** Applied
+- **Progress:**
+  - 2026-05-15 Screened
+  - 2026-07-14 Applied
 
 ## Qualifications
 

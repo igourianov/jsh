@@ -2,15 +2,16 @@
 
 Director-level fintech role with strong people leadership fit but meaningful gaps in fintech ledger expertise, EDA depth and French language.
 
-- **Saved:** 2026-04-28
 - **URL:** https://www.linkedin.com/jobs/view/4407823436/
 - **Company:** nesto
 - **Location:** Canada (posting tagged Remote, body states Hybrid)
 - **Compensation:** Not specified (estimated 200-260k CAD base for Director level in Canadian fintech)
 - **Benefits:** Premium benefits fully paid (insurance, telemedicine, mental health), 4 weeks vacation
 - **Team size:** 30+ engineers across multiple Engineering Manager reports
-- **Status:** Passed (2026-04-28)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-28 Screened
+  - 2026-04-28 Passed
 
 ## Red flags
 - **Location:** LinkedIn tags say "Remote" but posting body says "Working framework... Hybrid model". Contradictory. Likely Hybrid out of Montreal HQ.

@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Enterprise Mobility/IoT | 96%
 
-- **Saved:** 2026-03-23
 - **URL:** https://www.linkedin.com/jobs/view/4374437863/
 - **Company:** SOTI
 - **Location:** Hybrid (Mississauga, ON)
@@ -8,8 +7,11 @@
 - **Benefits:** Not specified
 - **Team size:** Not specified
 
-- **Status:** Rejected (2026-04-04)
-- **Progress:** Recruiter screen (2026-03-23)
+- **Status:** Failed
+- **Progress:**
+  - 2026-03-23 Screened
+  - 2026-03-23 Recruiter screen
+  - 2026-04-04 Failed
 
 ## Red flags
 - **Location mismatch:** Hybrid role in Mississauga, ON. Candidate is in Fort Erie, ON (~150km, not commutable).

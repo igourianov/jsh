@@ -2,15 +2,16 @@
 
 Strong .NET/Angular modernization and leadership fit; healthcare-EMR domain and HIPAA/HITRUST/PHI compliance are the soft spots, plus a step up from EM to Director.
 
-- **Saved:** 2026-06-05
 - **URL:** https://www.linkedin.com/jobs/view/4424932212/
 - **Company:** PrecisionCare Software
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 165-200k CAD base; small PE-owned company likely pays below the Toronto Director market median of ~198-208k CAD despite broad de facto head-of-engineering scope)
 - **Benefits:** Not stated
 - **Team size:** Not stated (oversees managers and senior developers)
-- **Status:** Active
-- **Progress:** Applied (2026-07-13)
+- **Status:** Applied
+- **Progress:**
+  - 2026-06-05 Screened
+  - 2026-07-13 Applied
 
 ## Qualifications
 

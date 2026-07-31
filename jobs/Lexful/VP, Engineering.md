@@ -2,15 +2,17 @@
 
 Strong technical and people-leadership fit, but title level (VP vs. EM) and lack of startup/MSP domain experience pull the score down.
 
-- **Saved:** 2026-07-13
 - **URL:** https://lexful.bamboohr.com/careers/25
 - **Company:** Lexful
 - **Location:** Vancouver, British Columbia (Remote)
 - **Compensation:** $175,000 - $200,000 base + up to $40,000 OTE (total OTE $240,000)
 - **Benefits:** 100% employer-paid extended health and dental for employee and family, equity
 - **Team size:**
-- **Status:** Rejected (2026-07-21)
-- **Progress:** Recruiter screen (2026-07-15)
+- **Status:** Failed
+- **Progress:**
+  - 2026-07-13 Screened
+  - 2026-07-15 Recruiter screen
+  - 2026-07-21 Failed
 
 ## Qualifications
 

@@ -2,15 +2,16 @@
 
 Strong people management and process fit, but the role demands deep platform/infra/SRE background (10+ years) that skews heavier than candidate's 4 years of platform-specific experience. AI agentic workflow focus is novel and partially aligned.
 
-- **Saved:** 2026-04-21
 - **URL:** https://www.linkedin.com/jobs/view/4360045469/
 - **Company:** Shakepay
 - **Location:** Remote (Canada)
 - **Compensation:** $209,000-$253,000 CAD
 - **Benefits:** Stock options, health/dental, mental health budget, $2,000 training budget, 20 days vacation (+$1,000 bonus if fully used), 18 weeks parental leave at 100%, quarterly offsites, unlimited AI token budget
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-21 Screened
+  - 2026-04-21 Passed
 
 ## Qualifications
 

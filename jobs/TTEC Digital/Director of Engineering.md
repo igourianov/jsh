@@ -2,15 +2,16 @@
 
 Strong leadership and AI-tooling fit, but no title-level track record as Director and zero CX/contact-center domain experience.
 
-- **Saved:** 2026-07-29
 - **URL:** https://www.linkedin.com/jobs/view/4444181831/
 - **Company:** TTEC Digital
 - **Location:** Toronto, ON (Remote)
 - **Compensation:** Not stated (estimated: $190-230K CAD for Director of Engineering, remote, SaaS)
 - **Benefits:** Not stated
 - **Team size:** Not stated (multiple squads, reports to engineering leader)
-- **Status:** Passed (2026-07-29)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-29 Screened
+  - 2026-07-29 Passed
 
 ## Qualifications
 

@@ -2,15 +2,16 @@
 
 Strong EM/leadership fit, but core requirement is a Business Systems specialization (MuleSoft, NetSuite, Salesforce) the candidate doesn't have.
 
-- **Saved:** 2026-07-21
 - **URL:** https://www.linkedin.com/jobs/view/4442673039/
 - **Company:** Tonal
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** CA$175K - CA$200K
 - **Benefits:** Not specified
 - **Team size:** Not specified (small team of Integrations Developers and Business System Administrators, plus matrixed offshore/professional services)
-- **Status:** Passed (2026-07-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-21 Screened
+  - 2026-07-21 Passed
 
 ## Qualifications
 

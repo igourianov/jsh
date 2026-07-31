@@ -2,15 +2,17 @@
 
 Strong EM-fit backend leadership role; only soft gap is fraud/ML domain exposure, which is listed as nice-to-have.
 
-- **Saved:** 2026-05-12
 - **URL:** https://www.linkedin.com/jobs/view/4413519440/
 - **Company:** Jobgether (agency posting on behalf of an undisclosed partner)
 - **Location:** Remote, Canada
 - **Compensation:** Not stated (estimated 180-220k CAD for senior EM remote)
 - **Benefits:** Not stated
 - **Team size:** ~8-10 engineers
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-12 Screened
+  - 2026-05-12 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

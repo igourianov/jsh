@@ -3,7 +3,6 @@
 
 ### Match: 38%
 
-- **Saved:** 2026-03-03
 - **URL:** https://www.linkedin.com/jobs/view/4379408573/
 - **Company:** Intellibus
 - **Location:** Remote (Toronto, ON)
@@ -14,7 +13,9 @@
 - **Team size:** Multiple squads (unspecified count)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-03 Screened
+  - 2026-03-03 Rejected
 
 ## Red Flags
 

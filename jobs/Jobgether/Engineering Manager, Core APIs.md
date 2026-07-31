@@ -2,15 +2,17 @@
 
 Strong leadership and platform-services fit; only soft gap is fraud/identity domain and Go.
 
-- **Saved:** 2026-05-13
 - **URL:** https://www.linkedin.com/jobs/view/4413898117/
 - **Company:** Jobgether (posting on behalf of an undisclosed partner)
 - **Location:** Remote, Canada
 - **Compensation:** Not stated (estimated 160-200k CAD base)
 - **Benefits:** Fully remote, flexible work environment, career growth opportunities (no specifics on health/retirement/equity)
 - **Team size:** Not stated
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-13 Screened
+  - 2026-05-13 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

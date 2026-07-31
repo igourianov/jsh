@@ -2,15 +2,17 @@
 
 Strong leadership and backend-platform fit; main gap is no Python/Go/Ruby and no food-tech/marketplace domain.
 
-- **Saved:** 2026-06-26
 - **URL:** https://www.linkedin.com/jobs/view/4433860752/
 - **Company:** Slice
 - **Location:** Remote (Ontario, Canada)
 - **Compensation:** Not stated (estimated 160-200K CAD base)
 - **Benefits:** Medical, dental, vision; flexible hours; generous PTO; employee well-being allowance; maternity/paternity schemes (vary by location)
 - **Team size:** Not stated (reports to an Engineering Director)
-- **Status:** Rejected (2026-07-30)
-- **Progress:** Applied (2026-07-24)
+- **Status:** Rejected
+- **Progress:**
+  - 2026-06-26 Screened
+  - 2026-07-24 Applied
+  - 2026-07-30 Rejected
 
 ## Qualifications
 

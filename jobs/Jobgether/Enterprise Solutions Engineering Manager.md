@@ -2,15 +2,16 @@
 
 Pre-sales/deal-cycle leadership role, not software engineering management. Candidate has none of the enterprise sales-cycle or Solutions Engineering track record this needs.
 
-- **Saved:** 2026-07-05
 - **URL:** https://www.linkedin.com/jobs/view/4436038777/
 - **Company:** Jobgether (recruiting on behalf of an undisclosed partner company)
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 160-190k CAD, executive-level with commission/equity)
 - **Benefits:** Base salary, commission, equity
 - **Team size:** Not stated
-- **Status:** Passed (2026-07-05)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-05 Screened
+  - 2026-07-05 Passed
 
 ## Qualifications
 

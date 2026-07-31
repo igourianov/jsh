@@ -2,15 +2,16 @@
 
 Strong people-leadership and enterprise SaaS fit; US-only remote and no fulfillment/retail domain experience are the main gaps.
 
-- **Saved:** 2026-07-28
 - **URL:** https://www.linkedin.com/jobs/view/4443203633/
 - **Company:** Instacart
 - **Location:** Remote (United States only)
 - **Compensation:** $221,000 - $279,500 USD base (varies by state) + new hire equity grant + annual refresh grants
 - **Benefits:** Equity grants (new hire + annual refresh), benefits package (not detailed)
 - **Team size:** 10+ engineers
-- **Status:** Passed (2026-07-28)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-28 Screened
+  - 2026-07-28 Passed
 
 ## Red flags
 - **Work authorization:** Role is listed as "United States - Remote" with pay bands tied only to US states. Candidate is a Canadian citizen without US work authorization or a green card.

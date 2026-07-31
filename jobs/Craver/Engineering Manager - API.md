@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Restaurant Tech | 94%
 
-- **Saved:** 2026-03-23
 - **URL:** https://www.linkedin.com/jobs/view/4389281763/
 - **Company:** Craver
 - **Location:** Remote (remote-first, hybrid with Downtown Vancouver office)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-23 Screened
+  - 2026-03-23 Rejected
 
 ## Red flags
 - **Below-market compensation:** Top of range ($160K CAD) is below candidate's target of $180-200K CAD. Entire range skews low for an Engineering Manager expected to write production code daily.

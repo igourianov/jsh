@@ -3,7 +3,6 @@
 
 ### Match: 55%
 
-- **Saved:** 2026-03-06
 - **URL:** https://www.linkedin.com/jobs/view/4381642673/
 - **Company:** Yeti Software Inc.
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Small globally distributed team (developers, QA, contractors)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-06 Screened
+  - 2026-03-06 Rejected
 
 ## Red flags
 

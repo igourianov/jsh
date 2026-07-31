@@ -3,7 +3,6 @@
 
 ### Match: 42%
 
-- **Saved:** 2026-02-18
 - **URL:** https://www.linkedin.com/jobs/view/4374793682/
 - **Company:** Kraken
 - **Posted by:** Ink Foundation
@@ -15,7 +14,9 @@
 - **Team size:** Not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-18 Screened
+  - 2026-02-18 Rejected
 
 ## Red Flags
 

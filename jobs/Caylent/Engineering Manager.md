@@ -2,15 +2,16 @@
 
 Data engineering consulting role on AWS. Strong people management fit but major gaps in AWS data stack (Spark, Hadoop, ML, BI) and no consulting/client delivery experience.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4394721855/
 - **Company:** Caylent
 - **Location:** Remote (Canada)
 - **Compensation:** CAD $180,000 - $202,000 + bonuses, phantom equity
 - **Benefits:** 100% remote, 100% premium health/dental/vision coverage (employee + dependents), LTD, 4% pension match, unlimited vacation, parental leave, paid certifications/exams, equipment & office stipend, L&D stipend
 - **Team size:** 5-8
-- **Status:** Passed (2026-04-06)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Passed
 
 ## Qualifications
 

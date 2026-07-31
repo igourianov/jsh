@@ -3,7 +3,6 @@
 
 ### Match: 88%
 
-- **Saved:** 2026-02-21
 - **URL:** https://www.linkedin.com/jobs/view/4374954377/
 - **Company:** Wealthsimple
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** 8-12+ engineers across two teams (including EMs and Staff+ engineers)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-21 Screened
+  - 2026-02-21 Rejected
 
 ## Gaps
 

@@ -2,15 +2,16 @@
 
 Solid people-management fit, but AI/ML marketplace domain and mobile team scope are gaps.
 
-- **Saved:** 2026-07-31
 - **URL:** https://www.linkedin.com/jobs/view/4446996273/
 - **Company:** Jobgether (agency posting, employer undisclosed)
 - **Location:** Canada, Remote
 - **Compensation:** $231,200-$299,200 CAD (Ontario/BC candidates)
 - **Benefits:** Not specified
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-31)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-31 Screened
+  - 2026-07-31 Passed
 
 ## Qualifications
 

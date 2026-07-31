@@ -2,7 +2,6 @@
 
 Strong leadership and AI-tooling fit; main gaps are Python backend and ecommerce domain.
 
-- **Saved:** 2026-06-05
 - **URL:** https://www.linkedin.com/jobs/view/4424494596/
 - **Company:** Postscript
 - **Location:** Remote (Canada)
@@ -11,6 +10,7 @@ Strong leadership and AI-tooling fit; main gaps are Python backend and ecommerce
 - **Team size:** Not specified (Messaging AI team)
 - **Status:** Screened
 - **Progress:**
+  - 2026-06-05 Screened
 
 ## Qualifications
 

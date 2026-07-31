@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-10
 - **URL:** https://hh.ru/vacancy/129432036
 - **Company:** Fitmost (ООО Фитмост)
 - **Location:** Москва, гибрид (офис на Пятницкой)
@@ -14,7 +13,9 @@
 - **Team size:** 25+ человек, 8 команд
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-10 Screened
+  - 2026-02-10 Rejected
 
 ## Gaps
 - **Tech stack:** Вакансия требует экспертизу в PHP и Golang. У кандидата опыт в .NET/C# и React/TypeScript, нет производственного опыта в PHP или Golang.

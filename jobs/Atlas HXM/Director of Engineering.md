@@ -3,7 +3,6 @@
 
 ### Match: 82%
 
-- **Saved:** 2026-02-05
 - **URL:** https://job-boards.greenhouse.io/atlasxhm/jobs/8405334002?gh_src=u4a5733j2us
 - **Company:** Atlas HXM
 - **Location:** Canada (Remote)
@@ -14,7 +13,9 @@
 - **Team size:** 5-20 engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-05 Screened
+  - 2026-02-13 Rejected
 
 ## Gaps
 - **Title:** Director-level position (candidate is Engineering Manager level)

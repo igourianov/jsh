@@ -1,6 +1,5 @@
 # Senior Engineering Manager | Product | Cloud Infrastructure / Data Streaming | 81%
 
-- **Saved:** 2026-03-20
 - **URL:** https://www.linkedin.com/jobs/view/4388539107/
 - **Company:** Confluent (IBM subsidiary)
 - **Location:** Remote, British Columbia, Canada
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-20 Screened
+  - 2026-03-20 Rejected
 
 ## Red flags
 - **IBM acquisition:** Confluent has been acquired by IBM and will be integrated into the IBM organization. Recruiting data will be shared with IBM affiliates. This may affect company culture, autonomy and long-term team stability.

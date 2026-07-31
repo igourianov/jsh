@@ -2,15 +2,16 @@
 
 Solid EM fit on people leadership and process, but the role centers on internal Tools & Systems (labs, hardware, non-cloud service delivery) rather than product SaaS engineering, and the cybersecurity domain is new territory.
 
-- **Saved:** 2026-07-11
 - **URL:** https://www.linkedin.com/jobs/view/4438366458/
 - **Company:** Arctic Wolf
 - **Location:** Remote - Canada
 - **Compensation:** CAD $110,400 - $246,000 base + variable incentive, new hire equity, benefits
 - **Benefits:** Equity, RRSP/401k match, flexible time off, medical/mental health/dental, EAP, fertility support and paid parental leave
 - **Team size:** Multiple managers/leads reporting (large scope, exact count not specified)
-- **Status:** Passed (2026-07-11)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-11 Screened
+  - 2026-07-11 Passed
 
 ## Qualifications
 

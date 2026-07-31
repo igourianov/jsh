@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-18
 - **URL:** https://www.linkedin.com/jobs/view/4374784952/
 - **Company:** Kraken (Ink Foundation)
 - **Location:** Remote, Canada
@@ -14,7 +13,9 @@
 - **Team size:** Not specified (cross-functional pod of frontend + backend engineers)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-18 Screened
+  - 2026-02-18 Rejected
 
 ## Gaps
 - **React Native:** Job explicitly requires "deep technical background in React Native." Candidate has React experience but no React Native.

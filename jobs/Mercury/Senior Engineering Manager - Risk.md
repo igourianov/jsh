@@ -2,15 +2,16 @@
 
 Strong leadership and platform fit, but applied AI/ML product launches and KYC/AML fintech experience are missing.
 
-- **Saved:** 2026-05-07
 - **URL:** https://www.linkedin.com/jobs/view/4409607075/
 - **Company:** Mercury
 - **Location:** Remote (Canada)
 - **Compensation:** CAD $225,900 - $282,400
 - **Benefits:** Equity (stock options/RSUs); benefits package (specifics not stated)
 - **Team size:** Multiple teams of 4-8 engineers each
-- **Status:** Passed (2026-05-07)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-07 Screened
+  - 2026-05-07 Passed
 
 ## Qualifications
 

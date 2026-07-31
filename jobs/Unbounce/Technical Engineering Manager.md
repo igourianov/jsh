@@ -2,15 +2,17 @@
 
 Strong people-management and transition-leadership match; real gap on shipping customer-facing AI product features.
 
-- **Saved:** 2026-07-07
 - **URL:** https://www.linkedin.com/jobs/view/4436840138/
 - **Company:** Unbounce (posted via Infoway Software, staffing agency)
 - **Location:** Remote (Canada & US)
 - **Compensation:** Not stated ($150,000–$180,000 CAD estimated)
 - **Benefits:** Not specified
 - **Team size:** Not specified (Landing Page Builder group within ~55-person engineering org)
-- **Status:** Withdrew (2026-07-07)
-- **Progress:** Applied
+- **Status:** Withdrew
+- **Progress:**
+  - 2026-07-07 Screened
+  - 2026-07-07 Applied
+  - 2026-07-07 Withdrew
 
 ## Qualifications
 

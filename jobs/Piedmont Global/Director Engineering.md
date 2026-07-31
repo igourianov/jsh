@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-17
 - **URL:** https://www.linkedin.com/jobs/view/4364799898/
 - **Company:** Piedmont Global
 - **Location:** Remote (Canada) or Arlington, VA office
@@ -14,7 +13,9 @@
 - **Team size:** Not specified (multi-squad, includes internal engineers and external vendors)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-17 Screened
+  - 2026-02-17 Rejected
 
 ## Red flags
 - **Title inflation risk:** "Director of Engineering" title but responsibilities describe a hands-on engineering manager building the org from a single team. Reporting to CTIO suggests a flat structure where this is effectively the only engineering leader.

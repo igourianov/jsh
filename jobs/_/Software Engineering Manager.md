@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-16
 - **URL:** https://www.linkedin.com/jobs/view/4372372516/
 - **Company:** Undisclosed (agency posting by Swift Recruit)
 - **Posted by:** Swift Recruit
@@ -15,7 +14,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-16 Screened
+  - 2026-02-16 Rejected
 
 ## Red flags
 - **Below-market compensation:** CA$130-140K for a Software Engineering Manager with 7+ years dev and 3+ years management experience is below market for Canada, especially for a player/coach role requiring AI/ML expertise.

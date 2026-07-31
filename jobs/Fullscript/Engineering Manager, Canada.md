@@ -2,7 +2,6 @@
 
 Greenfield Canada-focused pod leadership role at a health tech platform; strong people/technical leadership match, weaker on direct market expansion experience.
 
-- **Saved:** 2026-04-28
 - **URL:** https://www.linkedin.com/jobs/view/4408014001/
 - **Company:** Fullscript
 - **Location:** Remote (Canada)
@@ -11,6 +10,7 @@ Greenfield Canada-focused pod leadership role at a health tech platform; strong 
 - **Team size:** New pod (size not specified)
 - **Status:** Screened
 - **Progress:**
+  - 2026-04-28 Screened
 
 ## Qualifications
 

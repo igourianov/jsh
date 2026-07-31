@@ -2,15 +2,16 @@
 
 Strong people/product leadership fit, but no mobile, marketplace or gig-economy domain experience.
 
-- **Saved:** 2026-07-28
 - **URL:** https://www.linkedin.com/jobs/view/4446168973/
 - **Company:** Instacart
 - **Location:** Remote (Canada - ON, AB, BC, NS only)
 - **Compensation:** $229,000–$241,500 CAD base
 - **Benefits:** New hire equity grant, annual refresh grants (details not specified)
 - **Team size:** 10-12 engineers
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-28 Screened
+  - 2026-07-28 Applied
 
 ## Qualifications
 

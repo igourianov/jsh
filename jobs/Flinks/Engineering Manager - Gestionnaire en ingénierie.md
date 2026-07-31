@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Fintech | 85%
 
-- **Saved:** 2026-03-23
 - **URL:** https://www.linkedin.com/jobs/view/4389079570/
 - **Company:** Flinks
 - **Location:** Toronto, ON (Remote)
@@ -8,8 +7,11 @@
 - **Benefits:** Not listed
 - **Team size:** 10-15 engineers across 1-2 squads
 
-- **Status:** Ghosted (2026-04-17)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-03-23 Screened
+  - 2026-03-23 Applied
+  - 2026-04-17 Ghosted
 
 ## Qualifications
 

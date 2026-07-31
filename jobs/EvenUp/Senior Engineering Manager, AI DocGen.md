@@ -2,15 +2,16 @@
 
 Strong technical and leadership match. No legal tech domain experience. Hybrid Toronto 3 days/week is a commute concern from Fort Erie.
 
-- **Saved:** 2026-04-05
 - **URL:** https://www.linkedin.com/jobs/view/4330449808/
 - **Company:** EvenUp
 - **Location:** Hybrid (Toronto, 3 days/week in-office)
 - **Compensation:** CA$174,729 - CA$236,398
 - **Benefits:** Medical/dental/vision, life/accident/critical illness insurance, flexible PTO, sick leave, short/long-term disability, home office stipend, RRSP, paid parental leave
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-05)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-05 Screened
+  - 2026-04-05 Passed
 
 ## Red flags
 - **Location mismatch:** Hybrid role requires 3 days/week in Toronto office. Fort Erie to Toronto is ~2 hours each way, not a realistic commute.

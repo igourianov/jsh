@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Property Management SaaS | 76%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4381642673/
 - **Company:** Yeti Software Inc.
 - **Location:** Canada, Remote
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Qualifications
 

@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-14
 - **URL:** https://www.linkedin.com/jobs/view/4348054958/
 - **Company:** Semperis
 - **Location:** Hybrid (Toronto, ON - 2 days/week on-site)
@@ -14,7 +13,9 @@
 - **Team size:** Building from scratch (not specified)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-14 Screened
+  - 2026-02-14 Rejected
 
 ## Red flags
 - **High hands-on coding expectation:** 50% coding in months 1-6 writing foundational code and establishing codebases. This is a senior developer role with a management trajectory, not a management role with technical engagement.

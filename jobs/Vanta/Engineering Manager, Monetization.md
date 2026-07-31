@@ -1,6 +1,5 @@
 # Engineering Manager | Platform | B2B SaaS / Security & Compliance | 85%
 
-- **Saved:** 2026-03-17
 - **URL:** https://www.linkedin.com/jobs/view/4385945600/
 - **Company:** Vanta
 - **Location:** Remote (Canada: Alberta, Ontario, British Columbia)
@@ -8,8 +7,11 @@
 - **Benefits:** 100% medical/dental/vision with dependents, pension contribution, 16 weeks parental leave, health & wellness stipend, remote workspace/internet/cellphone stipend, 21 vacation days, 80 hours sick leave, 11 paid holidays, equity
 - **Team size:** 6+ engineers
 
-- **Status:** Ghosted (2026-04-04)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-03-17 Screened
+  - 2026-03-17 Applied
+  - 2026-04-04 Ghosted
 
 ## Qualifications
 

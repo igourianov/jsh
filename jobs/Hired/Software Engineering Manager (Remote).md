@@ -2,15 +2,16 @@
 
 Strong EM leadership fit, but the role is built around Python/ML/LLM dataset work the candidate has never done.
 
-- **Saved:** 2026-06-03
 - **URL:** https://www.linkedin.com/jobs/view/4422688158/
 - **Company:** Hired (agency, undisclosed AI client)
 - **Location:** Remote (Work from Anywhere)
 - **Compensation:** Not stated ("Competitive")
 - **Benefits:** Not stated
 - **Team size:** 20+ engineers
-- **Status:** Passed (2026-06-03)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-03 Screened
+  - 2026-06-03 Passed
 
 ## Qualifications
 

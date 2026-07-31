@@ -3,7 +3,6 @@
 
 ### Match: 60%
 
-- **Saved:** 2026-03-12
 - **URL:** https://www.linkedin.com/jobs/view/4383922103/
 - **Company:** iTel Networks Inc.
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-12 Screened
+  - 2026-03-12 Rejected
 
 ## Gaps
 - **Domain experience (25%):** Role strongly prefers background in telecom, ISP, MSP or similarly complex operational environments. Candidate's background is enterprise SaaS (HCM), not networking infrastructure.

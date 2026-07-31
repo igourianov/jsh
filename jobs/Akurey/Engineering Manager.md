@@ -2,15 +2,16 @@
 
 Strong process/people fit; AI-feature-shipping and exact tech stack (GraphQL/Postgres/DynamoDB/Tailwind) are the main gaps.
 
-- **Saved:** 2026-07-30
 - **URL:** https://www.linkedin.com/jobs/view/4447067180/
 - **Company:** Akurey
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated CAD 150-180K equivalent, contract role)
 - **Benefits:** Not stated
 - **Team size:** Not specified (candidates expected to have managed teams of 8+)
-- **Status:** Passed (2026-07-30)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-30 Screened
+  - 2026-07-30 Passed
 
 ## Qualifications
 

@@ -2,15 +2,16 @@
 
 Strong platform and people-leadership fit; SRE-specific reliability depth and the M&E domain are the gaps.
 
-- **Saved:** 2026-05-19
 - **URL:** https://www.linkedin.com/jobs/view/4415921514/
 - **Company:** Autodesk
 - **Location:** Remote, Canada
 - **Compensation:** $150,000-$195,000 CAD (estimated; posting lists $0-$0 placeholder)
 - **Benefits:** Annual cash bonus, stock grants, comprehensive benefits package
 - **Team size:** Not stated
-- **Status:** Passed (2026-05-19)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-19 Screened
+  - 2026-05-19 Passed
 
 ## Qualifications
 

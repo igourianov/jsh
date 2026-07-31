@@ -2,15 +2,16 @@
 
 Strong management and .NET fit, but it's really a hands-on Dynamics 365 / X++ specialist role the candidate has zero experience with.
 
-- **Saved:** 2026-06-11
 - **URL:** https://www.linkedin.com/jobs/view/4427652618/
 - **Company:** Canadian Red Cross
 - **Location:** Hybrid / Partially Virtual (Canada)
 - **Compensation:** ~$130,000-$160,000 CAD (estimated; not stated)
 - **Benefits:** Not stated (non-profit; typically pension/RRSP, health, dental)
 - **Team size:** Not stated
-- **Status:** Passed (2026-06-11)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-11 Screened
+  - 2026-06-11 Passed
 
 ## Qualifications
 

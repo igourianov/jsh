@@ -2,15 +2,17 @@
 
 Player/coach EM role at a Clover Health subsidiary building an AI-enabled primary care tool. Strong people and delivery alignment, mild gap on stated language stack and direct clinical healthcare product experience.
 
-- **Saved:** 2026-04-09
 - **URL:** https://www.linkedin.com/jobs/view/4400336494/
 - **Company:** Counterpart Health
 - **Location:** Remote - Canada
 - **Compensation:** $134,000 - $175,000 CAD
 - **Benefits:** Equity, performance bonus, medical/dental/vision, mental health resources, paid parental leave, No-Meeting Fridays, office setup reimbursement, cell phone and internet stipend, professional development funding
 - **Team size:** 3+ engineers
-- **Status:** Ghosted (2026-05-15)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-04-09 Screened
+  - 2026-04-09 Applied
+  - 2026-05-15 Ghosted
 
 ## Qualifications
 

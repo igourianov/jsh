@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-13
 - **URL:** https://www.linkedin.com/jobs/view/4371711634/
 - **Company:**
 - **Posted by:** TEEMA (staffing agency)
@@ -15,7 +14,9 @@
 - **Team size:** not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-13 Screened
+  - 2026-02-13 Rejected
 
 ## Red flags
 - **Below-market compensation:** CA$125K-140K for an Engineering Manager with 7+ years dev experience and 3+ years leadership is significantly below market rate for Vancouver, even for remote roles. Typical range is CA$170K-220K+.

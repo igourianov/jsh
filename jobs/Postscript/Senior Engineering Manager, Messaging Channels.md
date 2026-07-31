@@ -2,15 +2,16 @@
 
 Strong leadership and platform-as-product fit, but no e-commerce/messaging domain and Python-not-C# stack gap.
 
-- **Saved:** 2026-06-05
 - **URL:** https://www.linkedin.com/jobs/view/4424477774/
 - **Company:** Postscript
 - **Location:** Remote (US or Canada)
 - **Compensation:** USD $236,000-$268,000 base plus significant equity
 - **Benefits:** Equity, flexible PTO, health/dental/vision insurance
 - **Team size:** 8 product and platform engineers
-- **Status:** Passed (2026-06-05)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-05 Screened
+  - 2026-06-05 Passed
 
 ## Qualifications
 

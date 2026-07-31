@@ -2,15 +2,16 @@
 
 Strong technical/people-management fit with direct Claude Code experience matching the role's core ask; main gaps are startup pedigree and AI/security domain background.
 
-- **Saved:** 2026-07-22
 - **URL:** https://www.linkedin.com/jobs/view/4443989589/
 - **Company:** Origin
 - **Location:** Remote (US & Canada)
 - **Compensation:** $230K - $300K
 - **Benefits:** Healthcare, flexible PTO, home-office support
 - **Team size:** not specified
-- **Status:** Passed (2026-07-22)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-22 Screened
+  - 2026-07-22 Passed
 
 ## Qualifications
 

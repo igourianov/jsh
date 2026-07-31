@@ -2,15 +2,16 @@
 
 Strong people leadership and HR SaaS domain fit, but this is a Team Lead role (reports to EM) expecting 70% hands-on coding in React/JS or Elixir/Phoenix, which is a level down and a stack mismatch from candidate's C#/.NET EM background.
 
-- **Saved:** 2026-04-16
 - **URL:** https://www.linkedin.com/jobs/view/4403116872/
 - **Company:** Remote
 - **Location:** Fully remote (Anywhere in the world)
 - **Compensation:** $75,450-$169,700 USD (geo-adjusted globally)
 - **Benefits:** Stock options, flexible PTO, 16 weeks parental leave, mental health support, learning budget, home office budget, async work
 - **Team size:** 2-5 engineers (backend and frontend)
-- **Status:** Passed (2026-04-16)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-16 Screened
+  - 2026-04-16 Passed
 
 ## Red flags
 - **Title/level downgrade:** Role is "Team Leader" reporting to an Engineering Manager. Explicitly 30% management, 70% hands-on IC work. One level below candidate's current EM role.

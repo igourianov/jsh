@@ -2,15 +2,16 @@
 
 Strong EM fit with platform-adjacent and AI-tooling depth; the main gap is the 10-year platform/infra/SRE specialization.
 
-- **Saved:** 2026-05-19
 - **URL:** https://www.linkedin.com/jobs/view/4415775169/
 - **Company:** Jobgether (on behalf of an undisclosed fintech)
 - **Location:** Remote (across Canada)
 - **Compensation:** 209,000-253,000 CAD base + equity / stock options
 - **Benefits:** Health and dental coverage, mental health support, 2,000 CAD annual L&D budget, 20 vacation days plus a post-utilization bonus incentive, parental leave top-up to 100% salary for 18 weeks, quarterly team and company offsites
 - **Team size:** Not stated (platform team across infra, DevOps, SRE, developer experience)
-- **Status:** Passed (2026-05-19)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-19 Screened
+  - 2026-05-19 Passed
 
 ## Qualifications
 

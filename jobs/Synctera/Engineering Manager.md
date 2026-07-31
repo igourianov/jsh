@@ -2,15 +2,16 @@
 
 Solid people-management and platform-leadership fit, but no Go experience against an explicit, doubled-weight requirement.
 
-- **Saved:** 2026-07-17
 - **URL:** https://www.linkedin.com/jobs/view/4441362615/
 - **Company:** Synctera
 - **Location:** Remote (US or Canada)
 - **Compensation:** $155K - $240K USD + 100% employer-paid medical/dental/vision, HSA/RRSP match, unlimited PTO, stock options, home office stipend
 - **Benefits:** 100% employer-paid medical/dental/vision, HSA (US) / HCSA (Canada), 401(k)/RRSP match, unlimited PTO, paid parental leave, home office stipend, stock options
 - **Team size:** Not stated (multiple backend/platform teams)
-- **Status:** Passed (2026-07-17)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-17 Screened
+  - 2026-07-17 Passed
 
 ## Qualifications
 

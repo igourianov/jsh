@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Spend Management / Procurement | 79%
 
-- **Saved:** 2026-03-17
 - **URL:** https://www.linkedin.com/jobs/view/4385908729/
 - **Company:** Resonaite (agency posting for undisclosed client)
 - **Location:** Remote (Canada)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-17 Screened
+  - 2026-03-17 Rejected
 
 ## Qualifications
 

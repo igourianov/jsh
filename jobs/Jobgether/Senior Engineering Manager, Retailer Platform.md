@@ -2,7 +2,6 @@
 
 Strong platform/multi-tenancy and team leadership fit. Main gap is retail/commerce domain.
 
-- **Saved:** 2026-05-22
 - **URL:** https://www.linkedin.com/jobs/view/4417152429/
 - **Company:** Jobgether (on behalf of undisclosed partner company)
 - **Location:** Remote, Canada
@@ -11,6 +10,7 @@ Strong platform/multi-tenancy and team leadership fit. Main gap is retail/commer
 - **Team size:** 10+ engineers (multiple platform/infrastructure initiatives)
 - **Status:** Screened
 - **Progress:**
+  - 2026-05-22 Screened
 
 ## Qualifications
 

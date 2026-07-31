@@ -2,14 +2,15 @@
 
 Strong people-management match with a timezone concern. B2B contractor arrangement, not salaried employment.
 
-- **Saved:** 2026-04-07
 - **Company:** MEDvidi
 - **Location:** Remote (CET-overlapping hours required, outside Russia)
 - **Compensation:** Not stated (estimated)
 - **Benefits:** Health insurance (after probation), sports/wellness compensation, 22 vacation days, 5 wellness days, 5 paid sick days, English lessons via Preply
 - **Team size:** Not stated
-- **Status:** Rejected (2026-04-14)
+- **Status:** Rejected
 - **Progress:**
+  - 2026-04-07 Screened
+  - 2026-04-14 Rejected
 
 ## Red flags
 

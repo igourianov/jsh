@@ -2,15 +2,16 @@
 
 Strong qualifications match, but the posting is thin on specifics and the actual employer is undisclosed.
 
-- **Saved:** 2026-07-21
 - **URL:** https://www.linkedin.com/jobs/view/4440414517/
 - **Company:** Jobgether (partner company undisclosed)
 - **Location:** Remote (Canada)
 - **Compensation:** 120,000-150,000 CAD (estimated)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Passed (2026-07-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-21 Screened
+  - 2026-07-21 Passed
 
 ## Red flags
 - **Vague job description:** Posting is heavy on generic corporate language ("shape the evolution of technology solutions," "meaningful leadership role with visibility across teams") with no concrete details on the product, tech stack, team size, or company name (partner is undisclosed and applications are routed through Jobgether).

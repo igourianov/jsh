@@ -2,15 +2,16 @@
 
 Strong leadership match undermined by a major tech stack gap. The role requires C++, Java, Python and embedded Linux experience. Candidate's stack is C#/.NET and web technologies with no embedded or IoT background.
 
-- **Saved:** 2026-04-12
 - **URL:** https://www.linkedin.com/jobs/view/4390285207/
 - **Company:** Variablegrid Adaptive Power Inc.
 - **Location:** Hybrid, Toronto, ON
 - **Compensation:** Not stated (~$160K-$200K CAD estimated)
 - **Benefits:** Not stated
 - **Team size:** Not stated (11-50 employees total, 10 on LinkedIn)
-- **Status:** Passed (2026-04-12)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-12 Screened
+  - 2026-04-12 Passed
 
 ## Red flags
 - **Location mismatch:** Hybrid role in Toronto. Candidate is based in Fort Erie, ON. Toronto is a 2+ hour drive, making regular hybrid commuting impractical.

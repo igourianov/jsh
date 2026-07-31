@@ -2,15 +2,16 @@
 
 Strong people and product management fit, but technical stack is web/growth-focused (Next.js, headless CMS, experimentation) with no direct overlap to candidate's backend/enterprise SaaS background.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4344354670/
 - **Company:** Autodesk
 - **Location:** Toronto, ON (Hybrid)
 - **Compensation:** Not disclosed (estimated 170-210k CAD for Toronto EM role at Autodesk)
 - **Benefits:** Annual cash bonuses, stock grants, comprehensive benefits package
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-06)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Passed
 
 ## Red flags
 - **French language:** Posting includes full French translation of the job description. French proficiency may be expected or advantageous, candidate does not speak French.

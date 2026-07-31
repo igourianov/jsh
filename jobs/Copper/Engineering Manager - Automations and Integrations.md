@@ -2,15 +2,16 @@
 
 Strong match for an Automations and Integrations EM role at a Google Workspace-native CRM, with AI tooling adoption now a hard requirement that aligns directly with recent Claude Code experience.
 
-- **Saved:** 2026-05-08
 - **URL:** https://www.linkedin.com/jobs/view/4411704807/
 - **Company:** Copper
 - **Location:** Remote, Canada
 - **Compensation:** $175,000 - $190,000 CAD
 - **Benefits:** comprehensive benefits, unlimited vacation, generous stock options, maternity/paternity top-up, monthly internet and cell phone allowance, L&D program
 - **Team size:** not specified
-- **Status:** Passed (2026-05-08)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-08 Screened
+  - 2026-05-08 Passed
 
 ## Qualifications
 

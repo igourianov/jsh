@@ -2,15 +2,16 @@
 
 Hands-on EM leadership is a strong fit, but the role's core requirement — a background in Infrastructure/DevOps/SRE running AWS production systems — doesn't match a career built on product-side application engineering.
 
-- **Saved:** 2026-07-21
 - **URL:** https://www.linkedin.com/jobs/view/4443542331/
 - **Company:** StackAdapt
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** Highly competitive (estimated $160,000-$190,000 CAD)
 - **Benefits:** Health benefits from day one, retirement/pension savings, mental health program, work-from-home reimbursement, optional WeWork membership, parental leave, paid birthday off, PTO, training/development coverage
 - **Team size:** not specified
-- **Status:** Passed (2026-07-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-21 Screened
+  - 2026-07-21 Passed
 
 ## Qualifications
 

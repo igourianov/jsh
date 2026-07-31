@@ -2,15 +2,17 @@
 
 Strong baseline and leadership match. No tax/fintech domain experience is the only notable gap.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4398301239/
 - **Company:** DoorDash
 - **Location:** Toronto, ON (Hybrid)
 - **Compensation:** $185,000-$231,500 CAD + equity
 - **Benefits:** Medical, dental, vision, disability, life insurance, RRSP with employer match, mental health program, PTO, paid parental leave, wellness benefit, paid holidays
 - **Team size:** Not specified
-- **Status:** Rejected (2026-05-15)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Applied
+  - 2026-05-15 Rejected
 
 ## Red flags
 - **Location mismatch:** Hybrid role requires presence in Toronto. Candidate is based in Fort Erie, ON. Toronto is roughly 2 hours away, making regular hybrid commuting impractical.

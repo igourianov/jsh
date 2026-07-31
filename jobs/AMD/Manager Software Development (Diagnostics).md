@@ -2,15 +2,16 @@
 
 Strong management match undermined by zero semiconductor domain experience.
 
-- **Saved:** 2026-04-07
 - **URL:** https://www.linkedin.com/jobs/view/4384099843/
 - **Company:** AMD
 - **Location:** Markham, ON (Hybrid)
 - **Compensation:** $140K/yr - $210K/yr
 - **Benefits:** Referenced but not detailed ("AMD benefits at a glance")
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-07)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-07 Screened
+  - 2026-04-07 Passed
 
 ## Red flags
 - **Location mismatch:** Hybrid role in Markham, ON. Fort Erie to Markham is not commutable (~150 km).

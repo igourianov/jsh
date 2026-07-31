@@ -2,15 +2,17 @@
 
 Strong technical and management fit; Canadian-based remote-friendly SaaS role at fair-but-not-stretch comp.
 
-- **Saved:** 2026-04-29
 - **URL:** https://www.linkedin.com/jobs/view/4408540200/
 - **Company:** Magnet Forensics
 - **Location:** Remote (Canada); hybrid-flexible if near a Magnet office
 - **Compensation:** $150,000 – $200,000 CAD
 - **Benefits:** Generous time off, healthcare, retirement benefits, reward and recognition programs, employee resource groups
 - **Team size:** Not stated
-- **Status:** Ghosted (2026-05-23)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-04-29 Screened
+  - 2026-04-29 Applied
+  - 2026-05-23 Ghosted
 
 ## Qualifications
 

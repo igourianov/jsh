@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Billing/SaaS | 77%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4383295922/
 - **Company:** Constant Contact
 - **Location:** Ontario, Canada (Remote/Hybrid)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Red flags
 

@@ -3,7 +3,6 @@
 
 ### Match: 89%
 
-- **Saved:** 2026-03-14
 - **URL:** https://www.linkedin.com/jobs/view/4332785087/
 - **Company:** MaintainX
 - **Location:** Toronto, ON (on-site likely)
@@ -12,7 +11,9 @@
 - **Team size:** 5–6 direct reports
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-14 Screened
+  - 2026-03-14 Rejected
 
 ## Qualifications
 

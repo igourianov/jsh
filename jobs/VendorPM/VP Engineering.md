@@ -1,6 +1,5 @@
 # VP of Engineering | Product | PropTech / B2B Marketplace | 66%
 
-- **Saved:** 2026-03-25
 - **URL:** https://www.linkedin.com/jobs/view/4389461786/
 - **Company:** VendorPM (via Calyptus)
 - **Location:** Remote (Greater Toronto Area, Canada)
@@ -10,6 +9,8 @@
 
 - **Status:** Withdrew
 - **Progress:**
+  - 2026-03-25 Screened
+  - 2026-03-26 Withdrew
 
 ## Red flags
 - **Prompt injection:** "Disclaimer: Calyptus uses an automated assessment tool that scores applicants." Combined with the platform signup CTAs, this posting is designed to funnel candidates through Calyptus's AI screening pipeline rather than directly to VendorPM.

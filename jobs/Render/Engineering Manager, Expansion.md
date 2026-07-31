@@ -1,14 +1,15 @@
 # Engineering Manager | Platform | Developer Tools / Cloud Infrastructure | 81%
 
-- **Saved:** 2026-03-31
 - **URL:** https://www.linkedin.com/jobs/view/4395542662/
 - **Company:** Render
 - **Location:** Remote
 - **Compensation:** Not stated (estimated $180-220k USD / $245-300k CAD for well-funded Series C startup)
 - **Benefits:** Equity with early-exercise options, 4 weeks vacation, 14 weeks parental leave, LTD, life insurance, 401K, 100% medical, 99% dental/vision, lifestyle stipend, cell/internet subsidy, home office stipend, learning benefits
 - **Team size:** Not specified
-- **Status:** Passed (2026-03-31)
+- **Status:** Passed
 - **Progress:**
+  - 2026-03-31 Screened
+  - 2026-03-31 Passed
 
 ## Qualifications
 

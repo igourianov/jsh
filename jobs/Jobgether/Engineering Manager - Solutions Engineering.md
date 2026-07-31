@@ -2,15 +2,16 @@
 
 Solid people-management fit, but the role wants a hands-on Python/OpenStack/Linux infra builder, and that's not the candidate's stack.
 
-- **Saved:** 2026-07-04
 - **URL:** https://www.linkedin.com/jobs/view/4435789108/
 - **Company:** Jobgether (recruiting on behalf of an undisclosed partner company)
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 150-190k CAD)
 - **Benefits:** Performance bonuses, L&D budget, in-person team sprints, health/wellness support, parental leave, travel to team events
 - **Team size:** Not stated
-- **Status:** Passed (2026-07-04)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-04 Screened
+  - 2026-07-04 Passed
 
 ## Qualifications
 

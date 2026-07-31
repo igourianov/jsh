@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Nuclear/Energy | 84%
 
-- **Saved:** 2026-03-17
 - **URL:** https://www.linkedin.com/jobs/view/4374506994/
 - **Company:** Nuclear Promise X (NPX)
 - **Location:** Canada, Remote
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-17 Screened
+  - 2026-03-17 Rejected
 
 ## Red flags
 - **Heavy DEI emphasis:** "Build and sustain a diverse, high-performing team by recruiting top talent and cultivating an inclusive, psychologically safe environment" and "Cultural Amplification: you strengthen our culture and role model our values" are embedded into role qualifications and responsibilities, going beyond a standard equal-opportunity footer.

@@ -2,15 +2,16 @@
 
 Misleading title: posted as "Director of Engineering" but it's a client-facing data/analytics delivery + BD consulting role. Poor fit.
 
-- **Saved:** 2026-06-16
 - **URL:** https://www.linkedin.com/jobs/view/4426845557/
 - **Company:** GENNTE Technologies (RPO/staffing agency; actual client undisclosed)
 - **Location:** Remote (Canada)
 - **Compensation:** CA$200K - CA$250K/yr
 - **Benefits:** Not stated
 - **Team size:** Large, globally distributed teams (number not specified)
-- **Status:** Passed (2026-06-16)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-16 Screened
+  - 2026-06-16 Passed
 
 ## Red flags
 - **Misleading title:** Posted as "Director of Engineering" but the job description is for a "Senior Delivery Manager". The role is consulting delivery management, not engineering management.

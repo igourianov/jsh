@@ -2,15 +2,16 @@
 
 Strong leadership/management fit, but e-commerce/checkout domain is a gap against HR tech background.
 
-- **Saved:** 2026-07-14
 - **URL:** https://www.linkedin.com/jobs/view/4439489764/
 - **Company:** Jobgether (posting on behalf of an undisclosed partner company)
 - **Location:** Remote (Canada)
 - **Compensation:** $196,000-$207,000 USD (stated, Canadian-based candidates)
 - **Benefits:** equity (new hire grants + annual refresh), comprehensive benefits package, remote-first/flexible work location
 - **Team size:** 8+ engineers
-- **Status:** Passed (2026-07-14)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-14 Screened
+  - 2026-07-14 Passed
 
 ## Qualifications
 

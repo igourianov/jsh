@@ -2,15 +2,17 @@
 
 Strong C# / .NET / platform leadership match with hands-on AI tooling angle, but third Clario screen in a row after two ghosted apps; clinical trials domain and AWS specifics still soft spots.
 
-- **Saved:** 2026-04-28
 - **URL:** https://www.linkedin.com/jobs/view/4408023537/
 - **Company:** Clario (Thermo Fisher Scientific)
 - **Location:** Eastern Canada — Remote
 - **Compensation:** Not stated (estimated $160,000–$200,000 CAD)
 - **Benefits:** Health, dental, vision, paid time off, company holidays
 - **Team size:** Not specified (senior-heavy shared services team across 20+ squads)
-- **Status:** Rejected (2026-05-01)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-28 Screened
+  - 2026-04-28 Applied
+  - 2026-05-01 Rejected
 
 ## Qualifications
 

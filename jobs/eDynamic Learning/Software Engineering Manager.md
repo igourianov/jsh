@@ -1,14 +1,16 @@
 # Engineering Manager | Product | EdTech | 90%
 
-- **Saved:** 2026-04-01
 - **URL:** https://www.linkedin.com/jobs/view/4393042690/
 - **Company:** eDynamic Learning (acquired by Pearson Education Inc.)
 - **Location:** Remote (Canada)
 - **Compensation:** CAD $180,000 - $220,000 DOE
 - **Benefits:** Annual Bonus + Benefits
 - **Team size:** Not specified
-- **Status:** Rejected (2026-04-08)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-01 Screened
+  - 2026-04-01 Applied
+  - 2026-04-08 Rejected
 
 ## Qualifications
 

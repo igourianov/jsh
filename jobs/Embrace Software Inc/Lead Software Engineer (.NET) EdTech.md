@@ -2,15 +2,17 @@
 
 Strong technical match on .NET stack, but this is a hands-on IC role, not a management position. Candidate's 8 years in EM roles may be seen as overqualified or misaligned for a coding-heavy lead engineer seat.
 
-- **Saved:** 2026-04-05
 - **URL:** https://www.linkedin.com/jobs/view/4394671434/
 - **Company:** Embrace Software Inc
 - **Location:** Remote, Canada
 - **Compensation:** $140K-$170K CAD (estimated)
 - **Benefits:** Health benefits, RRSP employer contributions
 - **Team size:** Not specified
-- **Status:** Ghosted (2026-05-15)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-04-05 Screened
+  - 2026-04-05 Applied
+  - 2026-05-15 Ghosted
 
 ## Red flags
 - **Role mismatch:** This is a Lead Software Engineer (hands-on IC) role, not an Engineering Manager position. Expects 50-60% coding. The candidate has been in management for 8+ years and is targeting EM roles per their objective. This is a step back toward IC work.

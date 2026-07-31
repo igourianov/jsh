@@ -2,15 +2,17 @@
 
 Strong fit: platform/people leadership for a merchant-facing system, only soft gap is payments/fintech domain.
 
-- **Saved:** 2026-06-02
 - **URL:** https://www.linkedin.com/jobs/view/4419278248/
 - **Company:** Jobgether (on behalf of an undisclosed partner)
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 180-210k CAD + equity)
 - **Benefits:** Equity participation, uncapped vacation, coworking access, company retreats, home office allowance, professional development budget, private medical insurance
 - **Team size:** Not stated
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied (2026-06-02)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-02 Screened
+  - 2026-06-02 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

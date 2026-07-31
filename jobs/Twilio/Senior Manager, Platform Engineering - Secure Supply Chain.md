@@ -3,7 +3,6 @@
 
 ### Match: 69%
 
-- **Saved:** 2026-03-14
 - **URL:** https://www.linkedin.com/jobs/view/4385846253/
 - **Company:** Twilio
 - **Location:** Remote (Ontario, British Columbia or Alberta, Canada)
@@ -13,7 +12,9 @@
 - **Team size:** 8–12 engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-14 Screened
+  - 2026-03-14 Rejected
 
 ## Qualifications
 

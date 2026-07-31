@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-13
 - **URL:** https://www.linkedin.com/jobs/view/4364551734/
 - **Company:** Grafana Labs
 - **Location:** Remote (US/Canada time zones)
@@ -14,7 +13,9 @@
 - **Team size:** not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-13 Screened
+  - 2026-02-13 Rejected
 
 ## Gaps
 - **Product domain:** No experience in observability/telemetry as a product domain. Candidate used Prometheus+Grafana as tools, not built or operated them as products.

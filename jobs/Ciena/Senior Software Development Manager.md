@@ -2,15 +2,16 @@
 
 Strong leadership and AI-transformation fit, but Ottawa hybrid mandate and zero telecom/SDN background are real obstacles.
 
-- **Saved:** 2026-05-14
 - **URL:** https://www.linkedin.com/jobs/view/4414704845/
 - **Company:** Ciena
 - **Location:** Ottawa, ON (Hybrid, 1-2 days/week in office)
 - **Compensation:** $140,900 - $225,100 CAD
 - **Benefits:** Medical, dental, vision, DCPP with company matching, ESPP, EAP, paid holidays, sick leave, vacation, discretionary incentive bonus
 - **Team size:** Not specified
-- **Status:** Passed (2026-05-14)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-14 Screened
+  - 2026-05-14 Passed
 
 ## Red flags
 - **Location mismatch:** Role requires 1-2 days/week in Ottawa office. Fort Erie to Ottawa is ~530km, not commutable. Despite LinkedIn "Remote" tag, posting explicitly requires hybrid presence.

@@ -2,15 +2,16 @@
 
 Strong leadership and technical-leadership fit; the gap is domain (recording/real-time media, desktop/mobile, WebRTC) which is central to the role.
 
-- **Saved:** 2026-07-27
 - **URL:** https://www.linkedin.com/jobs/view/4445155669/
 - **Company:** Fellow
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated: 160-190k CAD for Series A, Canada-remote EM role)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Passed (2026-07-27)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-27 Screened
+  - 2026-07-27 Passed
 
 ## Qualifications
 

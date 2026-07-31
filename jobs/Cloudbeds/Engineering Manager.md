@@ -3,7 +3,6 @@
 
 ### Match: 80%
 
-- **Saved:** 2026-02-27
 - **URL:** https://www.linkedin.com/jobs/view/4362344262/
 - **Company:** Cloudbeds
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-27 Screened
+  - 2026-02-27 Rejected
 
 ## Gaps
 - **Tech stack:** Primary stack is PHP or Java. Candidate's backend experience is C#/.NET. No PHP background evident. Java is listed as a required option but also not in candidate's stack.

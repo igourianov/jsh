@@ -2,15 +2,17 @@
 
 Strong all-around match; only real gap is direct healthcare-vertical SaaS experience and heavier AWS depth.
 
-- **Saved:** 2026-07-07
 - **URL:** https://www.linkedin.com/jobs/view/4437743739/
 - **Company:** Curve Dental
 - **Location:** Remote (Calgary, AB)
 - **Compensation:** Not stated (estimated CAD 150k-190k base)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Rejected (2026-07-09)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-07-07 Screened
+  - 2026-07-07 Applied
+  - 2026-07-09 Rejected
 
 ## Qualifications
 

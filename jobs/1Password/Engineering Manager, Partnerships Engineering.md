@@ -3,7 +3,6 @@
 
 ### Match: 68%
 
-- **Saved:** 2026-02-17
 - **URL:** https://www.linkedin.com/jobs/view/4374187506/
 - **Company:** 1Password
 - **Location:** Remote (Canada/US)
@@ -14,7 +13,9 @@
 - **Team size:** Building new team (size unspecified)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-17 Screened
+  - 2026-02-17 Rejected
 
 ## Gaps
 - **Partner engineering:** No direct experience building or managing partner integration programs, external-facing technical partnerships, or integration enablement teams. This is core to the role.

@@ -2,7 +2,6 @@
 
 Strong leadership and product-engineering fit with real Claude Code experience, but US-only remote with no Canada eligibility and no crypto or shipped-LLM-product background.
 
-- **Saved:** 2026-05-16
 - **URL:** https://www.linkedin.com/jobs/view/4384876885/
 - **Company:** TRM Labs
 - **Location:** Remote (US)
@@ -11,6 +10,7 @@ Strong leadership and product-engineering fit with real Claude Code experience, 
 - **Team size:** Pod of frontend, backend and full-stack engineers (size not stated)
 - **Status:** Screened
 - **Progress:**
+  - 2026-05-16 Screened
 
 ## Red flags
 - **Location / work eligibility:** Role is "US Remote" and tagged NAMER. TRM's North American hubs are all US cities (San Francisco, Los Angeles, New York, Washington D.C.). Candidate is Canada-based with Canadian citizenship and no US work authorization, so eligibility is a likely blocker.

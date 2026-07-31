@@ -2,15 +2,16 @@
 
 Strong leadership and platform fit; main gaps are the Next.js/Supabase product stack and hands-on RAG/agent product integration.
 
-- **Saved:** 2026-06-05
 - **URL:** https://www.linkedin.com/jobs/view/4424790459/
 - **Company:** HostPapa
 - **Location:** Remote (Canada, outside Ontario)
 - **Compensation:** Not stated. Estimated 150-190k CAD (estimated)
 - **Benefits:** Remote/work-from-anywhere, flexible work arrangements, professional development. No equity/RRSP/health details stated.
 - **Team size:** A team of senior software engineers (size unspecified)
-- **Status:** Passed (2026-06-05)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-05 Screened
+  - 2026-06-05 Passed
 
 ## Qualifications
 

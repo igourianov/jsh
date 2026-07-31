@@ -3,7 +3,6 @@
 
 ### Match: 92%
 
-- **Saved:** 2026-02-03
 - **URL:** https://www.linkedin.com/jobs/view/4368229995/
 - **Company:** Riva
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** 15+
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-03 Screened
+  - 2026-03-11 Rejected
 
 ## Gaps
 - **AWS Experience:** Candidate's primary cloud experience is Azure (Kubernetes/AKS, Terraform). Job requires AWS-backed environments (EC2, VPC, ECS/EKS, Lambda, RDS, CloudWatch).

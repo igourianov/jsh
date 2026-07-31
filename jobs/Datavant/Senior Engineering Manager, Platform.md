@@ -2,15 +2,16 @@
 
 Data-heavy platform role requiring deep data engineering expertise (Spark, Databricks, Airflow, lakehouse) that does not align with the candidate's application/SaaS background. Leadership and product delivery experience are strong matches, but the technical stack gap is significant.
 
-- **Saved:** 2026-04-21
 - **URL:** https://www.linkedin.com/jobs/view/4404216816/
 - **Company:** Datavant
 - **Location:** Remote (NAMER)
 - **Compensation:** $200,000–$250,000 USD
 - **Benefits:** Not specified
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-21 Screened
+  - 2026-04-21 Passed
 
 ## Red flags
 - **Location mismatch:** Compensation listed in USD only. Posting states "This job is not eligible for employment sponsorship." While the role says NAMER/Remote, Datavant's offices are all US-based (Boston, New York, San Diego) with international offices in Barcelona and Galway. No Canadian office mentioned. Candidate may not be eligible without US work authorization.

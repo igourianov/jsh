@@ -2,15 +2,16 @@
 
 Strong people/delivery EM, but the role wants a hands-on systems engineer coding 50% in Rust/Go/C++ on quantum/GPU/HPC infra, and the pay is well below target.
 
-- **Saved:** 2026-06-16
 - **URL:** https://www.linkedin.com/jobs/view/4428078782/
 - **Company:** SuperQ Quantum Computing Inc.
 - **Location:** Remote/Hybrid within Canada or US (Canada preferred)
 - **Compensation:** CAD$100,000 - CAD$140,000
 - **Benefits:** Performance-based bonus, stock options/equity, professional development budget (conferences, certifications), access to quantum/HPC/GPU hardware, flexible work arrangements
 - **Team size:** Not stated (small company, 11-50 employees, ~15 on LinkedIn)
-- **Status:** Passed (2026-06-16)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-16 Screened
+  - 2026-06-16 Passed
 
 ## Red flags
 - **Below-market compensation:** CAD$100k-140k for an Engineering Manager role is below market in Canada and below the candidate's 180-200k CAD target. Top of band (140k) is still 40k under the floor of the target range.

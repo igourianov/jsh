@@ -3,7 +3,6 @@
 
 ### Match: 68%
 
-- **Saved:** 2025-02-13
 - **URL:** https://www.linkedin.com/jobs/view/4372953412/
 - **Company:** Gusto
 - **Location:** Hybrid (Denver, SF, NYC offices 2-3 days/week) or Remote
@@ -14,7 +13,9 @@
 - **Team size:** not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-13 Screened
+  - 2026-02-13 Rejected
 
 ## Red flags
 - **Location ambiguity:** Posting is listed for Toronto, ON on LinkedIn, but the job description only mentions Denver, SF, and NYC offices with hybrid expectations. Toronto is not mentioned anywhere in the actual posting text. Unclear whether the role is actually available in Canada or if this is a LinkedIn tagging error. Compensation is stated in USD only.

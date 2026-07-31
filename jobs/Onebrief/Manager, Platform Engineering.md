@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-18
 - **URL:** https://www.linkedin.com/jobs/view/4375007584/
 - **Company:** Onebrief
 - **Location:** Remote (NAMER)
@@ -14,7 +13,9 @@
 - **Team size:** Not stated (Platform Engineers, implied small team)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-18 Screened
+  - 2026-02-18 Rejected
 
 ## Gaps
 

@@ -3,7 +3,6 @@
 
 ### Match: 90%
 
-- **Saved:** 2026-03-15
 - **URL:** https://www.linkedin.com/jobs/view/4384512285/
 - **Company:** Amazon
 - **Location:** Vancouver, BC (on-site)
@@ -12,7 +11,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-15 Screened
+  - 2026-03-15 Rejected
 
 ## Red flags
 - **Location mismatch:** Vancouver, BC requires relocation from Fort Erie, ON. No remote option mentioned.

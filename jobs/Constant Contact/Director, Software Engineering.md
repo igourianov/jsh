@@ -2,15 +2,16 @@
 
 Director-level product engineering role unifying microservices and championing AI-augmented SDLC. Strong alignment on leadership and AI tooling, but Java/MySQL/GCP stack and SMB marketing domain are gaps.
 
-- **Saved:** 2026-04-20
 - **URL:** https://www.linkedin.com/jobs/view/4403675072/
 - **Company:** Constant Contact
 - **Location:** Ontario, Canada (Remote/Hybrid)
 - **Compensation:** $172,000 - $215,000 USD
 - **Benefits:** health and welfare, paid leave, potential bonus/commission
 - **Team size:** not specified
-- **Status:** Passed (2026-04-20)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-20 Screened
+  - 2026-04-20 Passed
 
 ## Red flags
 - **Location mismatch:** Posting tagged Remote but description emphasizes "hybrid workforce" with in-person collaboration, live trainings and office socializing. No Ontario office location is specified. Likely remote in practice for Canadian hires, but contradictory signaling worth clarifying.

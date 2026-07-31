@@ -1,14 +1,15 @@
 # Engineering Manager | Product | Healthcare / EMR | 87%
 
-- **Saved:** 2026-03-31
 - **URL:** https://www.linkedin.com/jobs/view/4392111963/
 - **Company:** Intrahealth (HEALWELL AI subsidiary)
 - **Location:** Remote (Canada)
 - **Compensation:** $100,000 - $170,000 CAD
 - **Benefits:** not specified
 - **Team size:** 3-5 pods (engineers across pods)
-- **Status:** Passed (2026-03-31)
+- **Status:** Passed
 - **Progress:**
+  - 2026-03-31 Screened
+  - 2026-03-31 Passed
 
 ## Red flags
 - **Below-market compensation:** Salary range tops out at $170K CAD for a role managing 3-5 pods building a greenfield EMR platform. Mid-point ($130K) is well below market for this scope and seniority.

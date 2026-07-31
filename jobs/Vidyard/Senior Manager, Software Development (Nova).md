@@ -1,6 +1,5 @@
 # Senior Engineering Manager | Product | Video/MarTech SaaS | 90%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4383914296/
 - **Company:** Vidyard
 - **Location:** Remote (Canada only)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Qualifications
 

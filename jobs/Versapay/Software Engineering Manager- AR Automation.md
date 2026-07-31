@@ -3,7 +3,6 @@
 
 ### Match: 82%
 
-- **Saved:** 2026-02-15
 - **URL:** https://www.linkedin.com/jobs/view/4373257633/
 - **Company:** Versapay
 - **Location:** Remote, Canada
@@ -14,7 +13,9 @@
 - **Team size:** not specified (agile squad)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-15 Screened
+  - 2026-03-05 Rejected
 
 ## Gaps
 - **Product domain:** No accounts receivable or fintech experience (listed as nice-to-have, but domain relevance matters)

@@ -2,15 +2,16 @@
 
 Marketing-side web team director for newrelic.com - strategy, CRO, SEO and Drupal stack. Wrong shape for a product engineering manager.
 
-- **Saved:** 2026-04-13
 - **URL:** https://www.linkedin.com/jobs/view/4401545613/
 - **Company:** New Relic
 - **Location:** Remote (Toronto, ON). No visa sponsorship.
 - **Compensation:** $222,000-$277,000 CAD + corporate bonus
 - **Benefits:** Health, dental, vision, parental leave, mental health, 401(k) + match, flex PTO, 11 holidays, volunteer time
 - **Team size:** Global team of web producers, strategists and engineers (US + IST), plus external agencies
-- **Status:** Passed (2026-04-13)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-13 Screened
+  - 2026-04-13 Passed
 
 ## Qualifications
 

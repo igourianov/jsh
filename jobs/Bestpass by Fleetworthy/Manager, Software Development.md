@@ -2,15 +2,17 @@
 
 Strong C#/SQL Server EM role for financial and internal tooling at a fleet-tech SaaS. Tech stack, hands-on balance and remote setup are a clean fit.
 
-- **Saved:** 2026-05-20
 - **URL:** https://www.linkedin.com/jobs/view/4417002817/
 - **Company:** Bestpass by Fleetworthy
 - **Location:** Remote (posted Edmonton, AB)
 - **Compensation:** Not stated (estimated 160-200k CAD)
 - **Benefits:** Not stated
 - **Team size:** Not stated (multiple teams: financial systems and internal tooling)
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied (2026-05-20)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-20 Screened
+  - 2026-05-20 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

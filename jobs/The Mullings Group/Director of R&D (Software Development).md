@@ -2,15 +2,16 @@
 
 Strong people leadership, but deep domain mismatch: no medical imaging, AI/ML for imaging, or medical device regulatory experience.
 
-- **Saved:** 2026-04-05
 - **URL:** https://www.linkedin.com/jobs/view/4397753143/
 - **Company:** The Mullings Group (agency, client undisclosed)
 - **Location:** Canada, Remote
 - **Compensation:** Not stated
 - **Benefits:** Not stated
 - **Team size:** Growing team (size not specified)
-- **Status:** Passed (2026-04-05)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-05 Screened
+  - 2026-04-05 Passed
 
 ## Qualifications
 

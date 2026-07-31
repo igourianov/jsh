@@ -2,15 +2,17 @@
 
 Strong leadership, technical and delivery match; fintech/payments domain is the main gap and total comp sits at the bottom of target range.
 
-- **Saved:** 2026-06-03
 - **URL:** https://www.linkedin.com/jobs/view/4431530487/
 - **Company:** Lightspeed Commerce
 - **Location:** Remote (Canada, EST/EDT hours)
 - **Compensation:** $180,000 - $195,000 CAD total compensation (Ontario)
 - **Benefits:** Medical, dental, wellness, life and disability insurance, RRSP plan and match, paid parental leave top-up, paid time off, equity for all employees
 - **Team size:** Not stated (manages a software development team directly and indirectly via a Technical Lead Staff Engineer)
-- **Status:** Rejected (2026-07-17)
-- **Progress:** Recruiter screen (2026-07-10)
+- **Status:** Failed
+- **Progress:**
+  - 2026-06-03 Screened
+  - 2026-07-10 Recruiter screen
+  - 2026-07-17 Failed
 
 ## Red flags
 - **Below-target compensation:** Range of $180,000 - $195,000 CAD is labeled "total compensation" (components not defined in the posting). Candidate's 180-200k CAD target is base, assuming no significant bonus/equity. If total comp includes any bonus or equity, base falls below the target floor; at best it overlaps the bottom of the range.

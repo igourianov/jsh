@@ -2,15 +2,16 @@
 
 Strong leadership and process match; main gaps are ecommerce domain and Node.js/TS backend stack.
 
-- **Saved:** 2026-07-04
 - **URL:** https://www.linkedin.com/jobs/view/4435495149/
 - **Company:** Parts Town Canada
 - **Location:** Greater Toronto Area, Canada (Remote, but perks list a hybrid schedule)
 - **Compensation:** Not stated (estimated CAD 160-190k base)
 - **Benefits:** Quarterly profit-sharing bonus, health/dental/life insurance, RRSP/DPSP match, employee assistance program, paid time off
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-04)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-04 Screened
+  - 2026-07-04 Passed
 
 ## Red flags
 - **Remote/Hybrid inconsistency:** Posting is tagged "Remote" but Perks section lists "Hybrid work schedule" - unclear which applies.

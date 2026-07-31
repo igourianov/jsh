@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-27
 - **URL:** https://www.linkedin.com/jobs/view/4377247858/
 - **Company:** Apartment List
 - **Location:** Remote (GTA, Canada)
@@ -14,7 +13,9 @@
 - **Team size:** 5+ engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-27 Screened
+  - 2026-02-27 Rejected
 
 ## Red flags
 

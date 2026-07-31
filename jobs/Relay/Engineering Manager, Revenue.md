@@ -2,15 +2,17 @@
 
 Strong role fit with excellent comp. Startup experience gap and no fintech background are the main weaknesses, but core EM skills align well.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4331906218/
 - **Company:** Relay
 - **Location:** Hybrid (Toronto, ON, 3 days/week Tues-Thurs)
 - **Compensation:** $207,000 - $253,000 CAD (typical starting $230,000)
 - **Benefits:** Not detailed in posting; references Candidate Hub for perks and benefits
 - **Team size:** Not specified
-- **Status:** Rejected (2026-04-09)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Applied
+  - 2026-04-09 Rejected
 
 ## Red flags
 - **Location mismatch:** Hybrid role requiring 3 days/week in Toronto office (Tues-Thurs). Fort Erie to Toronto is not a reasonable commute.

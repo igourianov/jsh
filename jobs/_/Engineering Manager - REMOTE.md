@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-16
 - **URL:** https://www.linkedin.com/jobs/view/4373850252/
 - **Company:** Unknown (posted by Jobgether)
 - **Location:** Remote, Canada
@@ -14,7 +13,9 @@
 - **Team size:** Small team (not specified)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-16 Screened
+  - 2026-02-16 Rejected
 
 ## Red flags
 - **Agency posting:** Posted by Jobgether on behalf of an unnamed partner company. No way to verify the actual employer, culture or legitimacy of the role.

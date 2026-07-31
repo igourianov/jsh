@@ -3,7 +3,6 @@
 
 ### Match: 35%
 
-- **Saved:** 2025-02-09
 - **URL:** https://careers.epam.com/en/vacancy/bltwi9dalnq092t7ihm_en?city=Toronto&country=Canada
 - **Company:** EPAM Systems
 - **Posted by:** EPAM (consulting/outsourcing; client is a wealth management firm)
@@ -15,7 +14,9 @@
 - **Team size:** Not specified (distributed teams across US, Canada, Mexico, India)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-09 Screened
+  - 2026-02-09 Rejected
 
 ## Gaps
 

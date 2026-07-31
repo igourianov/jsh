@@ -1,6 +1,5 @@
 # Engineering Manager | Product | MarTech | 89%
 
-- **Saved:** 2026-03-18
 - **URL:** https://www.linkedin.com/jobs/view/4387100044/
 - **Company:** Movable Ink
 - **Location:** Remote, Canada
@@ -8,8 +7,11 @@
 - **Benefits:** Not stated
 - **Team size:** Not stated
 
-- **Status:** Ghosted (2026-04-04)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-03-18 Screened
+  - 2026-03-18 Applied
+  - 2026-04-04 Ghosted
 
 ## Red flags
 None

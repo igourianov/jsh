@@ -2,15 +2,16 @@
 
 Hands-on Node.js + Salesforce delivery leadership role. Tech stack mismatch on both core areas drags an otherwise strong leadership profile down.
 
-- **Saved:** 2026-04-30
 - **URL:** https://www.linkedin.com/jobs/view/4406707693/
 - **Company:** Flosum
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 180-220k CAD base for Director level)
 - **Benefits:** Not stated
 - **Team size:** 10 engineers
-- **Status:** Passed (2026-04-30)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-30 Screened
+  - 2026-04-30 Passed
 
 ## Qualifications
 

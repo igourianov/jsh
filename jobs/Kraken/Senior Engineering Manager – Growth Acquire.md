@@ -3,7 +3,6 @@
 
 ### Match: 52%
 
-- **Saved:** 2026-02-18
 - **URL:** https://www.linkedin.com/jobs/view/4374724865/
 - **Company:** Kraken (via Ink Foundation)
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Multiple teams (likely 15-25+ engineers)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-18 Screened
+  - 2026-02-18 Rejected
 
 ## Red Flags
 

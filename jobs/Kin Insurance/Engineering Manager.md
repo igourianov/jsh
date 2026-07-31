@@ -3,7 +3,6 @@
 
 ### Match: 77%
 
-- **Saved:** 2026-03-13
 - **URL:** https://www.linkedin.com/jobs/view/4367068569/
 - **Company:** Kin Insurance
 - **Location:** Remote (Ontario, Canada)
@@ -13,7 +12,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-13 Screened
+  - 2026-03-13 Rejected
 
 ## Qualifications
 

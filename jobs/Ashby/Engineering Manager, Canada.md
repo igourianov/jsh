@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2025-02-13
 - **URL:** https://www.linkedin.com/jobs/view/4323316810/
 - **Company:** Ashby
 - **Location:** Remote, Canada
@@ -14,7 +13,9 @@
 - **Team size:** 3-5 direct reports, hiring 3-5 more
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-13 Screened
+  - 2026-02-13 Rejected
 
 ## Red flags
 - **Unlimited PTO:** Posting explicitly advertises "Unlimited PTO" under benefits. Unlimited PTO policies typically result in employees taking fewer days off than with a fixed allowance.

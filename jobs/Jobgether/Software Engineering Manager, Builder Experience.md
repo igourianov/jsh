@@ -2,15 +2,17 @@
 
 Strong EM fit for an AI-powered healthcare automation product, but role is hybrid in Toronto despite "Canada" listing.
 
-- **Saved:** 2026-05-12
 - **URL:** https://www.linkedin.com/jobs/view/4413567792/
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Hybrid Toronto (listed as Canada/Remote, contradicted by benefits section)
 - **Compensation:** Not stated (estimated 180-220k CAD base for Toronto SaaS EM)
 - **Benefits:** Competitive compensation, hybrid work, leadership growth opportunities
 - **Team size:** Not stated
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-12 Screened
+  - 2026-05-12 Applied
+  - 2026-06-29 Ghosted
 
 ## Red flags
 - **Location mismatch:** Listing says "Canada" but Benefits section states "Hybrid work environment with flexibility and in-office collaboration in Toronto." Hybrid Toronto is borderline for a Fort Erie resident (~2hr each way commute).

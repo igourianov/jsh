@@ -2,15 +2,16 @@
 
 Strong management fit, but the core technical ask (external partner data pipelines, untrusted third-party integrations) and domain (PropTech) are gaps.
 
-- **Saved:** 2026-07-30
 - **URL:** https://www.linkedin.com/jobs/view/4444514492/
 - **Company:** Apartment List
 - **Location:** Remote (Canada)
 - **Compensation:** Zone 1: $175,000-$212,000 TTC ($154,000-$180,000 base) + equity; Zone 2: $157,000-$190,000 TTC ($138,000-$161,000 base) + equity
 - **Benefits:** Equity
 - **Team size:** 3 team leads (3 pods), plus engineers under each
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-30 Screened
+  - 2026-07-30 Applied
 
 ## Qualifications
 

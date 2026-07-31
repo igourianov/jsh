@@ -2,15 +2,17 @@
 
 Near-identical twin of the already-rejected Cardiac Services screen, same shared-services / device-lifecycle mandate now covering cardiac and respiratory; strong C# / .NET / player-coach / AI-tooling fit, but this is the 5th Clario role and the domain plus Python/AWS-specifics remain the soft spots.
 
-- **Saved:** 2026-06-05
 - **URL:** https://www.linkedin.com/jobs/view/4424759069/
 - **Company:** Clario (Thermo Fisher Scientific)
 - **Location:** Remote, Canada
 - **Compensation:** Not stated (estimated $160,000–$200,000 CAD)
 - **Benefits:** Health, dental, vision, paid time off, company holidays
 - **Team size:** Not specified (senior-heavy shared services team across 20+ squads)
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied (2026-06-05)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-05 Screened
+  - 2026-06-05 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

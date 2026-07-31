@@ -2,15 +2,16 @@
 
 Solid alignment on leadership, process and product delivery. Main gap is no direct AI/ML management experience, though AI-assisted migration work is adjacent. Compensation is below target range.
 
-- **Saved:** 2026-04-22
 - **URL:** https://www.linkedin.com/jobs/view/4404439249/
 - **Company:** Point
 - **Location:** Remote (Canada)
 - **Compensation:** $142,391 - $157,379 CAD
 - **Benefits:** Equity, not otherwise specified
 - **Team size:** Two engineering teams
-- **Status:** Passed (2026-04-22)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-22 Screened
+  - 2026-04-22 Passed
 
 ## Red flags
 - **Below-market compensation:** $142K-$157K CAD is below candidate's $180-200K target. Posting notes equity and other benefits are excluded from this range.

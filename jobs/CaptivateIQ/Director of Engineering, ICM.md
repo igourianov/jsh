@@ -2,15 +2,16 @@
 
 Strong leadership and technical fit at a remote, well-funded SaaS; gaps are the Director title step-up and no sales/RevOps incentive-comp domain (HCM/payroll comp is adjacent, not direct).
 
-- **Saved:** 2026-06-06
 - **URL:** https://www.linkedin.com/jobs/view/4425127693/
 - **Company:** CaptivateIQ
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** $206,958 - $324,664 base (USD range; paid in CAD for Canada), plus equity
 - **Benefits:** 100% medical/dental/vision for FTEs (~75% dependents), flexible PTO + quarterly mental health days, professional development and caretaking stipends, work anniversary bonuses, Apple hardware. 401(k) is US-only.
 - **Team size:** Multiple engineering teams and managers (org-level, exact count unstated)
-- **Status:** Passed (2026-06-06)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-06 Screened
+  - 2026-06-06 Passed
 
 ## Qualifications
 

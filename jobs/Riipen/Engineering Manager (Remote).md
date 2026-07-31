@@ -3,7 +3,6 @@
 
 ### Match: 44%
 
-- **Saved:** 2026-03-13
 - **URL:** https://www.linkedin.com/jobs/view/4385561349/
 - **Company:** Riipen
 - **Location:** Canada (Remote)
@@ -13,7 +12,9 @@
 - **Team size:** Small (exact size not stated)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-13 Screened
+  - 2026-03-13 Rejected
 
 ## Red flags
 

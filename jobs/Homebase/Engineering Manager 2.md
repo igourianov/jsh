@@ -2,15 +2,17 @@
 
 Strong baseline match. AI leadership experience is the only notable gap.
 
-- **Saved:** 2026-04-05
 - **URL:** https://www.linkedin.com/jobs/view/4313944625/
 - **Company:** Homebase
 - **Location:** Hybrid (Toronto, ON) - Tues/Wed in-office
 - **Compensation:** Not stated (estimated $170K-$200K USD based on previous posting)
 - **Benefits:** Stock options, TFSA/RRSP 4% match, medical/dental/vision, flex time off, parental leave EI top-up, life/disability insurance, meals, Work From Anywhere month
 - **Team size:** Not specified
-- **Status:** Rejected (2026-04-08)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-05 Screened
+  - 2026-04-05 Applied
+  - 2026-04-08 Rejected
 
 ## Red flags
 - **Location mismatch:** Hybrid role requires Tuesday and Wednesday in-office in Toronto. Fort Erie is ~1.5 hours away.

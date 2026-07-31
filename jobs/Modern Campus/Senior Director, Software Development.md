@@ -2,15 +2,17 @@
 
 Strong leadership and AI-assisted SDLC alignment, but backend stack mismatch (Java/Spring Boot vs C#/.NET) and title is one level above current role.
 
-- **Saved:** 2026-05-14
 - **URL:** https://www.linkedin.com/jobs/view/4414577264/
 - **Company:** Modern Campus
 - **Location:** Remote, Canada
 - **Compensation:** $180,000-$200,000 (currency ambiguous, posting covers US and Canada)
 - **Benefits:** Rewards and recognition programs, learning and development opportunities. No explicit health, retirement or equity disclosed.
 - **Team size:** Multiple teams across Connected Curriculum product suite, scaling to additional product lines (manager-of-managers)
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-14 Screened
+  - 2026-05-14 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

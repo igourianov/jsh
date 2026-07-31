@@ -1,6 +1,5 @@
 # Engineering Team Lead | Product | Unknown | 85%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4389571922/
 - **Company:** Undisclosed (via Jobgether)
 - **Location:** Remote, Canada
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Red flags
 - **Vague job description:** The actual employer is undisclosed. The posting contains no specific product, technology stack details beyond Elixir/Phoenix, or concrete business context. Responsibilities are generic leadership duties that could apply to any engineering team.

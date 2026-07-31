@@ -2,15 +2,17 @@
 
 Strong operational management fit. 8+ years leading engineering teams, SOC 2 compliance experience, proven process and quality ownership. No construction/field operations domain experience, but the role treats it as preferred rather than required. Remote Canada is ideal.
 
-- **Saved:** 2026-04-23
 - **URL:** https://www.linkedin.com/jobs/view/4405028972/
 - **Company:** Autodesk
 - **Location:** Canada (Remote)
 - **Compensation:** $156,000-$228,800 CAD
 - **Benefits:** Annual cash bonuses, stock grants, comprehensive benefits package
 - **Team size:** Not specified (software engineers, QA and DevOps)
-- **Status:** Ghosted (2026-05-23)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-04-23 Screened
+  - 2026-04-23 Applied
+  - 2026-05-23 Ghosted
 
 ## Qualifications
 

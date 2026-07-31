@@ -2,15 +2,16 @@
 
 Strong functional match, but no Director title on record and no gaming/fintech domain experience.
 
-- **Saved:** 2026-07-21
 - **URL:** https://www.linkedin.com/jobs/view/4311962649/
 - **Company:** Xsolla
 - **Location:** Remote (Montreal, QC)
 - **Compensation:** $140,000 - $160,000/year
 - **Benefits:** Medical, dental, vision, PTO, personalized career roadmap, professional development/training
 - **Team size:** Not specified (multiple engineering teams, team leads and senior developers)
-- **Status:** Passed (2026-07-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-21 Screened
+  - 2026-07-21 Passed
 
 ## Red flags
 - **Below-market compensation:** $140,000-$160,000 is low for a Director-level engineering leadership role; typical Director of Engineering base pay runs well above this range.

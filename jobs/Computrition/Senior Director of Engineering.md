@@ -2,15 +2,16 @@
 
 Strong technical/people-management fit, but a title jump from EM to Senior Director and thin healthcare-domain/HIPAA/Oracle background weigh it down.
 
-- **Saved:** 2026-07-11
 - **URL:** https://www.linkedin.com/jobs/view/4344944559/
 - **Company:** Computrition, Inc.
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated)
 - **Benefits:** Not stated
 - **Team size:** Not stated (multi-disciplinary org: application engineering, R&D/AI, DevOps/infra)
-- **Status:** Passed (2026-07-12)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-11 Screened
+  - 2026-07-12 Passed
 
 ## Qualifications
 

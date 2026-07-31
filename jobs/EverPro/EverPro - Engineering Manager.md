@@ -2,15 +2,16 @@
 
 Strong overall fit on management scope and seniority; main gaps are PLG/experimentation experience and unconfirmed mobile/MongoDB-PostgreSQL exposure.
 
-- **Saved:** 2026-07-07
 - **URL:** https://www.linkedin.com/jobs/view/4436597936/
 - **Company:** EverPro (EverCommerce)
 - **Location:** Remote (Canada)
 - **Compensation:** CAD $150,000 - $190,000 base (stated)
 - **Benefits:** Wellness benefits + annual wellness stipend, 3 weeks vacation, paid volunteer day, 2 floating holidays, Employee Stock Purchase Program, RRSP with 4% company match
 - **Team size:** ~9 engineers across multiple product teams
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-07 Screened
+  - 2026-07-07 Applied
 
 ## Qualifications
 

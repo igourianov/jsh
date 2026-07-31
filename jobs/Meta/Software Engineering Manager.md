@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-18
 - **URL:** https://www.linkedin.com/jobs/view/4372459728/
 - **Company:** Meta
 - **Location:** Canada, Remote
@@ -14,7 +13,9 @@
 - **Team size:** not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-18 Screened
+  - 2026-02-18 Rejected
 
 ## Red flags
 - **Vague job description:** The posting lists only four generic responsibilities ("lead and manage a team", "collaborate with cross-functional teams", "develop and implement technical strategies", "foster a work environment of continuous learning") with no specifics about the team, product area, tech stack or concrete deliverables. The description could apply to any engineering manager role at any company.

@@ -2,15 +2,16 @@
 
 Strong leadership and technical fit, but no domain experience in promotions/digital entertainment platforms.
 
-- **Saved:** 2026-07-14
 - **URL:** https://www.linkedin.com/jobs/view/4439490818/
 - **Company:** Jobgether (agency posting on behalf of undisclosed employer)
 - **Location:** Canada, Remote
 - **Compensation:** CAD $185,000-$235,000
 - **Benefits:** Comprehensive health/financial/emotional wellbeing benefits, education/conference reimbursement, remote work flexibility
 - **Team size:** Not stated
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-14 Screened
+  - 2026-07-14 Applied
 
 ## Qualifications
 

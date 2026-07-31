@@ -1,6 +1,5 @@
 # Engineering Manager | Product | B2B SaaS, Productivity | 91%
 
-- **Saved:** 2026-03-20
 - **URL:** https://www.linkedin.com/jobs/view/4388539343/
 - **Company:** ClickUp
 - **Location:** Canada, Remote
@@ -8,8 +7,11 @@
 - **Benefits:** Not stated
 - **Team size:** Not stated
 
-- **Status:** Ghosted (2026-04-04)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-03-20 Screened
+  - 2026-03-20 Applied
+  - 2026-04-04 Ghosted
 
 ## Red flags
 

@@ -2,15 +2,16 @@
 
 Strong leadership fit and solid SaaS/process alignment, but gap on the modern data-platform stack (Python, dbt, Dagster, Snowflake) and no FinOps domain background.
 
-- **Saved:** 2026-07-20
 - **URL:** https://www.linkedin.com/jobs/view/4442021311/
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Remote (Canada/US)
 - **Compensation:** Not stated, est. 160-190k CAD (estimated)
 - **Benefits:** Flexible remote work; no other specifics stated
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-20)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-20 Screened
+  - 2026-07-20 Passed
 
 ## Qualifications
 

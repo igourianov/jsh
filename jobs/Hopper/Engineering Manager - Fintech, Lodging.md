@@ -2,15 +2,16 @@
 
 Strong leadership and technical-depth fit, but JVM/Scala stack and direct fintech/partner-integration experience are the gaps.
 
-- **Saved:** 2026-06-01
 - **URL:** https://www.linkedin.com/jobs/view/4423410547/
 - **Company:** Hopper
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** CA$245K - CA$285K
 - **Benefits:** 100% company-paid group insurance, life/short & long-term disability, HSA, Dialogue telemedicine, RRSP with pre-tax contributions, generous parental leave, unlimited PTO, Carrot Cash travel stipend, FlexDesk coworking, work-from-home stipend, pre-IPO equity
 - **Team size:** ~3 engineers
-- **Status:** Passed (2026-06-01)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-01 Screened
+  - 2026-06-01 Passed
 
 ## Qualifications
 

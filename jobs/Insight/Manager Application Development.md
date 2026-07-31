@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-19
 - **URL:** https://www.linkedin.com/jobs/view/4375191105/
 - **Company:** Insight Enterprises
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified (multiple project teams)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-19 Screened
+  - 2026-02-19 Rejected
 
 ## Gaps
 - **Cloud platform:** Role targets GCP delivery experience. Candidate has AWS and Azure but no GCP.

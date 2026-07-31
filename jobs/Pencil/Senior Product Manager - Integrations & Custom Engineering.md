@@ -1,6 +1,5 @@
 # Senior Product Manager | Product | AdTech/MarTech | 40%
 
-- **Saved:** 2026-03-25
 - **URL:** https://www.linkedin.com/jobs/view/4390133021/
 - **Company:** Pencil
 - **Location:** Remote (NAMER)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-25 Screened
+  - 2026-03-25 Rejected
 
 ## Qualifications
 

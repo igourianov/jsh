@@ -2,15 +2,17 @@
 
 Strong technical and leadership fit. .NET/microservices stack aligns well, AI tooling emphasis is a direct match. AWS instead of Azure is a minor gap. No domain experience in lien/recovery services. Hybrid Toronto is borderline commutable from Fort Erie.
 
-- **Saved:** 2026-04-05
 - **URL:** https://www.linkedin.com/jobs/view/4331541051/
 - **Company:** AutoTrader.ca (TRADER Corporation / AutoScout24 group)
 - **Location:** Hybrid, Toronto, ON
 - **Compensation:** CAD $140,000 - $190,000
 - **Benefits:** Annual bonus, 3% CPP matching, gym discounts, EAP, conferences & training budget
 - **Team size:** Not specified (building/growing a full-stack team)
-- **Status:** Ghosted (2026-05-15)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-04-05 Screened
+  - 2026-04-05 Applied
+  - 2026-05-15 Ghosted
 
 ## Red flags
 - **Location mismatch:** Hybrid role in Toronto. Fort Erie to Toronto is a 2+ hour commute each way, not practically commutable for regular in-office days.

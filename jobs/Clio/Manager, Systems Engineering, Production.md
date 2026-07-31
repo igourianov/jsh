@@ -2,15 +2,16 @@
 
 Solid people-management fit, but the AWS-specific infra requirement and legal-tech domain are real gaps against an Azure/Kubernetes background.
 
-- **Saved:** 2026-07-20
 - **URL:** https://www.linkedin.com/jobs/view/4374668271/
 - **Company:** Clio
 - **Location:** Remote (Canada); Hybrid 2 days/week if local to Burnaby, Calgary or Toronto hubs
 - **Compensation:** CAD $176,000–$264,000 (midpoint $220,000)
 - **Benefits:** Health/dental/vision, flexible PTO (20 days encouraged), $2,000 annual counseling benefit, RRSP matching, RESP contribution, Clioversary recognition
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-20)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-20 Screened
+  - 2026-07-20 Passed
 
 ## Qualifications
 

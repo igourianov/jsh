@@ -2,15 +2,16 @@
 
 Strong people-management and delivery fit, but weak on payments/billing domain and Node/Postgres/Stripe stack.
 
-- **Saved:** 2026-07-20
 - **URL:** https://www.linkedin.com/jobs/view/4442758457/
 - **Company:** Burq
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 160-190k CAD)
 - **Benefits:** Stock options, performance bonuses, medical/vision/dental insurance
 - **Team size:** 2 engineering leads (Core, Growth) + their teams
-- **Status:** Passed (2026-07-20)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-20 Screened
+  - 2026-07-20 Passed
 
 ## Qualifications
 

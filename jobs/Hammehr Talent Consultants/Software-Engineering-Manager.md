@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Fintech | 76%
 
-- **Saved:** 2026-03-16
 - **URL:** https://www.linkedin.com/jobs/view/4386529849/
 - **Company:** Hammehr Talent Consultants (on behalf of unnamed fintech client)
 - **Location:** Remote, Canada
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-16 Screened
+  - 2026-03-16 Rejected
 
 ## Red flags
 - **Below-market compensation:** CA$150K base for an Engineering Manager in fintech is on the lower end of market range. The 20% bonus helps but total comp (CA$180K) is still modest.

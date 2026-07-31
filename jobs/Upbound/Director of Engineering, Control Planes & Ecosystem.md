@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-25
 - **URL:** https://www.linkedin.com/jobs/view/4376450692/
 - **Company:** Upbound
 - **Location:** Remote (NAMER)
@@ -14,7 +13,9 @@
 - **Team size:** Multiple managers and teams (managers-of-managers scope)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-25 Screened
+  - 2026-02-25 Rejected
 
 ## Red Flags
 

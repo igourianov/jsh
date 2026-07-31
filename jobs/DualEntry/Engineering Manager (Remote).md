@@ -2,15 +2,16 @@
 
 Strong leadership and architecture fit at an intense, fast-growing AI ERP startup. Main gap is Python/Next.js stack and no fintech/ERP background.
 
-- **Saved:** 2026-05-28
 - **URL:** https://www.linkedin.com/jobs/view/4420460222/
 - **Company:** DualEntry
 - **Location:** Remote (EST overlap with NYC HQ)
 - **Compensation:** Base $150,000 - $250,000 USD + equity $50,000 - $80,000
 - **Benefits:** Significant equity, 27 PTO days (incl. public holidays), L&D budget, home office / co-working support, visa sponsorship option for NYC relocation within 2+ years
 - **Team size:** Not specified
-- **Status:** Passed (2026-05-28)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-28 Screened
+  - 2026-05-28 Passed
 
 ## Qualifications
 

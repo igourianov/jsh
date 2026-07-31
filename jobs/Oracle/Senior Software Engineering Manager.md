@@ -2,15 +2,17 @@
 
 Excellent fit with strong comp clearing target, but the posting is near-empty boilerplate so the real role is unknown.
 
-- **Saved:** 2026-06-01
 - **URL:** https://www.linkedin.com/jobs/view/4419207398/
 - **Company:** Oracle
 - **Location:** Remote, Canada
 - **Compensation:** CAD $139,700 - $233,900 per year (M4 career level)
 - **Benefits:** Medical/dental/vision, life insurance and AD&D, disability, 401(k) match, ESPP, paid parental leave, flexible vacation (US package listed; CA equivalents likely)
 - **Team size:** Not stated
-- **Status:** Rejected (2026-06-03)
-- **Progress:** Applied (2026-06-01)
+- **Status:** Rejected
+- **Progress:**
+  - 2026-06-01 Screened
+  - 2026-06-01 Applied
+  - 2026-06-03 Rejected
 
 ## Red flags
 - **Vague job description:** The posting is generic boilerplate. The description ("Manage a team that designs, develops, troubleshoots and debugs software programs for databases, applications, tools, networks etc.") could apply to any team at any company. The Responsibilities paragraph even refers to "a director of the software engineering division" (inconsistent with the M4 manager title), and the Qualifications section contains only a disclaimer with no actual requirements. No team, product, tech stack or scope is identifiable.

@@ -2,15 +2,16 @@
 
 Strong hands-on EM fit with the right SaaS, AI tooling and scaling story. Ruby/Postgres and CRM domain are the soft gaps.
 
-- **Saved:** 2026-04-17
 - **URL:** https://www.linkedin.com/jobs/view/4403552516/
 - **Company:** Affinity.co
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** $176,000 - $220,000 CAD
 - **Benefits:** Extended health (employee + dependents), flexible personal & sick days, RRSP, annual L&D budget, wellness reimbursement (internet, meals, fitness memberships)
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-18)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-17 Screened
+  - 2026-04-18 Passed
 
 ## Qualifications
 

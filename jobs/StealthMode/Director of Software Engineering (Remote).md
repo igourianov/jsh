@@ -3,7 +3,6 @@
 
 ### Match: 82%
 
-- **Saved:** 2026-02-24
 - **URL:** https://www.linkedin.com/jobs/view/4376411727/
 - **Company:** StealthMode (undisclosed)
 - **Location:** Remote, Canada
@@ -14,7 +13,9 @@
 - **Team size:** Not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-24 Screened
+  - 2026-02-25 Rejected
 
 ## Red flags
 

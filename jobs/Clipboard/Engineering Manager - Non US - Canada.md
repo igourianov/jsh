@@ -2,15 +2,16 @@
 
 Strong EM/technical leadership match. Main gaps: no marketplace experience and healthcare vertical is only tangential (Klick agency, not LTC staffing).
 
-- **Saved:** 2026-04-16
 - **URL:** https://www.linkedin.com/jobs/view/4400199727/
 - **Company:** Clipboard
 - **Location:** Remote/Hybrid, Canada
 - **Compensation:** $200K - $400K (USD, presumed)
 - **Benefits:** Unlimited PTO, async-first culture
 - **Team size:** Not stated
-- **Status:** Passed (2026-04-16)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-16 Screened
+  - 2026-04-16 Passed
 
 ## Qualifications
 

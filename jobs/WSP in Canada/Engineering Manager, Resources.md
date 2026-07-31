@@ -2,15 +2,16 @@
 
 Traditional engineering (civil/industrial/mining) role, not software engineering. Requires P.Eng designation and EPC/EPCM lifecycle experience. Complete domain mismatch.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4383960394/
 - **Company:** WSP in Canada
 - **Location:** Toronto, ON (Hybrid)
 - **Compensation:** $112,100 – $154,400 (ON range)
 - **Benefits:** Not specified
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-06)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Passed
 
 ## Red flags
 - **Below-market compensation:** ON range tops at $154,400 for a role requiring P.Eng and 15 years experience. Below candidate target of $180-200K.

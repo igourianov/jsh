@@ -3,7 +3,6 @@
 
 ### Match: 60%
 
-- **Saved:** 2026-03-09
 - **URL:** https://www.linkedin.com/jobs/view/4383388216/
 - **Company:** Super.com
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** 5 teams (3 established + 2 new), led via Engineering Managers; ~50+ engineers estimated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-09 Screened
+  - 2026-03-09 Rejected
 
 ## Red Flags
 

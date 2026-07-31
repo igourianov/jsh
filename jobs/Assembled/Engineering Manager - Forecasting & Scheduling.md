@@ -2,7 +2,6 @@
 
 Strong leadership and product fit at a well-funded AI support startup; the only soft spot is the operations-research math depth, which is only a nice-to-have.
 
-- **Saved:** 2026-06-02
 - **URL:** https://www.linkedin.com/jobs/view/4423985888/
 - **Company:** Assembled
 - **Location:** Remote (Canada)
@@ -11,6 +10,7 @@ Strong leadership and product fit at a well-funded AI support startup; the only 
 - **Team size:** Not stated ("sizable team")
 - **Status:** Screened
 - **Progress:**
+  - 2026-06-02 Screened
 
 ## Qualifications
 

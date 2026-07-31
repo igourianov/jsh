@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2025-02-09
 - **URL:** https://ats.rippling.com/cozey/jobs/3c0722d9-935b-46dd-b461-8bc71ca0ee4a?jobSite=LinkedIn&src=LinkedIn
 - **Company:** Cozey
 - **Location:** Montreal, QC, Canada (not specified if remote/hybrid)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-09 Screened
+  - 2026-02-09 Rejected
 
 ## Gaps
 - **Tech stack:** Job prefers TypeScript and Node.js backend. Candidate's backend experience is .NET/C#. TypeScript experience is frontend only (React/TypeScript).

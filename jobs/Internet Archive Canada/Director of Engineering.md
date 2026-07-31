@@ -2,15 +2,16 @@
 
 Hands-on infra leadership role centered on physical data centre operations and Kubernetes, areas outside the candidate's core background; people management fit is strong.
 
-- **Saved:** 2026-07-30
 - **URL:** https://www.linkedin.com/jobs/view/4447071827/
 - **Company:** Internet Archive Canada
 - **Location:** Remote (must be based in British Columbia)
 - **Compensation:** CA$100K - CA$180K/yr
 - **Benefits:** Extended health benefits package
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-30)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-30 Screened
+  - 2026-07-30 Passed
 
 ## Red flags
 - **Location mismatch:** Role is "based remotely in British Columbia, with travel to the data centre" - implies BC residency requirement. Candidate is based in Fort Erie, ON.

@@ -1,6 +1,5 @@
 # Engineering Manager | AI/ML | Non-profit/Fundraising | 53%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4381754546/
 - **Company:** Kindsight
 - **Location:** Remote (Toronto, ON)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Qualifications
 

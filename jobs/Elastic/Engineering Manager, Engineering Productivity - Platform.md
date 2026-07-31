@@ -1,6 +1,5 @@
 # Engineering Manager | Platform/DevOps | Developer Tools / Search AI | 86%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4358219751/
 - **Company:** Elastic
 - **Location:** Canada, Remote
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Red flags
 

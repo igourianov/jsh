@@ -3,7 +3,6 @@
 
 ### Match: 86%
 
-- **Saved:** 2026-03-15
 - **URL:** https://www.linkedin.com/jobs/view/4380521950/
 - **Company:** Miovision
 - **Location:** Remote (Canada only)
@@ -12,7 +11,9 @@
 - **Team size:** not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-15 Screened
+  - 2026-03-15 Rejected
 
 ## Red flags
 

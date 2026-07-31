@@ -2,15 +2,16 @@
 
 Director-level role managing 80 people through 5 managers; strong AI-adoption mandate but a step up in scale and a French-language requirement the candidate doesn't have.
 
-- **Saved:** 2026-07-17
 - **URL:** https://www.linkedin.com/jobs/view/4441662450/
 - **Company:** Sherweb
 - **Location:** Remote/Hybrid (Montreal/Sherbrooke), Québec, QC
 - **Compensation:** $112,140–$160,200 CAD base
 - **Benefits:** Flexible benefits plan, flexible savings fund, monthly home internet allowance, annual salary review, vacation time based on experience, paid holidays/mobile days
 - **Team size:** ~80 (through 5 direct manager reports)
-- **Status:** Passed (2026-07-17)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-17 Screened
+  - 2026-07-17 Passed
 
 ## Red flags
 - **Below-market compensation:** Stated base range ($112,140–$160,200 CAD) is well below candidate's target range (180-200k CAD) and below typical market rate for a Director role overseeing an 80-person, 5-manager org.

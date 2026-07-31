@@ -2,15 +2,16 @@
 
 Delivery manager for client-facing consulting engagements. Poor fit: candidate has no consulting background, role is client-facing delivery not product engineering.
 
-- **Saved:** 2026-04-16
 - **URL:** https://www.linkedin.com/jobs/view/4402177534/
 - **Company:** TELUS Digital
 - **Location:** Remote (British Columbia, Canada)
 - **Compensation:** Not stated
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Passed (2026-04-16)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-16 Screened
+  - 2026-04-16 Passed
 
 ## Qualifications
 

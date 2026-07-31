@@ -2,15 +2,16 @@
 
 Specialized data engineering manager role requiring deep DE stack experience (Spark, Airflow, dimensional modeling, lakehouse). Candidate has zero data engineering background.
 
-- **Saved:** 2026-04-07
 - **URL:** https://www.linkedin.com/jobs/view/4386753674/
 - **Company:** Instacart
 - **Location:** Remote (US)
 - **Compensation:** $192,000-$242,000 USD (location-dependent)
 - **Benefits:** Equity (new hire grant + annual refresh), benefits package
 - **Team size:** 7 data engineers across two teams
-- **Status:** Passed (2026-04-07)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-07 Screened
+  - 2026-04-07 Passed
 
 ## Red flags
 - **Location mismatch:** Role is remote within the United States only. Compensation bands are all USD by US state. Candidate is based in Canada with no US work authorization.

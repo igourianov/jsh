@@ -2,15 +2,16 @@
 
 Strong leadership and delivery fit; main gap is direct AI/ML or scientific-research domain experience and researcher-collaboration track record.
 
-- **Saved:** 2026-07-28
 - **URL:** https://www.linkedin.com/jobs/view/4443229494/
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated, est. 190-220k CAD (estimated)
 - **Benefits:** Not stated
 - **Team size:** 4-6 engineers
-- **Status:** Passed (2026-07-28)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-28 Screened
+  - 2026-07-28 Passed
 
 **Note:** Duplicate of `jobs/FirstPrinciples/Senior Engineering Manager.md` — same role (AI platform for scientific discovery, 4-6 engineer team), reposted anonymously via Jobgether. Already passed on the FirstPrinciples version.
 

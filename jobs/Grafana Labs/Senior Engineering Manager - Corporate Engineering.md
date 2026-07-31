@@ -2,15 +2,16 @@
 
 Domain mismatch. Role requires deep corporate IT operations experience (MDM, SSO, EDR, DLP, device management) which the candidate lacks entirely. Strong people management and platform engineering background are relevant but insufficient to offset the core domain gap.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4398015037/
 - **Company:** Grafana Labs
 - **Location:** Remote (US/Canada EST, Germany, Sweden, Spain, Ireland, UK)
 - **Compensation:** CAD 211,000 - 264,000
 - **Benefits:** Equity, bonus, 30 days annual leave
 - **Team size:** Fully staffed team (size not specified)
-- **Status:** Passed (2026-04-06)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Passed
 
 ## Qualifications
 

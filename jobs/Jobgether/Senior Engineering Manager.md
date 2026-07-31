@@ -2,15 +2,16 @@
 
 Strong leadership and SaaS fit, but the role skews infra/SRE/security and the JD is generic across multiple possible functions.
 
-- **Saved:** 2026-05-29
 - **URL:** https://www.linkedin.com/jobs/view/4421723807/
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated, est. 180-220k CAD (estimated)
 - **Benefits:** Fully remote, high autonomy, executive exposure, career growth
 - **Team size:** Multiple teams / workstreams (not specified)
-- **Status:** Passed (2026-05-29)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-29 Screened
+  - 2026-05-29 Passed
 
 ## Red flags
 - **Vague job description:** The role is undefined across functions, "Define and drive the long-term technical vision for infrastructure, cloud platform, security, IT, or compliance domains depending on the assigned function." Generic aggregated posting that could map to several different roles or companies.

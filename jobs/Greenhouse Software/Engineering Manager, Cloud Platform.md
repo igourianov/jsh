@@ -2,15 +2,16 @@
 
 Solid people-management fit but a weak technical match: role requires deep AWS hands-on ownership and K8s cluster lifecycle expertise, while candidate's platform background is Azure/AKS-flavored with no cloud cost management experience.
 
-- **Saved:** 2026-07-22
 - **URL:** https://www.linkedin.com/jobs/view/4441038779/
 - **Company:** Greenhouse Software
 - **Location:** Ontario, Canada (Remote)
 - **Compensation:** $129,000 - $175,000 CAD + bonus, stock options
 - **Benefits:** Stock options, bonus, merit increases
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-22)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-22 Screened
+  - 2026-07-22 Passed
 
 ## Red flags
 - **Below-market compensation:** Capped at $175K CAD for a technical EM role owning core cloud infrastructure; a prior Greenhouse EM posting for the same seniority level ranged up to $214K CAD.

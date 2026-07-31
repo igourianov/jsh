@@ -3,7 +3,6 @@
 
 ### Match: 50%
 
-- **Saved:** 2026-03-11
 - **URL:** https://www.linkedin.com/jobs/view/4384348923/
 - **Company:** Aislelabs
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** 8+ engineers + DevOps (Canada and India)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-11 Screened
+  - 2026-03-11 Rejected
 
 ## Red Flags
 

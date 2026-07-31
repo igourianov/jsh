@@ -3,7 +3,6 @@
 
 ### Match: 82%
 
-- **Saved:** 2026-03-15
 - **URL:** https://www.linkedin.com/jobs/view/4343505443/
 - **Company:** NEOGOV
 - **Location:** Remote (US/Canada)
@@ -12,7 +11,9 @@
 - **Team size:** Multiple scrum teams (not specified)
 
 - **Status:** Withdrew
-- **Progress:** 
+- **Progress:**
+  - 2026-03-15 Screened
+  - 2026-03-20 Withdrew
 
 ## Qualifications
 

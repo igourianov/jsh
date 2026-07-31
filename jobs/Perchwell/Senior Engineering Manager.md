@@ -2,15 +2,16 @@
 
 Strong technical and leadership fit, but the role requires US work authorization the candidate doesn't hold.
 
-- **Saved:** 2026-06-03
 - **URL:** https://www.linkedin.com/jobs/view/4424283077/
 - **Company:** Perchwell
 - **Location:** Remote (NAMER, US work authorization required)
 - **Compensation:** $200-$255K base + equity + benefits
 - **Benefits:** Flexible PTO, 10 paid holidays, 401K with match, medical/dental/vision, HSA/FSA, commuter benefits, parental leave, annual onsite/offsite
 - **Team size:** Two teams, scaling toward 5-10 engineers each
-- **Status:** Passed (2026-06-03)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-03 Screened
+  - 2026-06-03 Passed
 
 ## Red flags
 - **Work authorization:** "At this time, we are only considering candidates who are authorized to work in the U.S." Candidate is a Canadian citizen with no US citizenship or green card. This is a hard eligibility blocker for an otherwise strong match.

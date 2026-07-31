@@ -2,15 +2,17 @@
 
 Strong match. Core people and technical leadership skills align well. No e-commerce domain experience, but enterprise SaaS and product team management transfer directly.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4394710878/
 - **Company:** Faire
 - **Location:** Hybrid (Toronto, ON) - 3 days/week in office
 - **Compensation:** $190,500 - $262,000 CAD + equity
 - **Benefits:** Equity, benefits (details not specified in posting)
 - **Team size:** Not specified (cross-functional team)
-- **Status:** Rejected (2026-04-07)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Applied
+  - 2026-04-07 Rejected
 
 ## Red flags
 - **Location mismatch:** Hybrid role requires 3 days/week in Toronto office (Tuesdays, Thursdays + flex day). Fort Erie to Toronto is not a reasonable commute.

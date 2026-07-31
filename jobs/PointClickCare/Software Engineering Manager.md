@@ -2,15 +2,16 @@
 
 Strong leadership and SaaS delivery match; comp is below target and Java is the core stack vs candidate's C#/.NET.
 
-- **Saved:** 2026-05-07
 - **URL:** https://www.linkedin.com/jobs/view/4409993396/
 - **Company:** PointClickCare
 - **Location:** Remote (Mississauga ON; periodic in-office events in Mississauga or Salt Lake City)
 - **Compensation:** CA$156K-174K base + bonus + benefits
 - **Benefits:** Retirement plan matching, flexible PTO, wellness programs, parental and caregiver leaves, fertility and adoption support, continuous development, EAP, benefits from day 1
 - **Team size:** Multiple Agile teams (size unspecified)
-- **Status:** Passed (2026-05-07)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-07 Screened
+  - 2026-05-07 Passed
 
 ## Red flags
 - **Below-target compensation:** Top of range (CA$174K) is below the candidate's 180-200K CAD target. Bonus may close the gap but base is light.

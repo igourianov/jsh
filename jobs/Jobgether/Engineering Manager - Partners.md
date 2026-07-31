@@ -2,15 +2,17 @@
 
 Strong leadership/technical fit; main gap is external developer-facing platform and partner ecosystem experience.
 
-- **Saved:** 2026-06-02
 - **URL:** https://www.linkedin.com/jobs/view/4423831670/
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 170-200k CAD)
 - **Benefits:** Equity/share options, flexible vacation, coworking access, annual retreats/workations, home office allowance + premium equipment, learning budget, private medical insurance
 - **Team size:** Multiple teams (manager of teams)
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied (2026-06-02)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-02 Screened
+  - 2026-06-02 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

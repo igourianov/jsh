@@ -2,15 +2,16 @@
 
 Excellent fit: product engineering leadership over multiple SaaS squads at on-target comp, fully remote in Canada. Only soft spot is the service-commerce vertical.
 
-- **Saved:** 2026-06-09
 - **URL:** https://www.linkedin.com/jobs/view/4425824476/
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Remote (Canada)
 - **Compensation:** CAD 175,000 - 195,000 base
 - **Benefits:** ESPP, RRSP 4% match, flexible time off, annual wellness stipend, remote-first
 - **Team size:** Multiple engineering squads (not specified)
-- **Status:** Active
-- **Progress:** Applied (2026-06-09)
+- **Status:** Applied
+- **Progress:**
+  - 2026-06-09 Screened
+  - 2026-06-09 Applied
 
 ## Qualifications
 

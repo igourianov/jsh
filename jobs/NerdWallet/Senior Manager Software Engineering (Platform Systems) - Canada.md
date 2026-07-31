@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-03-13
 - **URL:** https://www.linkedin.com/jobs/view/4376401881/
 - **Company:** NerdWallet
 - **Location:** Canada, Remote (except Quebec)
@@ -13,7 +12,9 @@
 - **Team size:** Not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-13 Screened
+  - 2026-03-13 Rejected
 
 ## Qualifications
 

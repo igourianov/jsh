@@ -2,15 +2,16 @@
 
 Solid EM fit on leadership and process, but no adtech/privacy-tech domain background and the employer is undisclosed with no salary stated.
 
-- **Saved:** 2026-07-29
 - **URL:** https://www.linkedin.com/jobs/view/4444113426/
 - **Company:** Jobgether (posting on behalf of an undisclosed partner company)
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated; ~$160,000-$200,000 CAD (estimated)
 - **Benefits:** Medical/dental/vision, retirement contributions with immediate vesting, quarterly wellness days, birthday day off, home office stipend, professional development budget, parental leave, referral bonus, life/disability insurance (location-dependent)
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-29)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-29 Screened
+  - 2026-07-29 Passed
 
 ## Qualifications
 

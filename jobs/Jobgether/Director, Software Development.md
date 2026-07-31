@@ -2,7 +2,6 @@
 
 Exceptional fit with deep healthcare domain experience, strong engineering leadership of distributed teams, and matching compensation expectations.
 
-- **Saved:** 2026-06-22
 - **URL:** https://www.linkedin.com/jobs/view/4430399127/
 - **Company:** Jobgether (partner company)
 - **Location:** Remote (Canada)
@@ -11,6 +10,7 @@ Exceptional fit with deep healthcare domain experience, strong engineering leade
 - **Team size:** Global distributed organization of EMs and senior engineers.
 - **Status:** Screened
 - **Progress:**
+  - 2026-06-22 Screened
 
 ## Qualifications
 

@@ -2,15 +2,16 @@
 
 Strong EM/leadership and AI-tooling fit; main gap is the Python/Django backend stack for a hands-on player-coach role.
 
-- **Saved:** 2026-06-12
 - **URL:** https://www.linkedin.com/jobs/view/4427213679/
 - **Company:** Greenspace Health
 - **Location:** Remote (Canada; flexible hybrid-remote, hubs in Vancouver, Kelowna, Toronto)
 - **Compensation:** CAD $150K - $180K base, plus bonus and equity
 - **Benefits:** Bonus, equity, generous vacation, comprehensive benefits, paid parental leave
 - **Team size:** Lean team (small), reports to Head of Engineering Operations
-- **Status:** Passed (2026-06-12)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-12 Screened
+  - 2026-06-12 Passed
 
 ## Qualifications
 

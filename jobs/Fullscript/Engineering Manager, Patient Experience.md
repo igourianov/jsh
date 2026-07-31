@@ -2,15 +2,16 @@
 
 Hands-on React Native pod lead pitched at the Senior Eng/Tech Lead level; strong leadership and fullstack fit but a stack and seniority mismatch (no React Native, no mobile, no ecommerce).
 
-- **Saved:** 2026-05-30
 - **URL:** https://www.linkedin.com/jobs/view/4421323280/
 - **Company:** Fullscript
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 140-180k CAD)
 - **Benefits:** RRSP match, stock options, medical/dental/vision with HSA, flexible PTO, training budget, employee discount, no-meeting Wednesdays
 - **Team size:** Small pod (size not specified)
-- **Status:** Passed (2026-05-30)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-30 Screened
+  - 2026-05-30 Passed
 
 ## Qualifications
 

@@ -2,15 +2,17 @@
 
 Strong match for an inward-facing engineering leader role at a small digital health startup; only gaps are the Director title and direct HIPAA/FDA experience.
 
-- **Saved:** 2026-05-09
 - **URL:** https://www.linkedin.com/jobs/view/4412189157/
 - **Company:** Aetonix
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 160-200k CAD)
 - **Benefits:** Medical, dental, vision, life insurance
 - **Team size:** 12 engineers across 4-5 squads (managed via tech leads)
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-09 Screened
+  - 2026-05-09 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

@@ -2,15 +2,17 @@
 
 Excellent management fit. 8+ years leading engineering teams, strong SDLC and process credentials. No AEC domain experience but the role doesn't hard-require it. Hybrid Toronto is borderline commutable from Fort Erie.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4394711823/
 - **Company:** Autodesk
 - **Location:** Toronto, ON (Hybrid)
 - **Compensation:** $140,000-$205,700 CAD (stated for Canada-BC; Toronto range likely similar)
 - **Benefits:** Annual cash bonuses, stock grants, comprehensive benefits package
 - **Team size:** Not specified
-- **Status:** Rejected (2026-04-09)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Applied
+  - 2026-04-09 Rejected
 
 ## Red flags
 - **Location mismatch:** Hybrid role in Toronto, ON. Fort Erie to Toronto is ~160 km, not a reasonable daily commute without relocation or a remote arrangement.

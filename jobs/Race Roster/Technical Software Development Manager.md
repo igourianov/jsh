@@ -2,15 +2,17 @@
 
 Hands-on EM role at ASICS Apps subsidiary running endurance event tech. Strong leadership fit; scope is a step down from current Fortune 500 EM role.
 
-- **Saved:** 2026-05-23
 - **URL:** https://www.linkedin.com/jobs/view/4417464580/
 - **Company:** Race Roster (ASICS Apps Canada, subsidiary of ASICS Corporation)
 - **Location:** Remote in Canada (or hybrid/in-office London, ON)
 - **Compensation:** Not stated (estimated 140-170k CAD)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-23 Screened
+  - 2026-05-23 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

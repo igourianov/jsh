@@ -1,14 +1,16 @@
 # Engineering Manager | Product | B2B SaaS / IT Tools | 89%
 
-- **Saved:** 2026-04-02
 - **URL:** https://www.linkedin.com/jobs/view/4395363473/
 - **Company:** ShareGate (subsidiary of Workleap Technologies)
 - **Location:** Remote, Canada (HQ: Montreal, QC)
 - **Compensation:** $145K–$185K CAD
 - **Benefits:** Not specified
 - **Team size:** New team, built from scratch
-- **Status:** Rejected (2026-04-20)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-02 Screened
+  - 2026-04-02 Applied
+  - 2026-04-20 Rejected
 
 ## Red flags
 - **Below-market compensation:** Top of range ($185K) is at the low end of candidate's target ($180K–$200K). Limited room for negotiation within stated band.

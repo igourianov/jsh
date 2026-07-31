@@ -2,15 +2,16 @@
 
 Director role at an undisclosed Jobgether partner; strong leadership fit but salary band sits well below target.
 
-- **Saved:** 2026-05-27
 - **URL:**
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Remote (Canada)
 - **Compensation:** CAD $140,000-$160,000
 - **Benefits:** Medical, dental, vision, generous PTO, training budget
 - **Team size:** Multiple teams (EMs, leads, seniors across regions)
-- **Status:** Passed (2026-05-27)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-27 Screened
+  - 2026-05-27 Passed
 
 ## Red flags
 - **Below-market compensation:** CAD $140-160k for a Director-level role leading multiple distributed teams is well under candidate's 180-200k CAD target and below market for a Canadian Director of Engineering.

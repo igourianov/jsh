@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2025-02-09
 - **URL:** https://job-boards.greenhouse.io/adahealth/jobs/8367927002
 - **Company:** Ada Health
 - **Location:** Remote Canada (Eastern or Atlantic time zones preferred)
@@ -14,7 +13,9 @@
 - **Team size:** Small team (unspecified)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-09 Screened
+  - 2026-02-09 Rejected
 
 ## Gaps
 - **Tech stack:** Role requires hands-on coding in Kotlin/Spring Boot. Candidate's backend experience is .NET/C#, no Kotlin or JVM ecosystem experience listed.

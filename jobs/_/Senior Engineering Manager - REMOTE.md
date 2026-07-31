@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-03-03
 - **URL:** https://www.linkedin.com/jobs/view/4380105476/
 - **Company:** Unknown (via Jobgether)
 - **Location:** Remote
@@ -14,7 +13,9 @@
 - **Team size:** Not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-03 Screened
+  - 2026-03-03 Rejected
 
 ## Red Flags
 

@@ -2,15 +2,16 @@
 
 Strong comp and title match, but the role is frontend-specialist (design systems, frontend architecture) and candidate's frontend depth is thinner than backend/platform.
 
-- **Saved:** 2026-07-14
 - **URL:** https://www.linkedin.com/jobs/view/4437644503/
 - **Company:** Mozilla Corporation
 - **Location:** Remote (Canada)
 - **Compensation:** $165,000-$220,000 CAD (Tier 1) / $149,000-$199,000 CAD (Tier 2)
 - **Benefits:** Performance bonus, medical/dental/vision, retirement contributions with 100% immediate vesting, home office stipend, professional development budget, quarterly wellness stipend, parental leave, referral bonus
 - **Team size:** not specified
-- **Status:** Passed (2026-07-14)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-14 Screened
+  - 2026-07-14 Passed
 
 ## Qualifications
 

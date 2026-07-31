@@ -2,15 +2,16 @@
 
 Strong fit. Internal developer platform role aligns directly with the platform team he stood up at Dayforce; only gap is external devtools product domain.
 
-- **Saved:** 2026-06-05
 - **URL:** https://www.linkedin.com/jobs/view/4420765697/
 - **Company:** Render
 - **Location:** Remote
 - **Compensation:** Not stated (estimated $180-220k USD / $245-300k CAD for well-funded Series C startup)
 - **Benefits:** Equity with early-exercise options, 4 weeks vacation, 14 weeks parental leave, LTD, life insurance, 401K, 100% medical, 99% dental/vision, lifestyle stipend, cell/internet subsidy, home office stipend, learning benefits
 - **Team size:** Newly formed team, existing members plus future hires
-- **Status:** Passed (2026-06-05)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-05 Screened
+  - 2026-06-05 Passed
 
 ## Qualifications
 

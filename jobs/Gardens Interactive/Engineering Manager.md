@@ -3,7 +3,6 @@
 
 ### Match: 30%
 
-- **Saved:** 2026-02-09
 - **URL:** https://gardens.dev/careers/44931bb6-555a-482c-84ee-3f47fdde5f55
 - **Company:** Gardens Interactive
 - **Location:** Remote (EST-PST, US/Canada)
@@ -14,7 +13,9 @@
 - **Team size:** gameplay + backend engineers (unspecified count)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-09 Screened
+  - 2026-02-09 Rejected
 
 ## Gaps
 - **Game development domain:** Role explicitly requires proven experience managing game development engineers and shipped games (PC or console). Candidate has zero game industry experience.

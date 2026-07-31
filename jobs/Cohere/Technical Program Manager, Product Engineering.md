@@ -2,15 +2,16 @@
 
 Role mismatch: this is a TPM seat, not an EM seat. Releases-and-coordination focus with no people management.
 
-- **Saved:** 2026-05-14
 - **URL:** https://www.linkedin.com/jobs/view/4414474480/
 - **Company:** Cohere
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 150-200k CAD base + equity)
 - **Benefits:** Full health/dental, mental health budget, 6 weeks vacation, 100% parental leave top-up (6 months), weekly lunch stipend, enrichment perks, co-working stipend
 - **Team size:** N/A (individual contributor program role)
-- **Status:** Passed (2026-05-14)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-14 Screened
+  - 2026-05-14 Passed
 
 ## Qualifications
 

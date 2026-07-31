@@ -2,15 +2,16 @@
 
 Strong leadership and technical fit for a platform EM role, but zero fintech/credit domain experience is the main gap.
 
-- **Saved:** 2026-07-09
 - **URL:** https://www.linkedin.com/jobs/view/4438509508/
 - **Company:** Marqeta
 - **Location:** Remote (posting lists Toronto, ON; body text says "remote anywhere in the United States", comp quoted in CAD)
 - **Compensation:** CAD 177,100 - 221,400
 - **Benefits:** Health insurance options, flexible vacation, retirement savings with company contribution, equity (public company), monthly remote stipend, annual development budget, parental leave (up to 20 weeks)
 - **Team size:** Not specified (single team - Credit onboarding)
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-09 Screened
+  - 2026-07-09 Applied
 
 ## Qualifications
 

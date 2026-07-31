@@ -2,15 +2,16 @@
 
 Team lead role with real people/product management overlap, but the AI/LLM system-building requirements (RAG, orchestration frameworks, LLM integration) are a genuine gap not covered by AI-assisted coding tool experience.
 
-- **Saved:** 2026-07-29
 - **URL:** https://www.linkedin.com/jobs/view/4388533512/
 - **Company:** Anju Software
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 150-190k CAD for EM level in life sciences SaaS)
 - **Benefits:** Not stated
 - **Team size:** Not stated (cross-functional Dev & QA team)
-- **Status:** Passed (2026-07-29)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-29 Screened
+  - 2026-07-29 Passed
 
 ## Qualifications
 

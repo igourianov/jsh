@@ -3,7 +3,6 @@
 
 ### Match: 84%
 
-- **Saved:** 2026-03-15
 - **URL:** https://www.linkedin.com/jobs/view/4371516816/
 - **Company:** Fluent, Inc. (NASDAQ: FLNT)
 - **Location:** Remote (US or Ontario, Canada; occasional travel to NYC)
@@ -12,7 +11,9 @@
 - **Team size:** Multiple teams (Core platform, SDK, specialized engineers)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-15 Screened
+  - 2026-03-17 Rejected
 
 ## Qualifications
 

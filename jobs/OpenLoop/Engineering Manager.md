@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Healthcare | 98%
 
-- **Saved:** 2026-03-19
 - **URL:** https://www.linkedin.com/jobs/view/4387772249/
 - **Company:** OpenLoop
 - **Location:** Toronto, ON (Remote)
@@ -8,8 +7,11 @@
 - **Benefits:** Extended health plans via Sterling Capital Brokers (through Rippling EOR)
 - **Team size:** Not specified (building from ground up)
 
-- **Status:** Ghosted (2026-04-04)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-03-19 Screened
+  - 2026-03-19 Applied
+  - 2026-04-04 Ghosted
 
 ## Red flags
 - **Location mismatch:** Role is described as establishing a Toronto engineering hub. While tagged as Remote, the mandate to "establish and grow our Toronto engineering presence" suggests on-site expectations may emerge. Fort Erie is ~2 hours from Toronto.

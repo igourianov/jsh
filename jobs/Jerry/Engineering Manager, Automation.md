@@ -3,7 +3,6 @@
 
 ### Match: 52%
 
-- **Saved:** 2026-02-16
 - **URL:** https://www.linkedin.com/jobs/view/4371928146/
 - **Company:** Jerry
 - **Location:** Toronto, ON (Remote)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified (small team implied)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-16 Screened
+  - 2026-02-16 Rejected
 
 ## Red Flags
 - **Unlimited PTO:** Not explicitly stated but "paid time off" is generic. No red flag here, retracted.

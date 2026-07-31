@@ -2,15 +2,16 @@
 
 Strong leadership match, but the heavy front-end platform/design systems focus is a gap. Your platform and AI experience align well, but this role wants someone who has owned UI frameworks and component libraries as their core domain.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4382513409/
 - **Company:** Intellistack
 - **Location:** Hybrid, Toronto, ON
 - **Compensation:** ~150-180k CAD (estimated)
 - **Benefits:** Not specified
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-06)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Passed
 
 ## Red flags
 - **Location mismatch:** Hybrid role based in Toronto, ON. Candidate is based in Fort Erie, ON. Toronto is roughly 2 hours away, making regular hybrid commuting impractical.

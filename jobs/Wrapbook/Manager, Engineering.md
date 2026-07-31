@@ -2,15 +2,17 @@
 
 Exceptional payroll/workforce domain fit; only real gap is the Ruby on Rails stack. Solid mid-level EM II role with strong comp.
 
-- **Saved:** 2026-06-20
 - **URL:** https://www.linkedin.com/jobs/view/4421293473/
 - **Company:** Wrapbook
 - **Location:** Remote (Canada)
 - **Compensation:** CA$174K - CA$237.1K
 - **Benefits:** Unlimited PTO, work from anywhere in Canada/USA, health and dental, up to $1,500 USD/$2,025 CAD home IT setup, up to 2% RRSP/401K match, L&D budget, up to $50 USD/$67.50 CAD internet/cell stipend
 - **Team size:** Not stated
-- **Status:** Ghosted (2026-07-16)
-- **Progress:** Applied (2026-06-20)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-20 Screened
+  - 2026-06-20 Applied
+  - 2026-07-16 Ghosted
 
 ## Qualifications
 

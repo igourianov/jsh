@@ -1,14 +1,15 @@
 # Engineering Manager | Platform | Open Data | 90%
 
-- **Saved:** 2026-03-29
 - **URL:** https://www.linkedin.com/jobs/view/4395027573/
 - **Company:** Undisclosed (via Jobgether, likely Wikimedia Foundation)
 - **Location:** Remote, Canada
 - **Compensation:** Not stated (estimated 160-200k CAD)
 - **Benefits:** Fully remote, competitive salary, paid vacation, wellness days, professional development, conference sponsorship, health benefits reimbursement, home/coworking office setup support
 - **Team size:** Not specified
-- **Status:** Passed (2026-03-29)
+- **Status:** Passed
 - **Progress:**
+  - 2026-03-29 Screened
+  - 2026-03-29 Passed
 
 ## Red flags
 - **Location mismatch:** Posting title says Canada, but benefits section says "flexibility to work from anywhere in India." Likely a copy-paste error from a different region posting. Clarify actual location eligibility before applying.

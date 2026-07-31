@@ -3,7 +3,6 @@
 
 ### Match: 85%
 
-- **Saved:** 2026-02-02
 - **URL:** https://hh.ru/vacancy/130053014
 - **Company:** Verme (ООО Верме)
 - **Location:** Remote/Hybrid (Moscow)
@@ -14,7 +13,9 @@
 - **Team size:** Backend, Mobile, QA, DevOps teams (not specified)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-02 Screened
+  - 2026-02-09 Rejected
 
 ## Gaps
 

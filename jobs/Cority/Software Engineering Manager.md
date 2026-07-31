@@ -2,15 +2,17 @@
 
 Hands-on first-line EM role on a mature .NET/Angular EHS platform. Near-perfect technical and leadership fit; only the EHS domain is new.
 
-- **Saved:** 2026-06-24
 - **URL:** https://www.linkedin.com/jobs/view/4431883407/
 - **Company:** Cority
 - **Location:** Remote (Canada)
 - **Compensation:** $150,000 - $190,000 CAD (estimated)
 - **Benefits:** Health, dental, RRSP/401k, home office allowance, subsidized internet, annual fitness allowance, mental health support (Calm, Talkspace), training allowance and certifications
 - **Team size:** Not stated (first-line team of software engineers)
-- **Status:** Rejected (2026-07-20)
-- **Progress:** Recruiter screen scheduled (2026-07-14)
+- **Status:** Failed
+- **Progress:**
+  - 2026-06-24 Screened
+  - 2026-07-14 Scheduled - recruiter screen
+  - 2026-07-20 Failed
 
 ## Qualifications
 

@@ -3,7 +3,6 @@
 
 ### Match: 67%
 
-- **Saved:** 2026-03-14
 - **URL:** https://www.linkedin.com/jobs/view/4380601635/
 - **Company:** Marqeta
 - **Location:** Remote (Ontario, Canada)
@@ -13,7 +12,9 @@
 - **Team size:** Multiple teams (unspecified)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-14 Screened
+  - 2026-03-14 Rejected
 
 ## Qualifications
 

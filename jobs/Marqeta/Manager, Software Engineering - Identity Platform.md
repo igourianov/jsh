@@ -2,15 +2,16 @@
 
 Fintech identity/compliance platform role. Strong leadership and AI-first alignment, but no fintech or KYC/AML domain background and tech stack mismatch (Java/Python vs candidate's .NET).
 
-- **Saved:** 2026-05-14
 - **URL:** https://www.linkedin.com/jobs/view/4414520936/
 - **Company:** Marqeta
 - **Location:** Remote (Ontario or BC, Canada)
 - **Compensation:** CAD 156,800 - 196,000 + annual bonus
 - **Benefits:** Health insurance options, flexible vacation, retirement savings with company contribution, equity (public company), monthly remote stipend, annual development budget, family-forming benefits, up to 20 weeks parental leave
 - **Team size:** Not specified
-- **Status:** Passed (2026-05-14)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-14 Screened
+  - 2026-05-14 Passed
 
 ## Qualifications
 

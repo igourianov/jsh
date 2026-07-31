@@ -2,15 +2,16 @@
 
 Director-level role one step above candidate's current title, requiring 40+ org scale and manager-of-managers depth that exceeds current track record.
 
-- **Saved:** 2026-05-09
 - **URL:** https://www.linkedin.com/jobs/view/4411796010/
 - **Company:** Vanta
 - **Location:** Remote (Canada: Alberta, Ontario, British Columbia)
 - **Compensation:** ~210-260k CAD (estimated)
 - **Benefits:** 100% medical/dental/vision with dependents, pension contribution, 16 weeks parental leave, health & wellness stipend, remote workspace/internet/cellphone stipend, 21 vacation days, 80 hours sick leave, 11 paid holidays, equity
 - **Team size:** 40+ engineers across multiple teams
-- **Status:** Passed (2026-05-09)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-09 Screened
+  - 2026-05-09 Passed
 
 ## Qualifications
 

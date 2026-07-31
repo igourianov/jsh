@@ -3,7 +3,6 @@
 
 ### Match: 92%
 
-- **Saved:** 2026-02-27
 - **URL:** https://www.linkedin.com/jobs/view/4377295157/
 - **Company:** Brim Financial
 - **Location:** Remote (Canada/US)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-27 Screened
+  - 2026-02-27 Rejected
 
 ## Gaps
 - **Fintech domain:** No direct fintech, payments or credit card infrastructure experience (though not required, listed as bonus)

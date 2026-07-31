@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-05
 - **URL:** N/A (LinkedIn posting)
 - **Company:** Unknown (agency posting)
 - **Posted by:** The New Network
@@ -15,7 +14,9 @@
 - **Team size:** Building new function (likely 3-8 initially)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-05 Screened
+  - 2026-02-05 Rejected
 
 ## Gaps
 - **Forward Deployed Engineering:** No direct experience leading customer-facing technical teams or solutions engineering functions

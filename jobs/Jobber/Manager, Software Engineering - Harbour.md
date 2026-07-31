@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-05
 - **URL:** https://jobs.ashbyhq.com/jobber/6b4d9029-cc33-473c-8932-989ce7b140c6
 - **Company:** Jobber
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified (Harbour Foundations team)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-05 Screened
+  - 2026-02-05 Rejected
 
 ## Gaps
 - **Tech stack:** Role requires deep expertise in Ruby on Rails; candidate's backend experience is .NET/C#

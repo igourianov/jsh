@@ -3,7 +3,6 @@
 
 ### Match: 70%
 
-- **Saved:** 2026-03-12
 - **URL:** https://www.linkedin.com/jobs/view/4375191105/
 - **Company:** Insight
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-12 Screened
+  - 2026-03-12 Rejected
 
 ## Gaps
 - **Professional services context (20%):** Role requires managing client engagements, reviewing statements of work with Presales, and engaging customer executives. Candidate's background is entirely in product companies, not consulting or IT services delivery.

@@ -2,15 +2,16 @@
 
 Strong leadership/process fit for a fintech platform EM role, but the hard Go requirement is a real gap - candidate's stack is C#/.NET/JS, no Go experience.
 
-- **Saved:** 2026-07-20
 - **URL:** https://www.linkedin.com/jobs/view/4442018525/
 - **Company:** Jobgether (posting on behalf of an undisclosed fintech/banking partner company)
 - **Location:** Remote (Canada)
 - **Compensation:** CA$128,000 - CA$178,000
 - **Benefits:** Stock options, 100% employer-paid medical/dental/vision, RRSP contributions, unlimited PTO, paid parental leave, home office stipend
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-20)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-20 Screened
+  - 2026-07-20 Passed
 
 ## Qualifications
 

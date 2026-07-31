@@ -2,7 +2,6 @@
 
 Manager-of-managers platform role that maps cleanly onto Dayforce multi-tenant SaaS, observability and upgrade-orchestration work; main gaps are formal EM-of-EM title and on-prem/hybrid infra exposure.
 
-- **Saved:** 2026-05-29
 - **URL:** https://www.linkedin.com/jobs/view/4421094795/
 - **Company:** Jobgether (on behalf of undisclosed partner company)
 - **Location:** Remote (Canada)
@@ -11,6 +10,7 @@ Manager-of-managers platform role that maps cleanly onto Dayforce multi-tenant S
 - **Team size:** Multiple teams (manager of engineering managers)
 - **Status:** Screened
 - **Progress:**
+  - 2026-05-29 Screened
 
 ## Qualifications
 

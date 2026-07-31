@@ -3,7 +3,6 @@
 
 ### Match: 85%
 
-- **Saved:** 2026-02-03
 - **URL:** https://jobs.ashbyhq.com/1password/eef5c8da-33b5-4120-943e-cbdf7f08fa42
 - **Company:** 1Password
 - **Location:** Remote (Canada, US)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-03 Screened
+  - 2026-02-03 Rejected
 
 ## Gaps
 - **Product Domain:** No password management or security software experience

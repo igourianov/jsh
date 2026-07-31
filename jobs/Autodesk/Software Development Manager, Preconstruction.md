@@ -2,15 +2,17 @@
 
 Strong EM fit on people, technical and cloud SaaS leadership; only real gap is AEC/construction domain.
 
-- **Saved:** 2026-06-18
 - **URL:** https://www.linkedin.com/jobs/view/4429386488/
 - **Company:** Autodesk
 - **Location:** Remote (Canada)
 - **Compensation:** US$148,000-$264,990 base (US roles); Canada not stated, est. ~CA$170,000-$230,000 base
 - **Benefits:** Health and financial benefits, paid time off, wellness programs, annual cash bonuses, stock grants
 - **Team size:** Not specified
-- **Status:** Ghosted (2026-07-16)
-- **Progress:** Applied (2026-06-18)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-18 Screened
+  - 2026-06-18 Applied
+  - 2026-07-16 Ghosted
 
 ## Red flags
 - **Heavy DEI emphasis:** DEI language is woven into responsibilities and hiring rather than confined to the footer: "Foster a culture of inclusion, innovation, accountability, and continuous learning" and "Recruit, hire, and retain exceptional talent while building a diverse and engaged team." Mild, but beyond a standard EEO statement.

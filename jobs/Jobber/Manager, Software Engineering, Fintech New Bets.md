@@ -2,15 +2,16 @@
 
 Strong management fit; only real gap is direct fintech domain experience.
 
-- **Saved:** 2026-07-10
 - **URL:** https://www.linkedin.com/jobs/view/4435933956/
 - **Company:** Jobber
 - **Location:** Remote (Canada)
 - **Compensation:** $169,200 - $228,900 CAD (midpoint $199,100 CAD)
 - **Benefits:** Extended health benefits (fully paid premiums), RRSP/TFSA/FHSA matching, stock options, talent development/coaching program
 - **Team size:** Not specified
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-10 Screened
+  - 2026-07-10 Applied
 
 ## Qualifications
 

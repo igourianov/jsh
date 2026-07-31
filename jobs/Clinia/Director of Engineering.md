@@ -1,14 +1,15 @@
 # Director of Engineering | Platform | Healthcare / Digital Health | 82%
 
-- **Saved:** 2026-04-02
 - **URL:** https://www.linkedin.com/jobs/view/4395330486/
 - **Company:** Clinia
 - **Location:** Remote (Canada)
 - **Compensation:** $180,000 - $200,000 CAD
 - **Benefits:** Equity (ESOP), 4 weeks vacation + summer hours, group insurance from day 1, 24/7 online doctor access, physical activity bonus, MacBook Pro, team events, B Corp certified
 - **Team size:** ~25 engineers via team leads
-- **Status:** Passed (2026-04-02)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-02 Screened
+  - 2026-04-02 Passed
 
 ## Red flags
 

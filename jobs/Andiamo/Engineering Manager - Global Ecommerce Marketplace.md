@@ -2,15 +2,17 @@
 
 Strong leadership match but no e-commerce domain experience and Toronto hybrid is a commute concern from Fort Erie.
 
-- **Saved:** 2026-04-05
 - **URL:** https://www.linkedin.com/jobs/view/4382802781/
 - **Company:** Andiamo (staffing agency; end client is an undisclosed global digital marketplace)
 - **Location:** Toronto, ON (Hybrid)
 - **Compensation:** Not stated
 - **Benefits:** Not stated
 - **Team size:** Not stated (small to mid-sized)
-- **Status:** Rejected (2026-04-06)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-05 Screened
+  - 2026-04-05 Applied
+  - 2026-04-06 Rejected
 
 ## Red flags
 - **Location mismatch:** Toronto hybrid. Fort Erie is ~160 km from Toronto, not a reasonable daily commute.

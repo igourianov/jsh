@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Fintech | 73%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4381776715/
 - **Company:** ZayZoon
 - **Location:** Remote (Canada & US)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Red flags
 - **Below-market compensation:** CA$127K - CA$160K is below the candidate's target of CA$180K-200K and below market for an Engineering Manager role requiring 4+ years of hands-on coding plus management experience.

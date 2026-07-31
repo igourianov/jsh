@@ -3,7 +3,6 @@
 
 ### Match: 35%
 
-- **Saved:** 2026-03-09
 - **URL:** https://www.linkedin.com/jobs/view/4381895863/
 - **Company:** Superhuman
 - **Location:** Remote-hybrid (Canada eligible)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-09 Screened
+  - 2026-03-09 Rejected
 
 ## Gaps
 

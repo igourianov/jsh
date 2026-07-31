@@ -2,15 +2,16 @@
 
 Perfect on-paper match for an enterprise C# application development manager role, but compensation is roughly half the candidate's target.
 
-- **Saved:** 2026-05-07
 - **URL:** https://www.linkedin.com/jobs/view/4410818261/
 - **Company:** emergiTEL (agency, undisclosed client)
 - **Location:** Remote (Alberta, Canada)
 - **Compensation:** $100,000 – $110,000 CAD annually
 - **Benefits:** Not specified
 - **Team size:** Not specified (multiple application development teams)
-- **Status:** Passed (2026-06-03)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-07 Screened
+  - 2026-06-03 Passed
 
 ## Red flags
 - **Below-market compensation:** $100-110k CAD is roughly half the candidate's 180-200k target and well below market for an Engineering Manager overseeing multiple application development teams in Canada.

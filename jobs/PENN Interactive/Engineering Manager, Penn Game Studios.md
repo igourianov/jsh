@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-25
 - **URL:** https://www.linkedin.com/jobs/view/4374860411/
 - **Company:** PENN Interactive
 - **Location:** Canada (Remote)
@@ -14,7 +13,9 @@
 - **Team size:** Full engineering team (client, server, sysadmin) - size unspecified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-25 Screened
+  - 2026-02-25 Rejected
 
 ## Red flags
 

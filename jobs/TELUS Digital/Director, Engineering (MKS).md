@@ -2,15 +2,16 @@
 
 Strong digital agency and Fortune 500 client background, but the hard AEM requirement is a near-disqualifier.
 
-- **Saved:** 2026-04-28
 - **URL:** https://www.linkedin.com/jobs/view/4406915357/
 - **Company:** TELUS Digital
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** CA$220K - CA$244K
 - **Benefits:** Not specified
 - **Team size:** Team of engineering managers (size not specified)
-- **Status:** Passed (2026-04-28)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-28 Screened
+  - 2026-04-28 Passed
 
 ## Qualifications
 

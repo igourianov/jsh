@@ -2,15 +2,16 @@
 
 Strong leadership and process fit, but material gap on the modern data-platform stack (Python, FastAPI, dbt, Dagster, Snowflake) and no FinOps/cloud-cost domain background.
 
-- **Saved:** 2026-07-21
 - **URL:** https://www.linkedin.com/jobs/view/4442604674/
 - **Company:** DoiT (posted via Jobgether)
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated, est. 160-190k CAD (estimated)
 - **Benefits:** Flexible remote work; no other specifics stated
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-21 Screened
+  - 2026-07-21 Passed
 
 ## Qualifications
 

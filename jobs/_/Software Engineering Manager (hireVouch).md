@@ -3,7 +3,6 @@
 
 ### Match: 82%
 
-- **Saved:** 2026-02-19
 - **URL:** https://www.linkedin.com/jobs/view/4375412283/
 - **Company:** Unknown (posted by hireVouch agency)
 - **Location:** Remote (must be based in GTA)
@@ -14,7 +13,9 @@
 - **Team size:** Not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-19 Screened
+  - 2026-02-19 Rejected
 
 ## Red Flags
 - **Location restriction:** Remote role but candidates must be based within the Greater Toronto Area. Candidate is based in Fort Erie, ON which is outside the GTA.

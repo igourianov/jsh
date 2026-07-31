@@ -2,15 +2,16 @@
 
 Strong technical and leadership fit, but a step up from EM to Director and a domain gap in identity/access/agent governance specifics.
 
-- **Saved:** 2026-07-07
 - **URL:** https://www.linkedin.com/jobs/view/4433985738/
 - **Company:** Zapier
 - **Location:** Remote (North America)
 - **Compensation:** Not stated (estimated $220K-$300K USD base for Director-level enterprise SaaS role)
 - **Benefits:** Equity, bonus (typical for level, not explicitly stated)
 - **Team size:** Not stated (org of multiple teams/managers)
-- **Status:** Passed (2026-07-07)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-07 Screened
+  - 2026-07-07 Passed
 
 ## Qualifications
 

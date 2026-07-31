@@ -2,15 +2,17 @@
 
 Strong match. Hybrid Toronto with 50% coding expectation is the main consideration. Role is building a new AMER hub with distributed teams across Europe.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4395733892/
 - **Company:** Pigment
 - **Location:** Hybrid (Toronto, 50% office presence)
 - **Compensation:** CA$180K - CA$250K/yr
 - **Benefits:** Not specified
 - **Team size:** Not specified (building AMER hub, managing engineers across Europe and North America)
-- **Status:** Rejected (2026-05-04)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Applied
+  - 2026-05-04 Rejected
 
 ## Red flags
 - **Location mismatch:** Role requires 50% office presence in Toronto. Candidate is based in Fort Erie, ON, which is not within commuting distance of Toronto.

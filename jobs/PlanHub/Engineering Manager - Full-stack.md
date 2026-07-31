@@ -2,15 +2,16 @@
 
 Strong alignment across all management dimensions; only gap is AWS depth vs. primary Azure background.
 
-- **Saved:** 2026-06-29
 - **URL:** https://www.linkedin.com/jobs/view/4434731597/
 - **Company:** PlanHub
 - **Location:** Remote (US or Canada)
 - **Compensation:** Not stated (estimated $140,000–$180,000 USD)
 - **Benefits:** Open time-off policy, 401(k)/GRSP with company match
 - **Team size:** Not stated (single engineering pod)
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-06-29 Screened
+  - 2026-06-29 Applied
 
 ## Qualifications
 

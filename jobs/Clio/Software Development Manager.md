@@ -2,15 +2,17 @@
 
 Tech-agnostic SDM role. No specific language required. Strong fit on management and SaaS experience. Domain gaps in Legal Tech and CRM.
 
-- **Saved:** 2026-04-18
 - **URL:** https://www.linkedin.com/jobs/view/4403053717/
 - **Company:** Clio (Themis Solutions Inc.)
 - **Location:** Hybrid (Toronto, Calgary, Burnaby hubs. Twice per week for local employees. Remote available across Canada excluding Quebec)
 - **Compensation:** $176,000 - $264,000 CAD (midpoint $220,000)
 - **Benefits:** Health, dental, vision, RRSP matching, RESP contribution, $2,000 counseling benefit, flexible time off (20 days encouraged)
 - **Team size:** Not specified
-- **Status:** Rejected (2026-04-24)
-- **Progress:** Recruiter screen (2026-04-22)
+- **Status:** Failed
+- **Progress:**
+  - 2026-04-18 Screened
+  - 2026-04-22 Recruiter screen
+  - 2026-04-24 Failed
 
 ## Qualifications
 

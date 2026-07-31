@@ -2,15 +2,16 @@
 
 Strong leadership and technical fit, but candidate's domain is B2B enterprise SaaS, not consumer marketplace or AI/LLM-driven matching.
 
-- **Saved:** 2026-07-29
 - **URL:** https://www.linkedin.com/jobs/view/4446393577/
 - **Company:** Thumbtack
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** $231,200 - $299,200 CAD (Ontario/BC range)
 - **Benefits:** Not specified in posting
 - **Team size:** Not specified
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-29 Screened
+  - 2026-07-29 Applied
 
 ## Qualifications
 

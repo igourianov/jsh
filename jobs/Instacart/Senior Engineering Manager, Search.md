@@ -2,15 +2,16 @@
 
 Strong people leader, but a heavily ML/search-weighted role he has no ranking/retrieval background for.
 
-- **Saved:** 2026-06-04
 - **URL:** https://www.linkedin.com/jobs/view/4423547903/
 - **Company:** Instacart
 - **Location:** Remote (Canada - ON, AB, BC, NS only)
 - **Compensation:** $229,000—$241,500 CAD
 - **Benefits:** New hire equity grant, annual refresh grants, market-competitive benefits
 - **Team size:** New team being stood up; senior engineers plus embedded MLEs/ML leads
-- **Status:** Passed (2026-06-04)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-04 Screened
+  - 2026-06-04 Passed
 
 ## Qualifications
 

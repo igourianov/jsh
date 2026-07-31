@@ -3,7 +3,6 @@
 
 ### Match: 73%
 
-- **Saved:** 2026-03-05
 - **URL:** https://www.linkedin.com/jobs/view/4381469676/
 - **Company:** Swiftly, Inc.
 - **Location:** Remote (BC, Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Not stated (cross-functional product team)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-05 Screened
+  - 2026-03-05 Rejected
 
 ## Gaps
 

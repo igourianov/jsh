@@ -2,15 +2,16 @@
 
 Director role to build a new SaaS billing platform from zero to one. Strong leadership and zero-to-one fit, but no billing domain experience and title is a step up.
 
-- **Saved:** 2026-05-27
 - **URL:**
 - **Company:** Jobgether (undisclosed partner company)
 - **Location:** Remote (Canada)
 - **Compensation:** USD 230,000-270,000
 - **Benefits:** Medical, dental, vision, mental health, unlimited PTO, paid parental leave, professional development budget, remote work and wellness stipends
 - **Team size:** Multiple teams including engineering managers and senior tech leaders
-- **Status:** Passed (2026-05-27)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-27 Screened
+  - 2026-05-27 Passed
 
 ## Qualifications
 

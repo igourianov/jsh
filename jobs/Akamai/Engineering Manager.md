@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-12
 - **URL:** https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2478
 - **Company:** Akamai Technologies
 - **Location:** Remote, Canada
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-12 Screened
+  - 2026-02-13 Rejected
 
 ## Gaps
 - **Front-end depth:** Role leads a dedicated front-end/UI engineering team building enterprise interfaces in Angular, React, and Lit. Candidate's technical depth is backend (.NET/C#); front-end experience (React, Angular) is secondary, not primary expertise.

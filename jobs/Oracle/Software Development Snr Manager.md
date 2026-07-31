@@ -2,15 +2,16 @@
 
 Strong technical and leadership fit for a greenfield EHR org, but compensation tops out below target.
 
-- **Saved:** 2026-05-08
 - **URL:** https://www.linkedin.com/jobs/view/4412126987/
 - **Company:** Oracle (Oracle Health Data Intelligence)
 - **Location:** Remote, Canada
 - **Compensation:** CAD $119,200 - $169,200 per year (M3 career level)
 - **Benefits:** Medical, life insurance, retirement options (vague mention)
 - **Team size:** 3-6 engineers
-- **Status:** Passed (2026-05-08)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-08 Screened
+  - 2026-05-08 Passed
 
 ## Red flags
 - **Below-market compensation:** Top of range ($169,200 CAD) is below candidate's target of $180-200K CAD. Range is wide ($50K span) and the M3 level for a Senior Engineering Manager at a major cloud company suggests the offer is unlikely to clear target without strong negotiation leverage.

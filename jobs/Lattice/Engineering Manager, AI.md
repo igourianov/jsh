@@ -2,15 +2,16 @@
 
 Strong leadership fit, but the role centers on AI evaluation/experimentation infrastructure the candidate hasn't built.
 
-- **Saved:** 2026-07-08
 - **URL:** https://www.linkedin.com/jobs/view/4436891416/
 - **Company:** Lattice
 - **Location:** Remote (must reside in BC or Ontario, Canada)
 - **Compensation:** CAD $146,250 - $195,000 base + incentive stock options (estimated total comp likely near or slightly below candidate's 180-200k CAD target)
 - **Benefits:** Medical, dental, life/AD&D/disability insurance, wellness apps, paid parental leave, PTO, remote work stipend, one-time WFH setup stipend, retirement plan, financial planning, learning & development budget
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-08)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-08 Screened
+  - 2026-07-08 Passed
 
 ## Qualifications
 

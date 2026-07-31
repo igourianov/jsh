@@ -1,14 +1,15 @@
 # Engineering Manager | Product | Fintech / Wealth Management | 86%
 
-- **Saved:** 2026-03-31
 - **URL:** https://www.linkedin.com/jobs/view/4392426173/
 - **Company:** Purpose Unlimited
 - **Location:** Canada, Remote (flexible hybrid)
 - **Compensation:** $160,000 - $190,000 CAD
 - **Benefits:** Health, dental, life insurance, Lifestyle Spending Account, unlimited vacation, flexible sick/mental health days, parental leave top-up, RRSP matching, TFSA program, equity, tuition support
 - **Team size:** 6-8 engineers
-- **Status:** Passed (2026-03-31)
+- **Status:** Passed
 - **Progress:**
+  - 2026-03-31 Screened
+  - 2026-03-31 Passed
 
 ## Qualifications
 

@@ -3,7 +3,6 @@
 
 ### Match: 78%
 
-- **Saved:** 2026-02-05
 - **URL:** https://job-boards.greenhouse.io/stackadapt/jobs/4108503009?gh_src=d1r83na19us
 - **Company:** StackAdapt
 - **Location:** Remote (Canada/US)
@@ -14,7 +13,9 @@
 - **Team size:** 3-10 direct reports
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-05 Screened
+  - 2026-02-05 Rejected
 
 ## Gaps
 - **Tech stack:** Job prefers Golang; candidate's backend experience is .NET/C#. Java, Kotlin, C++ listed as acceptable alternatives but C# is not explicitly mentioned.

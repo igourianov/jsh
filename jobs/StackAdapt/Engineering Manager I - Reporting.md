@@ -3,7 +3,6 @@
 
 ### Match: 82%
 
-- **Saved:** 2026-02-23
 - **URL:** https://www.linkedin.com/jobs/view/4296337861/
 - **Company:** StackAdapt
 - **Location:** Remote (North America)
@@ -14,7 +13,9 @@
 - **Team size:** 6-8 engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-23 Screened
+  - 2026-02-23 Rejected
 
 ## Gaps
 

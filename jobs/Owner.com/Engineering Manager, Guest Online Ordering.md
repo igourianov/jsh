@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-27
 - **URL:** https://www.linkedin.com/jobs/view/4379088814/
 - **Company:** Owner.com
 - **Location:** Remote (US or Canada, excluding Quebec)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified (single team evolving into multiple pods)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-27 Screened
+  - 2026-02-28 Rejected
 
 ## Red flags
 

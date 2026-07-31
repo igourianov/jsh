@@ -2,15 +2,16 @@
 
 Strong leadership and strategy fit; the only real gap is hands-on reporting/data-visualization product experience.
 
-- **Saved:** 2026-05-30
 - **URL:** https://www.linkedin.com/jobs/view/4422063135/
 - **Company:** Vanta
 - **Location:** Remote - Canada
 - **Compensation:** $160,000-$205,000 CAD (estimated)
 - **Benefits:** Equity, 100% covered medical/dental/vision with dependents, pension contribution, 16 weeks paid parental leave, health & wellness stipend, remote workspace/internet/cellphone stipend, 21 vacation days + 80 sick hours, 11 paid holidays, flexible work hours
 - **Team size:** 8-12 engineers
-- **Status:** Passed (2026-05-30)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-30 Screened
+  - 2026-05-30 Passed
 
 ## Qualifications
 

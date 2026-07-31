@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Logistics/Supply Chain | 81%
 
-- **Saved:** 2026-03-16
 - **URL:** https://www.linkedin.com/jobs/view/4386550471/
 - **Company:** Metro Supply Chain (Clear Destination division)
 - **Location:** Remote (Quebec or Ontario preferred, occasional in-office)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-16 Screened
+  - 2026-03-16 Rejected
 
 ## Red flags
 - **French language:** Role is Quebec-based. The posting is primarily in French and only explicitly requires "intermediate English." French proficiency is not stated as a requirement but is implicitly expected for a Quebec position.

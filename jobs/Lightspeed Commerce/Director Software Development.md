@@ -2,15 +2,17 @@
 
 Solid leadership match with title and fintech domain gaps; payments focus is a stretch but transferable from regulated multi-tenant SaaS.
 
-- **Saved:** 2026-05-26
 - **URL:** https://www.linkedin.com/jobs/view/4416836829/
 - **Company:** Lightspeed Commerce
 - **Location:** Remote (Canada/USA, EST/EDT hours)
 - **Compensation:** Not stated (estimated 200-260k CAD base for Director level + equity)
 - **Benefits:** Equity scheme, flexible PTO, $500/year health and wellness, paid parental leave, mental health platform, volunteer day
 - **Team size:** Not stated (leads Engineering Managers and Software Developers across Payments department, which has grown 3x)
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied (2026-05-26)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-26 Screened
+  - 2026-05-26 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

@@ -2,15 +2,17 @@
 
 Re-posting of the role you applied to in March (then ghosted); near-perfect fit, but the JD now says "remote within the United States".
 
-- **Saved:** 2026-06-09
 - **URL:** https://www.linkedin.com/jobs/view/4426533220/
 - **Company:** Clario (Thermo Fisher Scientific)
 - **Location:** Remote (listing says Canada; JD text says within the United States, Eastern Time)
 - **Compensation:** 160,000-200,000 CAD (estimated)
 - **Benefits:** Not specified
 - **Team size:** Small, senior-heavy team
-- **Status:** Ghosted (2026-04-17)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-09 Screened
+  - 2026-06-09 Applied
+  - 2026-06-09 Ghosted
 
 ## Red flags
 - **Location mismatch:** JD states "Ability to work remotely within the United States with availability aligned to Eastern Time collaboration", while the LinkedIn listing location is Canada. Candidate holds Canadian citizenship with no US work authorization. The US-only remote requirement contradicts the posted location and may be a hard blocker.

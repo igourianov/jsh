@@ -2,15 +2,17 @@
 
 Execution-focused EM role that maps almost perfectly to your delivery, on-call, DORA and AI-tooling strengths. Only real gap is the logistics/e-commerce domain.
 
-- **Saved:** 2026-06-16
 - **URL:** https://www.linkedin.com/jobs/view/4429716879/
 - **Company:** Portless
 - **Location:** Remote (Canada)
 - **Compensation:** $150k-$190k CAD base (estimated) + equity
 - **Benefits:** Meaningful equity package; flexible, remote-first, async-friendly environment
 - **Team size:** ~10 engineers (USA, Canada, EU, UK, China)
-- **Status:** Ghosted (2026-07-16)
-- **Progress:** Applied (2026-06-16)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-16 Screened
+  - 2026-06-16 Applied
+  - 2026-07-16 Ghosted
 
 ## Qualifications
 

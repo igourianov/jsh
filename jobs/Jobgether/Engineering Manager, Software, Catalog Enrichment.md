@@ -2,15 +2,16 @@
 
 Solid people-management and technical-leadership fit, but core to this role is AI/ML data platform and catalog/commerce domain experience the candidate doesn't have.
 
-- **Saved:** 2026-07-31
 - **URL:** https://www.linkedin.com/jobs/view/4446951894/
 - **Company:** Jobgether (posting on behalf of an undisclosed partner company)
 - **Location:** Remote (Canada)
 - **Compensation:** CA$196,000-CA$207,000 base + new hire equity grants and annual equity refresh
 - **Benefits:** Comprehensive health/well-being benefits, flexible remote work model, professional growth opportunities
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-31)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-31 Screened
+  - 2026-07-31 Passed
 
 ## Qualifications
 

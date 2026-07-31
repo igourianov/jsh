@@ -2,15 +2,16 @@
 
 Excellent platform-leadership fit. Candidate has stood up a platform team, built paved-path services and championed AI-augmented dev. Only soft spot is the healthcare staffing / marketplace domain.
 
-- **Saved:** 2026-05-30
 - **URL:** https://www.linkedin.com/jobs/view/4417985510/
 - **Company:** Clipboard
 - **Location:** Remote, Canada
 - **Compensation:** $200K - $375K (USD, presumed)
 - **Benefits:** Not stated
 - **Team size:** Not stated (Platform team within ~100-person eng/product/design org)
-- **Status:** Passed (2026-05-30)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-30 Screened
+  - 2026-05-30 Passed
 
 ## Qualifications
 

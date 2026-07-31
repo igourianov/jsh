@@ -2,15 +2,16 @@
 
 Strong technical and leadership fit on the .NET/SQL/Azure stack; comp tops out below target and the ERP/supply-chain domain is the main gap.
 
-- **Saved:** 2026-06-11
 - **URL:** https://www.linkedin.com/jobs/view/4423697373/
 - **Company:** StarTech.com
 - **Location:** Remote (Ontario, Canada)
 - **Compensation:** $140,000 - $155,000 CAD + bonus program
 - **Benefits:** Health benefits, tuition reimbursement, retirement savings plans, wellness program
 - **Team size:** Existing team of developers and team leads (count not stated)
-- **Status:** Passed (2026-06-11)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-11 Screened
+  - 2026-06-11 Passed
 
 ## Red flags
 - **Below-target compensation:** Range tops out at $155K CAD, below the $180-200K CAD target. Bonus could narrow the gap but base alone is a ~25K+ shortfall at the top end.

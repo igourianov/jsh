@@ -3,7 +3,6 @@
 
 ### Match: 77%
 
-- **Saved:** 2026-03-13
 - **URL:** https://www.linkedin.com/jobs/view/4385166896/
 - **Company:** Heart & Stroke
 - **Location:** Remote (anywhere in Canada)
@@ -13,7 +12,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-13 Screened
+  - 2026-03-13 Rejected
 
 ## Red flags
 

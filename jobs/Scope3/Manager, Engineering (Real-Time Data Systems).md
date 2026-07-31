@@ -3,7 +3,6 @@
 
 ### Match: 38%
 
-- **Saved:** 2026-02-10
 - **URL:** https://ats.rippling.com/scope3pbc/jobs/2f3cd4ac-7d3e-401a-ad9e-560ba80b4d07?jobSite=LinkedIn
 - **Company:** Scope3
 - **Location:** Remote (Canada, US, UK, Australia, France, Germany)
@@ -14,7 +13,9 @@
 - **Team size:** 3 (with growth plans)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-10 Screened
+  - 2026-02-10 Rejected
 
 ## Gaps
 - **Tech stack - Go:** Role requires active Go production coding. Candidate has no Go experience; primary language is C#/.NET.

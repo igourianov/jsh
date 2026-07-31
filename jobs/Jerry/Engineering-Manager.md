@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Insurtech, B2C | 53%
 
-- **Saved:** 2026-03-16
 - **URL:** https://www.linkedin.com/jobs/view/4384408428/
 - **Company:** Jerry
 - **Location:** Remote (Toronto, ON)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-16 Screened
+  - 2026-03-17 Rejected
 
 ## Red flags
 - **Excessive coding expectation:** Role explicitly states 80% hands-on technical work. This is a senior IC role with a management title, not a traditional EM position.

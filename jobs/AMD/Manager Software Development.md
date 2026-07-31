@@ -3,7 +3,6 @@
 
 ### Match: 35%
 
-- **Saved:** 2026-02-04
 - **URL:** https://careers.amd.com/careers-home/jobs/73353?lang=en-us&iis=Job%20Board&iisn=Linkedin
 - **Company:** AMD
 - **Location:** Ontario, Canada (Hybrid)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-04 Screened
+  - 2026-02-04 Rejected
 
 ## Gaps
 - **Domain:** No machine learning or AI product experience

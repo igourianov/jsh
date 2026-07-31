@@ -2,15 +2,17 @@
 
 Strong EM skills match but no startup or fintech experience. Risk/fraud domain is new territory. Excellent comp above target range.
 
-- **Saved:** 2026-04-06
 - **URL:** https://www.linkedin.com/jobs/view/4332215616/
 - **Company:** Relay
 - **Location:** Hybrid (Toronto, ON, 3 days/week Tues-Thurs)
 - **Compensation:** $207,000 - $253,000 CAD (typical starting $230,000)
 - **Benefits:** Not detailed in posting
 - **Team size:** Not specified
-- **Status:** Rejected (2026-04-09)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-06 Screened
+  - 2026-04-06 Applied
+  - 2026-04-09 Rejected
 
 ## Red flags
 - **Location mismatch:** Hybrid role requires 3 days/week in Toronto office (Tues-Thurs). Candidate is in Fort Erie, ON. Toronto is borderline commutable.

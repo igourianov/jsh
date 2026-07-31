@@ -2,15 +2,17 @@
 
 Strong leadership and SaaS fit; only gaps are retail media domain and the Python/Django stack. Note: previously rejected for this same role (Feb 2026).
 
-- **Saved:** 2026-06-25
 - **URL:** https://www.linkedin.com/jobs/view/4433355910/
 - **Company:** Vantage
 - **Location:** Remote (Toronto-based company)
 - **Compensation:** CA$170K - CA$210K
 - **Benefits:** Home office support, annual company retreats
 - **Team size:** Not specified
-- **Status:** Rejected (2026-06-30)
-- **Progress:** Applied (2026-06-25)
+- **Status:** Rejected
+- **Progress:**
+  - 2026-06-25 Screened
+  - 2026-06-25 Applied
+  - 2026-06-30 Rejected
 
 ## Qualifications
 

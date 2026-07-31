@@ -2,15 +2,16 @@
 
 Strong leadership and technical fit, but zero insurance/payments domain experience and a market rate that barely reaches the candidate's compensation floor.
 
-- **Saved:** 2026-07-22
 - **URL:** https://www.linkedin.com/jobs/view/4442912458/
 - **Company:** Applied Systems Canada
 - **Location:** Remote (must reside in AB, BC, MB, NB, NL, NS, ON, PEI or SK)
 - **Compensation:** CA$140,000 – $185,000/year base + variable/incentive pay
 - **Benefits:** Medical, dental, vision, holiday/vacation time, health & wellness days, birthday bonus day
 - **Team size:** Not specified (multiple teams implied)
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-22 Screened
+  - 2026-07-22 Applied
 
 ## Qualifications
 

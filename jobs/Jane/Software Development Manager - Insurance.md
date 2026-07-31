@@ -2,15 +2,16 @@
 
 Strong profile match for a well-compensated, remote EM role at a founder-led SaaS. Main gap is direct insurance/claims domain experience.
 
-- **Saved:** 2026-07-14
 - **URL:** https://www.linkedin.com/jobs/view/4440062716/
 - **Company:** Jane App
 - **Location:** Remote (Canada)
 - **Compensation:** $158,400 - $247,500 CAD (typical hire: $188,100)
 - **Benefits:** comprehensive benefits package (details on company site)
 - **Team size:** not specified (leads Insurance Setup team, one of three teams in Insurance group)
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-14 Screened
+  - 2026-07-14 Applied
 
 ## Qualifications
 

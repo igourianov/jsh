@@ -2,15 +2,16 @@
 
 Strong management fit, but the core "applied AI/ML systems" requirement is a real gap; AI-augmented dev experience is adjacent, not the same.
 
-- **Saved:** 2026-06-03
 - **URL:** https://www.linkedin.com/jobs/view/4423006794/
 - **Company:** Magnet Forensics
 - **Location:** Remote (Canada); hybrid-flexible if near a Magnet office. Team spans Canada (ET/MT) and Sweden (CET)
 - **Compensation:** $150,000 – $200,000 CAD (estimated)
 - **Benefits:** Generous time off, healthcare, retirement benefits, reward and recognition programs, volunteer opportunities, employee resource groups
 - **Team size:** Not stated
-- **Status:** Passed (2026-06-03)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-03 Screened
+  - 2026-06-03 Passed
 
 ## Qualifications
 

@@ -3,7 +3,6 @@
 
 ### Match: 75%
 
-- **Saved:** 2026-02-08
 - **URL:** https://getmatch.ru/vacancies/32656-senior-engineering-manager-quick-start?s=email_digest
 - **Company:** Mindbox
 - **Location:** Remote (Russia), office optional in Moscow/Yerevan
@@ -14,7 +13,9 @@
 - **Team size:** 10+ (tribe)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-08 Screened
+  - 2026-02-13 Rejected
 
 ## Gaps
 - **Product Domain:** No marketing automation / MarTech experience. Mindbox is a marketing automation platform; candidate's background is in HCM/HRTech.

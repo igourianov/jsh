@@ -2,15 +2,16 @@
 
 Strong all-round fit; main gap is direct Voice AI/LLM production experience, offset by heavy weighting on people/technical management strengths.
 
-- **Saved:** 2026-07-17
 - **URL:** https://www.linkedin.com/jobs/view/4441306016/
 - **Company:** Phreesia
 - **Location:** Remote (Canada, EST or CST)
 - **Compensation:** CAD $145,000–$170,000 total cash
 - **Benefits:** Comprehensive Total Rewards package (unspecified details)
 - **Team size:** Not specified
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-17 Screened
+  - 2026-07-17 Applied
 
 ## Qualifications
 

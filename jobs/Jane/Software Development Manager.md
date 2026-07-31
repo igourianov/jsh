@@ -2,15 +2,17 @@
 
 Near-perfect profile match. Remote Canada, strong comp, founder-led SaaS. AI coaching requirement is a differentiator where candidate excels. Only minor gap is healthcare-specific clinic domain.
 
-- **Saved:** 2026-04-17
 - **URL:** https://www.linkedin.com/jobs/view/4403135373/
 - **Company:** Jane
 - **Location:** Remote (Canada)
 - **Compensation:** $158,400 - $247,500 CAD (typical hire: $188,100)
 - **Benefits:** comprehensive benefits package (details on company site)
 - **Team size:** not specified (splitting one team into two focused teams)
-- **Status:** Rejected (2026-05-06)
-- **Progress:** Recruiter screen (2026-04-23)
+- **Status:** Failed
+- **Progress:**
+  - 2026-04-17 Screened
+  - 2026-04-23 Recruiter screen
+  - 2026-05-06 Failed
 
 ## Qualifications
 

@@ -1,14 +1,15 @@
 # Senior Engineering Manager | Delivery | Fintech | 54%
 
-- **Saved:** 2026-03-31
 - **URL:** https://www.linkedin.com/jobs/view/4392411748/
 - **Company:** Intellibus
 - **Location:** Remote (Ottawa, ON) | Contract
 - **Compensation:** Not stated (estimated $150–200/hr CAD contract)
 - **Benefits:** Not stated
 - **Team size:** Multiple squads (unspecified)
-- **Status:** Passed (2026-03-31)
+- **Status:** Passed
 - **Progress:**
+  - 2026-03-31 Screened
+  - 2026-03-31 Passed
 
 ## Red flags
 - **Contract with no rate:** Listed as contract but no compensation disclosed.

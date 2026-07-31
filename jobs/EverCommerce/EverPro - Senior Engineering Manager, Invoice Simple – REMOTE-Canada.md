@@ -2,15 +2,16 @@
 
 Strong leadership fit for a talent-magnet/PLG-focused role, but PLG experimentation and trades/SMB fintech domain are gaps; comp tops out below target.
 
-- **Saved:** 2026-07-07
 - **URL:** https://www.linkedin.com/jobs/view/4437739605/
 - **Company:** EverCommerce
 - **Location:** Remote (Canada). Can be based anywhere in Canada; occasional travel to Denver HQ or other North America offices.
 - **Compensation:** CAD $150,000 - $190,000 base
 - **Benefits:** Annual wellness stipend, 3 weeks vacation + paid volunteer day + 2 floating holidays, Employee Stock Purchase Program, RRSP with 4% company match
 - **Team size:** ~9 direct reports across Core (PLG) and DataIQ (AI/Agents) teams
-- **Status:** Passed (2026-07-07)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-07 Screened
+  - 2026-07-07 Passed
 
 ## Qualifications
 

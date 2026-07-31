@@ -2,15 +2,17 @@
 
 Strong people/technical leadership fit in a regulated SaaS context; comp is the sticking point.
 
-- **Saved:** 2026-06-08
 - **URL:** https://www.linkedin.com/jobs/view/4425636827/
 - **Company:** NMI
 - **Location:** Remote (Canada)
 - **Compensation:** $130,000–$160,000 CAD + bonus
 - **Benefits:** Bonus, Flex PTO, health/dental/vision, 13 paid holidays, company volunteer days, remote-first
 - **Team size:** 2-3 teams, ~12-20 engineers (blend of contractors and FT, incl. POs and tech leads)
-- **Status:** Ghosted (2026-07-16)
-- **Progress:** Applied (2026-06-08)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-08 Screened
+  - 2026-06-08 Applied
+  - 2026-07-16 Ghosted
 
 ## Red flags
 - **Below-market compensation:** $130-160k CAD tops out below the candidate's 180-200k CAD target and is light for managing 2-3 teams (12-20 engineers) in payments. Bonus is unquantified.

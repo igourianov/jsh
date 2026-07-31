@@ -2,15 +2,16 @@
 
 Strong leadership and delivery fit; the Python/Java/Go language gap is the only notable miss for a 0% coding role.
 
-- **Saved:** 2026-06-29
 - **URL:** https://www.linkedin.com/jobs/view/4433667151/
 - **Company:** Jobgether (partner company undisclosed)
 - **Location:** Canada, Remote-friendly
 - **Compensation:** CAD 154,700 - CAD 212,800
 - **Benefits:** Equity, ESPP, RRSP, health/dental/vision/mental health, PTO, parental leave, professional development, AI tools access
 - **Team size:** Multiple teams
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-06-29 Screened
+  - 2026-06-29 Applied
 
 ## Qualifications
 

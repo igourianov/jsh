@@ -1,14 +1,16 @@
 # Engineering Manager | Product | Fintech | 94%
 
-- **Saved:** 2026-04-02
 - **URL:** https://www.linkedin.com/jobs/view/4395353579/
 - **Company:** Paxos
 - **Location:** Remote (Canada)
 - **Compensation:** $241,000 - $275,925 USD
 - **Benefits:** Not specified in posting
 - **Team size:** Not specified
-- **Status:** Ghosted (2026-05-15)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-04-02 Screened
+  - 2026-04-02 Applied
+  - 2026-05-15 Ghosted
 
 ## Qualifications
 

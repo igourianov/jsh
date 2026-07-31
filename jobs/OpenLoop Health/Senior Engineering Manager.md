@@ -3,7 +3,6 @@
 
 ### Match: 52%
 
-- **Saved:** 2025-02-09
 - **URL:** https://jobs.ashbyhq.com/openloophealth/725823a3-b21d-4293-b570-c6f7567345bd?src=LinkedIn
 - **Company:** OpenLoop Health
 - **Location:** Remote, Ontario, Canada
@@ -14,7 +13,9 @@
 - **Team size:** 3-7 engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-09 Screened
+  - 2026-02-09 Rejected
 
 ## Gaps
 - **Tech stack (Node.js):** Role explicitly requires 5+ years Node.js experience. Candidate has no Node.js listed.

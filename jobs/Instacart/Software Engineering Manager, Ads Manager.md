@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-13
 - **URL:** https://www.linkedin.com/jobs/view/4372125520/
 - **Company:** Instacart
 - **Location:** Remote (Canada - ON, AB, BC, NS)
@@ -14,7 +13,9 @@
 - **Team size:** 15 engineers (2 teams)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-13 Screened
+  - 2026-02-13 Rejected
 
 ## Red flags
 - **Unlimited PTO:** Posting references "flexible" time off via Instacart's benefits page, which typically signals unlimited PTO policy.

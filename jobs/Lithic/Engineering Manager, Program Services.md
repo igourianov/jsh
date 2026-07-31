@@ -2,15 +2,16 @@
 
 Strong EM profile match with a gap in fintech domain and hands-on agentic AI systems experience. Compelling role building AI-native operations tooling at a well-funded fintech startup.
 
-- **Saved:** 2026-04-08
 - **URL:** https://www.linkedin.com/jobs/view/4396309916/
 - **Company:** Lithic
 - **Location:** Remote (Ontario, Canada)
 - **Compensation:** CA$232,000 - $333,000 plus equity
 - **Benefits:** Unlimited PTO, 12-week parental leave, 4-week sabbatical (5-year), health/vision/dental, HSA match, 401k match, life insurance, STD/LTD, work from anywhere 4 weeks/year
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-08)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-08 Screened
+  - 2026-04-08 Passed
 
 ## Red flags
 

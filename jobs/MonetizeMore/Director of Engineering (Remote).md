@@ -2,15 +2,16 @@
 
 Strong leadership and AI-modernization fit; the gap is the Director title step-up and 5+ years managing managers.
 
-- **Saved:** 2026-06-03
 - **URL:** https://www.linkedin.com/jobs/view/4422951327/
 - **Company:** MonetizeMore
 - **Location:** Remote (work from anywhere)
 - **Compensation:** Not stated (estimated $150k-200k USD)
 - **Benefits:** Flexible global schedule, learning allowance, professional development. No health/equity/bonus mentioned.
 - **Team size:** Manages Engineering Managers and Software Engineers (global org; exact count not stated)
-- **Status:** Passed (2026-06-03)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-03 Screened
+  - 2026-06-03 Passed
 
 ## Qualifications
 

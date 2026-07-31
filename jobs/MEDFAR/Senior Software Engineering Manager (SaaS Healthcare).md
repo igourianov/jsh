@@ -2,15 +2,16 @@
 
 Strong platform/modernization fit on a Microsoft stack, but French is a hard requirement and the candidate doesn't speak it.
 
-- **Saved:** 2026-06-16
 - **URL:** https://www.linkedin.com/jobs/view/4426839950/
 - **Company:** MEDFAR
 - **Location:** Remote (Montreal, QC based)
 - **Compensation:** 160-200k CAD (estimated)
 - **Benefits:** RRSP contribution, health insurance from day one, 3 weeks PTO + 1 week between Christmas and New Year, $1,500 annual training allowance, IT equipment provided, remote/flexible work
 - **Team size:** Not stated (Platform, SRE, DevOps function)
-- **Status:** Passed (2026-06-16)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-16 Screened
+  - 2026-06-16 Passed
 
 ## Qualifications
 

@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-03-09
 - **URL:** https://www.linkedin.com/jobs/view/4381758733/
 - **Company:** Mural
 - **Location:** Remote (NAMER)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-09 Screened
+  - 2026-03-09 Rejected
 
 ## Gaps
 

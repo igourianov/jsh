@@ -2,15 +2,16 @@
 
 Strong leadership match but no e-commerce domain experience. Salary range $155-175K is below target of $180-200K.
 
-- **Saved:** 2026-04-05
 - **URL:** https://www.linkedin.com/jobs/view/4376133460/
 - **Company:** Achievers
 - **Location:** Hybrid (Toronto, Liberty Village)
 - **Compensation:** $155,000 - $175,000 CAD
 - **Benefits:** Health, life insurance (day 1), parental leave top-up, RRSP match, flexible vacation, EAP, LinkedIn Learning, mentorship
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-05)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-05 Screened
+  - 2026-04-05 Passed
 
 ## Red flags
 - **Below-market compensation:** $155-175K range is below the candidate's target of $180-200K CAD. At the top of range it is still $5K short.

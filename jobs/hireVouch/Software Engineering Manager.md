@@ -2,15 +2,17 @@
 
 Strong technical and leadership match for a hands-on EM role; main gaps are legaltech domain and hands-on LLM-in-product integration.
 
-- **Saved:** 2026-07-16
 - **URL:** https://www.linkedin.com/jobs/view/4441485504/
 - **Company:** hireVouch (agency, undisclosed legaltech client)
 - **Location:** Remote (Canada)
 - **Compensation:** CA$175K/yr - CA$220K/yr
 - **Benefits:** Not stated
 - **Team size:** Multiple teams, mix of onshore/offshore Tech Leads and ICs (size not stated)
-- **Status:** Rejected (2026-07-19)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-07-16 Screened
+  - 2026-07-16 Applied
+  - 2026-07-19 Rejected
 
 ## Qualifications
 

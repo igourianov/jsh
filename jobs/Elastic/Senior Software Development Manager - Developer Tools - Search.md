@@ -3,7 +3,6 @@
 
 ### Match: 62%
 
-- **Saved:** 2026-02-17
 - **URL:** https://www.linkedin.com/jobs/view/4374124629/
 - **Company:** Elastic
 - **Location:** Canada, Remote
@@ -14,7 +13,9 @@
 - **Team size:** 12 engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-17 Screened
+  - 2026-02-17 Rejected
 
 ## Red flags
 - **Export restrictions:** Posting explicitly lists Russia among sanctioned countries requiring export license as condition of employment. Candidate's Russian background may trigger additional screening or disqualification depending on nationality/citizenship status.

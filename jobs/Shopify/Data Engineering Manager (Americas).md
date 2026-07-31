@@ -3,7 +3,6 @@
 
 ### Match: 35%
 
-- **Saved:** 2026-03-05
 - **URL:** https://www.linkedin.com/jobs/view/4354477650/
 - **Company:** Shopify
 - **Location:** Remote (NAMER)
@@ -14,7 +13,9 @@
 - **Team size:** Not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-05 Screened
+  - 2026-03-05 Rejected
 
 ## Red flags
 

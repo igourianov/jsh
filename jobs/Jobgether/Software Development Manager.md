@@ -2,15 +2,17 @@
 
 Remote Canada EM role at an undisclosed health-tech SaaS. Near-perfect fit on delivery, people and process leadership.
 
-- **Saved:** 2026-06-02
 - **URL:** https://www.linkedin.com/jobs/view/4419279186/
 - **Company:** Jobgether (on behalf of an undisclosed healthcare SaaS partner)
 - **Location:** Remote (Canada), hybrid-friendly
 - **Compensation:** Not stated (estimated 150-190k CAD)
 - **Benefits:** 4-6 weeks paid vacation, 5 personal days, group insurance from day one, employer-contributed RRSP/DPSP, annual wellness allowance, telehealth, hybrid work allowance, flexible hours
 - **Team size:** 8-12
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied (2026-06-02)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-02 Screened
+  - 2026-06-02 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

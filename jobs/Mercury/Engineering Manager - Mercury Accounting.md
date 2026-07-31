@@ -2,15 +2,17 @@
 
 Strong leadership and technical fit, but no fintech or accounting domain experience. Mercury has rejected two prior applications.
 
-- **Saved:** 2026-05-07
 - **URL:** https://www.linkedin.com/jobs/view/4409294694/
 - **Company:** Mercury
 - **Location:** Remote, Canada
 - **Compensation:** CAD $189,700 - $237,100 (US: $200,700 - $250,900)
 - **Benefits:** Equity (stock options), benefits package
 - **Team size:** 6+
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-07 Screened
+  - 2026-05-07 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

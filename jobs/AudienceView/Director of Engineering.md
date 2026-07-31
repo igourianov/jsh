@@ -3,7 +3,6 @@
 
 ### Match: 82%
 
-- **Saved:** 2026-02-27
 - **URL:** https://www.linkedin.com/jobs/view/4378605942/
 - **Company:** AudienceView
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Multiple teams with managers reporting in; exact headcount not stated
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-27 Screened
+  - 2026-02-27 Rejected
 
 ## Gaps
 - **Domain experience:** No background in live events, ticketing or entertainment technology

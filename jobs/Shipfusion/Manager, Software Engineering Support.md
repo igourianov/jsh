@@ -2,14 +2,15 @@
 
 Hands-on EM role centered on PHP/MySQL/React production code and support-team leadership; strong management fit but no PHP background and pay is well below target.
 
-- **Saved:** 2026-07-15
 - **URL:** https://www.linkedin.com/jobs/view/4441262538/
 - **Company:** Shipfusion
 - **Location:** Toronto, ON (Remote)
 - **Compensation:** $120,000 - $135,000 CAD; benefits: health/dental from day one, WFH stipend, subsidized gym, Calm app, EAP, 15 paid vacation days + 5 wellness days, MacBook + peripheral budget
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-15)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-15 Screened
+  - 2026-07-15 Passed
 
 ## Red flags
 - **Below-market compensation:** Posted range $120,000-$135,000 CAD is well below candidate's 180-200k CAD target for an EM-level role.

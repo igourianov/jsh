@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Non-profit / Healthcare | 92%
 
-- **Saved:** 2026-03-16
 - **URL:** https://www.linkedin.com/jobs/view/4384038472/
 - **Company:** Heart & Stroke (via Imploy agency)
 - **Location:** Remote (Greater Toronto Area, Canada)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-16 Screened
+  - 2026-03-16 Rejected
 
 ## Qualifications
 

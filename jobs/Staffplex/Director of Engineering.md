@@ -2,15 +2,16 @@
 
 Strategic step up in title but a domain mismatch: role is cloud infrastructure/FinOps/compliance ownership, not product engineering leadership.
 
-- **Saved:** 2026-07-20
 - **URL:** https://www.linkedin.com/jobs/view/4442248049/
 - **Company:** Staffplex (recruiting on behalf of undisclosed client - global security SaaS platform)
 - **Location:** Ontario, Canada (Remote)
 - **Compensation:** CA$220K-250K/yr
 - **Benefits:** Not specified
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-20)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-20 Screened
+  - 2026-07-20 Passed
 
 ## Qualifications
 

@@ -2,7 +2,6 @@
 
 Executive-level platform infrastructure role two levels above candidate's current Engineering Manager title; requires managing managers and hyperscale infra/cost ownership candidate hasn't held.
 
-- **Saved:** 2026-07-17
 - **URL:** https://www.linkedin.com/jobs/view/4442129947/
 - **Company:** GitLab
 - **Location:** Remote (Canada)
@@ -11,6 +10,7 @@ Executive-level platform infrastructure role two levels above candidate's curren
 - **Team size:** Not stated (organization of managers and engineers, multiple teams)
 - **Status:** Screened
 - **Progress:**
+  - 2026-07-17 Screened
 
 ## Qualifications
 

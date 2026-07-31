@@ -3,7 +3,6 @@
 
 ### Match: 65%
 
-- **Saved:** 2026-02-06
 - **URL:** N/A (LinkedIn via Jobgether agency)
 - **Company:** Unknown (posted by Jobgether agency)
 - **Location:** Canada (Remote)
@@ -14,7 +13,9 @@
 - **Team size:** 2 squads (Dashboard + Growth)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-06 Screened
+  - 2026-02-13 Rejected
 
 ## Gaps
 - **Domain experience:** No exposure to dashboards/analytics products or growth engineering; role's core focus areas

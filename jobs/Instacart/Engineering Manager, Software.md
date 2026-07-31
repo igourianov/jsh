@@ -2,15 +2,16 @@
 
 Strong people-leader EM, but the data/ML platform depth and grocery-catalog domain are real stretches.
 
-- **Saved:** 2026-05-15
 - **URL:** https://www.linkedin.com/jobs/view/4415302187/
 - **Company:** Instacart
 - **Location:** Remote (Canada - Ontario, Alberta, British Columbia, Nova Scotia only)
 - **Compensation:** CAD $196,000 - $207,000 base
 - **Benefits:** New hire equity grant, annual equity refresh grants, benefits package (not detailed)
 - **Team size:** Not specified
-- **Status:** Passed (2026-05-15)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-15 Screened
+  - 2026-05-15 Passed
 
 ## Qualifications
 

@@ -1,6 +1,5 @@
 # Director of Engineering | Product | HRTech/EOR | 82%
 
-- **Saved:** 2026-03-16
 - **URL:** https://www.linkedin.com/jobs/view/4386375942/
 - **Company:** Atlas HXM
 - **Location:** Toronto, ON (Remote)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-16 Screened
+  - 2026-03-16 Rejected
 
 ## Red flags
 - **Leadership instability:** 3 CEOs, 3 CFOs, multiple CTOs in under 2 years. Current CTO joined Nov 2024. Glassdoor 2.6/5 with recurring layoffs every 4-5 months per reviews.

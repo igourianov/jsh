@@ -2,15 +2,16 @@
 
 Strong people-management fit, but no physics/research domain or AI/ML systems experience the role is built around.
 
-- **Saved:** 2026-07-28
 - **URL:** https://www.linkedin.com/jobs/view/4446165584/
 - **Company:** FirstPrinciples
 - **Location:** Remote (Canada, US, UK)
 - **Compensation:** (estimated) 180,000-220,000 CAD
 - **Benefits:** Not stated
 - **Team size:** 4-6 engineers
-- **Status:** Passed (2026-07-28)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-28 Screened
+  - 2026-07-28 Passed
 
 ## Qualifications
 

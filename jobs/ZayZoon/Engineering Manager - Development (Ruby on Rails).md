@@ -3,7 +3,6 @@
 
 ### Match: 35%
 
-- **Saved:** 2026-03-09
 - **URL:** https://www.linkedin.com/jobs/view/4381789101/
 - **Company:** ZayZoon
 - **Location:** Remote (Canada or US)
@@ -14,7 +13,9 @@
 - **Team size:** ~4–8 (pod-based structure)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-09 Screened
+  - 2026-03-09 Rejected
 
 ## Red Flags
 

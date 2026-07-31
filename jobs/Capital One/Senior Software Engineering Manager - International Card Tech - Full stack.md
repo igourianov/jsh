@@ -2,15 +2,17 @@
 
 Strong technical and people leadership match. Title is a step up but scope aligns with candidate's experience managing 3 teams and 30+ engineers. No financial services experience but deep tech industry background covers the "financial/tech" qualifier. Hybrid 3 days in Toronto is a commute concern from Fort Erie.
 
-- **Saved:** 2026-04-05
 - **URL:** https://www.linkedin.com/jobs/view/4395300416/
 - **Company:** Capital One
 - **Location:** Hybrid (Toronto, ON, 3 days in office)
 - **Compensation:** ~180-220k CAD (estimated)
 - **Benefits:** Mental health coverage ($3,000), tuition subsidies ($5,000/yr), WFH allowance, full dependent coverage
 - **Team size:** 2+ teams
-- **Status:** Ghosted (2026-05-15)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-04-05 Screened
+  - 2026-04-05 Applied
+  - 2026-05-15 Ghosted
 
 ## Red flags
 - **Location mismatch:** Hybrid role requires 3 days/week at 161 Bay Street, Toronto. Candidate is based in Fort Erie, ON. Toronto is ~2 hours away, making regular commuting impractical without relocation.

@@ -2,15 +2,16 @@
 
 Strong leadership fit, but core requirement is deep blockchain infrastructure experience the candidate doesn't have.
 
-- **Saved:** 2026-07-22
 - **URL:** https://www.linkedin.com/jobs/view/4443958219/
 - **Company:** Chainlink Labs
 - **Location:** Remote (Canada), EST overlap expected
 - **Compensation:** Not stated (estimated $170,000-$210,000 CAD equivalent, likely with LINK token/equity component)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Passed (2026-07-22)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-22 Screened
+  - 2026-07-22 Passed
 
 ## Qualifications
 

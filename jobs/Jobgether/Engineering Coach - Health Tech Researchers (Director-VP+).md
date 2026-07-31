@@ -2,15 +2,16 @@
 
 Part-time 1:1 coaching role for Director/VP+ leaders with AI/ML research backgrounds. Candidate lacks the research leadership, PhD-team management and AI/ML domain depth this role targets, and is seeking full-time work.
 
-- **Saved:** 2026-04-21
 - **URL:** https://www.linkedin.com/jobs/view/4403901824/
 - **Company:** Undisclosed (via Jobgether) - uses Mento coaching methodology
 - **Location:** Remote, Canada
 - **Compensation:** Hourly (rate not disclosed) + performance/engagement incentives
 - **Benefits:** ICF-certified coaching training, CCE units, global coaching community
 - **Team size:** N/A (1:1 coaching)
-- **Status:** Passed (2026-04-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-21 Screened
+  - 2026-04-21 Passed
 
 ## Red flags
 - **Below-market compensation:** Hourly pay model signals contractor/temp engagement, not salaried role. No rate disclosed.

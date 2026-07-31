@@ -2,7 +2,6 @@
 
 Strong match; candidate is overqualified on experience/leadership, main gaps are Ruby on Rails and IT-research domain specificity.
 
-- **Saved:** 2026-07-20
 - **URL:** https://www.linkedin.com/jobs/view/4442762790/
 - **Company:** Info-Tech Research Group
 - **Location:** Remote (Canada)
@@ -11,6 +10,7 @@ Strong match; candidate is overqualified on experience/leadership, main gaps are
 - **Team size:** Not disclosed
 - **Status:** Screened
 - **Progress:**
+  - 2026-07-20 Screened
 
 ## Qualifications
 

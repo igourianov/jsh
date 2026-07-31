@@ -2,15 +2,17 @@
 
 Near-perfect fit: hands-on EM, cloud SaaS, .NET stack and AI-driven development. Only soft spot is direct clinical healthcare.
 
-- **Saved:** 2026-06-01
 - **URL:** https://www.linkedin.com/jobs/view/4418728567/
 - **Company:** Jobot (staffing agency; undisclosed healthtech client)
 - **Location:** Remote (posted Toronto, ON)
 - **Compensation:** $160,000 - $230,000 per year (currency unspecified)
 - **Benefits:** "Excellent benefits" (unspecified)
 - **Team size:** 10-15 engineers (full-stack, backend, DevOps)
-- **Status:** Rejected (2026-06-04)
-- **Progress:** Applied (2026-06-01)
+- **Status:** Rejected
+- **Progress:**
+  - 2026-06-01 Screened
+  - 2026-06-01 Applied
+  - 2026-06-04 Rejected
 
 ## Qualifications
 

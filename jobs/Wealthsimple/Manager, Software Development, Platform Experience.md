@@ -3,7 +3,6 @@
 
 ### Match: 82%
 
-- **Saved:** 2026-02-20
 - **URL:** https://www.linkedin.com/jobs/view/4374643293/
 - **Company:** Wealthsimple
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified (senior group of developers)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-20 Screened
+  - 2026-02-20 Rejected
 
 ## Gaps
 

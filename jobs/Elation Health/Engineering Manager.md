@@ -2,15 +2,16 @@
 
 Strong match. Player-coach EM role building AI-powered clinical tools. Stack mismatch on Python/MySQL but strong overlap on management, product delivery, AI adoption and healthcare domain.
 
-- **Saved:** 2026-04-17
 - **URL:** https://www.linkedin.com/jobs/view/4400830740/
 - **Company:** Elation Health
 - **Location:** Remote (US, Canada, New Zealand)
 - **Compensation:** $150,000–$190,000/yr CAD AND USD
 - **Benefits:** not specified
 - **Team size:** 3-5 engineers
-- **Status:** Passed (2026-04-17)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-17 Screened
+  - 2026-04-17 Passed
 
 ## Red flags
 - **Below-market compensation:** $150K-$190K CAD is at the lower end given the player-coach expectations and AI focus. The USD range is acceptable but posting lists both currencies ambiguously.

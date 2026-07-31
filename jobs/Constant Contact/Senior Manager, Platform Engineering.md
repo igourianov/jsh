@@ -1,6 +1,5 @@
 # Senior Engineering Manager | Platform | Digital Marketing | 65%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4379605479/
 - **Company:** Constant Contact
 - **Location:** Ontario, Canada (Hybrid)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Red flags
 - **Location mismatch:** Hybrid role. Constant Contact describes a "hybrid workforce" with access to office locations for in-person collaboration and live trainings. No Ontario office location is specified, but hybrid implies periodic in-person presence which may conflict with Fort Erie location.

@@ -2,15 +2,16 @@
 
 Strong management fit undermined by zero telecom domain experience and wrong tech stack (Python/Elixir vs C#/.NET).
 
-- **Saved:** 2026-04-23
 - **URL:** https://www.linkedin.com/jobs/view/4403262490/
 - **Company:** Sangoma (NetFortris)
 - **Location:** Remote (US, Canada or Colombia)
 - **Compensation:** Not stated (estimated 150-180k CAD)
 - **Benefits:** Extended healthcare (medical, disability, dental, vision), RRSP, group life/AD&D/critical illness, PTO, WFH
 - **Team size:** Not stated
-- **Status:** Passed (2026-04-23)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-23 Screened
+  - 2026-04-23 Passed
 
 ## Red flags
 - **On-call rotation:** Role explicitly requires participating in on-call rotation and after-hours maintenance activities.

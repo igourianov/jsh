@@ -1,6 +1,5 @@
 # Senior Engineering Manager | Product | B2B SaaS, Telecom | 91%
 
-- **Saved:** 2026-03-20
 - **URL:** https://www.linkedin.com/jobs/view/4388343704/
 - **Company:** Quo (formerly OpenPhone)
 - **Location:** Remote (Canada)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-20 Screened
+  - 2026-03-23 Rejected
 
 ## Qualifications
 

@@ -2,15 +2,16 @@
 
 Solid people-management and technical fit, but limited security/ML domain overlap drags the score down.
 
-- **Saved:** 2026-07-21
 - **URL:** https://www.linkedin.com/jobs/view/4443508000/
 - **Company:** Intuition Machines
 - **Location:** Remote
 - **Compensation:** Not stated
 - **Benefits:** Fully remote, flexible working hours
 - **Team size:** Not stated
-- **Status:** Passed (2026-07-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-21 Screened
+  - 2026-07-21 Passed
 
 ## Red flags
 - **Contract role:** Posting is tagged as Contract rather than full-time/permanent.

@@ -1,6 +1,5 @@
 # Engineering Manager | Product | CRM / Professional Services | 93%
 
-- **Saved:** 2026-03-25
 - **URL:** https://www.linkedin.com/jobs/view/4390252691/
 - **Company:** Copper
 - **Location:** Remote, Canada
@@ -8,8 +7,11 @@
 - **Benefits:** comprehensive benefits, unlimited vacation, stock options, maternity/paternity top-up, monthly internet and cell phone allowance, L&D program
 - **Team size:** not specified
 
-- **Status:** Rejected (2026-04-08)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-03-25 Screened
+  - 2026-03-25 Applied
+  - 2026-04-08 Rejected
 
 ## Qualifications
 

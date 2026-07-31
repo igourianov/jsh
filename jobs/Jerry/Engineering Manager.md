@@ -3,7 +3,6 @@
 
 ### Match: 48%
 
-- **Saved:** 2026-03-03
 - **URL:** https://www.linkedin.com/jobs/view/4377796361/
 - **Company:** Jerry (Jerry.ai)
 - **Location:** Remote / Toronto, ON
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-03 Screened
+  - 2026-03-03 Rejected
 
 ## Red Flags
 

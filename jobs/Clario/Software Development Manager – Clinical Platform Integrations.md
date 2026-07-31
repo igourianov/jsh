@@ -3,7 +3,6 @@
 
 ### Match: 90%
 
-- **Saved:** 2026-03-10
 - **URL:** https://www.linkedin.com/jobs/view/4382479393/
 - **Company:** Clario
 - **Location:** Eastern Canada — Remote
@@ -13,8 +12,11 @@
 - **Tech stack:** C# (.NET / ASP.NET Core), Python, AWS (Lambda, API Gateway, RDS, DynamoDB), REST APIs, OAuth2, JWT, CI/CD, Angular, React
 - **Team size:** Not specified (shared services / platform team across 20+ squads)
 
-- **Status:** Ghosted (2026-04-07)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-03-10 Screened
+  - 2026-03-10 Applied
+  - 2026-04-07 Ghosted
 
 ## Gaps
 

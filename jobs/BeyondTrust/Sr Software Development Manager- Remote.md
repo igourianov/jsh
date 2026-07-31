@@ -2,15 +2,16 @@
 
 Strong overall match; Claude Code and platform-building experience align well, but no direct identity security domain background.
 
-- **Saved:** 2026-07-24
 - **URL:** https://www.linkedin.com/jobs/view/4445241878/
 - **Company:** BeyondTrust
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 170,000-210,000 CAD)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-24 Screened
+  - 2026-07-24 Applied
 
 ## Qualifications
 

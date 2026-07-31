@@ -2,15 +2,16 @@
 
 Corporate IT operations role requiring deep hands-on experience with MDM, EDR/DLP, SSO and employee hardware management. Strong people leadership and cloud infrastructure match, but the corporate IT domain is outside the candidate's product engineering background.
 
-- **Saved:** 2026-04-08
 - **URL:** https://www.linkedin.com/jobs/view/4396311046/
 - **Company:** Undisclosed (via Jobgether)
 - **Location:** Remote, Canada
 - **Compensation:** CAD $211,000 - $264,000 + equity + bonus
 - **Benefits:** 100% remote, medical/dental/vision, 30 days PTO, professional development, conferences, equity/bonus
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-08)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-08 Screened
+  - 2026-04-08 Passed
 
 ## Qualifications
 

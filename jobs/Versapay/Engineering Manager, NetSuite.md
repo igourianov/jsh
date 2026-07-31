@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Fintech | 58%
 
-- **Saved:** 2026-03-20
 - **URL:** https://www.linkedin.com/jobs/view/4388314193/
 - **Company:** Versapay
 - **Location:** Remote, Canada
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-20 Screened
+  - 2026-03-20 Rejected
 
 ## Red flags
 - **NetSuite specialization:** This role requires deep NetSuite expertise (5+ years of NetSuite engineering, SuiteScript, SDN/SDF frameworks). The candidate has zero NetSuite experience. This is a core, non-negotiable requirement that makes this role a poor fit regardless of strong leadership qualifications.

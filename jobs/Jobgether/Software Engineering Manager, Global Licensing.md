@@ -2,7 +2,6 @@
 
 Strong leadership and platform fit; only gap is the music licensing domain.
 
-- **Saved:** 2026-06-03
 - **URL:** https://www.linkedin.com/jobs/view/4424078345/
 - **Company:** Jobgether (on behalf of an undisclosed music licensing partner)
 - **Location:** Remote (Canada)
@@ -11,6 +10,7 @@ Strong leadership and platform fit; only gap is the music licensing domain.
 - **Team size:** 6-10+ engineers
 - **Status:** Screened
 - **Progress:**
+  - 2026-06-03 Screened
 
 ## Qualifications
 

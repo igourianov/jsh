@@ -1,6 +1,5 @@
 # Senior Engineering Manager | Product | Travel/AI | 89%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4389599839/
 - **Company:** mynexttrip.ai (E&M Global Travel Services Canada Inc.)
 - **Location:** Remote (Vancouver, BC)
@@ -8,8 +7,11 @@
 - **Benefits:** Not specified
 - **Team size:** Not specified
 
-- **Status:** Ghosted (2026-04-17)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Applied
+  - 2026-04-17 Ghosted
 
 ## Red flags
 - **Vague job description:** The posting is generic and lacks substance. No specific technologies, team size, product stage, or concrete responsibilities are mentioned. The qualifications are boilerplate and could apply to virtually any engineering manager role at any company.

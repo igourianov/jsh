@@ -3,7 +3,6 @@
 
 ### Match: 55%
 
-- **Saved:** 2026-03-12
 - **URL:** https://www.linkedin.com/jobs/view/4384850167/
 - **Company:** Unknown (posted via Harnham)
 - **Location:** Ontario, Canada (remote/hybrid); Boston (hybrid); U.S. remote possible
@@ -14,7 +13,9 @@
 - **Team size:** 2 distributed teams (engineers, QA, PMs; mix of direct hires and contractors across North America, India, Poland)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-12 Screened
+  - 2026-03-12 Rejected
 
 ## Gaps
 - **Tech stack (-28%):** Java is explicitly required as a must-have. Candidate's background is .NET/C#, not Java.

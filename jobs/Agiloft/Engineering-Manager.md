@@ -1,6 +1,5 @@
 # Engineering Manager | Product | LegalTech/CLM | 89%
 
-- **Saved:** 2026-03-16
 - **Company:** Agiloft
 - **Location:** Remote (US)
 - **Compensation:** $200,000 CAD + 5% bonus + equity
@@ -9,6 +8,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-16 Screened
+  - 2026-03-20 Rejected
 
 ## Qualifications
 

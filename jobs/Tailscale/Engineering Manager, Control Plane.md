@@ -2,15 +2,16 @@
 
 Strong people-management and technical-leadership fit; Go and networking domain experience are the main gaps.
 
-- **Saved:** 2026-07-29
 - **URL:** https://www.linkedin.com/jobs/view/4444195019/
 - **Company:** Tailscale
 - **Location:** Remote (Canada)
 - **Compensation:** $276,040–$344,380 CAD
 - **Benefits:** Health/vision/dental (no waiting period), employer-matched retirement contributions (up to 0.75% of eligible comp), equity, $1,500 USD/year professional development, flexible PTO, $500 USD home office setup + internet reimbursement, paid parental leave (20 weeks birthing / 16 weeks non-birthing)
 - **Team size:** 6-12 engineers (2-3 pods of 2-4 engineers each)
-- **Status:** Passed (2026-07-29)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-29 Screened
+  - 2026-07-29 Passed
 
 ## Qualifications
 

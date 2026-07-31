@@ -2,15 +2,16 @@
 
 Remote EM role owning CI/CD, testing frameworks and developer experience; leadership and process fit are strong, gaps are the Python/Django stack, modern JS test tooling and GitHub Actions specifically.
 
-- **Saved:** 2026-07-24
 - **URL:** https://www.linkedin.com/jobs/view/4444995804/
 - **Company:** CaptivateIQ
 - **Location:** Remote (East Coast or Toronto)
 - **Compensation:** $160,500 - $238,000 base (USD range; paid in CAD for Canadian hires and "may differ due to currency conversion")
 - **Benefits:** Equity, comprehensive health benefits, other perks (unspecified in posting)
 - **Team size:** Distributed team of engineers, partly in Poland (exact count unstated)
-- **Status:** Passed (2026-07-24)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-24 Screened
+  - 2026-07-24 Passed
 
 ## Qualifications
 

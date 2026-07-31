@@ -2,15 +2,16 @@
 
 Strong fit on management and delivery; meaningful gap on AI product building (LLMs/RAG/agents) which is the core technical requirement.
 
-- **Saved:** 2026-06-29
 - **URL:** https://www.linkedin.com/jobs/view/4433666247/
 - **Company:** Undisclosed (posted via Jobgether)
 - **Location:** Remote, Canada
 - **Compensation:** $190,000 - $220,000 CAD
 - **Benefits:** Annual bonus, equity/LTI, health/dental/vision/life/disability, RRSP, generous PTO + year-end shutdown, professional development stipend, home office support, monthly remote stipend, wellbeing allowances, parental/sick leave, EAP
 - **Team size:** Not specified
-- **Status:** Passed (2026-06-29)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-29 Screened
+  - 2026-06-29 Passed
 
 ## Qualifications
 

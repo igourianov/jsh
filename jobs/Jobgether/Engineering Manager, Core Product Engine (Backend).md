@@ -2,15 +2,17 @@
 
 Hands-on backend EM for an undisclosed Canadian consumer car-ownership platform. Strong on leadership, system design and legacy modernization; core gap is the TypeScript/Node.js/GraphQL stack and consumer/insurance domain.
 
-- **Saved:** 2026-06-03
 - **URL:** https://www.linkedin.com/jobs/view/4424094245/
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Remote, Canada
 - **Compensation:** CA$230,000 - CA$280,000 base + equity (estimated, from prior posting of same role)
 - **Benefits:** Health, dental, vision, RRSP with employer contributions, PTO, parental leave, wellness programs
 - **Team size:** Not stated
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied (2026-06-03)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-03 Screened
+  - 2026-06-03 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

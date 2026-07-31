@@ -2,15 +2,16 @@
 
 Strong platform-leadership fit; main gap is the specific AWS/MongoDB stack and pure security-domain depth.
 
-- **Saved:** 2026-05-28
 - **URL:**
 - **Company:** Vanta
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated. ~180-220k CAD base + equity (estimated)
 - **Benefits:** 100% covered medical/dental/vision with dependents, pension contribution, 16 weeks parental leave, health & wellness stipend, remote/internet/cellphone stipend, flexible hours, 21 vacation days, 80 hours sick leave, 11 paid holidays
 - **Team size:** Multiple teams / multiple charters (not specified)
-- **Status:** Passed (2026-05-28)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-28 Screened
+  - 2026-05-28 Passed
 
 ## Qualifications
 

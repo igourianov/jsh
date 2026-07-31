@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Social Media SaaS | 99%
 
-- **Saved:** 2026-03-17
 - **URL:** https://www.linkedin.com/jobs/view/4369169017/
 - **Company:** Sprout Social, Inc.
 - **Location:** Remote, Canada (Alberta, BC or Ontario)
@@ -8,8 +7,11 @@
 - **Benefits:** 100% employer-paid health/dental/vision/life/disability, 25 vacation days + 5 sick days + holidays + Rest & Recharge days, Modern Health mental health support, $950 CAD lifestyle stipend, remote work stipend ($550 USD setup + $50 USD/mo), financial wellness, Care.com, charitable match
 - **Team size:** not specified
 
-- **Status:** Rejected (2026-03-31)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-03-17 Screened
+  - 2026-03-17 Applied
+  - 2026-03-31 Rejected
 
 ## Qualifications
 

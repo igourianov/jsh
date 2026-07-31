@@ -1,6 +1,5 @@
 # Engineering Manager | Product | Observability/DevTools | 83%
 
-- **Saved:** 2026-03-16
 - **URL:** https://www.linkedin.com/jobs/view/4385613912/
 - **Company:** Honeycomb
 - **Location:** Remote (Canada)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-16 Screened
+  - 2026-03-16 Rejected
 
 ## Red flags
 - **Heavy DEI emphasis:** DEI is embedded throughout the role qualifications and responsibilities, not just the footer. Explicitly requires bringing a "diverse, equitable, and inclusive" lens to "hiring decisions, team culture, and day-to-day leadership." Also appears in responsibilities ("inclusive culture") and company identity ("fiercely inclusive").

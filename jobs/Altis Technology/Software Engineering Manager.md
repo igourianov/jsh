@@ -1,14 +1,15 @@
 # Engineering Manager | Product | Public Sector | 87%
 
-- **Saved:** 2026-03-31
 - **URL:** https://www.linkedin.com/jobs/view/4392102721/
 - **Company:** Undisclosed public sector organization (via Altis Technology)
 - **Location:** Toronto, Hybrid (2-3 days on-site per week)
 - **Compensation:** Not stated
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Passed (2026-03-31)
+- **Status:** Passed
 - **Progress:**
+  - 2026-03-31 Screened
+  - 2026-03-31 Passed
 
 ## Red flags
 - **Location mismatch:** Role requires hybrid presence in Toronto (2-3 days on-site per week). Candidate is based in Fort Erie, ON, roughly 2 hours away. Not feasible for regular commuting.

@@ -2,15 +2,17 @@
 
 Strong fit on high-scale distributed systems, AI tooling and team scaling. Main gaps are the Director title step-up and limited experience managing engineering managers directly.
 
-- **Saved:** 2026-06-05
 - **URL:** https://www.linkedin.com/jobs/view/4424502842/
 - **Company:** Jobgether (undisclosed partner company)
 - **Location:** Remote (Canada)
 - **Compensation:** USD 200,000-260,000 (estimated)
 - **Benefits:** Fully remote with schedule autonomy, professional development and training resources
 - **Team size:** Global org of engineering managers and distributed software teams
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied (2026-06-05)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-05 Screened
+  - 2026-06-05 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

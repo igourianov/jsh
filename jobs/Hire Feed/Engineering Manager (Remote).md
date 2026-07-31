@@ -2,15 +2,16 @@
 
 Solid people-management fit, but the role is managing an RLHF/data-labeling delivery team for an undisclosed client, not product engineering, and candidate has no domain experience there.
 
-- **Saved:** 2026-07-16
 - **URL:** https://www.linkedin.com/jobs/view/4441484274/
 - **Company:** Hire Feed
 - **Location:** Remote (Work from Anywhere)
 - **Compensation:** Not disclosed ("Competitive, based on experience")
 - **Benefits:** Not stated
 - **Team size:** 20+
-- **Status:** Passed (2026-07-16)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-16 Screened
+  - 2026-07-16 Passed
 
 ## Qualifications
 

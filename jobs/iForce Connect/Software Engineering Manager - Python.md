@@ -2,15 +2,16 @@
 
 Strong leadership and architecture fit, but the core ask is hands-on Python mastery and the candidate's stack is C#/.NET.
 
-- **Saved:** 2026-06-01
 - **URL:** https://www.linkedin.com/jobs/view/4422822632/
 - **Company:** iForce Connect (recruitment agency, UK-based)
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated (estimated 160-200k CAD)
 - **Benefits:** Not stated
 - **Team size:** A squad of engineers (size not stated)
-- **Status:** Passed (2026-06-01)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-01 Screened
+  - 2026-06-01 Passed
 
 ## Qualifications
 

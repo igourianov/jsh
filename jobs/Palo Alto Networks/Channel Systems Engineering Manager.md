@@ -2,15 +2,16 @@
 
 Pre-sales channel SE management role, not a software engineering position. Fundamental mismatch with candidate's product engineering background.
 
-- **Saved:** 2026-05-12
 - **URL:** https://www.linkedin.com/jobs/view/4410169764/
 - **Company:** Palo Alto Networks
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** $251,900 - $346,325 USD/yr (base + commission target)
 - **Benefits:** Restricted stock units, bonus, standard benefits package
 - **Team size:** Not specified
-- **Status:** Passed (2026-05-12)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-12 Screened
+  - 2026-05-12 Passed
 
 ## Qualifications
 

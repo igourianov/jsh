@@ -1,6 +1,5 @@
 # VP of Engineering | Product | PropTech / B2B Marketplace | 74%
 
-- **Saved:** 2026-03-23
 - **Company:** VendorPM
 - **Location:** Hybrid/On-site (Mostly remote) - Toronto, CA
 - **Compensation:** $140-220k CAD
@@ -9,6 +8,8 @@
 
 - **Status:** Withdrew
 - **Progress:**
+  - 2026-03-23 Screened
+  - 2026-03-26 Withdrew
 
 ## Red flags
 - **Location mismatch:** Role is hybrid/on-site in Toronto. Candidate is based in Fort Erie, ON. Toronto is a 2+ hour commute, borderline feasible for occasional in-office days but not sustainable for regular on-site presence. The posting emphasizes in-person collaboration, whiteboarding sessions, and solving hard problems together.

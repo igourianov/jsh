@@ -3,7 +3,6 @@
 
 ### Match: 52%
 
-- **Saved:** 2026-02-16
 - **URL:** https://www.linkedin.com/jobs/view/4373839737/
 - **Company:** Unknown (posted by Jobgether)
 - **Location:** Remote, Canada
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-16 Screened
+  - 2026-02-16 Rejected
 
 ## Red flags
 - **Vague job description:** Posted by Jobgether on behalf of an unnamed partner company. The posting lacks specifics: no product details, no team size, no company context, no salary range. Five bullet-point responsibilities are generic and could describe any EM role.

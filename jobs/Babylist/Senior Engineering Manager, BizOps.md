@@ -2,15 +2,16 @@
 
 Strong people and process fit, but no AI agent production experience and zero e-commerce/consumer domain background. The AI agents requirement is the core of this role and the biggest gap.
 
-- **Saved:** 2026-04-08
 - **URL:** https://www.linkedin.com/jobs/view/4396347472/
 - **Company:** Babylist
 - **Location:** Remote (US & Canada)
 - **Compensation:** USD $226,458 - $271,742 / CAD $261,500 - $362,900
 - **Benefits:** Medical, dental, vision (company-paid), 401k/RRSP matching, equity, bonus, paid parental leave, PTO, remote work stipend
 - **Team size:** Growing team across multiple sub-domains (not specified)
-- **Status:** Passed (2026-04-08)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-08 Screened
+  - 2026-04-08 Passed
 
 ## Qualifications
 

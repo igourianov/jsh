@@ -2,15 +2,16 @@
 
 Strong people leadership and platform delivery fit. Main gap is depth in shipping AI/LLM products and managing managers.
 
-- **Saved:** 2026-04-13
 - **URL:** https://www.linkedin.com/jobs/view/4401543695/
 - **Company:** Dropbox
 - **Location:** Remote, Canada (AB, BC, ON, SK only)
 - **Compensation:** $204,900 to $277,200 CAD
 - **Benefits:** Corporate bonus, RSUs, medical/dental/vision, parental leave, wellness perks
 - **Team size:** 12 to 20 direct reports
-- **Status:** Passed (2026-04-13)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-13 Screened
+  - 2026-04-13 Passed
 
 ## Qualifications
 

@@ -2,15 +2,16 @@
 
 Strong leadership and technical fit, but no fintech, banking or payments domain experience and no Haskell.
 
-- **Saved:** 2026-05-14
 - **URL:** https://www.linkedin.com/jobs/view/4410635500/
 - **Company:** Mercury
 - **Location:** Remote (Canada)
 - **Compensation:** CAD 225,900 - 282,400
 - **Benefits:** Equity (stock options); benefits package (specifics not stated)
 - **Team size:** 7+ backend and full-stack engineers
-- **Status:** Passed (2026-05-14)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-14 Screened
+  - 2026-05-14 Passed
 
 ## Qualifications
 

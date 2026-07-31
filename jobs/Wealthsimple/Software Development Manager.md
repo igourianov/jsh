@@ -1,14 +1,15 @@
 # Engineering Manager | Platform | Fintech | 78%
 
-- **Saved:** 2026-04-01
 - **URL:** https://www.linkedin.com/jobs/view/4393051638/
 - **Company:** Wealthsimple
 - **Location:** Remote (Canada)
 - **Compensation:** CA$166,400 - CA$208,000/yr
 - **Benefits:** Health and life insurance, group savings with employer match, 20 vacation days + 4 wellness days, unlimited sick and mental health days, 90-day work-abroad program, employee resource groups
 - **Team size:** 4-8 developers
-- **Status:** Passed (2026-04-01)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-01 Screened
+  - 2026-04-01 Passed
 
 ## Qualifications
 

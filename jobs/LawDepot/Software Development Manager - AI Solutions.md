@@ -2,15 +2,16 @@
 
 Strong leadership and .NET stack fit; AI subject-matter depth and consumer legal-tech domain are the gaps.
 
-- **Saved:** 2026-06-09
 - **URL:** https://www.linkedin.com/jobs/view/4426523957/
 - **Company:** LawDepot
 - **Location:** Remote across Canada (or hybrid from Edmonton, AB)
 - **Compensation:** Not stated (estimated 150-180k CAD)
 - **Benefits:** Health/dental, Health Care Spending Account, company share plan, paid vacation + personal days, LinkedIn Learning + training budget, 37.5h week with banked hours
 - **Team size:** Not stated (Software Developers, Data Scientists, technical contributors)
-- **Status:** Passed (2026-06-11)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-09 Screened
+  - 2026-06-11 Passed
 
 ## Qualifications
 

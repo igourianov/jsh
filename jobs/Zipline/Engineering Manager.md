@@ -2,15 +2,16 @@
 
 Strong management and AI tooling fit, but role requires hands-on Ruby on Rails experience the candidate does not have.
 
-- **Saved:** 2026-05-08
 - **URL:** https://www.linkedin.com/jobs/view/4412105505/
 - **Company:** Zipline
 - **Location:** Remote (Canada)
 - **Compensation:** CA$176,838 - CA$216,138
 - **Benefits:** Stock options, flexible PTO, monthly coffee shop stipend, paid 1-month sabbatical at 5 years, medical/dental/vision, annual offsites, paid quarterly volunteer day, Udemy Business
 - **Team size:** Not specified
-- **Status:** Passed (2026-05-08)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-08 Screened
+  - 2026-05-08 Passed
 
 ## Qualifications
 

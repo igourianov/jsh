@@ -3,7 +3,6 @@
 
 ### Match: 42%
 
-- **Saved:** 2026-02-22
 - **URL:** https://www.linkedin.com/jobs/view/4374294627/
 - **Company:** Samsara
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-22 Screened
+  - 2026-02-23 Rejected
 
 ## Red flags
 

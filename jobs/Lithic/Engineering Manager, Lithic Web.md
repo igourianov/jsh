@@ -2,15 +2,17 @@
 
 Excellent EM profile match for a web-focused product team. Only gap is fintech domain experience. No AI/agentic requirement makes this a cleaner fit than the Program Services role.
 
-- **Saved:** 2026-04-08
 - **URL:** https://www.linkedin.com/jobs/view/4395999948/
 - **Company:** Lithic
 - **Location:** Remote (Ontario, Canada)
 - **Compensation:** CA$232,000 - $333,000 plus equity
 - **Benefits:** Unlimited PTO, 12-week parental leave, 4-week sabbatical (5-year), health/vision/dental, HSA match, 401k match, life insurance, STD/LTD, work from anywhere 4 weeks/year
 - **Team size:** Not specified
-- **Status:** Rejected (2026-04-30)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-08 Screened
+  - 2026-04-08 Applied
+  - 2026-04-30 Rejected
 
 ## Red flags
 

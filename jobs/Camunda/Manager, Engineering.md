@@ -3,7 +3,6 @@
 
 ### Match: 78%
 
-- **Saved:** 2026-03-12
 - **URL:** https://www.linkedin.com/jobs/view/4372617073/
 - **Company:** Camunda
 - **Location:** Remote (global)
@@ -14,7 +13,9 @@
 - **Team size:** Not stated (single team implied)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-12 Screened
+  - 2026-03-12 Rejected
 
 ## Gaps
 

@@ -2,15 +2,16 @@
 
 Hands-on EM role owning a billion-request/month search platform at an AI-forward real estate SaaS company; strong culture and mission fit, but stack (Node.js/TS/React/AWS) and domain diverge from candidate's C#/.NET/Azure background.
 
-- **Saved:** 2026-07-17
 - **URL:** https://www.linkedin.com/jobs/view/4441365085/
 - **Company:** Luxury Presence
 - **Location:** Remote (Canada)
 - **Compensation:** Not stated ($170,000-$210,000 CAD, estimated)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Passed (2026-07-17)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-17 Screened
+  - 2026-07-17 Passed
 
 ## Qualifications
 

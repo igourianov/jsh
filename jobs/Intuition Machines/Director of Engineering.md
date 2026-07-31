@@ -1,6 +1,5 @@
 # Director of Engineering | Platform/Security | Cybersecurity/AI/ML | 64%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4388292077/
 - **Company:** Intuition Machines
 - **Location:** Remote
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Red flags
 - **Contract role:** The posting is tagged as Contract, which may indicate a non-permanent engagement without full benefits or job security.

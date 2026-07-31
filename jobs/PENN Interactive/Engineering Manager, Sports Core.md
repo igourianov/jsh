@@ -3,7 +3,6 @@
 
 ### Match: 80%
 
-- **Saved:** 2026-02-23
 - **URL:** https://www.linkedin.com/jobs/view/4374521022/
 - **Company:** PENN Interactive (PENN Entertainment)
 - **Location:** Canada (Remote)
@@ -14,7 +13,9 @@
 - **Team size:** 10+ engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-23 Screened
+  - 2026-02-23 Rejected
 
 ## Gaps
 

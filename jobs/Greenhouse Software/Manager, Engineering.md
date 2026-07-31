@@ -2,15 +2,17 @@
 
 Strong management and technical fit. Remote-first SaaS company, solid compensation range, reporting and analytics domain. Missing Ruby/Rails and startup experience, but core leadership and architecture skills align well.
 
-- **Saved:** 2026-04-09
 - **URL:** https://www.linkedin.com/jobs/view/4398823443/
 - **Company:** Greenhouse Software
 - **Location:** Ontario, Canada (Remote)
 - **Compensation:** $142,700 - $214,100 CAD
 - **Benefits:** Stock options, annual cash bonuses, merit increases, comprehensive benefits
 - **Team size:** Not specified (ideally 5+)
-- **Status:** Rejected (2026-04-17)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-09 Screened
+  - 2026-04-09 Applied
+  - 2026-04-17 Rejected
 
 ## Red flags
 - **Heavy DEI emphasis:** DEI language embedded into role responsibilities: "Actively foster a diverse, equitable, and inclusive team culture where all voices are heard and valued." Goes beyond standard footer.

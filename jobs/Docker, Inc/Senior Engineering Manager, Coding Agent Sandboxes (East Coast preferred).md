@@ -2,15 +2,17 @@
 
 Strong product-leadership match for a Docker-native SaaS EM; AI-agent sandboxing domain is adjacent rather than direct.
 
-- **Saved:** 2026-05-09
 - **URL:** https://www.linkedin.com/jobs/view/4411754740/
 - **Company:** Docker, Inc
 - **Location:** Remote (Canada eligible, East Coast preferred)
 - **Compensation:** $197,650 - $318,250 USD
 - **Benefits:** Equity, 16 weeks paid parental leave, $100/mo tech stipend, training stipend, PTO, quarterly Whaleness Days, end-of-year break, medical/retirement (varies by country)
 - **Team size:** Not specified
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-09 Screened
+  - 2026-05-09 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

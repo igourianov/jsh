@@ -3,7 +3,6 @@
 
 ### Match: 85%
 
-- **Saved:** 2026-02-05
 - **URL:** https://hh.ru/vacancy/129584887
 - **Company:** Dodo Brands (Dodo Pizza, Drinkit)
 - **Location:** Remote/Hybrid/Office (Moscow, St. Petersburg, Almaty)
@@ -14,7 +13,9 @@
 - **Team size:** 14 (1 PO, 1 frontend, 1 mobile, 9 backend/fullstack, 2 QA)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-05 Screened
+  - 2026-02-07 Rejected
 
 ## Gaps
 - **Title:** Position is Tech Lead, not Engineering Manager - more hands-on technical leadership expected

@@ -2,15 +2,16 @@
 
 Power systems engineering leadership role for transmission/generation interconnection studies; strong leadership-skills overlap but the candidate has zero electrical/power systems and energy industry background.
 
-- **Saved:** 2026-06-01
 - **URL:** https://www.linkedin.com/jobs/view/4422859959/
 - **Company:** Jobgether (posting on behalf of an undisclosed partner company)
 - **Location:** Remote (US and Canada)
 - **Compensation:** Not stated; "competitive package aligned with experience"
 - **Benefits:** Medical/dental/vision (often fully or highly subsidized), generous PTO, 401(k) with employer match, employee ownership/equity program, professional development
 - **Team size:** Not specified
-- **Status:** Passed (2026-06-01)
+- **Status:** Passed
 - **Progress:**
+  - 2026-06-01 Screened
+  - 2026-06-01 Passed
 
 ## Qualifications
 

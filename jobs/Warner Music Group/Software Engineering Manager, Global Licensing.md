@@ -1,14 +1,16 @@
 # Engineering Manager | Product | Music/Entertainment, Licensing | 88%
 
-- **Saved:** 2026-04-01
 - **URL:** https://www.linkedin.com/jobs/view/4394923063/
 - **Company:** Warner Music Group
 - **Location:** Ontario, Canada (Remote)
 - **Compensation:** $150,000-$180,000 CAD (estimated)
 - **Benefits:** not stated
 - **Team size:** 6-10+
-- **Status:** Rejected (2026-04-10)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-04-01 Screened
+  - 2026-04-01 Applied
+  - 2026-04-10 Rejected
 
 ## Qualifications
 

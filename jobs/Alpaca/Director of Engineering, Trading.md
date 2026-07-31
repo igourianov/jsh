@@ -2,15 +2,16 @@
 
 Strong general engineering leader, but zero trading/brokerage domain and no latency-sensitive market-infrastructure experience make this a stretch.
 
-- **Saved:** 2026-05-30
 - **URL:** https://www.linkedin.com/jobs/view/4421215532/
 - **Company:** Alpaca
 - **Location:** Remote (Toronto, ON listed)
 - **Compensation:** (estimated) $200,000–260,000 CAD base + stock options
 - **Benefits:** Health benefits, stock options, one-time USD $500 home-office setup, USD $150/month Brex stipend
 - **Team size:** Not specified (build and scale a new institutional trading engineering org)
-- **Status:** Passed (2026-05-30)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-30 Screened
+  - 2026-05-30 Passed
 
 ## Qualifications
 

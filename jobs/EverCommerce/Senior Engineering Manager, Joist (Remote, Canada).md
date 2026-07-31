@@ -2,15 +2,17 @@
 
 Strong leadership and delivery fit; only gap is the trades/SMB vertical, and comp tops out just below target.
 
-- **Saved:** 2026-06-06
 - **URL:** https://www.linkedin.com/jobs/view/4424945342/
 - **Company:** EverCommerce
 - **Location:** Remote (Canada). Joist HQ in Toronto. Occasional travel to Denver HQ.
 - **Compensation:** $175,000 - $195,000 CAD base
 - **Benefits:** Annual wellness stipend, flexible/generous FTO, Employee Stock Purchase Program, RRSP with 4% company match
 - **Team size:** Two cross-functional product squads
-- **Status:** Rejected (2026-07-14)
-- **Progress:** Applied (2026-06-06)
+- **Status:** Rejected
+- **Progress:**
+  - 2026-06-06 Screened
+  - 2026-06-06 Applied
+  - 2026-07-14 Rejected
 
 ## Qualifications
 

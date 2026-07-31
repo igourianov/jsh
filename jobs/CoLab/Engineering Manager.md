@@ -2,15 +2,16 @@
 
 Strong people-leadership and product EM fit, but role explicitly wants frontend-leaning technical background and CAD/mechanical engineering domain is a gap.
 
-- **Saved:** 2026-04-11
 - **URL:** https://www.linkedin.com/jobs/view/4369688917/
 - **Company:** CoLab
 - **Location:** Remote (Canada), optional hybrid in St. John's, NL
 - **Compensation:** Not stated (estimated ~160-200k CAD base + equity)
 - **Benefits:** Extended health, unlimited paid vacation, RRSP matching, equity
 - **Team size:** ~10 engineers
-- **Status:** Passed (2026-04-11)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-11 Screened
+  - 2026-04-11 Passed
 
 ## Qualifications
 

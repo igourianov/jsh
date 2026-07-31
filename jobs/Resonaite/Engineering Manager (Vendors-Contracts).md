@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-05
 - **Company:** Unknown (Fintech client)
 - **Posted by:** Resonaite
 - **Location:** Remote (Toronto, ON)
@@ -14,7 +13,9 @@
 - **Team size:** 4-6 engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-05 Screened
+  - 2026-02-05 Rejected
 
 ## Gaps
 

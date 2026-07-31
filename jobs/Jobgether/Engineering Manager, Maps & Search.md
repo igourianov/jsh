@@ -2,15 +2,16 @@
 
 Strong leadership/process fit, but core stack is TS/Node/React/GraphQL and the domain is search relevance/ranking - both real gaps against a .NET/HCM background.
 
-- **Saved:** 2026-07-21
 - **URL:** https://www.linkedin.com/jobs/view/4442614358/
 - **Company:** Jobgether (posting on behalf of an undisclosed partner company)
 - **Location:** Canada, Remote
 - **Compensation:** Not stated (estimated: 170-210k CAD)
 - **Benefits:** Not specified in posting
 - **Team size:** Not specified
-- **Status:** Passed (2026-07-21)
+- **Status:** Passed
 - **Progress:**
+  - 2026-07-21 Screened
+  - 2026-07-21 Passed
 
 ## Qualifications
 

@@ -2,15 +2,16 @@
 
 EM role for an AI Applications team at a GRC SaaS company. Strong fit on leadership and SaaS, weak on Python and applied AI framework specifics.
 
-- **Saved:** 2026-04-30
 - **URL:** https://www.linkedin.com/jobs/view/4408584217/
 - **Company:** Optro (formerly AuditBoard)
 - **Location:** Canada (Remote)
 - **Compensation:** Not stated (estimated 180-220k CAD base)
 - **Benefits:** Not stated (perks vary by eligibility/location)
 - **Team size:** Not stated
-- **Status:** Passed (2026-04-30)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-30 Screened
+  - 2026-04-30 Passed
 
 ## Qualifications
 

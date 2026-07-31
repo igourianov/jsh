@@ -2,15 +2,17 @@
 
 Generic EM role at a healthcare staffing marketplace startup; near-perfect fit on paper, but the employer is undisclosed and no salary is stated.
 
-- **Saved:** 2026-05-15
 - **URL:** https://www.linkedin.com/jobs/view/4415013776/
 - **Company:** Jobgether (posting on behalf of an undisclosed partner company)
 - **Location:** Remote (Canada); remote-first or hybrid (<3 days/week in office if applicable)
 - **Compensation:** Not stated; ~$150,000-$190,000 CAD (estimated)
 - **Benefits:** Unlimited paid time off, remote-first/flexible work model, async-first culture
 - **Team size:** Not specified
-- **Status:** Ghosted (2026-06-29)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-05-15 Screened
+  - 2026-05-15 Applied
+  - 2026-06-29 Ghosted
 
 ## Qualifications
 

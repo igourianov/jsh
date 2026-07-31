@@ -2,15 +2,16 @@
 
 Strong baseline and people management fit, but the heavy data ingestion focus is outside core experience.
 
-- **Saved:** 2026-04-23
 - **URL:** https://www.linkedin.com/jobs/view/4405849997/
 - **Company:** Hive.co
 - **Location:** Remote (Canada)
 - **Compensation:** $150,000 - $210,000 CAD (starting $150K-$182K)
 - **Benefits:** Health, dental, equity, open PTO, parental leave top-up, flexible hours
 - **Team size:** Platform, infrastructure and integration pods (size not specified)
-- **Status:** Passed (2026-04-23)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-23 Screened
+  - 2026-04-23 Passed
 
 ## Red flags
 

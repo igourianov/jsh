@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-18
 - **URL:** https://www.linkedin.com/jobs/view/4320077754/
 - **Company:** LilYPad POS (subsidiary of Jonas Software / Constellation Software)
 - **Location:** Remote, Greater Toronto Area, Canada
@@ -14,7 +13,9 @@
 - **Team size:** small team (not specified)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-18 Screened
+  - 2026-02-18 Rejected
 
 ## Red Flags
 - **Below-market compensation:** $140K-$155K CAD for a Director-level role requiring 10+ years experience and hands-on coding is on the lower end for the GTA market.

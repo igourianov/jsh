@@ -2,15 +2,16 @@
 
 Strong technical and leadership match. Salary ceiling below target and hybrid Waterloo is not commutable from Fort Erie.
 
-- **Saved:** 2026-04-07
 - **URL:** https://www.linkedin.com/jobs/view/4385619168/
 - **Company:** Manulife
 - **Location:** Hybrid - Waterloo, ON
 - **Compensation:** $113,000 - $163,000 CAD + incentive programs
 - **Benefits:** Health, dental, mental health, vision, short/long-term disability, life and AD&D insurance, adoption/surrogacy, wellness, employee/family assistance plans, pension, global share ownership plan with employer matching, paid time off
 - **Team size:** Not specified
-- **Status:** Passed (2026-04-07)
+- **Status:** Passed
 - **Progress:**
+  - 2026-04-07 Screened
+  - 2026-04-07 Passed
 
 ## Red flags
 - **Below-market compensation:** Top of range ($163K CAD) is below the $180-200K CAD target. Even with incentive programs, base compensation is low for the scope described.

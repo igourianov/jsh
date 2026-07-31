@@ -2,15 +2,17 @@
 
 Strong leadership and backend/distributed-systems fit; main gap is consumer-internet domain and the entry "Manager I" level.
 
-- **Saved:** 2026-06-24
 - **URL:** https://www.linkedin.com/jobs/view/4432818728/
 - **Company:** Pinterest
 - **Location:** Remote (anywhere in Ontario; in-office 1-2 times every 6 months)
 - **Compensation:** $190K-$240K CAD base (estimated) + equity (RSUs) + bonus
 - **Benefits:** Health, dental, vision, retirement plan, equity, bonus, PinFlex flexible work (estimated; not stated in posting)
 - **Team size:** Not stated (existing team, expected to grow via hiring in first year)
-- **Status:** Ghosted (2026-07-16)
-- **Progress:** Applied (2026-06-24)
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-06-24 Screened
+  - 2026-06-24 Applied
+  - 2026-07-16 Ghosted
 
 ## Qualifications
 

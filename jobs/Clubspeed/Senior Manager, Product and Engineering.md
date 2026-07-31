@@ -2,15 +2,16 @@
 
 Strong match. Player-coach role leading Product and Engineering through an on-prem-to-cloud migration, closely mirrors candidate's Dayforce transformation work.
 
-- **Saved:** 2026-07-09
 - **URL:** https://www.linkedin.com/jobs/view/4438685792/
 - **Company:** Clubspeed
 - **Location:** Remote (Canada)
 - **Compensation:** $150K-190K CAD base (estimated, not disclosed) - Director of Engineering pay for small/PE-owned SaaS company (~38 employees, Valsoft/Manos roll-up), likely near the low end of candidate's 180-200K target given company size and conservative PE compensation norms
 - **Benefits:** Health, dental, vision, flexible time off
 - **Team size:** Not specified (soon to hire a product manager as first direct report; engineering team size unstated)
-- **Status:** Active
-- **Progress:** Applied (2026-07-09), asked $180K CAD on application form
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-09 Screened
+  - 2026-07-09 Applied - asked $180K CAD on application form
 
 ## Qualifications
 

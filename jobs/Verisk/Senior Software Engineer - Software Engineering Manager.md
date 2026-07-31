@@ -3,7 +3,6 @@
 
 ### Match: 40%
 
-- **Saved:** 2026-03-06
 - **URL:** https://www.linkedin.com/jobs/view/4381997718/
 - **Company:** Verisk
 - **Location:** Remote (Waterloo, ON)
@@ -14,7 +13,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-06 Screened
+  - 2026-03-06 Rejected
 
 ## Red flags
 

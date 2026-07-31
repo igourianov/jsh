@@ -1,6 +1,5 @@
 # Engineering Manager | Product | WebOps/CMS | 87%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4387552385/
 - **Company:** Pantheon
 - **Location:** Toronto, ON (Remote)
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Rejected
 
 ## Qualifications
 

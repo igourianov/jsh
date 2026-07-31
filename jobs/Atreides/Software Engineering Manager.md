@@ -2,15 +2,16 @@
 
 Solid platform/people leadership match, but data-ingestion-specific platform work and geospatial domain are gaps; small startup with ambiguous remote/hybrid signal.
 
-- **Saved:** 2026-05-07
 - **URL:** https://www.linkedin.com/jobs/view/4409993241/
 - **Company:** Atreides
 - **Location:** Canada (LinkedIn tag: Remote; posting: "Flexible hybrid work environment")
 - **Compensation:** Not stated ("Competitive salary")
 - **Benefits:** Health, dental, vision insurance; flexible hours; work travel opportunities; competitive vacation; parental leave
 - **Team size:** Not stated (data and platform engineers)
-- **Status:** Passed (2026-05-07)
+- **Status:** Passed
 - **Progress:**
+  - 2026-05-07 Screened
+  - 2026-05-07 Passed
 
 ## Red flags
 - **Location ambiguity:** LinkedIn tags the role Remote, but the posting describes a "Flexible hybrid work environment". No city specified. Worth confirming with recruiter before investing time.

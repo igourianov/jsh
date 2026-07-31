@@ -2,15 +2,16 @@
 
 Strong match: hands-on EM role modernizing a .NET/Angular enterprise SaaS platform, with heavy AI-tooling emphasis that plays directly to recent Claude Code migration experience.
 
-- **Saved:** 2026-07-22
 - **URL:** https://www.linkedin.com/jobs/view/4443182649/
 - **Company:** SearchLabs (recruitment agency; on behalf of an undisclosed enterprise SaaS client with a newly launched AI-powered agentic platform)
 - **Location:** Remote (Canada)
 - **Compensation:** Up to $190,000 CAD (posting also lists $150K-$190K range) + annual performance bonus + RRSP matching
 - **Benefits:** Health and dental benefits, RRSP matching, annual bonus
 - **Team size:** ~8 engineers
-- **Status:** Active
-- **Progress:** Applied
+- **Status:** Applied
+- **Progress:**
+  - 2026-07-22 Screened
+  - 2026-07-22 Applied
 
 ## Qualifications
 

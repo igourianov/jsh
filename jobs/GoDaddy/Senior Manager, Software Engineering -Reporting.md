@@ -3,7 +3,6 @@
 
 ### Match: 60%
 
-- **Saved:** 2026-03-06
 - **URL:** https://www.linkedin.com/jobs/view/4380654224/
 - **Company:** GoDaddy
 - **Location:** Remote (Canada)
@@ -14,7 +13,9 @@
 - **Team size:** 6 engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-06 Screened
+  - 2026-03-06 Rejected
 
 ## Gaps
 

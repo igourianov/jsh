@@ -1,14 +1,16 @@
 # Engineering Manager | Product | Visual Commerce / ERP | 95%
 
-- **Saved:** 2026-03-24
 - **URL:** https://www.linkedin.com/jobs/view/4364061258/
 - **Company:** Leap Tools
 - **Location:** Remote (Toronto, ON)
 - **Compensation:** $140k-$190k CAD
 - **Benefits:** parental leave, work-from-home stipend, birthday off, work anywhere up to 3 months
 - **Team size:** Not specified (net new position)
-- **Status:** Rejected (2026-03-29)
-- **Progress:** Applied
+- **Status:** Rejected
+- **Progress:**
+  - 2026-03-24 Screened
+  - 2026-03-24 Applied
+  - 2026-03-29 Rejected
 
 ## Red flags
 - **Below-market compensation:** The range tops out at $190k CAD, which is on the lower end for a senior engineering manager role. Candidate target is $180-200k, so only the upper end of the range overlaps.

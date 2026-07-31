@@ -3,7 +3,6 @@
 
 ### Match: 72%
 
-- **Saved:** 2026-02-03
 - **URL:** https://jobs.ashbyhq.com/kong/d1c2de35-f953-470f-bd58-e6d01ea4f5c9
 - **Company:** Kong Inc.
 - **Location:** Hybrid (Toronto, Ontario, Canada)
@@ -14,7 +13,9 @@
 - **Team size:** 8-12 engineers
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-03 Screened
+  - 2026-02-23 Rejected
 
 ## Gaps
 - **Tech stack:** Golang not in candidate's experience (C#/.NET background)

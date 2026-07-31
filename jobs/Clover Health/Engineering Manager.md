@@ -3,15 +3,17 @@
 
 ### Match: 88%
 
-- **Saved:** 2026-03-15
 - **Company:** Clover Health (subsidiary: Counterpart Health)
 - **Location:** Remote (Canada)
 - **Compensation:** $134,600 - $175,000 CAD
 - **Benefits:** medical, dental, optical, equity, performance bonus, no-meeting Fridays, remote-first, parental leave, professional development funding, cell phone and internet stipend, office setup reimbursement
 - **Team size:** not specified
 
-- **Status:** Ghosted (2026-04-04)
-- **Progress:** Applied
+- **Status:** Ghosted
+- **Progress:**
+  - 2026-03-15 Screened
+  - 2026-03-15 Applied
+  - 2026-04-04 Ghosted
 
 ## Qualifications
 

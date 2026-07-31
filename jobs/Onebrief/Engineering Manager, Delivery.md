@@ -2,7 +2,6 @@
 
 Delivery-process and people-leadership track record fits well; gaps are air-gapped environments, defense domain and explicit GitOps/DevSecOps tooling.
 
-- **Saved:** 2026-05-16
 - **URL:** https://www.linkedin.com/jobs/view/4415814000/
 - **Company:** Onebrief
 - **Location:** Remote (NAMER)
@@ -11,6 +10,7 @@ Delivery-process and people-leadership track record fits well; gaps are air-gapp
 - **Team size:** Not stated (cross-functional team of Platform, Software and Application Security Engineers)
 - **Status:** Screened
 - **Progress:**
+  - 2026-05-16 Screened
 
 ## Qualifications
 

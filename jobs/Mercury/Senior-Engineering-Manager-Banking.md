@@ -1,6 +1,5 @@
 # Senior Engineering Manager | Product | Fintech | 68%
 
-- **Saved:** 2026-03-16
 - **URL:** https://www.linkedin.com/jobs/view/4303764876/
 - **Company:** Mercury
 - **Location:** Remote, Canada
@@ -10,6 +9,8 @@
 
 - **Status:** Rejected
 - **Progress:**
+  - 2026-03-16 Screened
+  - 2026-03-16 Rejected
 
 ## Red flags
 - **Haskell tech stack:** Mercury uses Haskell as a primary backend language. This is uncommon and limits transferable experience. The IC-level interview process means you will likely be tested on Haskell or general functional programming, adding significant interview preparation overhead.

@@ -3,7 +3,6 @@
 
 ### Match: 52%
 
-- **Saved:** 2026-02-12
 - **URL:** https://rocketdoctor.bamboohr.com/careers/115?source=aWQ9MTQ%3D
 - **Company:** Rocket Doctor
 - **Location:** Remote
@@ -14,7 +13,9 @@
 - **Team size:** Not specified (existing engineering team)
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-02-12 Screened
+  - 2026-02-12 Rejected
 
 ## Gaps
 - **AI/ML in healthcare:** Role requires 2-3 years implementing AI/ML in healthcare; candidate has AI tooling experience but not healthcare-specific AI/ML implementation

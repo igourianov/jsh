@@ -3,7 +3,6 @@
 
 ### Match: 92%
 
-- **Saved:** 2026-03-15
 - **URL:** https://www.linkedin.com/jobs/view/4379165652/
 - **Company:** Xero
 - **Location:** Vancouver, BC (hybrid with "boost days" in office)
@@ -12,7 +11,9 @@
 - **Team size:** Not specified
 
 - **Status:** Rejected
-- **Progress:** 
+- **Progress:**
+  - 2026-03-15 Screened
+  - 2026-03-15 Rejected
 
 ## Red flags
 - **Location mismatch:** Vancouver, BC hybrid requires relocation from Fort Erie, ON.
