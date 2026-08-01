@@ -1,6 +1,6 @@
-# Senior Engineering Manager | People Management / Tools & Systems | Cybersecurity | 78%
+# Senior Engineering Manager | Tools & Systems (Internal Tools/Hardware) | Cybersecurity | 18%
 
-Solid EM fit on people leadership and process, but the role centers on internal Tools & Systems (labs, hardware, non-cloud service delivery) rather than product SaaS engineering, and the cybersecurity domain is new territory.
+Director-scoped role (managers/leads reporting in) but the stated management experience (6 years general, or Master's + 2 years) sits well below Director level; low match is mostly domain: a hardware/labs/non-cloud R&D org in cybersecurity, nothing like the Product SaaS background on the resume.
 
 - **URL:** https://www.linkedin.com/jobs/view/4438366458/
 - **Company:** Arctic Wolf
@@ -12,47 +12,59 @@ Solid EM fit on people leadership and process, but the role centers on internal 
 - **Progress:**
   - 2026-07-11 Saved
   - 2026-07-11 Passed
+  - 2026-08-01 Saved
+  - 2026-08-01 Passed
 
 ## Qualifications
 
-### People management (weight:27%, match:84%)
-- Direct engineering teams, ensure high performance and motivation
-- Remove blockers, provide direction and clarity to teams
-- Regular 1:1s, career development coaching, mentoring
-- Manage employee compensation and vacation time
-- Budget management / financial management skills
-- Lead recruitment for full-time and co-op employees
+### Technical
+- Non-cloud service delivery: labs, hardware deployment, testing and integrations for niche production use cases (weight:23.5%, match:0%)
+- Familiarity bridging IT practices and software engineering practices (weight:17.6%, match:25%)
+- ISMS regulatory compliance (named information security management regime) (weight:17.6%, match:50%)
+- Architecture and system design oversight, design reviews (baseline)
+- Meeting security and compliance requirements for own team's services (baseline)
 
-### Baseline (weight:24%, match:88%)
-- Normalized title match: Senior Engineering Manager
-- 6+ years experience in software development or IT, or Master's + 2 years engineering leadership
+### Engineering domain
+- Tools & Systems: internal tools and hardware-oriented R&D domain, non-Product (weight:23.5%, match:10%)
 
-### Process management (weight:12%, match:88%)
-- Oversee full software development life cycle
-- Drive continuous improvement in engineering processes, secure coding standards adoption
-- Ensure ISMS compliance: secure coding, infrastructure as code, acceptable use policies
+### Product domain
+- Cybersecurity industry experience (weight:17.6%, match:15%)
 
-### Technical (weight:12%, match:55%)
-- Work with architects/technical product managers to define technical roadmap
-- Familiarity with both IT practices and software engineering practices
-- Support deployment of hardware and off-the-shelf software for testing, integrations, and niche production use cases
+### Eligibility
+- Normalized title match: Senior Engineering Manager (baseline)
 
-### Product domain (weight:9%, match:25%)
-- Cybersecurity industry experience
+### People management
+- Direct engineering teams, ensure high performance and motivation (baseline)
+- Remove blockers, provide direction and clarity to teams (baseline)
+- Regular 1:1s, career development coaching, mentoring (baseline)
+- Manage employee compensation and vacation time (baseline)
+- Lead recruitment for full-time and co-op employees (baseline)
+- Contribute to hiring and recruitment strategy for teams (baseline)
+- Managing managers/leads (second-line leadership) (baseline)
+- Directorate-level budget contribution, financial management skills (baseline)
 
-### Product management (weight:8%, match:95%)
-- Execute product roadmap
-- Collaborate with stakeholders (architects, developers, product managers, CSEs, prod support)
+### Product management
+- Execute the product roadmap (baseline)
+- Work with team members to deliver key features (baseline)
+- Work with architects/technical product managers to define and execute technical roadmap (baseline)
+- Key contributor to longer-term planning/strategy with Senior Director (baseline)
+- Build collaborative relationships with stakeholders (baseline)
 
-### Education (weight:4%, match:100%)
-- Bachelor's degree in CS or equivalent experience
+### Process management
+- Oversee the full software development life cycle (baseline)
+- Drive continuous improvement in engineering processes (baseline)
+- Secure coding standards adoption for own team (baseline)
+- Infrastructure as code best practices, consuming (baseline)
 
-### Soft skills (weight:2%, match:100%)
-- Build collaborative relationships with cross-functional teams and stakeholders
+### Education
+- Bachelor's degree in CS or equivalent experience (baseline)
+
+### Soft skills
+- Build collaborative relationships with cross-functional teams and stakeholders (baseline)
 
 ## Summary
 
-Senior Manager, Engineering leading the Tools & Systems teams, responsible for labs and non-cloud service delivery. Bridges IT practices and software engineering practices. Manages multiple managers/leads, sets priorities, executes the product roadmap, and is accountable for R&D team outcomes. Also carries recruitment, compensation/vacation administration, and budget contribution duties, plus ISMS/secure coding/IaC compliance oversight.
+Senior Manager, Engineering leading Tools & Systems: labs and non-cloud service delivery, bridging IT and software engineering practices. Scope includes multiple managers/leads reporting in (Director-level org shape), day-to-day execution of the product/technical roadmap, ISMS/secure coding compliance, budget contribution, and full people-management ownership (hiring, comp, career development).
 
 - **Coding:** 0-5% (pure people-management role; no core language or "writing code" requirement stated)
 - Generate and manage day-to-day work for Tools & Systems teams
@@ -70,3 +82,13 @@ Arctic Wolf is a cybersecurity company and market leader in Security Operations,
 ## Keywords
 
 Engineering Manager, Senior Manager Engineering, R&D, Tools & Systems, SDLC, secure coding, ISMS, Infrastructure as Code, Acceptable Use, hardware deployment, labs, non-cloud service delivery, product roadmap, technical roadmap, career development, one-on-ones, recruitment, budget management, compensation management, cybersecurity, MDR, Security Operations, cross-functional collaboration, CI/CD, Agile
+
+## Log
+
+### 2026-07-11 Saved
+
+Passed same day: hardware/labs-focused Tools & Systems org, not product SaaS engineering; cybersecurity domain is new territory.
+
+### 2026-08-01 Saved
+
+Rescreened under the baseline format. Match dropped to 18%, confirming the original read: low score, pass.
