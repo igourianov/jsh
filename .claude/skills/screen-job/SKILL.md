@@ -123,18 +123,7 @@ A qualification is `scored` when it falls outside an entry that otherwise resemb
 
 **Under-scoped asks are not qualifications.** When a posting falls below a grade's `below:` bound, it is a fact about the job's seniority, not a gap. Do not emit it as a qualification at all. Carry it to Step 6 as a seniority flag.
 
-**Group by tier and category (run script):**
-
-Following the Temp Files convention in the project CLAUDE.md, write the input JSON array to a temp file and run:
-```
-node ${CLAUDE_SKILL_DIR}/scripts/group-qualifications.js <path> && rm <path>
-```
-
-Input JSON array: `[{ "category": "...", "text": "...", "weight": 10, "tier": "scored" }, ...]`
-
-`tier` is required on every entry. Baseline entries need no weight. The script normalizes scored weights to sum to 100 **across scored qualifications only**, then returns one entry per category holding both tiers, each item keeping its own weight.
-
-`thin: true` means fewer than four scored qualifications, so one unusual requirement can swing the result. Carry it to Step 6.
+Hold the classified list. Nothing is written or scored until Step 4, which takes the whole set in one payload.
 
 ## Step 4: Evaluate Match
 
@@ -159,12 +148,25 @@ For each scored qualification, assign a **match value** (0–100) representing h
 | 0 | Does not meet the requirement |
 
 
-Once all match values are assigned, add `"match_value"` to each **scored item** in the object from Step 3.5. Leave baseline items untouched: the script rejects the input if any of them carries a match value. Following the Temp Files convention in the project CLAUDE.md, write the JSON to a temp file and run:
+**Score it (run script).** Following the Temp Files convention in the project CLAUDE.md, write the full qualification set from Step 3.5 to a temp file, with `match_value` added to every scored item, and run:
 ```
-node ${CLAUDE_SKILL_DIR}/scripts/calculate-match.js <path> && rm <path>
+node ${CLAUDE_SKILL_DIR}/scripts/score-qualifications.js <path> && rm <path>
 ```
 
-The script outputs the final match percentage.
+Input JSON array, one entry per qualification, both tiers together:
+```json
+[{ "category": "...", "text": "...", "tier": "scored", "weight": 10, "match_value": 75 },
+ { "category": "...", "text": "...", "tier": "baseline" }]
+```
+
+`tier` is required on every entry. Baseline entries carry no `weight` and no `match_value`; the script rejects the input if one does. Weights are relative, so use the Step 3 numbers as written: the script normalizes them to sum to 100 **across scored qualifications only**, which is what gives the job-specific factors their full weight.
+
+The script outputs three things:
+- the final match percentage
+- `Thin: true` when there are fewer than four scored qualifications, so one unusual requirement can swing the result. Carry it to Step 6
+- the rendered `## Qualifications` block, categories and items already ordered and annotated
+
+**Never recompute or restate a weight.** The normalized weights exist only in the script's output. Copy that block into the file verbatim rather than deriving the numbers again, which is what keeps the score in the file and the score the number was computed from the same score.
 
 **Note the engineering domain's own match value.** Non-Product postings spend scored weight on domain fit that Product postings never spend, so they sit lower on a match-sorted list even when they are good fits. Carry that number to Step 6, where the one-line take has to account for it.
 
@@ -199,7 +201,7 @@ Quote offending text verbatim.
 ### Vague job description
 Posting is too short, generic, or lacks substance: no specific responsibilities, mostly boilerplate, could apply to any company.
 
-Step 3.5 gives direct evidence: a posting that produced few or no scored qualifications is boilerplate by measurement, not by impression. A `thin` result with nothing distinctive in it is this flag.
+Step 4 gives direct evidence: a posting that produced few or no scored qualifications is boilerplate by measurement, not by impression. A `Thin: true` result with nothing distinctive in it is this flag.
 
 ### Mislabeled role
 One whole baseline category thoroughly absent while the others are detailed. An Engineering Manager posting with substantial technical, product and process requirements and no people management is a tech lead requisition wearing a manager title.
@@ -224,9 +226,9 @@ DEI language goes beyond a standard equal-opportunity footer and is embedded int
 
 Save to `jobs/{sanitized company}/{sanitized title}.md` using the template in [output-template.md](output-template.md).
 
-**Qualification sections.** One bare `###` heading per category, never split by tier, ordered as the script returns them (heaviest first, all-baseline categories last). Headings carry no numbers.
+**Qualification sections.** Paste the `## Qualifications` block from the Step 4 script output as-is. It already carries the category headings (bare, unnumbered, never split by tier, heaviest first with all-baseline categories last) and the per-item annotations: `(weight:X%, match:Y%)` for job-specific items, `(baseline)` and nothing else for baseline ones. Baseline items are kept for reference and for `tailor-resume`.
 
-Every item is annotated: job-specific ones with `(weight:X%, match:Y%)`, baseline ones with `(baseline)` and nothing else. Baseline items are kept for reference and for `tailor-resume`. Never give one a weight or a match value.
+Do not reorder it, renumber it, re-weight it or drop items from it.
 
 **The one-line take must account for anything that makes the match misleading.** These do not get their own line. They are the take's job, and it is wrong when it omits one:
 
@@ -234,7 +236,7 @@ Every item is annotated: job-specific ones with `(weight:X%, match:Y%)`, baselin
 |---|---|
 | Engineering domain is not Product | That the number is carrying domain weight, and whether the domain itself matched |
 | Posting fell below a grade `below:` bound | That the role is scoped under your level. Never as a gap: it is a fact about the job |
-| Script returned `thin: true` | That few job-specific qualifications drove the number, so it is volatile |
+| Script returned `Thin: true` | That few job-specific qualifications drove the number, so it is volatile |
 
 A high match on a role scoped below your level is the failure case this prevents. The take says so, in your voice, rather than reading as a recommendation.
 
