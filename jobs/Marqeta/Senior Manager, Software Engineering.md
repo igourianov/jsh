@@ -8,11 +8,12 @@ Strong leadership and technical fit for a platform EM role, but zero fintech/cre
 - **Compensation:** CAD 177,100 - 221,400
 - **Benefits:** Health insurance options, flexible vacation, retirement savings with company contribution, equity (public company), monthly remote stipend, annual development budget, parental leave (up to 20 weeks)
 - **Team size:** Not specified (single team - Credit onboarding)
-- **Status:** Ghosted
+- **Status:** Rejected
 - **Progress:**
   - 2026-07-09 Saved
   - 2026-07-09 Applied
   - 2026-07-31 Ghosted
+  - 2026-08-04 Rejected
 
 ## Qualifications
 
