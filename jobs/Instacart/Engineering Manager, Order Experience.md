@@ -8,10 +8,11 @@ Strong people-leader and platform-modernization fit; e-commerce/checkout domain 
 - **Compensation:** CAD $196,000 - $207,000 base
 - **Benefits:** New hire equity grant, annual equity refresh grants, benefits package (not detailed)
 - **Team size:** 8+ engineers
-- **Status:** Applied
+- **Status:** Rejected
 - **Progress:**
   - 2026-07-11 Saved
   - 2026-07-11 Applied
+  - 2026-08-05 Rejected
 
 ## Qualifications
 

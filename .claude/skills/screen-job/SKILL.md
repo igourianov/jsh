@@ -257,4 +257,12 @@ Output only:
 ```
 Match: {X}% | {One-line take}
 `jobs-active/{sanitized company}/{sanitized title}.md`
+
+Gaps ({100 - match} pts lost of 100):
+- {N} pts: {qualification} (weight {W}%, match {M}%)
+- ({n} more, {N} pts combined)
 ```
+
+Gaps come from the `## Qualifications` block, scored items only, top five by `weight × (100 - match) / 100` descending. Rank by that, not by match value: at weight 18% a 75% match loses 4.5 points where a 5% weight missed entirely loses 3.8.
+
+Terminal only, never a section in the file. Omit when nothing scored below 100%.
