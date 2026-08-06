@@ -1,4 +1,6 @@
-# Engineering Manager | Product | B2B SaaS, Productivity | 91%
+# Engineering Manager | Product | B2B SaaS, Productivity | 87%
+
+Tech stack overlap (Node.js, React, relational DBs, AWS) drives the score; the posting's 2+ years leadership floor reads as scoped under typical Manager level, though that's a fact about the ask, not a gap.
 
 - **URL:** https://www.linkedin.com/jobs/view/4388539343/
 - **Company:** ClickUp
@@ -7,11 +9,13 @@
 - **Benefits:** Not stated
 - **Team size:** Not stated
 
-- **Status:** Ghosted
+- **Status:** Applied
 - **Progress:**
   - 2026-03-20 Saved
   - 2026-03-20 Applied
   - 2026-04-04 Ghosted
+  - 2026-08-05 Saved
+  - 2026-08-05 Applied
 
 ## Red flags
 
@@ -19,38 +23,39 @@
 
 ## Qualifications
 
-### Baseline (weight:32.9%, match:100%)
-- Engineering Manager title
-- 7+ years software engineering experience
-- 2+ years in engineering leadership role
+### Technical
+- Node.js proficiency (weight:33%, match:100%)
+- Modern frontend framework experience (weight:17%, match:100%)
+- AWS cloud services and infrastructure experience (weight:16%, match:75%)
+- Relational database experience (weight:13%, match:100%)
+- Collaborative editing technology experience (weight:5%, match:0%)
+- Architecture and system design oversight, code review and coding standards (baseline)
+- Technical debt management and system architecture optimization (baseline)
+- Technical direction and data-driven decision-making (baseline)
 
-### Technical (weight:28.8%, match:71%)
-- Node.js proficiency
-- Relational databases experience
-- Modern frontend framework experience
-- AWS cloud services and infrastructure experience
-- Code reviews and coding standards oversight
-- System architecture and technical debt management
+### Product domain
+- B2B SaaS / productivity-collaboration software experience (weight:16%, match:75%)
 
-### People management (weight:18.6%, match:100%)
-- Managing and scaling engineering teams
-- Mentor and develop technical talent
+### Eligibility
+- Engineering Manager title (baseline)
+- 7+ years software engineering experience (baseline)
 
-### Product management (weight:8.6%, match:100%)
-- Cross-functional collaboration with product managers, designers and other engineering teams
-- Drive feature development ensuring performance, scalability and reliability
+### People management
+- Managing and scaling engineering teams (baseline)
+- Mentor and develop technical talent (baseline)
 
-### Process management (weight:4.3%, match:100%)
-- Operational excellence, system stability and performance monitoring
+### Product management
+- Cross-functional collaboration with product managers, designers and other engineering teams (baseline)
+- Drive feature development ensuring performance, scalability and reliability (baseline)
 
-### Education (weight:2.3%, match:100%)
-- CS degree or equivalent industry experience
+### Process management
+- Operational excellence: system stability and performance monitoring (baseline)
 
-### Soft skills (weight:2.3%, match:85%)
-- Articulate technical concepts to non-technical stakeholders
+### Soft skills
+- Articulate technical concepts to non-technical stakeholders (baseline)
 
-### Product domain (weight:2.3%, match:75%)
-- B2B SaaS or productivity/collaboration software experience
+### Education
+- Bachelor's or Master's in CS or equivalent industry experience (baseline)
 
 ## Summary
 
