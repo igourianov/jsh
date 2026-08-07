@@ -1,59 +1,68 @@
-# Senior Engineering Manager | Platform | Healthcare | 79%
+# Senior Engineering Manager | Platform | Healthcare | 48%
 
-Strong platform/modernization fit on a Microsoft stack, but French is a hard requirement and the candidate doesn't speak it.
+Platform domain and infrastructure asks eat most of the score, and the Quebec-residency requirement plus explicit French fluency are hard blockers regardless of match.
 
-- **URL:** https://www.linkedin.com/jobs/view/4426839950/
+- **URL:** https://www.linkedin.com/jobs/view/4448742647/
 - **Company:** MEDFAR
-- **Location:** Remote (Montreal, QC based)
+- **Location:** Remote (candidates must reside in Quebec)
 - **Compensation:** 160-200k CAD (estimated)
-- **Benefits:** RRSP contribution, health insurance from day one, 3 weeks PTO + 1 week between Christmas and New Year, $1,500 annual training allowance, IT equipment provided, remote/flexible work
+- **Benefits:** RRSP contribution, health insurance from day one, 3 weeks PTO + 1 week between Christmas and New Year, annual training allowance, IT equipment provided, remote/flexible work
 - **Team size:** Not stated (Platform, SRE, DevOps function)
 - **Status:** Passed
 - **Progress:**
   - 2026-06-16 Saved
   - 2026-06-16 Passed
+  - 2026-08-07 Saved
+  - 2026-08-07 Passed: French requirement
+
+## Red flags
+- **Location mismatch:** Posting requires candidates to reside in the province of Quebec. Candidate lives in Fort Erie, ON.
+- **Language requirement:** French/English bilingualism explicitly required ("a must"). Candidate does not speak French.
 
 ## Qualifications
 
-### Baseline (weight:29.6%, match:60%)
-- Senior Engineering Manager role (matches most recent experience)
-- 10+ years total software engineering experience
-- 5+ years in formal engineering management role
-- Bilingual proficiency in French and English
+### Technical
+- Microsoft Azure (preferred) or AWS cloud architecture, security and scalability (weight:7%, match:50%)
+- Microsoft-oriented stack (.NET, C#, SQL Server) (weight:7%, match:100%)
+- Modern DevOps tooling (CI/CD, Kubernetes, Terraform) (weight:7%, match:75%)
+- Production readiness: IaC, backup/DR strategies, observability as a platform mandate (weight:7%, match:25%)
+- Cloud spend management (FinOps) and vendor relationship management (weight:5%, match:0%)
+- Champion engineering standards for security, testability and maintainability (baseline)
+- Technical credibility to engage Staff Engineers/Architects without coding daily (baseline)
+- Leading modernization of legacy/monolithic systems to cloud-native architectures (baseline)
 
-### Technical (weight:26.3%, match:92%)
-- Microsoft Azure (preferred) or AWS cloud architecture, security and scalability
-- Microsoft-oriented stack (.NET, C#, SQL Server)
-- Modern DevOps tooling (CI/CD, Kubernetes, Terraform)
-- Leading modernization of legacy/monolithic systems to cloud-native architectures
-- Production readiness: IaC, backup/DR, observability
-- Champion engineering standards for security, testability and maintainability
-- Technical credibility to engage Staff Engineers and Architects without coding daily
+### Eligibility
+- Bilingual proficiency in French and English (weight:13%, match:0%)
+- 10+ years total software engineering experience (weight:7%, match:100%)
+- Senior Engineering Manager role (matches most recent experience) (baseline)
+- 5+ years in formal engineering management role (baseline)
 
-### People management (weight:10.8%, match:95%)
-- Lead, coach and mentor senior technical contributors (Platform, SRE, DevOps); own hiring, onboarding and performance management
-- Evolve Cloud and Core Engineering into a cohesive platform-oriented function
+### Product domain
+- Healthcare / EMR domain experience (weight:10%, match:25%)
+- High-growth SaaS managing platforms supporting large-scale distributed customer-facing applications (weight:4%, match:100%)
 
-### Product management (weight:10.7%, match:70%)
-- Own and execute roadmap for shared services, developer enablement tools and cloud foundations
-- Partner with product teams to reduce friction and deliver reusable patterns
-- Cloud spend management (FinOps) and vendor relationship management
+### Engineering domain
+- Platform Engineering domain: Cloud Engineering, Core Architecture, SRE, DevOps (weight:13%, match:50%)
 
-### Product domain (weight:9.8%, match:77%)
-- High-growth SaaS managing platforms supporting large-scale distributed customer-facing applications
-- Healthcare / EMR domain experience
+### Process management
+- Define and monitor SLOs/SLIs as an owned discipline (weight:5%, match:25%)
+- Evolve incident response framework org-wide: escalation paths, post-incident RCAs (weight:5%, match:50%)
+- Data and metrics driven delivery (DORA) (baseline)
 
-### Process management (weight:8.7%, match:88%)
-- Incident response framework, escalation paths and post-incident RCAs
-- Define and monitor SLOs/SLIs and sustainable on-call practices
-- Data and metrics driven delivery (DORA)
+### Product management
+- Own and execute roadmap for shared services, developer enablement tools and cloud foundations (internal platform) (weight:7%, match:75%)
+- Partner with product teams to reduce friction and deliver reusable patterns (weight:3%, match:50%)
 
-### Soft skills (weight:2.8%, match:95%)
-- Systems thinker; create structure in ambiguity and improve cross-team workflows
-- Communicate trade-offs and risks to technical and non-technical stakeholders
+### People management
+- Lead, coach and mentor senior technical contributors (Platform, SRE, DevOps); own hiring, onboarding and performance management (baseline)
+- Evolve Cloud and Core Engineering into a cohesive platform-oriented function (baseline)
 
-### Education (weight:1.9%, match:90%)
-- Bachelor's or Master's in CS/SE/STEM or equivalent experience
+### Soft skills
+- Systems thinker; create structure in ambiguity and improve cross-team workflows (baseline)
+- Communicate trade-offs and risks to technical and non-technical stakeholders (baseline)
+
+### Education
+- Bachelor's or Master's in CS/SE/STEM or equivalent experience (baseline)
 
 ## Summary
 
@@ -74,3 +83,13 @@ MEDFAR Clinical Solutions, founded in 2010 in Montreal by two aeronautical engin
 ## Keywords
 
 Engineering Manager, Platform Engineering, Cloud Engineering, SRE, DevOps, .NET, C#, SQL Server, Microsoft Azure, AWS, Kubernetes, Terraform, CI/CD, IaC, observability, incident management, RCA, SLO, SLI, FinOps, DORA metrics, cloud-native, microservices, monolith modernization, system design, backup/DR, on-call, SaaS, EMR, healthcare, people management, hiring, performance management, roadmap, developer enablement, security, scalability, French, English, bilingual
+
+## Log
+
+### 2026-06-16 Saved
+
+Passed same day: bilingual French/English requirement is a hard blocker.
+
+### 2026-08-07 Passed
+
+Reposted listing, same French requirement. Also now explicitly requires Quebec residency. Passed again.
