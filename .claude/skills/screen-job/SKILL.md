@@ -8,8 +8,7 @@ Screen job: $ARGUMENTS
 ## Step 1: Fetch Job Posting
 
 Determine input type:
-- **Lever URL** (contains jobs.lever.co): Use lever-parser.js script with Bash `node ${CLAUDE_SKILL_DIR}/scripts/lever-parser.js <url>`. Script extracts JSON and outputs to stdout.
-- **Other URL** (starts with http/https): Use WebFetch to retrieve content
+- **URL** (starts with http/https): Use WebFetch to retrieve content
 - **File path** (e.g., temp.txt): Use Read to load content
 - **Inline text** (multi-line job description pasted directly): Use the argument text as-is as the job posting content
 
