@@ -56,7 +56,7 @@ For each base resume section, decide what to change:
 - Keep the core identity (Engineering Manager who builds teams and products, stays hands-on, champions AI-augmented development, deep SaaS and regulated industries expertise).
 - Adjust emphasis to match the role's domain and responsibilities.
 - Weave in 2-4 keywords that map to strong alignment areas.
-- Header title rule: use `# Ilia Gourianov | Engineering Manager` when the target role is an Engineering Manager. For any other engineering leadership title (Director, Head of Engineering, VP, Team Lead, Tech Lead, Engineering Lead, Staff/Principal, etc.), use `# Ilia Gourianov | Engineering Leader` instead. The goal is to align the header with the level of the target role without misrepresenting seniority.
+- Header title rule: use `# Ilia Gourianov | Engineering Manager` only when the target title is plain EM level (Engineering Manager, Software Engineering Manager, Software Development Manager, Manager Software Engineering). Use `# Ilia Gourianov | Engineering Leader` for every other leadership title, including senior EM variants (Senior, Group, Principal). When in doubt prefer `Engineering Leader`: it is level-neutral and never misrepresents.
 
 **Competencies section.**
 - Keep the same top-level bullets as the base (People leadership, Technical leadership, Product delivery, Process, Tech stack).
@@ -110,7 +110,7 @@ Before writing, self-check the draft:
 - Every Experience sub-heading is verbatim from the base resume: company name, job title and date range all match character-for-character. No job title was rewritten, reframed or abbreviated to match the target role.
 - Every accomplishment, metric, customer and technology is traceable to the base resume. No invented outcomes, numbers, customers or technologies.
 - No ageism-flagged phrase remains.
-- Header title rule was applied correctly: `Engineering Manager` for EM roles, `Engineering Leader` for everything else (Director, VP, Head of Eng, Team Lead, Tech Lead, Engineering Lead, Staff/Principal).
+- Header title rule was applied correctly: `Engineering Manager` only for a plain EM-level target, `Engineering Leader` for everything else including senior EM variants.
 - Every keyword that was added has a clear synonym or implication in the base resume.
 
 If any check fails, fix the draft before writing.
@@ -138,7 +138,7 @@ Do not dump the full resume text into the response. Do not enumerate every wordi
 - Emphasize alignment by reordering and rephrasing existing content.
 - Use the JD's vocabulary where it maps to real experience.
 - Fold in screen-file keywords that are synonyms or clear implications of existing content.
-- Reframe the top-of-resume header title as "Engineering Leader" for any non-EM leadership role (Director, VP, Head of Eng, Team Lead, Tech Lead, Engineering Lead, Staff/Principal).
+- Reframe the top-of-resume header title as "Engineering Leader" for any target title that is not plain EM level.
 
 **Do not:**
 - Add or remove sections. Merge or split experience entries. Change any dates.
