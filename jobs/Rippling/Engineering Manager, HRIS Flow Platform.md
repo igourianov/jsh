@@ -1,65 +1,84 @@
-# Engineering Manager | Platform | HR Tech | 97%
+# Engineering Manager | Platform (workflow orchestration) | HR Tech / Enterprise SaaS | 78%
 
-Strong match on platform EM experience and hands-on technical depth, but on-site requirement in Toronto is a real commute problem from Fort Erie.
+Strong technical and management fit. The 19% platform engineering domain weight carries the score — you partially cover it from prior platform services experience. The real gap is HR tech domain knowledge (25%, 8 pts). One-line take: technically solid, but the non-product domain cost and domain mismatch pull the number down.
 
 - **URL:** https://www.linkedin.com/jobs/view/4420411236/
 - **Company:** Rippling
-- **Location:** Toronto, ON (on-site, 3 days/week)
-- **Compensation:** 186,000 - 310,000 USD/year (stated for US-based employees; role is Toronto-based, CAD range not given)
-- **Benefits:** equity
-- **Team size:** not specified
+- **Location:** On-site (Toronto, ON) — 3 days/week mandatory
+- **Compensation:** $186,000 - $310,000 USD/year (estimated ~$127K - $212K CAD for Toronto)
+- **Benefits:** Competitive salary + equity + benefits (health, dental unspecified)
+- **Team size:** Not stated (likely 5-10 senior/staff engineers based on "team" singular)
 - **Status:** Passed
 - **Progress:**
-  - 2026-07-31 Saved
-  - 2026-07-31 Passed: Location mismatch: on-site 3 days/week in Toronto, not commutable from Fort Erie
+  - 2026-08-09 Saved
+  - 2026-08-09 Passed: Declined due to on-site location requirement — Fort Erie to Toronto 3x/week not viable.
 
 ## Red flags
-- **Location mismatch:** Role requires on-site presence in Toronto at least 3 days/week. Candidate is based in Fort Erie, ON, roughly 130km/1.5-2 hours away — not a reasonable regular commute.
+- **Location mismatch:** On-site 3 days/week in Toronto. Candidate is in Fort Erie, ON (~115 km / 1.4 hrs each way). Commutable but heavy weekly cost. Not a remote role.
 
 ## Qualifications
 
-### Technical (weight:46%, match:94%)
-- Systems design experience building or scaling workflow orchestration systems, distributed processing systems, or internal platform infrastructure
-- Experience building developer platforms or infrastructure products used by other engineering teams at scale
-- Hands-on technical depth: architecture, implementation details, engineering tradeoffs (player-coach)
-- Experience in environments where reliability, scalability and performance are critical
+### Technical
+- 6+ years of software engineering experience with a strong backend or distributed systems foundation (weight:16%, match:90%)
+- Strong systems design experience building or scaling workflow orchestration systems or distributed processing systems (weight:15%, match:75%)
+- Experience building developer platforms or infrastructure products used by other engineering teams at scale (weight:10%, match:80%)
+- Strong technical depth and hands-on credibility with the ability to engage deeply in architecture and implementation details (weight:10%, match:90%)
+- Experience designing systems supporting synchronous and asynchronous processing at scale with focus on reliability and resiliency (weight:9%, match:85%)
+- Architecture and system design oversight, cloud environments, technical direction for own teams (baseline)
 
-### Baseline (weight:33%, match:100%)
-- Normalized title match: Engineering Manager
-- 6+ years software engineering experience with backend or distributed systems foundation
-- Prior engineering management / tech lead management / team leadership experience in a high-growth environment
+### Engineering domain
+- Platform engineering — building workflow orchestration infrastructure for other teams to consume (weight:19%, match:80%)
+- Product engineering by default (this posting is Platform, so Platform engineering is scored below) (baseline)
 
-### People management (weight:8%, match:100%)
-- Lead and mentor senior and staff engineers
-- Support hiring and team growth over time
+### Soft skills
+- Comfortable navigating ambiguity, prioritizing technical investments, and sequencing large-scale migrations (weight:5%, match:85%)
+- Strong communication and cross-functional partnership skills across Engineering, Product, and Infrastructure teams (weight:4%, match:85%)
+- Operating under ambiguity, influence without authority (baseline)
 
-### Product management (weight:5%, match:88%)
-- Balance platform investments against customer and business needs
-- Partner with Product, Design, Infrastructure and partner engineering teams
+### Product domain
+- HR tech / HRIS domain knowledge — managing employee and organizational changes globally (weight:8%, match:25%)
+- Enterprise SaaS domain knowledge (posting names HR tech/enterprise as product domain) (baseline)
 
-### Process management (weight:5%, match:100%)
-- Navigate ambiguity, prioritize technical investments, sequence large-scale migrations/replatforming
+### Product management
+- Strong product and execution mindset balancing platform investments against customer and business needs (weight:4%, match:80%)
+- Delivery and execution, cross-functional partnership, stakeholder management, roadmap planning, prioritization (baseline)
 
-### Soft skills (weight:3%, match:100%)
-- Strong communication and cross-functional partnership skills
+### Eligibility
+- Prior engineering management experience in a high-growth engineering environment (baseline)
+
+### People management
+- Coaching and mentoring engineers, hiring, career development, performance management (baseline)
+
+### Process management
+- Quality, incident response, SDLC ownership, Agile/Scrum, CI/CD, observability — for own team (baseline)
+
+### Education
+- Bachelor's or Master's in CS or equivalent practical experience (baseline)
 
 ## Summary
 
-Engineering Manager leading the HRIS Flow Platform team, the workflow orchestration layer underpinning 300+ workflows across HR, Payroll, IT and Finance products. A rebuild/modernization mandate: the existing system has hit scale limits and needs to support more complex workflows across countries, industries, employment types and surfaces (web, mobile, API, AI). Player-coach role expected to stay hands-on in architecture, design reviews and coding while managing senior/staff engineers and scaling the team over time.
+Engineering Manager role leading Rippling's HRIS Flow Platform — the workflow orchestration backbone powering 300+ critical workflows across HR, Payroll, IT and Finance products. Core mission: modernize an existing platform that has reached scale limitations into a scalable, durable system for international expansion and enterprise growth.
 
-- **Coding:** 20% — explicitly a player-coach role with "day-to-day engineering involvement" expected, though no specific language/stack is named.
-- Lead and mentor a team of senior/staff engineers on a critical internal platform
-- Drive technical strategy and execution for the orchestration platform modernization
-- Build scalable, durable workflow infrastructure spanning web, mobile, AI and API surfaces
-- Improve platform performance, resiliency and operational correctness at scale
-- Partner with Product, Design and Infrastructure teams on developer-facing capabilities
-- Balance long-term architecture with fast iterative delivery
-- Support hiring and team growth as adoption expands
+- **Coding:** 20% Hands-on player-coach role — meaningful involvement in architecture, design reviews, debugging, and coding expected
+- Lead and mentor a team of senior/staff engineers on one of Rippling's most critical internal platforms
+- Drive technical strategy for workflow orchestration platform modernization
+- Build scalable infrastructure supporting web, mobile, AI, and API-driven workflows
+- Design systems with synchronous and asynchronous processing at scale
+- Collaborate with Product, Design, Infrastructure teams on developer-facing capabilities
+- Scale the team as platform adoption grows
 
 ## Company
 
-Rippling is a workforce management platform unifying HR, IT and Finance systems (payroll, benefits, expenses, device management, etc.) so employee lifecycle actions can be automated end-to-end (e.g. onboarding a new hire including payroll, card, computer and app provisioning in ~90 seconds). Based in San Francisco, raised $1.4B+ from Kleiner Perkins, Founders Fund, Sequoia, Greenoaks and Bedrock. This role sits within the HRIS Flow Platform, the internal workflow orchestration engine other product teams build on top of.
+Rippling is a unified workforce management platform based in San Francisco. The product eliminates the friction of running a business by consolidating payroll, expenses, benefits, IT provisioning, and vendor tooling (Slack, Microsoft 365, etc.) into one system where data flows dynamically between applications. Key capability: hire an employee worldwide and set up all systems within 90 seconds.
+
+Founded by Parker Conrad (formerly of Concur). Raised $1.2B+ from Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, Bedrock. Named one of America's best startup employers by Forbes. ~7,800 employees on LinkedIn. Public company (NYSE: RL). Known for fast pace, high performance culture, and deep investor confidence.
 
 ## Keywords
 
-workflow orchestration, distributed systems, platform engineering, developer platform, internal infrastructure, replatforming, migration, engineering management, tech lead management, player-coach, system design, architecture, code reviews, reliability, scalability, resiliency, synchronous processing, asynchronous processing, HRIS, HR tech, payroll, cross-functional partnership, hiring, team scaling, API, mobile, AI-driven workflows
+workflow orchestration, HRIS, distributed systems, backend engineering, platform infrastructure, developer platform, microservices, event-driven architecture, synchronous processing, asynchronous processing, workflow automation, employee lifecycle, organizational management, multi-tenant SaaS, systems design, scalability, reliability, resiliency, player-coach, engineering leadership, team building, technical strategy, architecture review, modernization, replatforming
+
+## Log
+
+### 2026-08-09 Saved
+
+Initial screening. Strong match on the core requirements: distributed systems foundation, platform engineering experience, and hands-on management of senior engineers. The HR tech domain gap is notable but Dayforce HCM background provides adjacent context. Location (Fort Erie to Toronto) and on-site requirement are a practical concern — worth pursuing only if the role's strategic value outweighs the commute cost. Rippling's culture and investor backing signal stability, but work pace is intense. Compensation band needs clarification for Toronto market.
