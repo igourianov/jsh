@@ -226,7 +226,10 @@ function write(rec, log, { dryRun = false } = {}) {
   for (const e of edits) lines.splice(e.from, e.to - e.from + 1, ...e.text);
 
   const text = lines.join('\n');
-  if (!dryRun) fs.writeFileSync(rec.file, text);
+  if (!dryRun) {
+    fs.writeFileSync(rec.file, text);
+    cmdSync(['--apply']); // a status change can open or close out a company's last record
+  }
   return { text, status };
 }
 
@@ -542,7 +545,8 @@ function cmdSync(args) {
   const openCompanies = new Set();
   for (const f of screeningFiles()) {
     const rec = parse(f);
-    const st = rec.canonical ? derive(rec.log) : rec.fields.get('Status')?.value?.split(' (')[0];
+    if (!rec.canonical) continue; // outdated screening files carry no validated Status, ignore them
+    const st = derive(rec.log);
     if (OPEN_STATUS.has(st)) openCompanies.add(path.relative(JOBS, f).split(path.sep)[0]);
   }
   const existing = fs.existsSync(ACTIVE) ? fs.readdirSync(ACTIVE) : [];
