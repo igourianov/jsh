@@ -8,9 +8,10 @@ Delivery-process and people-leadership track record fits well; gaps are air-gapp
 - **Compensation:** Not stated (estimated $170,000–$210,000 USD)
 - **Benefits:** Not stated
 - **Team size:** Not stated (cross-functional team of Platform, Software and Application Security Engineers)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-05-16 Saved
+  - 2026-08-11 Passed
 
 ## Qualifications
 

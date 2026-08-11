@@ -8,9 +8,10 @@ Exceptional fit with deep healthcare domain experience, strong engineering leade
 - **Compensation:** CAD $119,900 - $334,200
 - **Benefits:** Health, dental, vision, wellness, performance-based incentives, bonuses.
 - **Team size:** Global distributed organization of EMs and senior engineers.
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-06-22 Saved
+  - 2026-08-11 Passed
 
 ## Qualifications
 

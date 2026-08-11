@@ -8,9 +8,10 @@ Strong leadership and AI-tooling fit; main gaps are Python backend and ecommerce
 - **Compensation:** USD $236,000-$268,000 base + significant equity
 - **Benefits:** Equity, flexible PTO, health/dental/vision insurance
 - **Team size:** Not specified (Messaging AI team)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-06-05 Saved
+  - 2026-08-11 Passed
 
 ## Qualifications
 
