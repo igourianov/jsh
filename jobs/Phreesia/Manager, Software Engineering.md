@@ -8,12 +8,13 @@ Strong technical and web stack fit (.NET, React, healthcare industry background)
 - **Compensation:** CAD $145,000–$170,000 total cash
 - **Benefits:** Comprehensive Total Rewards package (unspecified details)
 - **Team size:** Not specified
-- **Status:** Active
+- **Status:** Rejected
 - **Progress:**
   - 2026-07-17 Saved
   - 2026-07-17 Applied
   - 2026-07-28 Contacted: recruiter screen booked for 2026-08-03
   - 2026-07-31 Saved
+  - 2026-08-11 Rejected
 
 ## Qualifications
 
