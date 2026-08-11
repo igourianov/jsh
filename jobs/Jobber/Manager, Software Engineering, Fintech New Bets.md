@@ -8,10 +8,11 @@ Strong management fit; only real gap is direct fintech domain experience.
 - **Compensation:** $169,200 - $228,900 CAD (midpoint $199,100 CAD)
 - **Benefits:** Extended health benefits (fully paid premiums), RRSP/TFSA/FHSA matching, stock options, talent development/coaching program
 - **Team size:** Not specified
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-07-10 Saved
   - 2026-07-10 Applied
+  - 2026-08-11 Ghosted
 
 ## Qualifications
 

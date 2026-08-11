@@ -8,10 +8,11 @@ Strong .NET/Angular modernization and leadership fit; healthcare-EMR domain and 
 - **Compensation:** Not stated (estimated 165-200k CAD base; small PE-owned company likely pays below the Toronto Director market median of ~198-208k CAD despite broad de facto head-of-engineering scope)
 - **Benefits:** Not stated
 - **Team size:** Not stated (oversees managers and senior developers)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-06-05 Saved
   - 2026-07-13 Applied
+  - 2026-08-11 Ghosted
 
 ## Qualifications
 

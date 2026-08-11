@@ -8,13 +8,14 @@ Strong delivery-leadership fit at a Canadian health-tech SaaS; main gaps are Fre
 - **Compensation:** $150K-$185K CAD (estimated)
 - **Benefits:** Hybrid work allowance, 4-6 weeks paid vacation, 5 paid personal days, group RRSP/DPSP with employer contribution, group insurance from day 1, annual wellness allowance, telehealth app, flexible hours
 - **Team size:** 8-12 (multidisciplinary delivery team)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-06-01 Saved
   - 2026-06-01 Applied
   - 2026-06-05 Rejected
   - 2026-07-16 Saved
   - 2026-07-16 Applied
+  - 2026-08-11 Ghosted
 
 ## Qualifications
 

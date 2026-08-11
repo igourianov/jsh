@@ -8,9 +8,10 @@ Strong match; candidate is overqualified on experience/leadership, main gaps are
 - **Compensation:** Not disclosed
 - **Benefits:** Not disclosed
 - **Team size:** Not disclosed
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-07-20 Saved
+  - 2026-08-11 Passed
 
 ## Qualifications
 

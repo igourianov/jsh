@@ -8,9 +8,10 @@ Executive-level platform infrastructure role two levels above candidate's curren
 - **Compensation:** $168,000–$285,600 USD (listed as US-only range; Canada compensation not stated)
 - **Benefits:** Flexible PTO, equity/ESPP, Growth and Development Fund, parental leave
 - **Team size:** Not stated (organization of managers and engineers, multiple teams)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-07-17 Saved
+  - 2026-08-11 Passed
 
 ## Qualifications
 

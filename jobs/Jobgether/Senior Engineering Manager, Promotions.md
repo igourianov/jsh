@@ -8,10 +8,11 @@ Strong leadership and technical fit, but no domain experience in promotions/digi
 - **Compensation:** CAD $185,000-$235,000
 - **Benefits:** Comprehensive health/financial/emotional wellbeing benefits, education/conference reimbursement, remote work flexibility
 - **Team size:** Not stated
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-07-14 Saved
   - 2026-07-14 Applied
+  - 2026-08-11 Ghosted
 
 ## Qualifications
 

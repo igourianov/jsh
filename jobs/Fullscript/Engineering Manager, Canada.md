@@ -8,9 +8,10 @@ Greenfield Canada-focused pod leadership role at a health tech platform; strong 
 - **Compensation:** Not stated
 - **Benefits:** RRSP match, stock options, medical/dental/vision with HSA, flexible PTO, training budget, employee discount, no-meeting Wednesdays
 - **Team size:** New pod (size not specified)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-04-28 Saved
+  - 2026-08-11 Passed
 
 ## Qualifications
 
