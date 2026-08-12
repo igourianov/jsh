@@ -8,10 +8,11 @@ The AI-native mandate is the loudest requirement in the posting and it is the st
 - **Compensation:** $196,000-$273,000 CAD
 - **Benefits:** Annual bonus, equity, benefits (unspecified)
 - **Team size:** Not stated (one team: frontend, backend, data science)
-- **Status:** Applied
+- **Status:** Rejected
 - **Progress:**
   - 2026-08-07 Saved
   - 2026-08-08 Applied
+  - 2026-08-12 Rejected
 
 ## Qualifications
 
