@@ -1,24 +1,24 @@
 {
-	"permissions": {
-		"defaultMode": "acceptEdits",
-		"allow": [
-			"Bash",
-			"WebFetch",
-			"WebSearch",
-			"Edit",
-			"Read",
-			"Write",
-			"Skill(commit)",
-			"Skill(publish-gist)",
-			"Skill(publish-pdf)",
-			"Skill(tailor-resume)",
-			"Skill(cleanup-seo)",
-			"Skill(screen-job)",
-			"Skill(research-company)",
-			"Skill(convert-txt)",
-			"Skill(update-config)"
-		],
-		"deny": [],
-		"ask": []
-	}
+  "permissions": {
+    "allow": [
+      "Bash",
+      "WebFetch",
+      "WebSearch",
+      "Edit",
+      "Read",
+      "Write",
+      "Skill(commit)",
+      "Skill(publish-gist)",
+      "Skill(publish-pdf)",
+      "Skill(tailor-resume)",
+      "Skill(cleanup-seo)",
+      "Skill(screen-job)",
+      "Skill(research-company)",
+      "Skill(convert-txt)",
+      "Skill(update-config)"
+    ],
+    "deny": [],
+    "ask": [],
+    "defaultMode": "acceptEdits"
+  }
 }
