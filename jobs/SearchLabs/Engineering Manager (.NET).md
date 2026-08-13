@@ -8,10 +8,11 @@ Strong match: hands-on EM role modernizing a .NET/Angular enterprise SaaS platfo
 - **Compensation:** Up to $190,000 CAD (posting also lists $150K-$190K range) + annual performance bonus + RRSP matching
 - **Benefits:** Health and dental benefits, RRSP matching, annual bonus
 - **Team size:** ~8 engineers
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-07-22 Saved
   - 2026-07-22 Applied
+  - 2026-08-13 Ghosted
 
 ## Qualifications
 

@@ -8,10 +8,11 @@ Staff/Principal IC role, deeply hands-on coding expected; strong platform domain
 - **Compensation:** Not stated
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Active
+- **Status:** Ghosted
 - **Progress:**
   - 2026-07-21 Saved
   - 2026-07-21 Contacted
+  - 2026-08-13 Ghosted
 
 ## Qualifications
 
