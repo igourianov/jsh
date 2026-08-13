@@ -157,6 +157,10 @@ export function parseText(text, file) {
 // reposted under a new URL, Slice was re-applied to a month after the first attempt.
 const REOPEN = new Set(['Saved', 'Applied', 'Contacted']);
 
+// Ghosted is a presumption (21 days of silence), not a company response, so a real
+// answer can still land afterward and resolve it into a definitive terminal stage.
+const RESOLVE_GHOST = new Set(['Rejected', 'Failed', 'Withdrew', 'Accepted']);
+
 export function derive(log) {
   if (!log.length) return null;
   const last = log[log.length - 1];
@@ -263,9 +267,12 @@ export function check(file, text = null) {
   if (first !== 'Saved' && first !== 'Contacted') push(`first entry is "${first}", expected Saved or Contacted`);
 
   // 5. a terminal entry ends the log, unless the next entry reopens the application
+  // or (Ghosted only) resolves the presumption into a definitive terminal stage.
   for (let i = 0; i < rec.log.length - 1; i++) {
-    if (TERMINAL[rec.log[i].stage] && !REOPEN.has(rec.log[i + 1].stage)) {
-      push(`terminal stage "${rec.log[i].stage}" is followed by "${rec.log[i + 1].stage}", which does not reopen it`);
+    const stage = rec.log[i].stage;
+    const next = rec.log[i + 1].stage;
+    if (TERMINAL[stage] && !REOPEN.has(next) && !(stage === 'Ghosted' && RESOLVE_GHOST.has(next))) {
+      push(`terminal stage "${stage}" is followed by "${next}", which does not reopen it`);
     }
   }
 
