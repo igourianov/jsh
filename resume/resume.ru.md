@@ -1,15 +1,16 @@
 # Илья Гурьянов | Руководитель разработки
 
-ТГ[@guryanil](http://t.me/guryanil) | [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ilia-gourianov/) | Москва, РФ
+ТГ[@guryanil](http://t.me/guryanil) | [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
+Москва, РФ
 
 Руководитель инженерного направления, который построил несколько высокопроизводительных команд и продуктов с нуля до прода. Технический менеджер активно участвующий в архитектурных решениях и ревью кода, продвигает AI-разработку. Эксперт в multi-tenant корпоративных SaaS-продуктах и регулируемых отраслях.
 
 # Компетенции
 
-* **Руководство людьми:** найм, масштабирование, управление эффективностью и карьерное развитие, руководство удаленными командами
+* **Руководство людьми:** найм, наставничество, масштабирование команд, управление эффективностью и "карьерное" развитие, руководство удаленными командами, управление подрядчиками
 * **Техническое руководство:** проектирование систем, ревью кода, техническое наставничество, внедрение AI-инструментов
 * **Доставка продукта:** планирование дорожной карты, OKR, ответственность за SDLC, метрики DORA, принятие решений на основе данных, межфункциональное партнерство с Product, UX и Architecture
-* **Процессы:** Scrum, планирование мощностей, дежурные ротации, blameless-постмортемы, балансировка потоков работ (роадмап/технический долг/операционка), SOC 2, GDPR
+* **Процессы:** Agile/Scrum, планирование мощностей, дежурные ротации, триаж и приоритизация эскалаций, blameless-постмортемы, балансировка потоков работ (роадмап/технический долг/операционка), SOC 2, GDPR
 * **Технологии:** Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, микросервисы, event-driven архитектура, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
 
 # Опыт работы
