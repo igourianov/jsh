@@ -16,14 +16,14 @@ const fs = require('fs').promises;
 // punctuation, currency, common symbols) and should never be flagged.
 const WHITELIST = new Set([
     ' ', // non-breaking space
-    '–', // en dash –
-    '—', // em dash —
-    '‐', // hyphen ‐
-    '‑', // non-breaking hyphen
-    '‘', // left single quote '
-    '’', // right single quote '
-    '“', // left double quote "
-    '”', // right double quote "
+    //'–', // en dash –
+    //'—', // em dash —
+    //'‐', // hyphen ‐
+    //'‑', // non-breaking hyphen
+    //'‘', // left single quote '
+    //'’', // right single quote '
+    //'“', // left double quote "
+    //'”', // right double quote "
     '…', // ellipsis …
     '•', // bullet •
     '●', // bullet ●
