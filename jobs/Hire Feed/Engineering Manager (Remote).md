@@ -1,8 +1,8 @@
-# Engineering Manager | People Management | AI Training / RLHF | 63%
+# Engineering Manager | AI training (non-Product) | LLM training / RLHF | 43%
 
-Solid people-management fit, but the role is managing an RLHF/data-labeling delivery team for an undisclosed client, not product engineering, and candidate has no domain experience there.
+Repost of the same undisclosed-client RLHF delivery role. People-management scope is a strong match, but the job is managing dataset production for LLM training, not product engineering, and candidate has no domain experience there.
 
-- **URL:** https://www.linkedin.com/jobs/view/4441484274/
+- **URL:** https://www.linkedin.com/jobs/view/4445941232/
 - **Company:** Hire Feed
 - **Location:** Remote (Work from Anywhere)
 - **Compensation:** Not disclosed ("Competitive, based on experience")
@@ -12,34 +12,41 @@ Solid people-management fit, but the role is managing an RLHF/data-labeling deli
 - **Progress:**
   - 2026-07-16 Saved
   - 2026-07-16 Passed
+  - 2026-08-15 Saved
+  - 2026-08-15 Passed
 
 ## Qualifications
 
-### People management (weight:25%, match:100%)
-- Proven experience managing large technical teams (20+) in a delivery-oriented role
-- Leadership and people management skills, motivating teams
+### People management
+- Managing teams of 20+ developers in a delivery-oriented role (weight:31%, match:100%)
 
-### Baseline (weight:20%, match:100%)
-- Engineering Manager title match
-- 8+ years professional software engineering experience, including 3+ years in engineering management
+### Product domain
+- LLM training / RLHF / SFT dataset production domain experience (weight:31%, match:0%)
 
-### Technical (weight:20%, match:40%)
-- Experience with Python or Java and JavaScript
-- Hands-on technical work, identifying and resolving code quality issues
+### Engineering domain
+- AI training / data production engineering domain (non-Product) (weight:23%, match:25%)
 
-### Product domain (weight:15%, match:0%)
-- LLM training / RLHF / SFT dataset production domain experience
+### Technical
+- Experience with Python or Java and JavaScript (weight:15%, match:40%)
+- Hands-on technical work, identifying and resolving quality issues (baseline)
 
-### Product management (weight:13%, match:60%)
-- Collaborate with researcher clients to ensure satisfaction with delivered work
-- Oversee project transitions from initiation to stable state, full delivery ownership
+### Eligibility
+- Engineering Manager title match (baseline)
+- 8+ years professional software engineering experience, including 3+ years in engineering management (baseline)
 
-### Process management (weight:7%, match:30%)
-- Maintain rigorous review processes to ensure quality of datasets
+### Product management
+- Collaborate closely with researcher clients to ensure satisfaction with delivered work (baseline)
+- Oversee project transitions from initiation to stable state, full delivery ownership (baseline)
+
+### Process management
+- Maintain rigorous review processes to ensure highest quality of datasets (baseline)
+
+### Soft skills
+- Leadership and people management skills, motivating teams (baseline)
 
 ## Summary
 
-Engineering Manager role, sourced by a staffing agency (HireFeed) on behalf of an undisclosed client, to lead a 20+ person team of Python/JavaScript/Java developers producing supervised fine-tuning and RLHF training data for large language models. Responsibilities center on delivery management, dataset quality review and client (researcher) satisfaction rather than product development.
+Staffing agency (HireFeed) sourcing on behalf of an undisclosed client for an Engineering Manager to lead a 20+ person team of Python/JavaScript/Java developers producing supervised fine-tuning and RLHF training data for large language models. Responsibilities center on delivery management, dataset quality review and client (researcher) satisfaction rather than product development.
 
 - **Coding:** 5% - role is delivery/quality oversight of a data-production team, not hands-on production coding, though "hands-on technical work" for quality issues is expected.
 - Lead and manage 20+ Python/JavaScript/Java developers on technical tasks
