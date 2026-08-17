@@ -2,7 +2,7 @@
 
 Strong overlap on AI-adoption leadership and eligibility, but zero conversational AI/voice or real-time/ML infra background and no explicit budget-ownership track record pull the score down.
 
-- **URL:** https://www.linkedin.com/jobs/view/4449466682/
+- **URL:** https://www.linkedin.com/jobs/view/4455323361/
 - **Company:** Replicant
 - **Location:** Remote (US/Canada)
 - **Compensation:** Not stated (estimated $180,000-$220,000 USD)
@@ -12,6 +12,8 @@ Strong overlap on AI-adoption leadership and eligibility, but zero conversationa
 - **Progress:**
   - 2026-08-05 Saved
   - 2026-08-05 Applied
+  - 2026-08-17 Saved
+  - 2026-08-17 Applied
 
 ## Qualifications
 
