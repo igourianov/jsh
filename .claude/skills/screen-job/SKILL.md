@@ -40,6 +40,7 @@ Extract the following from the job posting:
 - **Engineering Domain** - Product, DevOps/SRE, Platform, etc.
 - **Product Domain** - Fintech, Healthcare, B2C, etc.
 - **Location** - Remote, Hybrid, Office
+- **Employment type** - Permanent, Contract, Temp, Part-time or Internship. Read from the posting's employment-type tag or body text. Assume Permanent only when nothing states otherwise, and mark it `(assumed)`.
 - **Compensation:**
   - Salary range (if stated, otherwise estimate with "(estimated)")
   - Benefits: dental, vision, health, RRSP/401k match, stock options, equity, bonuses, etc.
@@ -180,6 +181,9 @@ Scan the raw job posting text for red flags. Omit this section from output if no
 ### Agency posting
 **DO NOT FLAG.** A recruitment agency posting on behalf of undisclosed company is **NOT** a red flag.
 
+### Employment type mismatch
+Employment type is anything other than permanent/full-time: contract, temp, part-time or internship.
+
 ### Blacklisted company
 Check if the company name appears in `jobs/black-list.md`. If found, flag it and include the reason from the blacklist.
 
@@ -209,7 +213,7 @@ Scattered gaps against `roles/engineering-leader.md` are how postings get writte
 
 ### Below-market compensation
 Salary significantly below market rate for the role, level and location.
-Hourly pay instead of salaried (signals contractor/temp role disguised as full-time).
+Hourly pay instead of salaried, when the posting presents the role as full-time. An openly contract role goes under Employment type mismatch instead.
 
 ### Location mismatch
 Role requires on-site or hybrid presence in a city the candidate cannot reasonably commute to. Flag if the required office location is not within commuting distance (e.g., Toronto is borderline; anything farther or requiring relocation is a flag). Remote roles are never flagged. Do not flag if the posting explicitly allows remote work.

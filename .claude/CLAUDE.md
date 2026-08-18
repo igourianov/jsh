@@ -79,7 +79,7 @@ There is no `## Outcome` section any more. The terminal Progress entry is the ou
 
 | Section | Always | Content |
 |---|---|---|
-| metadata block | yes | `URL`, `Company`, `Location`, `Compensation`, `Benefits`, `Team size`, `Status`, `Progress` |
+| metadata block | yes | `URL`, `Company`, `Location`, `Employment type`, `Compensation`, `Benefits`, `Team size`, `Status`, `Progress` |
 | `## Red flags` | no | Omitted when none found |
 | `## Qualifications` | yes | Bare `### {Category}`, one per category, no numbers on the heading. Each item carries `(weight:X%, match:Y%)` or `(baseline)` |
 | `## Summary` | yes | Role summary, `- **Coding:** X%`, responsibilities |

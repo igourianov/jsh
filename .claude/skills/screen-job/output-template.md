@@ -5,6 +5,7 @@
 - **URL:** {original job URL, if present}
 - **Company:** {Company}
 - **Location:** {Location}
+- **Employment type:** {Permanent | Contract | Temp | Part-time | Internship}
 - **Compensation:** {Salary range}
 - **Benefits:** {Benefits}
 - **Team size:** {number of reports}

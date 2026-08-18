@@ -22,3 +22,7 @@ In the Russian tech market the CTO role is approximately equivalent to Engineeri
 ## Compensation
 
 Candidate is targeting 180-200k CAD yearly, assuming no signifcant bonus or equity component.
+
+## Employment type
+
+Candidate is targeting permanent salaried employment. Contract, temp and part-time are a red flag.
