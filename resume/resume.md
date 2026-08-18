@@ -21,6 +21,7 @@ Engineering Manager who has built several high-performing engineering teams and 
 
 * Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition and core platform services.
 * Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
+* Championed agentic workflow practices and guardrails, leading adoption among own reports and adjacent teams, increasing PR throughput by over 40%.
 * Extracted a critical calculation engine from the monolith into an independently scalable microservice.
 * Built core platform services enabling other teams to transition to a microservices architecture.
 * Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services.
