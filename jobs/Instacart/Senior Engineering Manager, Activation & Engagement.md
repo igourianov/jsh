@@ -8,10 +8,11 @@ Strong people/product leadership fit, but no mobile, marketplace or gig-economy 
 - **Compensation:** $229,000–$241,500 CAD base
 - **Benefits:** New hire equity grant, annual refresh grants (details not specified)
 - **Team size:** 10-12 engineers
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-07-28 Saved
   - 2026-07-28 Applied
+  - 2026-08-19 Ghosted
 
 ## Qualifications
 

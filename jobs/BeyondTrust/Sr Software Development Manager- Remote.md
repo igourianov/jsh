@@ -8,10 +8,11 @@ Strong overall match; Claude Code and platform-building experience align well, b
 - **Compensation:** Not stated (estimated 170,000-210,000 CAD)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-07-24 Saved
   - 2026-07-24 Applied
+  - 2026-08-19 Ghosted
 
 ## Qualifications
 
