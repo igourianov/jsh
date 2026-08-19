@@ -9,17 +9,8 @@ This is a personal job search repository for Ilia Gourianov, a Software Engineer
 
 ## Language Rules
 
-- User knows Russian and English languages - do not translate between those unless explicitly requested
 - Respond in the terminal in the same language the user writes in
 - Output results of analysis (job postings, company research, etc) in the language of the source
-
-## Temp Files
-
-When a script needs a JSON payload written to a temp file:
-
-1. Create a temp file name in project root: `mktemp --dry-run --suffix=.json --tmpdir=$(pwd)` using `Bash` tool. It returns a path to a generated unique file as a single line.
-2. Use the `Write` tool to save the JSON to the path returned by mktemp. The file doesn't exist yet, so it's safe to write without reading.
-3. Run the script with that path, then delete the temp file: `<command-using-temp-path> && rm <temp-path>`
 
 ## Key Files
 
@@ -236,7 +227,7 @@ node scripts/job.mjs list --stale    # open and silent past 21 days
 - **Maximize engagement** - Structure content to drive comments, shares, and discussion
 - **Be brief and concise** - LinkedIn readers scan quickly; get to the point
 - **Use unicode emojis sparingly** - 2-4 emojis max for visual emphasis, not decoration
-- **Use plain text only** - No markdown formatting (no **, *, #, etc.), no em dashes
+- **Use plain text only** - No markdown formatting (no **, *, #, etc.)
 - Focus on: hook -> value -> call-to-action
 
 ## Recruiter communication
