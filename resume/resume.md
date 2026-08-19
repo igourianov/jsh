@@ -1,40 +1,40 @@
 # Ilia Gourianov | Engineering Manager
 
 [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
-Fort Erie, ON, Canada
+Ontario, Canada | Remote
 
-Engineering Manager who has built several high-performing engineering teams and products from zero to general availability. Technical leader who stays hands-on in architecture decisions and code reviews, championing AI-augmented development. Deep expertise in multi-tenant enterprise SaaS and regulated industries.
+Engineering Manager who builds teams, shapes product direction and owns delivery. Technical leader who stays hands-on in the codebase, from architecture to code review, championing AI-augmented development. Deep expertise in multi-tenant enterprise SaaS and regulated industries.
 
 # Competencies
 
-* **People leadership:** hiring, mentoring, scaling teams, performance management and "career" development, leading remote teams, managing contractors
+* **People leadership:** building and scaling remote teams, hiring, mentoring, performance management, managing contractors
 * **Technical leadership:** system design, code reviews, technical mentorship, AI tooling adoption
-* **Product delivery:** roadmap planning, OKRs, SDLC ownership, DORA metrics, data-driven decision-making, cross-functional partnership with Product, UX and Architecture
+* **Product delivery:** roadmap planning, SDLC ownership, OKRs, DORA metrics, cross-functional partnership with Product and UX
 * **Process:** Agile/Scrum, capacity planning, on-call rotations, escalation triage and prioritization, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
 * **Tech stack:** Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, microservices, event-driven architecture, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
 
 # Experience
 
-### Engineering Manager, Transformation @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Jan 2022 \- Oct 2025
+### Engineering Manager, Modernization @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Jan 2022 \- Oct 2025
 
-[DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment processing sensitive data at scale.
+[DayforceHCM](https://www.dayforce.com/). Multi-tenant HCM SaaS processing payroll and HR data for mid-market to Fortune 500 customers.
 
-* Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition and core platform services.
-* Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
-* Championed agentic workflow practices and guardrails, leading adoption among own reports and adjacent teams, increasing PR throughput by over 40%.
-* Extracted a critical calculation engine from the monolith into an independently scalable microservice.
+* Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition.
+* Led AI-assisted migration of 2,000 data grid screens from a legacy JS framework to Angular using Claude Code, automating 80% of the conversion.
+* Championed agentic workflow practices and guardrails, driving adoption across my own and adjacent teams, increasing PR throughput by over 40%.
+* Extracted a critical calculation engine from the monolith into an independently scalable microservice, reducing calc time for large clients from a day to under an hour.
 * Built core platform services enabling other teams to transition to a microservices architecture.
-* Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services.
+* Eliminated 12-hour global maintenance windows by driving a zero-downtime deployment strategy.
 
 ### Engineering Manager, Product @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Jan 2022
 
-* Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
-* Scaled from one team to three high-performing cross-functional product teams (8-12 devs+QA each, 30+ engineers total). Designed the engineering interview process and hired 20+ engineers. Managed up to 25 engineers directly and via technical leads.
+* Built the Talent Management suite from zero to 1,000+ enterprise customers.
+* Scaled from one team to three cross-functional product teams (8-12 devs+QA each), managing up to 25 engineers directly and via technical leads. Designed the engineering interview process and hired 20+ engineers.
 * Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
 * Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
-* Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
+* Reduced customer-reported defects by 52% by improving testing processes and expanding automated test coverage.
 * Identified and documented eligible R&D projects for SR&ED tax credit claims, recovering up to $300K annually.
-* Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 90% and enabling teams to ship independently.
+* Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 30% and enabling teams to ship independently.
 
 ### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
 
@@ -47,7 +47,7 @@ Engineering Manager who has built several high-performing engineering teams and 
 
 Digital agency providing marketing services for healthcare industry.
 
-* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda
-* Contributed to a proprietary CMS powering client-facing marketing sites
-* Contributed to an internal work tracking system used across the agency
-* Contributed to an internal web framework including a custom ORM
+* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda.
+* Contributed to a proprietary CMS powering client-facing marketing sites.
+* Contributed to an internal work tracking system used across the agency.
+* Contributed to an internal web framework including a custom ORM.
