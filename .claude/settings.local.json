@@ -15,7 +15,8 @@
       "Skill(screen-job)",
       "Skill(research-company)",
       "Skill(convert-txt)",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "PowerShell"
     ],
     "deny": [],
     "ask": [],
