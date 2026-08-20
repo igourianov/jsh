@@ -45,11 +45,9 @@ TEMP_PDF="$(mktemp --dry-run --suffix=.pdf --tmpdir="$WORK_DIR")"
 cp "$SOURCE_FILE" "$TEMP_MD"
 
 # Check for node dependencies
-CLAUDE_DIR="$(cd "$SCRIPT_DIR/../../.." && pwd)"
-
-if [ ! -d "$CLAUDE_DIR/node_modules" ]; then
+if [ ! -d "$PROJECT_ROOT/node_modules" ]; then
     echo "Installing dependencies..."
-    (cd "$CLAUDE_DIR" && npm install)
+    (cd "$PROJECT_ROOT" && npm install)
     if [ $? -ne 0 ]; then
         echo "✗ Failed to install dependencies"
         rm -f "$TEMP_MD"
