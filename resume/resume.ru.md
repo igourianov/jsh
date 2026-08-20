@@ -15,7 +15,7 @@
 
 # Опыт работы
 
-### Руководитель разработки, трансформация @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | 01/2022 \- 10/2025
+### Руководитель разработки, модернизация @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | 01/2022 \- 10/2025
 
 [DayforceHCM](https://www.dayforce.com/). Multi-tenant HCM SaaS-платформа для расчета зарплаты и HR-данных клиентов от среднего бизнеса до Fortune 500.
 
