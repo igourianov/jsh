@@ -8,11 +8,11 @@ Strong management fit, but the core technical ask (external partner data pipelin
 - **Compensation:** Zone 1: $175,000-$212,000 TTC ($154,000-$180,000 base) + equity; Zone 2: $157,000-$190,000 TTC ($138,000-$161,000 base) + equity
 - **Benefits:** Equity
 - **Team size:** 3 team leads (3 pods), plus engineers under each
-- **Status:** Ghosted
+- **Status:** Rejected
 - **Progress:**
   - 2026-07-30 Saved
   - 2026-07-30 Applied
-  - 2026-08-21 Ghosted
+  - 2026-08-21 Rejected
 
 ## Qualifications
 
