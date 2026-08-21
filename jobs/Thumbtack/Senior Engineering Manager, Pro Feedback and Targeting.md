@@ -8,10 +8,11 @@ Strong leadership and technical fit, but candidate's domain is B2B enterprise Sa
 - **Compensation:** $231,200 - $299,200 CAD (Ontario/BC range)
 - **Benefits:** Not specified in posting
 - **Team size:** Not specified
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-07-29 Saved
   - 2026-07-29 Applied
+  - 2026-08-21 Ghosted
 
 ## Qualifications
 
