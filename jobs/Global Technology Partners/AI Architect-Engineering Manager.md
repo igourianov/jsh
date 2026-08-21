@@ -8,10 +8,11 @@ Contract role, no direct-report scope stated; strong match on hands-on architect
 - **Compensation:** Not stated (Contract role) (estimated)
 - **Benefits:** Not stated (contract role, benefits unlikely)
 - **Team size:** Not specified
-- **Status:** Applied
+- **Status:** Rejected
 - **Progress:**
   - 2026-08-18 Saved
   - 2026-08-18 Applied
+  - 2026-08-21 Rejected
 
 ## Qualifications
 
