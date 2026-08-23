@@ -15,7 +15,7 @@ Engineering Manager who builds teams, shapes product direction and owns delivery
 
 # Experience
 
-### Engineering Manager, Modernization @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Jan 2022 \- Oct 2025
+### Engineering Manager, Modernization @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Aug 2022 \- Oct 2025
 
 [DayforceHCM](https://www.dayforce.com/). Multi-tenant HCM SaaS processing payroll and HR data for mid-market to Fortune 500 customers.
 
@@ -26,7 +26,7 @@ Engineering Manager who builds teams, shapes product direction and owns delivery
 * Built core platform services enabling other teams to transition to a microservices architecture.
 * Eliminated 12-hour global maintenance windows by driving a zero-downtime deployment strategy.
 
-### Engineering Manager, Product @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Jan 2022
+### Engineering Manager, Product @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Aug 2022
 
 * Built the Talent Management suite from zero to 1,000+ enterprise customers.
 * Scaled from one team to three cross-functional product teams (8-12 devs+QA each), managing up to 25 engineers directly and via technical leads. Designed the engineering interview process and hired 20+ engineers.
