@@ -15,7 +15,7 @@ Engineering Manager who builds teams, shapes product direction and owns delivery
 
 # Experience
 
-### Engineering Manager, Modernization @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Aug 2022 \- Oct 2025
+### Engineering Manager, Modernization @ [Dayforce](https://www.linkedin.com/company/dayforce/) | Aug 2022 \- Oct 2025
 
 [DayforceHCM](https://www.dayforce.com/). Multi-tenant HCM SaaS processing payroll and HR data for mid-market to Fortune 500 customers.
 
@@ -26,7 +26,7 @@ Engineering Manager who builds teams, shapes product direction and owns delivery
 * Built core platform services enabling other teams to transition to a microservices architecture.
 * Eliminated 12-hour global maintenance windows by driving a zero-downtime deployment strategy.
 
-### Engineering Manager, Product @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Aug 2022
+### Engineering Manager, Product @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Nov 2015 \- Aug 2022
 
 * Built the Talent Management suite from zero to 1,000+ enterprise customers.
 * Scaled from one team to three cross-functional product teams (8-12 devs+QA each), managing up to 25 engineers directly and via technical leads. Designed the engineering interview process and hired 20+ engineers.
@@ -36,7 +36,7 @@ Engineering Manager who builds teams, shapes product direction and owns delivery
 * Identified and documented eligible R&D projects for SR&ED tax credit claims, recovering up to $300K annually.
 * Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 30% and enabling teams to ship independently.
 
-### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
+### Lead Developer @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Mar 2013 \- Nov 2015
 
 * Led technical design and delivery of a greenfield ATS (Applicant Tracking System), establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
 * Led remediation of SOC 2 audit findings, implementing access controls, audit logging and change management processes for the team's codebase.
