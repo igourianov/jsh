@@ -1,17 +1,17 @@
-# Ilia Gourianov | Engineering Manager
+# Ilia Gourianov | Engineering Leader
 
 [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
 Ontario, Canada | Remote
 
-Engineering Manager who builds teams, shapes product direction and owns delivery. Technical leader who stays hands-on in the codebase, from architecture to code review, championing agentic AI-assisted development and driving team-wide adoption of AI tooling. Deep expertise in multi-tenant enterprise SaaS, delivering reliable systems for high-criticality, high-risk data.
+Engineering leader who builds teams, owns delivery execution and drives operational readiness at scale. Technical leader who stays close to architecture and distributed systems design, championing AI-augmented development across the SDLC. Deep expertise in multi-tenant enterprise SaaS, data-intensive platforms and regulated industries.
 
 # Competencies
 
-* **Technical leadership:** system design, code reviews, technical mentorship, championing agentic AI tooling adoption across teams
-* **People leadership:** hiring, building and scaling remote teams, mentoring, performance management, managing contractors
-* **Product delivery:** cross-functional partnership with Product and UX, roadmap planning, SDLC ownership, OKRs, DORA metrics
-* **Process:** Agile/Scrum, capacity planning, on-call rotations, escalation triage and prioritization, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
-* **Tech stack:** Claude Code, JavaScript/TypeScript, ReactJS, Node.js, C\#, .NET Core, ASP.NET MVC, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, microservices, event-driven architecture, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
+* **People leadership:** building and scaling remote teams, hiring, mentoring, performance management, managing contractors and staff augmentation
+* **Product delivery:** delivery execution, roadmap planning, SDLC ownership, OKRs, DORA metrics, cross-functional partnership with Product and UX
+* **Technical leadership:** system design, distributed systems, code reviews, technical mentorship, AI tooling adoption
+* **Process:** escalation triage and customer escalation management, on-call rotations, incident response and reliability, blameless postmortems, Agile/Scrum, capacity planning, balancing feature/debt/ops work streams, SOC 2, GDPR and regulated environments
+* **Tech stack:** Claude Code, AWS/Azure, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, observability, microservices, event-driven architecture, C#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
 
 # Experience
 
@@ -19,22 +19,21 @@ Engineering Manager who builds teams, shapes product direction and owns delivery
 
 [DayforceHCM](https://www.dayforce.com/). Multi-tenant HCM SaaS processing payroll and HR data for mid-market to Fortune 500 customers.
 
-* Championed agentic workflow practices and guardrails, driving adoption across my own and adjacent teams, increasing PR throughput by over 40%.
 * Led AI-assisted migration of 2,000 data grid screens from a legacy JS framework to Angular using Claude Code, automating 80% of the conversion.
-* Built core platform services enabling other teams to transition to a microservices architecture.
-* Eliminated 12-hour global maintenance windows by driving a zero-downtime deployment strategy.
+* Championed agentic workflow practices and guardrails, driving adoption across my own and adjacent teams, increasing PR throughput by over 40%.
 * Extracted a critical calculation engine from the monolith into an independently scalable microservice, reducing calc time for large clients from a day to under an hour.
+* Built core platform services enabling other teams to transition to a microservices architecture.
 * Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition.
+* Eliminated 12-hour global maintenance windows by driving a zero-downtime deployment strategy.
 
 ### Engineering Manager, Product @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Aug 2016 \- Aug 2022
 
-* Built the Talent Management suite from zero to 1,000+ enterprise customers.
 * Scaled from one team to three cross-functional product teams (8-12 devs+QA each), managing up to 25 engineers directly and via technical leads. Designed the engineering interview process and hired 20+ engineers.
+* Built the Talent Management suite from zero to 1,000+ enterprise customers.
 * Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
 * Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
-* Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 30% and enabling teams to ship independently.
 * Reduced customer-reported defects by 52% by improving testing processes and expanding automated test coverage.
-* Identified and documented eligible R&D projects for SR&ED tax credit claims, recovering up to $300K annually.
+* Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 30% and enabling teams to ship independently.
 
 ### Lead Developer @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Mar 2013 \- Aug 2016
 
