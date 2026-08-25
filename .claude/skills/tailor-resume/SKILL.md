@@ -3,163 +3,73 @@ name: tailor-resume
 description: Create tailored resume from job screening file. Use when user asks to tailor resume, customize resume for job, or create job-specific resume.
 ---
 
-# Tailor Resume Skill
+# Tailor Resume
 
-## Purpose
+Re-emphasize the base resume for one posting. Everything in the output traces back to the base resume: the tailoring is framing, ordering and vocabulary, never new facts.
 
-Generate a tailored resume for a specific job posting. The output mirrors the base resume structure exactly, emphasizes points of alignment with the role, de-emphasizes gaps, and folds in ATS-friendly keywords from the screen file without fabricating skills or experience the candidate does not have.
+## Step 1: Read inputs
 
-## Inputs
+### Job context
 
-**Required:**
-- Base resume: `resume/resume.md`
-- Candidate context: `resume/context.md`
-- Job screen file: `jobs/{Company}/{Job Title}.md`
+- `jobs/{Company}/{Job Title}.md` - the screen file. `## Qualifications`, `## Keywords` and `## Summary` carry the signal.
+- `jobs/{Company}/company.md` and `jobs/{Company}/notes.md`, if they exist
+- Raw JD text already in the conversation, if any. Do not fetch URLs on the skill's own initiative.
 
-**Optional (use if present):**
-- Company research: `jobs/{Company}/company.md`
-- Raw job description text already loaded into the conversation context (pasted by user, or fetched earlier in this session). Use as supplemental signal alongside the screen file. Do not fetch URLs on the skill's own initiative.
+### Candidate context
 
-## Output
+Read `resume/context.md` for candidate context that isn't in the resume, then read the base resume matching the screen file's language, per its `## Language` table. Fall back to English.
 
-Tailored resume saved to `jobs/{Company}/resume.md`. Overwrite any existing file at that path.
+## Step 2: Tailor
 
-## Process
+One pass, three kinds of edit. Anything not covered below stays identical to the base.
 
-### Step 1. Load source material
+### Frame seniority to the target level
 
-Read the following in parallel:
-- `resume/resume.md`
-- `resume/context.md`
-- `jobs/{Company}/{Job Title}.md`
-- `jobs/{Company}/company.md` (if it exists)
+Set the header title to the one `resume/context.md` `## Role` gives for the posting's normalized title, in the resume's language. When the level is ambiguous, take the row that file marks level-neutral.
 
-If a raw JD is already present in the conversation context, note it and use it in Step 2.
+The header is only the label. Seniority is really carried by which scope facts lead: headcount, number of teams, whether leads or managers report in, breadth of influence. The base resume states these at several levels, so match the posting's.
 
-### Step 2. Extract signal from the screen file and JD
+- **Posting is senior, director, or leads multiple teams:** lead with the largest scope the base resume supports, and say it in the summary paragraph too, not only down in the entries.
+- **Posting states a small or single team:** lead with single-team, hands-on, direct-delivery facts. Downplay multi-team and manager-of-managers scope: move it below, or drop the bullet whose only point is org-level breadth. Overshooting the stated scope reads as a mis-level and costs the screen.
 
-From the screen file and any raw JD in context, extract:
+Choosing which scope fact opens an entry is the whole mechanism. Never state a scope larger than the base resume gives it, and never reframe a historic title: company, title and dates stay verbatim, always.
 
-- **Qualifications by category**: People management, Technical, Product management, Product domain, Baseline. Record the match percentage for each category.
-- **Gaps**: any category below 100% match, plus any sub-bullet within a category that the candidate does not clearly satisfy.
-- **Keywords**: the `## Keywords` list from the screen file, verbatim. This is the ATS keyword pool.
-- **Tech stack**: languages, frameworks, cloud providers, databases, tools mentioned in the JD or screen file.
-- **Role shape**: player/coach vs pure manager, platform vs product, regulated vs not, team size, reporting line, any unusual responsibilities.
+### Reorder so the relevant comes first
 
-### Step 3. Plan the tailoring edits
+Competencies top-level bullets, the inline list inside each one, the tech stack list, and the bullets within each experience entry. Ordering is the main tool for emphasis. You may drop a bullet that is irrelevant to the role. You may never add one.
 
-Do this internally. Do not show the plan to the user.
+### Use the JD's vocabulary
 
-For each base resume section, decide what to change:
+ATS filters match strings, not meaning, so `React.js` in the posting does not hit `ReactJS` in the resume. Walk `## Keywords` from the screen file plus anything named in the JD, technical or not, and for each one:
 
-**Opening paragraph (summary under the header line).**
-- Keep the core identity (Engineering Manager who builds teams and products, stays hands-on, champions AI-augmented development, deep SaaS and regulated industries expertise).
-- Adjust emphasis to match the role's domain and responsibilities.
-- Weave in 2-4 keywords that map to strong alignment areas.
-- Header title rule: use `# Ilia Gourianov | Engineering Manager` only when the target title is plain EM level (Engineering Manager, Software Engineering Manager, Software Development Manager, Manager Software Engineering). Use `# Ilia Gourianov | Engineering Leader` for every other leadership title, including senior EM variants (Senior, Group, Principal). When in doubt prefer `Engineering Leader`: it is level-neutral and never misrepresents.
+- **The resume already says it, in other words.** Rewrite the resume's wording into the JD's exact form: spelling, casing, punctuation, word order (`ReactJS` → `React.js`); carry both where the JD abbreviates (`Kubernetes (K8s)`). Same for prose, not just technology tokens. Facts, numbers and outcomes stay intact, only the wording changes.
+- **The resume does not say it, but implies it.** A synonym or direct implication of something present: add it beside its source. Prefer competencies and the tech stack; use an experience bullet when it belongs to a specific accomplishment.
+- **The resume has no basis for it.** Leave it out. Do not add it anywhere, in any phrasing. A keyword the filter misses costs less than a claim an interviewer catches. Report it under `Not addressed` instead.
 
-**Competencies section.**
-- Keep the same top-level bullets as the base (People leadership, Technical leadership, Product delivery, Process, Tech stack).
-- Reorder the top-level bullets so the most relevant bullet for this role comes first.
-- Inside each bullet's inline list, reorder items so role-relevant ones come first.
-- Rephrase items to use the JD's vocabulary where it maps cleanly to existing content.
-- You may add keywords to an inline list only if they are synonyms of or clearly implied by items already present.
-- Do not add new top-level bullets. Do not remove top-level bullets.
+### Never
 
-**Tech stack bullet specifically.**
-- Reorder so technologies matching the JD come first.
-- Allowed additions (synonym or direct implication): examples include adding "TypeScript" next to "JavaScript", "OOP" next to "C#", "IaC" next to "Terraform", "SRE practices" next to "Prometheus+Grafana", "observability" next to "Prometheus+Grafana".
-- Forbidden additions: any language, framework, cloud provider, database, messaging system or tool not already in the base resume. Specifically never add Python, Go, Ruby, Rust, Scala, Java, GCP, DynamoDB, PostgreSQL, MongoDB, RabbitMQ, GraphQL, etc. if they are not already there.
+- Invent or imply a technology, skill, metric, customer or responsibility not in the base resume. Any language, framework, cloud, database or tool absent from the base stays absent.
+- Change structure: headings, section order, entry count and order, dates, titles, company names.
+- State total years of experience, or use age-signaling wording (`seasoned`, `veteran`, `throughout my career`).
+- Translate the base resume into another language.
 
-**Experience entries.**
-- Keep every entry from the base, in the same order.
-- Keep the same company name, job title and date range for each entry exactly as written in the base resume. Do not rewrite or reframe any job title (e.g. do not change "Engineering Manager, Transformation" to "Platform Engineering Manager", do not change "Lead Developer" to "Tech Lead"). Do not alter dates. Do not split, merge, drop or reorder entries.
-- Within each entry you may:
-  - Reorder bullets so the most role-relevant ones come first.
-  - Rephrase bullets to use the JD's language, keeping the underlying fact intact.
-  - Emphasize numbers, scope and outcomes that map to the role.
-- You must not add new bullets. You may drop a bullet only if it is not relevant to the target role.
+## Step 3: Verify and save
 
-### Step 4. ATS keyword pass
+Check the draft, fix what fails, then write it to `jobs/{Company}/resume.md`, overwriting. Same path in every language, and the resume stays in the base's language.
 
-Walk the `## Keywords` list from the screen file, one keyword at a time:
+- Headings and experience entries match the base one for one, sub-headings verbatim.
+- Every claim, number and scope statement traces to a base resume line.
+- Every keyword is either a rewrite of a base resume token or a synonym of one.
+- No JD technology the resume genuinely lacks appears anywhere.
 
-1. Check if the keyword already appears somewhere in the drafted tailored resume. If yes, move on.
-2. If missing, check whether the candidate has an existing resume item that is a synonym or a strong implication of the keyword.
-3. If yes, insert the keyword in the most natural place. Prefer the competencies section or the tech stack bullet. Fall back to an experience bullet if the keyword is tied to a specific accomplishment.
-4. If there is no synonym or implication in the base resume, skip the keyword.
+### Response
 
-Never add a keyword that represents a skill or technology the candidate does not have.
+```
+{output path}
 
-### Step 5. Ageism pass
+- Framed as: {target level, and the scope facts now leading}
+- Keywords: {renamed: A -> B, ...} {added: comma-separated list}
+- Not addressed: {requirements no honest edit could cover, one line each}
+```
 
-Scan the drafted resume text and remove or rewrite any of the following:
-
-- Total years of experience: "20+ years", "over two decades", "two decades of", "20 years of", "more than 20 years", etc.
-- Age-signaling vocabulary: "seasoned", "veteran", "battle-tested", "throughout my career", "lifelong".
-- Phrases implying long tenure: "since the early 2000s", "since the dot-com era", etc.
-
-Do not alter dates on experience entries. Do not drop the earliest role. The base resume structure stays intact.
-
-### Step 6. Verification
-
-Before writing, self-check the draft:
-
-- Top-level section headings match the base exactly: `# Ilia Gourianov | Engineering Manager` or `# Ilia Gourianov | Engineering Leader` per the header title rule, `# Competencies`, `# Experience`, plus the `### {Title} @ {Company} | {Dates}` sub-headings.
-- Number of experience entries matches the base (currently 4: Engineering Manager Transformation, Engineering Manager Product, Lead Developer, Software Developer).
-- Every Experience sub-heading is verbatim from the base resume: company name, job title and date range all match character-for-character. No job title was rewritten, reframed or abbreviated to match the target role.
-- Every accomplishment, metric, customer and technology is traceable to the base resume. No invented outcomes, numbers, customers or technologies.
-- No ageism-flagged phrase remains.
-- Header title rule was applied correctly: `Engineering Manager` only for a plain EM-level target, `Engineering Leader` for everything else including senior EM variants.
-- Every keyword that was added has a clear synonym or implication in the base resume.
-
-If any check fails, fix the draft before writing.
-
-### Step 7. Save
-
-Write the tailored resume to `jobs/{Company}/resume.md` using the Write tool. Overwrite if it exists.
-
-### Step 8. Respond to the user
-
-Respond with:
-
-1. Success line: `Tailored resume saved to jobs/{Company}/resume.md`
-2. A short "Tailoring notes" block with three parts:
-   - **Requirements addressed**: 3-6 bullets, each mapping a role requirement to the resume section or entry that now highlights it.
-   - **Gaps remaining**: requirements that could not be addressed honestly. One line each.
-   - **ATS keywords added**: a count plus a comma-separated list of the keywords that were inserted during Step 4.
-
-Do not dump the full resume text into the response. Do not enumerate every wording change.
-
-## Rules and constraints
-
-**Do:**
-- Mirror the base resume structure exactly: same headings, same order, same number of experience entries.
-- Emphasize alignment by reordering and rephrasing existing content.
-- Use the JD's vocabulary where it maps to real experience.
-- Fold in screen-file keywords that are synonyms or clear implications of existing content.
-- Reframe the top-of-resume header title as "Engineering Leader" for any target title that is not plain EM level.
-
-**Do not:**
-- Add or remove sections. Merge or split experience entries. Change any dates.
-- Rewrite job titles inside the Experience section. Company names, job titles and date ranges on each role must match the base resume verbatim.
-- Fabricate skills, technologies, outcomes, metrics, customers or responsibilities.
-- State total years of experience or use age-signaling vocabulary.
-- Run an interactive per-change review loop. Apply all edits in one pass and save.
-- Fetch URLs on the skill's own initiative. Use only material already loaded into context.
-
-## Examples
-
-### Example 1: Platform role at an infra-heavy SaaS
-
-Representative edits:
-- Summary: swap "multi-tenant enterprise SaaS" emphasis toward "platform services and scalable systems". Weave in "microservices" and "zero-downtime deployments" as keywords.
-- Competencies: move Technical leadership bullet to first position. Add "service decomposition" and "core platform services" to its inline list (both directly implied by the base resume).
-- Experience: in the Transformation EM entry, move the monolith-decomposition and calculation-engine-extraction bullets to the top.
-
-### Example 2: Product role at a B2B SaaS with strong people management emphasis
-
-Representative edits:
-- Summary: lead with people leadership and cross-functional partnership. Weave in "hiring", "scaling teams" and "eNPS" as keywords.
-- Competencies: move People leadership bullet to first position. Reorder Product delivery inline list so "cross-functional partnership with Product, UX and Architecture" comes first.
-- Experience: in the Product EM entry, move the "zero voluntary attrition for 6 consecutive years" and "promoted 12 engineers" bullets to the top.
+No resume text, no change log.
