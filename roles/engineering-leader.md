@@ -11,6 +11,24 @@ Legend. Each bullet is one entry; its text is what the entry covers.
 
 Numeric bounds are the only numbers in this file and they are hard.
 
+## Categories
+
+The category vocabulary for a qualification, shared by this file's `###` headings and by the `## Qualifications` section of every screening file.
+
+| Category | Covers |
+|---|---|
+| Eligibility | Threshold facts that gate consideration: years in role, industry or engineering as general experience rather than a specific skill; spoken language proficiency; the seniority qualification when one is emitted. Baseline entries for these live under `## Grades`, not under `## Qualifications`. |
+| Engineering domain | What the team or org reporting into this role builds. Role-scoped, not company-scoped. |
+| People management | Hiring, career development, performance assessment, team growth and scaling. |
+| Product management | Delivery, backlog, ownership, stakeholder alignment, requirements gathering, cross-functional communication about product or strategy. |
+| Process management | SDLC, Agile/Scrum/Kanban, CI/CD, shift-left and QA automation, process optimization, incident response and on-call, post-mortems, and process tools (Jira, Confluence, Miro). |
+| Product domain | Industry vertical and business domain knowledge, third-party system integrations (HRIS, CRM, ERP, payment processors) and CMS tools. |
+| Technical | Architectural oversight, system design, tech-debt management, code review, exploration and experimentation, named technologies, development tools, frameworks and languages. |
+| Education | Degree, certification, formal credential. |
+| Soft skills | General communication ability, culture, adaptability. |
+
+Categorize a communication requirement by its subject, not by the act of communicating: product strategy goes to Product management, not Soft skills.
+
 ## Qualifications
 
 Baseline at every grade unless a grade section says otherwise.
@@ -160,19 +178,21 @@ Team size bound is provisional. Few postings at this grade state one.
 
 ## Title mapping
 
-The prior each title carries when the posting states no scope.
+**Fallback only.** Used when the posting describes no scope. Where scope is stated it decides the grade and this table is not read, so no row here refers to team size or reporting structure.
 
-| Title | Prior | Notes |
+| Title | Assumed grade | Notes |
 |---|---|---|
 | Engineering Manager, Software Engineering Manager, Software Development Manager | Manager | |
-| Senior Engineering Manager, Senior Manager Engineering | Manager | Title inflation is the norm here, not the exception. Most such postings describe a team of 12 or fewer. Promote to Director only on explicit evidence: managers reporting in, 16+ engineers, or three or more teams. |
-| Director of Engineering, Director of Software Engineering, Senior Director | Director | Demote to Manager when the team is under 20 with no management layer. |
-| Head of Engineering, VP of Engineering, CTO | Director | Strongest inflation signal, especially at seed and Series A. Demote to Manager below 20 engineers. At a company under 50 people, assume Manager grade until scope proves otherwise. |
-| Engineering Team Lead, Lead Software Engineer, Staff Software Engineer | Technical Lead | Demote from Manager when the posting has no direct reports. |
+| Senior Engineering Manager, Senior Manager Engineering | Manager | Title inflation is the norm here, not the exception. Most such postings describe a team of 12 or fewer. |
+| Director of Engineering, Director of Software Engineering, Senior Director | Director | |
+| Head of Engineering, VP of Engineering, CTO | Director | Strongest inflation signal, especially at seed and Series A. At a company under 50 people, take Manager instead. |
+| Engineering Team Lead, Lead Software Engineer, Staff Software Engineer | Technical Lead | |
 
 Inflation runs one direction. A small company gives a large title for a small job. Deflation is rare: a Director title at a 2000-person company usually means a Director job.
 
 ## Maintenance
+
+Edit this file only from observed recurrence: when the same qualification keeps classifying as job-specific across unrelated postings. Every entry added lowers all future match scores, so an entry that has not earned its place by repetition is a permanent tax on the numbers.
 
 Seeded 2026-07-31 from 285 screening files with parseable `## Qualifications` sections: 189 Engineering Manager, 55 Senior Engineering Manager, 33 Director, 3 VP, 4 Technical Lead. 4,614 qualification bullets.
 

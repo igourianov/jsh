@@ -11,13 +11,13 @@ Re-emphasize the base resume for one posting. Everything in the output traces ba
 
 ### Job context
 
-- `jobs/{Company}/{Job Title}.md` - the screen file. `## Qualifications`, `## Keywords` and `## Summary` carry the signal.
-- `jobs/{Company}/company.md` and `jobs/{Company}/notes.md`, if they exist
+- `jobs/{Company}/{Job Title}.md` - the screen file. `## Qualifications`, `## Keywords` and `## Summary` carry the signal; the `Grade` and `Title` fields drive Step 2.
+- `jobs/{Company}/company.md` and `jobs/{Company}/notes.md`, if they exist. Source of company vocabulary only; they never add a fact to the resume.
 - Raw JD text already in the conversation, if any. Do not fetch URLs on the skill's own initiative.
 
 ### Candidate context
 
-Read `resume/context.md` for candidate context that isn't in the resume, then read the base resume matching the screen file's language, per its `## Language` table. Fall back to English.
+Read `resume/context.md` for the candidate facts the resume does not carry: the title to present as for a given posting title, and which base resume each language maps to. Then read that base resume for the screen file's language, falling back to English.
 
 ## Step 2: Tailor
 
@@ -25,11 +25,11 @@ One pass, three kinds of edit. Anything not covered below stays identical to the
 
 ### Frame seniority
 
-Two different signals drive two different things. The **title** is what the posting calls the role, and it sets the header. The **grade** is the level the posting's scope actually describes, and it sets which facts lead. `screen-job` scores against the grade; this skill presents against both.
+Two signals, two jobs. The **title** is what the company calls the role and it sets nothing but the header. The **grade** is the role's real level and it decides which facts lead.
 
-**Header, from the title.** Set it to the one `resume/context.md` `## Role` gives for the posting's normalized title, in the resume's language. Where the title is ambiguous or absent, take the row that file marks level-neutral. The title table is the only constraint: never coin a title outside it, however the posting words its own.
+**Header, from the title.** Set it to the one the title table gives for the posting's normalized title, in the resume's language. Where the title is ambiguous or absent, take the row marked level-neutral. That table is the only constraint: never coin a title outside it, however the posting words its own.
 
-**Body, from the grade.** The screen file does not carry the grade, so read it off the same evidence `screen-job` graded from: the `Team size` field and the scope in `## Summary`. Managers or leads reporting in is second-line whatever the title says; no direct reports is not a manager grade. That decides which scope facts lead: headcount, number of teams, whether leads or managers report in, breadth of influence. The base resume states these at several levels, so match the posting's. An inflated title over a small team gets the title's label and the small team's facts, not both at full volume.
+**Body, from the grade.** Read the screen file's `Grade` field. Files predating it carry no grade, so fall back to the `Team size` field and the scope in `## Summary`. The grade decides which scope facts lead: headcount, number of teams, whether leads or managers report in, breadth of influence. The base resume states these at several levels, so match the posting's. An inflated title over a small team gets the title's label and the small team's facts, not both at full volume.
 
 - **Grade is Director:** lead with the largest scope the base resume supports, and say it in the summary paragraph too, not only down in the entries.
 - **Grade is Manager or Technical Lead:** lead with single-team, hands-on, direct-delivery facts. Downplay multi-team and manager-of-managers scope: move it below, or drop the bullet whose only point is org-level breadth. Overshooting the stated scope reads as a mis-level and costs the screen.
@@ -53,7 +53,6 @@ ATS filters match strings, not meaning, so `React.js` in the posting does not hi
 - Invent or imply a technology, skill, metric, customer or responsibility not in the base resume. Any language, framework, cloud, database or tool absent from the base stays absent.
 - Change structure: headings, section order, entry count and order, dates, titles, company names.
 - State total years of experience, or use age-signaling wording (`seasoned`, `veteran`, `throughout my career`).
-- Translate the base resume into another language.
 
 ## Step 3: Verify and save
 

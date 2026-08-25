@@ -66,37 +66,24 @@ Sits at the bottom of the screening file. One `###` heading per round, matching 
 
 There is no `## Outcome` section any more. The terminal Progress entry is the outcome, and its narrative goes under the matching `###` heading.
 
-**Screening file structure.** Sections are produced by the screen-job skill from `.claude/skills/screen-job/output-template.md`, which is the authority. In order:
+**Screening file structure.** `.claude/skills/screen-job/output-template.md` is the shape, placeholders and all. Read it rather than a description of it, whether writing a file or parsing one. Do not invent sections it does not carry.
 
-| Section | Always | Content |
-|---|---|---|
-| metadata block | yes | `URL`, `Company`, `Location`, `Employment type`, `Compensation`, `Benefits`, `Team size`, `Status`, `Progress` |
-| `## Red flags` | no | Omitted when none found |
-| `## Qualifications` | yes | Bare `### {Category}`, one per category, no numbers on the heading. Each item carries `(weight:X%, match:Y%)` or `(baseline)` |
-| `## Summary` | yes | Role summary, `- **Coding:** X%`, responsibilities |
-| `## Company` | yes | Company and product description |
-| `## Keywords` | yes | Flat comma-separated ATS keywords |
-| `## Questions` | no | Live list of what to ask about this role. See Interview prep |
-| `## Log` | no | Round narratives, added as the application progresses |
+Two things it cannot tell you:
 
-Do not invent other sections. `## Gaps`, `## Alignment`, `## Required Qualifications` and `## Optional Qualifications` appear in 84 or so older files from a previous screen format. They are legacy, not a pattern to follow, and are left alone rather than migrated.
+**Which files are screening files.** Any `.md` under `jobs/` carrying a `- **Status:**` field above the first `##`. Same test `job.mjs` uses, and it excludes `notes.md`, `company.md` and recruiter threads.
+
+**Which to exclude from statistics.** 84 or so files predate the current screen format. Detect them by the absence of `(weight:` and `(baseline)` annotations under `## Qualifications`, or by a `## Gaps`, `## Alignment`, `## Required Qualifications` or `## Optional Qualifications` heading. Their match numbers are on the pre-baseline scale and must never be aggregated, sorted or averaged together with current ones. They are legacy, left alone rather than migrated.
 
 ### Screening baseline
 
-Every engineering leadership posting asks for the same fifteen things. Scoring them buried the handful of requirements that actually distinguish one job from another, which is why the older files cluster between 77% and 93% and rank almost nothing.
+`roles/engineering-leader.md` is a closed whitelist of leadership boilerplate, keyed to a grade (Technical Lead, Manager, Director). `screen-job` splits every extracted qualification against it, and the two tiers read differently:
 
-`roles/engineering-leader.md` is the fix. It is a closed whitelist of that boilerplate, keyed to a grade (Technical Lead, Manager, Director) inferred from the scope and responsibilities the posting describes, falling back to the title only when it describes none. `screen-job` classifies each extracted qualification against it:
-
-- **Baseline** (covered by the file): kept in the screening file for reference, marked `(baseline)`, given no weight and no match value, excluded from the number.
-- **Job-specific** (not covered): weights renormalized across these alone, and they are the entire match.
+- `(baseline)` - boilerplate. No weight, no match value, excluded from the number. Kept in the file for reference and for `tailor-resume`.
+- `(weight:X%, match:Y%)` - job-specific. Weights are renormalized across these alone, so they sum to 100 and are the entire match.
 
 Both tiers live under one `###` heading per category. Categories are never split by tier.
 
-The baseline is a Product EM who consumes platform, infrastructure and tooling. Building any of it is job-specific, as is any non-Product engineering domain, any named technology and any named product domain.
-
-**Match numbers under this format are not comparable to older ones and will be much lower.** 20-50% is normal. Never adjust match values to bring a total closer to what the old files showed.
-
-Edit `roles/engineering-leader.md` only from observed recurrence: when the same qualification keeps scoring as job-specific across unrelated postings. Every entry added lowers all future match scores.
+**Match numbers under this format are not comparable to older ones and will be much lower.** 20-50% is normal.
 
 **Sections in `notes.md`** (company-scoped, no dates in headings):
 - `## Research` - What the company does, funding, org signals, Glassdoor.
