@@ -85,7 +85,7 @@ Do not invent other sections. `## Gaps`, `## Alignment`, `## Required Qualificat
 
 Every engineering leadership posting asks for the same fifteen things. Scoring them buried the handful of requirements that actually distinguish one job from another, which is why the older files cluster between 77% and 93% and rank almost nothing.
 
-`roles/engineering-leader.md` is the fix. It is a closed whitelist of that boilerplate, keyed to a grade (Technical Lead, Manager, Director) assigned from the posting's stated scope rather than its title. `screen-job` classifies each extracted qualification against it:
+`roles/engineering-leader.md` is the fix. It is a closed whitelist of that boilerplate, keyed to a grade (Technical Lead, Manager, Director) inferred from the scope and responsibilities the posting describes, falling back to the title only when it describes none. `screen-job` classifies each extracted qualification against it:
 
 - **Baseline** (covered by the file): kept in the screening file for reference, marked `(baseline)`, given no weight and no match value, excluded from the number.
 - **Job-specific** (not covered): weights renormalized across these alone, and they are the entire match.

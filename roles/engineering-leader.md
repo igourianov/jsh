@@ -2,28 +2,14 @@
 
 Baseline qualification profile for engineering leadership roles: what a posting shares with every other posting at the same grade.
 
-**The baseline is a Product Engineering Manager.** Someone who leads a product team, ships customer-facing software, and *consumes* the platform, infrastructure and tooling that other teams build. Everything a posting asks beyond that job is job-specific and scores.
+**The baseline is a Product Engineering Manager.** Someone who leads a product team, ships customer-facing software, and *consumes* the platform, infrastructure and tooling that other teams build. Every entry covers the consuming side of its capability, whether or not an `excludes:` line spells it out.
 
-This file contains no weights and no scores. It is a filter with an inside and an outside.
+Legend. Each bullet is one entry; its text is what the entry covers.
 
-Each bullet is one filter entry. What the bullet text describes is inside the filter: baseline, subtracted, not scored.
-
-- `excludes:` lists what falls **outside** the entry despite resembling it, either by exceeding a bound (`16+ engineers` against an entry covering 5 to 15) or by being more specific than the generic the entry covers (`Kubernetes` against an entry covering cloud environments in general). Excluded requirements are job-specific and score.
-- `below:` marks an ask that is under-scoped for the grade. Not a gap and never scored. Raises a seniority flag.
+- `excludes:` lists what falls **outside** the entry despite resembling it, either by exceeding a bound (`16+ engineers` against an entry covering 5 to 15) or by being more specific than the generic the entry covers (`Kubernetes` against an entry covering cloud environments in general).
+- `below:` marks an ask that is under-scoped for the grade.
 
 Numeric bounds are the only numbers in this file and they are hard.
-
-### Consuming versus building
-
-Direct consequence of the baseline being a Product EM, and it applies to **every entry in this file**, whether or not an `excludes:` line spells it out.
-
-Entries cover the **consuming** side of a capability: using it to run your own team. Building that capability as a platform other teams consume is a different qualification wearing the same words, and it is never baseline here.
-
-`CI/CD` in a product posting means operating a pipeline for your team. `CI/CD` in a DevOps posting means building the pipeline other teams deploy through. Both are unremarkable for their own kind of role, which is why this cannot be resolved by looking at the engineering domain. It is resolved per entry: consuming is inside the filter, building is outside it and scores.
-
-Where an entry spells out the split explicitly it is because the wording is otherwise easy to misread, not because the rule is narrower elsewhere.
-
-This is the one place where a posting can be entirely ordinary for its own role type and still surface a real gap.
 
 ## Qualifications
 
@@ -83,7 +69,7 @@ Baseline at every grade unless a grade section says otherwise.
 - Technical direction and decision-making for own teams
 - Technical debt, legacy modernization, refactoring
 
-Every named language, framework, database, platform, protocol, API style or architectural pattern is job-specific. `Architecture and system design oversight` covers the act of doing architecture, never a named architecture: `cloud-native architectures` and `RESTful APIs` both score. Nothing in this file covers them.
+`Architecture and system design oversight` covers the act of doing architecture, never a named architecture. No named language, framework, database, platform, protocol, API style or architectural pattern appears anywhere in this file.
 
 ### Product domain
 
@@ -104,9 +90,7 @@ Opposite treatment from product domain. Product engineering is the default and i
 - Product engineering: building customer-facing features on a product team
   - excludes: any other engineering domain. Platform, Infrastructure, DevOps, SRE, Data, ML/AI Platform, Security Engineering, Mobile, Frontend-only, Embedded, Developer Experience, Internal Tools, Quality Engineering.
 
-A non-Product engineering domain scores once, here. The generic entries elsewhere in this file stay baseline regardless of domain, because a DevOps posting that mentions CI/CD generically is using the same boilerplate a product posting uses. Scoring it again because the role is DevOps would count one signal several times.
-
-What separates those postings is not the topic but the side of it. See Consuming versus building.
+The generic entries elsewhere in this file cover the same ground at every engineering domain: `CI/CD` in a product posting is the pipeline the team deploys through, and so is `CI/CD` in a DevOps posting. What separates the two is the consuming/building side of it, not the topic.
 
 ### Soft skills
 
@@ -176,7 +160,7 @@ Team size bound is provisional. Few postings at this grade state one.
 
 ## Title mapping
 
-Title is a weak prior. Grade is set by stated scope: team size, number of teams, and whether managers or leads report in. Where the posting states scope, scope wins. Where it states none, fall back to the title prior and company size.
+The prior each title carries when the posting states no scope.
 
 | Title | Prior | Notes |
 |---|---|---|
@@ -188,8 +172,6 @@ Title is a weak prior. Grade is set by stated scope: team size, number of teams,
 
 Inflation runs one direction. A small company gives a large title for a small job. Deflation is rare: a Director title at a 2000-person company usually means a Director job.
 
-Grade misfits are not gaps and never score. A posting graded below the target grade is a seniority signal, not a qualification failure.
-
 ## Maintenance
 
 Seeded 2026-07-31 from 285 screening files with parseable `## Qualifications` sections: 189 Engineering Manager, 55 Senior Engineering Manager, 33 Director, 3 VP, 4 Technical Lead. 4,614 qualification bullets.
@@ -197,7 +179,5 @@ Seeded 2026-07-31 from 285 screening files with parseable `## Qualifications` se
 Entries were selected by how often a concept recurred across postings at each grade, measured on qualifications as extracted by `screen-job` rather than on raw posting text. That makes them evidence of what is boilerplate, not a neutral measurement of what employers ask for. Frequency data is deliberately not carried in this file. It is reproducible from the corpus when the file needs revising.
 
 The two domain axes get opposite treatment because the corpus distributions are opposite. Engineering domain is concentrated: a single value covers more than half of all postings, so a default exists and can be treated as noise. Product domain is dispersed across dozens of verticals with no value above a tenth of the corpus, so no default exists and every domain carries signal.
-
-Grow this file from observed recurrence, not guesswork. When the same qualification scores as job-specific across many unrelated postings, that is the signal to promote it here. Every promotion lowers future match scores, so make it a deliberate commit that can be reverted.
 
 Manager grade rests on real corpus volume. Director is thin on team size. Technical Lead is authored from almost nothing and needs replacing as records accumulate.

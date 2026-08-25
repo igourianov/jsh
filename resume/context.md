@@ -32,9 +32,9 @@ Discipline is software engineering. Postings in other engineering disciplines (c
 
 Targeting EM, Senior EM and Director roles.
 
-Title the candidate presents as, by the target level of the posting:
+Title the candidate presents as, by the title the posting carries:
 
-| Target level | English | Russian |
+| Posting title | English | Russian |
 |---|---|---|
 | Engineering Manager, Software Engineering Manager, Software Development Manager | Engineering Manager | Руководитель разработки |
 | Senior/Group/Principal EM, Director, Head of, VP | Engineering Leader | Технический директор |

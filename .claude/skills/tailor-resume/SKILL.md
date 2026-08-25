@@ -23,14 +23,16 @@ Read `resume/context.md` for candidate context that isn't in the resume, then re
 
 One pass, three kinds of edit. Anything not covered below stays identical to the base.
 
-### Frame seniority to the target level
+### Frame seniority
 
-Set the header title to the one `resume/context.md` `## Role` gives for the posting's normalized title, in the resume's language. When the level is ambiguous, take the row that file marks level-neutral.
+Two different signals drive two different things. The **title** is what the posting calls the role, and it sets the header. The **grade** is the level the posting's scope actually describes, and it sets which facts lead. `screen-job` scores against the grade; this skill presents against both.
 
-The header is only the label. Seniority is really carried by which scope facts lead: headcount, number of teams, whether leads or managers report in, breadth of influence. The base resume states these at several levels, so match the posting's.
+**Header, from the title.** Set it to the one `resume/context.md` `## Role` gives for the posting's normalized title, in the resume's language. Where the title is ambiguous or absent, take the row that file marks level-neutral. The title table is the only constraint: never coin a title outside it, however the posting words its own.
 
-- **Posting is senior, director, or leads multiple teams:** lead with the largest scope the base resume supports, and say it in the summary paragraph too, not only down in the entries.
-- **Posting states a small or single team:** lead with single-team, hands-on, direct-delivery facts. Downplay multi-team and manager-of-managers scope: move it below, or drop the bullet whose only point is org-level breadth. Overshooting the stated scope reads as a mis-level and costs the screen.
+**Body, from the grade.** The screen file does not carry the grade, so read it off the same evidence `screen-job` graded from: the `Team size` field and the scope in `## Summary`. Managers or leads reporting in is second-line whatever the title says; no direct reports is not a manager grade. That decides which scope facts lead: headcount, number of teams, whether leads or managers report in, breadth of influence. The base resume states these at several levels, so match the posting's. An inflated title over a small team gets the title's label and the small team's facts, not both at full volume.
+
+- **Grade is Director:** lead with the largest scope the base resume supports, and say it in the summary paragraph too, not only down in the entries.
+- **Grade is Manager or Technical Lead:** lead with single-team, hands-on, direct-delivery facts. Downplay multi-team and manager-of-managers scope: move it below, or drop the bullet whose only point is org-level breadth. Overshooting the stated scope reads as a mis-level and costs the screen.
 
 Choosing which scope fact opens an entry is the whole mechanism. Never state a scope larger than the base resume gives it, and never reframe a historic title: company, title and dates stay verbatim, always.
 

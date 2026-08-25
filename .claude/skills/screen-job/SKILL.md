@@ -30,9 +30,9 @@ After determining the company name from the posting (before full analysis):
 
 Extract the following from the job posting:
 
-- **Title:** derive these forms:
+- **Title:** the posting's byline. It may or may not carry the seniority grade, the product domain or anything else true about the role, so it is never evidence on its own. Derive these forms:
   - Original title: as-is from the posting
-  - Normalized title: original stripped of team/product mentions, tech stack details and domain qualifiers. Keep seniority level.
+  - Normalized title: original stripped of team/product mentions, tech stack details and domain qualifiers. Keep the seniority wording as written, inflated or not.
     - "Software Engineering Manager, Marketplace" → "Engineering Manager"
     - "Engineering Manager - Development (C# / .NET)" → "Engineering Manager"
     - "Senior Engineering Manager, Platform" → "Senior Engineering Manager"
@@ -55,11 +55,13 @@ Extract the following from the job posting:
 
 ## Step 2.5: Assign Grade
 
-Read [roles/engineering-leader.md](../../../roles/engineering-leader.md). It is the baseline profile: what a posting shares with every other posting of its kind. Its `## Title mapping` section assigns the grade.
+Grade is the role's actual level, inferred from the scope and responsibilities the posting describes: team size, number of teams, and whether managers or leads report in. It is not the title, which is a byline and inflates freely, especially at small companies.
 
-Grade is set by **stated scope**, not by title: team size, number of teams, and whether managers or leads report in. Titles are a weak prior and inflation is common, especially at small companies. Where the posting states scope, scope wins. Where it states none, use the title prior and company size.
+A stated management layer is decisive on its own. Managers or leads reporting in makes it second-line regardless of what the posting calls the role, VP or Team Lead alike, and no direct reports rules out a manager grade the same way. Team size only separates grades once the reporting structure is settled.
 
-Record the grade (`Technical Lead`, `Manager`, `Director`). It selects which grade section applies in Step 3.
+Read `roles/engineering-leader.md`. Its `## Grades` sections define the three grades by scope; `## Title mapping` carries the fallback prior for each title, used only when the posting describes no scope to infer from.
+
+Record the grade (`Technical Lead`, `Manager`, `Director`) and whether it came from scope or from the title fallback. It selects which grade section applies in Step 3.
 
 ## Step 3: Extract Qualifications
 
@@ -82,7 +84,7 @@ Bundling is not a formatting preference. Step 3.5 assigns one tier per item, so 
 - If daily coding is expected (Coding % ≥ 10%), double the weight of the core Technical language/framework qualification.
 
 **Implicit qualifications** (add even if not listed):
-- Normalized job title. Expected to match one of candidate's work experiences (preferably most recent).
+- Seniority, as the Step 2.5 grade and never as the posting's title: grading already discounted inflation, so the title itself is not a qualification. Emit it only when the grade sits above the level the candidate has held, phrased as what that grade demands (e.g. `second-line leadership, managing managers across multiple teams`). Weight it as a hard requirement. When the grade is at or below the candidate's level, emit nothing: an under-scoped posting is a fact about the job, not a gap.
 - Industry/domain experience if a domain is mentioned in the posting. Weight=10% if implied, 20% if explicitly required.
 - French language for Quebec-based roles, companies headquartered in Quebec, or postings that include a French translation of the job description.
 
@@ -92,7 +94,7 @@ These are common categories. If a qualification does not fit any of them, create
 If qualification fits well into more than one category, split it between those categories instead of picking the best one.
 When communication is mentioned, categorize by its subject (e.g. product strategy → Product management), not the act of communicating.
 
-- **Eligibility:** normalized job title, X years in role/industry/engineering (general experience, not specific skill), spoken language proficiency. Threshold facts that gate consideration. Named `Eligibility` and not `Baseline` because `baseline` is the tier assigned in Step 3.5, and a category sharing that name reads as though the whole category were filtered.
+- **Eligibility:** the seniority qualification when one was emitted, X years in role/industry/engineering (general experience, not specific skill), spoken language proficiency. Threshold facts that gate consideration. Named `Eligibility` and not `Baseline` because `baseline` is the tier assigned in Step 3.5, and a category sharing that name reads as though the whole category were filtered.
 - **Engineering domain:** what the team or org reporting into this role builds (product, platform, infrastructure, DevOps, data, security, ML, mobile, embedded, developer experience). Role-scoped, not company-scoped.
 - **People management:** hiring, career development, performance assessments, team growth/scaling, etc.
 - **Product management:** delivery, backlog management, ownership, stakeholder alignment, requirements gathering, cross-functional communication about product/strategy, etc.
@@ -119,10 +121,12 @@ A qualification is `scored` when it falls outside an entry that otherwise resemb
 
 - **Exceeds a bound.** `excludes: 16+` against an entry covering 5 to 15 engineers.
 - **More specific than the generic.** Every named language, framework, database, cloud, tool or platform. Every named product domain. Every named third-party system.
-- **Builds rather than consumes.** The baseline is a Product EM who *uses* platform, infrastructure and tooling. Building any of it as a platform others consume is a different qualification wearing the same words, and is always `scored`. Applies to every entry, not only those with an explicit `excludes:` line.
+- **Builds rather than consumes.** The baseline is a Product EM who *uses* platform, infrastructure and tooling. Building any of it as a platform others consume is a different qualification wearing the same words, and is always `scored`. Applies to every entry, not only those with an explicit `excludes:` line. This is the one split where a posting can be entirely ordinary for its own role type and still surface a real gap, so resolve it per entry rather than from the engineering domain.
 - **A non-Product engineering domain.** Scores once, as its own qualification. Do not additionally re-score the generic entries because of it: CI/CD phrased generically is boilerplate in a DevOps posting exactly as in a product posting.
 
 **Under-scoped asks are not qualifications.** When a posting falls below a grade's `below:` bound, it is a fact about the job's seniority, not a gap. Do not emit it as a qualification at all. Carry it to Step 6 as a seniority flag.
+
+**Seniority scores once, or not at all.** A grade above the candidate's level is already carried by the Step 3 seniority qualification, so never re-score it through the grade section's own entries. A grade at or below it scores nothing.
 
 Hold the classified list. Nothing is written or scored until Step 4, which takes the whole set in one payload.
 
@@ -208,13 +212,13 @@ One whole baseline category thoroughly absent while the others are detailed. An 
 
 Scattered gaps against `roles/engineering-leader.md` are how postings get written and mean nothing. Only flag a category that is systematically missing.
 
-### Title/scope mismatch
-The title implies a different grade than the stated scope. Step 2.5 produced both: the title prior from `roles/engineering-leader.md` `## Title mapping`, and the grade scope actually supports. Flag when they disagree, in either direction:
+### Title/grade mismatch
+The title's prior and the grade disagree. Step 2.5 produced both, and this flag only exists when the grade came from stated scope rather than the title fallback. Flag either direction:
 
 - **Title above scope.** A Director, Head of or VP title over one small team. Inflation, common at seed and Series A. The title will not travel to the next employer and the comp usually matches the scope, not the label.
 - **Title below scope.** Manager-of-managers or multi-team scope under an EM title. Under-titled, and a leveling argument to have before an offer.
 
-Only flag a stated conflict. When the posting states no scope, the title is the only signal and there is nothing to contradict it, so do not flag. When the category is absent altogether rather than under-scoped, that is Mislabeled role instead.
+When the category is absent altogether rather than under-scoped, that is Mislabeled role instead.
 
 ### Below-market compensation
 Total compensation below the candidate's floor, or significantly below market rate for the role, level and location. Compare the posting's total against the floor: base plus bonus and equity. When a bonus is mentioned without a stated value, assume 10% of base. When equity is mentioned without one, assume 20k CAD yearly.
@@ -244,11 +248,12 @@ Do not reorder it, renumber it, re-weight it or drop items from it.
 |---|---|
 | Engineering domain is not Product | That the number is carrying domain weight, and whether the domain itself matched |
 | Posting fell below a grade `below:` bound | That the role is scoped under your level. Never as a gap: it is a fact about the job |
+| Grade sits above the candidate's level | That the number carries a hard seniority requirement, and how well it matched |
 | Script returned `Thin: true` | That few job-specific qualifications drove the number, so it is volatile |
 
 A high match on a role scoped below your level is the failure case this prevents. The take says so, in your voice, rather than reading as a recommendation.
 
-Seniority never affects the match. How the posting is scoped against the candidate's level stays out of `## Red flags` too: it is the take's job, and the scope itself is already recorded in the `Team size` metadata field. A title that contradicts the posting's own scope is a different thing and does get flagged, under Title/scope mismatch.
+Seniority affects the match through the assessed grade, never through the title. It moves the number in one direction only: a grade above the candidate's level scores as the implicit seniority qualification, while a grade below it scores nothing, because being over-qualified is not a gap. Neither belongs in `## Red flags`: the under-scoped case is the take's job and the scope is already recorded in `Team size`. A title contradicting the grade is a different thing and does get flagged, under Title/grade mismatch.
 
 ## Step 7: Validate and reconcile
 
