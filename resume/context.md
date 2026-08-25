@@ -45,5 +45,6 @@ Titles tend to be inflated in the Russian tech market JDs. Russian CTO approx. e
 
 ## Compensation
 
-Candidate is targeting 180-200k CAD yearly for Canadian market, assuming no significant bonus or equity component. Can go down to 160k otherwise.
+Candidate is targeting 180-200k CAD yearly for Canadian market, on base alone, assuming no significant bonus or equity component.
+Base as low as 160k is acceptable only when bonus or equity brings the total to 180k+.
 

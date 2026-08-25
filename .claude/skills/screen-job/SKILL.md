@@ -208,8 +208,16 @@ One whole baseline category thoroughly absent while the others are detailed. An 
 
 Scattered gaps against `roles/engineering-leader.md` are how postings get written and mean nothing. Only flag a category that is systematically missing.
 
+### Title/scope mismatch
+The title implies a different grade than the stated scope. Step 2.5 produced both: the title prior from `roles/engineering-leader.md` `## Title mapping`, and the grade scope actually supports. Flag when they disagree, in either direction:
+
+- **Title above scope.** A Director, Head of or VP title over one small team. Inflation, common at seed and Series A. The title will not travel to the next employer and the comp usually matches the scope, not the label.
+- **Title below scope.** Manager-of-managers or multi-team scope under an EM title. Under-titled, and a leveling argument to have before an offer.
+
+Only flag a stated conflict. When the posting states no scope, the title is the only signal and there is nothing to contradict it, so do not flag. When the category is absent altogether rather than under-scoped, that is Mislabeled role instead.
+
 ### Below-market compensation
-Salary significantly below market rate for the role, level and location.
+Total compensation below the candidate's floor, or significantly below market rate for the role, level and location. Compare the posting's total against the floor: base plus bonus and equity. When a bonus is mentioned without a stated value, assume 10% of base. When equity is mentioned without one, assume 20k CAD yearly.
 Pay structured in a form the candidate does not target (see `resume/context.md` `## Employment type`) while the posting presents the role as full-time, e.g. hourly. An openly contract role goes under Employment type mismatch instead.
 
 ### Location mismatch
@@ -240,7 +248,7 @@ Do not reorder it, renumber it, re-weight it or drop items from it.
 
 A high match on a role scoped below your level is the failure case this prevents. The take says so, in your voice, rather than reading as a recommendation.
 
-Seniority never affects the match and does not belong in `## Red flags` either. The posting's scope is already recorded in the `Team size` metadata field.
+Seniority never affects the match. How the posting is scoped against the candidate's level stays out of `## Red flags` too: it is the take's job, and the scope itself is already recorded in the `Team size` metadata field. A title that contradicts the posting's own scope is a different thing and does get flagged, under Title/scope mismatch.
 
 ## Step 7: Validate and reconcile
 
