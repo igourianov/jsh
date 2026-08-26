@@ -1,65 +1,90 @@
-# Engineering Manager | Product | Transit Tech / SaaS
+# Engineering Manager | Embedded/IoT | Transit Tech | 27%
 
+Embedded/IoT is the whole engineering domain here and the candidate has zero hardware/onboard-device background, so the number is mostly a domain-fit reading rather than a management one, and that domain fit is 0%.
 
-### Match: 73%
-
-- **URL:** https://www.linkedin.com/jobs/view/4381469676/
+- **URL:** https://www.linkedin.com/jobs/view/4459353194/
 - **Company:** Swiftly, Inc.
-- **Location:** Remote (BC, Canada)
-- **Compensation:** $175,000 – $220,000 CAD
-- **Benefits:** Medical, dental, vision, RRSP matching, equity, FSA, home office reimbursement, cell/internet reimbursement, "Be Well" stipend, flexible PTO, 16 paid holidays, 8 weeks paid parental leave
-- **Coding:** 0%
-- **Tech stack:** JavaScript/Vue.js, Java, AWS, Postgres, WebSockets, pub/sub, streaming pipelines, MapLibre/Mapbox/Leaflet
-- **Team size:** Not stated (cross-functional product team)
-
-- **Status:** Rejected
+- **Location:** Remote (Ontario or BC, Canada)
+- **Employment type:** Permanent (assumed)
+- **Compensation:** $200,000 – $251,000 CAD
+- **Benefits:** Equity, medical/dental/vision, RRSP matching, FSA, home office reimbursement, cell/internet reimbursement, "Be Well" stipend, flexible PTO, 16 paid holidays, 12 weeks paid parental leave
+- **Team size:** Not stated
+- **Grade:** Manager (from title)
+- **Status:** Passed
 - **Progress:**
   - 2026-03-05 Saved
   - 2026-03-05 Rejected
+  - 2026-08-26 Saved
+  - 2026-08-26 Passed
 
-## Gaps
+## Qualifications
 
-- **Domain:** No transit, mobility or geospatial domain experience
-- **Tech stack:** No Vue.js or Java experience; stack is .NET/C# and React/Angular
-- **Real-time systems:** Kafka pub/sub is on resume, but no explicit WebSockets or live map/dispatch application experience
+### Technical
+- Proficiency in Python, Java and JavaScript/TypeScript (weight:17%, match:50%)
+- Serial interface protocols (RS-232, J1708, CAN) (weight:13%, match:0%)
+- Linux fluency: imaging, system administration, networking, security (weight:10%, match:25%)
+- Remote deployment and OTA update mechanisms (A/B partitioning, edge container orchestration) (weight:8%, match:25%)
+- MQTT and embedded messaging patterns (store-and-forward) (weight:7%, match:25%)
+- SQL databases (weight:4%, match:100%)
+- Low-level network protocols (UDP vs TCP) (weight:4%, match:25%)
+- AWS (weight:4%, match:75%)
+- Championing AI tooling adoption across the team (weight:4%, match:100%)
+- Remote hardware development, testing and debugging solutions (weight:4%, match:0%)
+- Remaining hands-on with technical contributions as mentor/partner (baseline)
+- Balancing technical excellence with rapid delivery as products scale (baseline)
+- Cloud-native architectures and services (baseline)
+- Applying modern AI tools and techniques in the SDLC (baseline)
+- Defining and refining onboard architecture and implementation processes (baseline)
 
-## Alignment
+### Engineering domain
+- Delivering end-to-end products spanning cloud-based SaaS environments and embedded hardware in the field (onboard IoT/embedded devices) (weight:17%, match:0%)
 
-- 10 years of EM experience vs. 3+ required; managed up to 25 engineers across three cross-functional product teams
-- Cross-functional partnership model (PM + Designer + Engineers) matches Swiftly's team structure exactly
-- Demonstrated SaaS product delivery end-to-end: built Talent suite from zero to 1,000+ enterprise customers
-- Zero voluntary attrition for 6 years and top eNPS scores directly match Swiftly's emphasis on retention and employee satisfaction
-- Kafka/event-driven architecture and microservices experience covers the real-time data systems requirement
+### Product domain
+- Transit or mobility industry domain (weight:8%, match:0%)
+
+### Eligibility
+- 3+ years of engineering team leadership and people management (baseline)
+
+### People management
+- Track record of developing engineers and building high-performing teams (baseline)
+- Enabling a supportive, inclusive, growth-oriented, outcome-focused team culture (baseline)
+- Creating an environment where direct reports are proud to work, measured by retention and satisfaction (baseline)
+
+### Product management
+- Delivering end-to-end products in cloud-based SaaS environments (baseline)
+- Clarifying goals, breaking down work and managing competing priorities across multiple product surfaces (baseline)
+- Cross-functional partnership with Engineers and Product Manager to define solutions and set milestones (baseline)
+
+### Process management
+- Testing and quality mindset: system validation, automated testing, observability and monitoring (baseline)
+
+### Soft skills
+- Seeking and internalizing feedback, humble in technical debate (baseline)
+- Sharing progress, learnings and blockers to drive cross-functional alignment (baseline)
 
 ## Summary
 
-Lead a cross-functional product team (PM, Designer, Engineers) owning real-time operational tools for transit agencies. Core products are Live Operations (map-based dispatch dashboard), GPS Playback (historical trip analysis), and a growing suite of dispatcher/operator communication tools. The team is at a scale inflection: sustaining reliable production products while building new enterprise-ready capabilities. The role requires technical credibility with web, real-time and geospatial systems, strong people management, and the ability to balance competing priorities across multiple product surfaces.
+Lead a cross-functional product team building the software that operates and manages on-vehicle hardware for transit agencies: embedded/IoT devices on buses, trains and ferries, the communication layers connecting them to the cloud, and the backend services that configure, control and process their data. The role spans the full vertical from edge device firmware/software through cloud-native backend, and requires enough hardware/software integration depth to guide architecture, mentor engineers and hold credible technical discussions on embedded systems.
 
-- Lead cross-functional product team; own roadmap prioritization, delivery milestones and team health
-- Facilitate technical discovery and architectural decisions; guide engineers as solutions evolve
-- Balance sustaining mature products with building new communication and coordination capabilities
-- Collaborate with partner teams on cross-product integrations (mobile, embedded, backend)
-- Apply AI tooling to accelerate team development velocity
-- Grow and develop engineers; drive retention and satisfaction
-
-## Required Qualifications
-
-- 3+ years engineering team leadership and people management
-- Track record of delivering end-to-end products in cloud-based SaaS environments
-- Broad full-stack experience (frontend, backend, data)
-- Familiarity with real-time data systems (WebSockets, pub/sub, streaming pipelines)
-- Ability to clarify goals, break down work and manage competing priorities across multiple product surfaces
-
-## Optional Qualifications
-
-- Experience with AWS, JavaScript/Vue.js, Postgres, Java
-- Map-based or geospatial web application experience (MapLibre, Mapbox, Leaflet)
-- Transit, mobility or mission-driven domain background
+- **Coding:** 10%, specific language proficiency required (Python, Java, JS/TS) alongside "hands-on technical contributions"
+- Partner with Engineers and PM to define solutions, set milestones and deliver product
+- Guide onboard architecture and implementation processes, including customer site visits
+- Maintain/improve the physical hardware lab (if SF-based) or build remote dev/test/debug solutions for edge devices
+- Manage and grow the team; own retention and satisfaction outcomes
+- Track and apply developments in AI tooling to team velocity
 
 ## Company
 
-Swiftly is the leading transit data platform for public transit agencies. Over 200 agencies in 12 countries (LA Metro, MARTA, SEPTA, MBTA, WMATA) use Swiftly to improve on-time performance by up to 40%, increase passenger information accuracy by up to 50%, and analyze transit data 90% faster. The platform covers real-time passenger information, day-to-day operational tools and service performance analytics. Headquartered in San Francisco; fully distributed team with presence in the US and Canadian provinces (Ontario and BC).
+Swiftly is the leading transit data platform for public transit agencies, serving 200+ agencies across 12 countries (LA Metro, MARTA, SEPTA, MBTA, WMATA) with real-time passenger information, day-to-day operations tooling and service performance analytics. Reports improving on-time performance by up to 40%, passenger information accuracy by up to 50%, and transit data analysis speed by 90%. HQ in San Francisco; fully distributed, hiring across the US and in Ontario/BC, Canada.
 
 ## Keywords
 
-engineering manager, people management, cross-functional team, SaaS, cloud, product delivery, real-time data, WebSockets, pub/sub, streaming, geospatial, map-based applications, AWS, JavaScript, Vue.js, Java, Postgres, MapLibre, Mapbox, Leaflet, frontend, backend, full-stack, agile, OKRs, roadmap, technical leadership, mentorship, transit, mobility, mission-driven
+engineering manager, people management, cross-functional team, embedded systems, IoT, on-vehicle hardware, edge devices, firmware, hardware/software integration, real-time data systems, MQTT, pub/sub, store-and-forward, serial interfaces, RS-232, J1708, CAN, HTTP/REST, UDP, TCP, Linux, system administration, imaging, containerization, OTA updates, A/B partitioning, edge container orchestration, configuration management, Python, Java, JavaScript, TypeScript, SQL, AWS, cloud-native, transit, mobility, public transportation, AI tooling, agile, roadmap, SaaS
+
+## Log
+
+### 2026-08-26 Saved
+
+### 2026-08-26 Passed
+
+- No embedded/IoT/hardware background; domain fit is the whole gap here.
