@@ -2,7 +2,7 @@
 
 Solid people/process fit, but the score is carried by a mismatch: this team is building an AI product (RAG, agents, local-first/self-hosted architecture) rather than consuming one, and that's the part of the resume that's thin.
 
-- **URL:** https://www.linkedin.com/jobs/view/4456629316/
+- **URL:** https://www.linkedin.com/jobs/view/4458369175/
 - **Company:** MZLA Technologies Corporation (Thunderbird / Thunderbolt)
 - **Location:** Canada, remote
 - **Employment type:** Permanent
@@ -13,6 +13,8 @@ Solid people/process fit, but the score is carried by a mismatch: this team is b
 - **Progress:**
   - 2026-08-22 Saved
   - 2026-08-22 Passed
+  - 2026-08-27 Saved: re-posted listing, same JD text
+  - 2026-08-27 Passed
 
 ## Qualifications
 
