@@ -8,12 +8,13 @@ Strong overlap on AI-adoption leadership and eligibility, but zero conversationa
 - **Compensation:** Not stated (estimated $180,000-$220,000 USD)
 - **Benefits:** Health/wellness stipend, flexible vacation, paid sabbatical after 5 years, tech & learning stipend, equity, company offsites
 - **Team size:** 8-15
-- **Status:** Applied
+- **Status:** Rejected
 - **Progress:**
   - 2026-08-05 Saved
   - 2026-08-05 Applied
   - 2026-08-17 Saved
   - 2026-08-17 Applied
+  - 2026-08-28 Rejected
 
 ## Qualifications
 
