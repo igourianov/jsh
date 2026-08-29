@@ -1,34 +1,32 @@
 ---
 name: publish-pdf
-description: Generate PDF from resume markdown with embedded SEO metadata. Use when user asks to publish resume, generate PDF, or create resume PDF.
+description: Generate PDF from resume markdown. Use when user asks to publish resume, generate PDF, or create resume PDF.
 ---
 
 # Publish PDF Skill
 
-Generate PDF version of the resume with SEO metadata.
+Generate PDF version of the resume.
 
 ## Instructions
 
-### 1. Extract Parameters from Source File
+### 1. Extract the Header from the Source File
 
-Read the specified markdown file to extract name and title:
-- **Name**: Line 1 (H1 heading) - strip the `#` and whitespace. For combined formats like `# Name | Title`, take the part before `|`.
-- **Title**: Line 3 (H3 heading) - strip the `###` and whitespace. If line 1 uses `# Name | Title` format, take the part after `|`.
+Read line 1 of the specified markdown file and strip the leading `#` and surrounding whitespace. Pass the rest verbatim. Do not split it, reorder it or substitute anything into it: it becomes the PDF's document title as-is, and the script derives the output filename from it.
 
 ### 2. Run the Script
 
 ```bash
-${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh <source-file> <name> <title>
+${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh <source-file> <header>
 ```
 
 **Base resume:**
 ```bash
-${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh resume/resume.md "Ilia Gourianov" "Engineering Manager"
+${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh resume/resume.md "Ilia Gourianov | Engineering Manager"
 ```
 
 **Tailored resume:**
 ```bash
-${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh "jobs/Sprout Social/resume.md" "Ilia Gourianov" "Software Engineering Manager"
+${CLAUDE_SKILL_DIR}/scripts/publish-pdf.sh "jobs/Sprout Social/resume.md" "Ilia Gourianov | Software Engineering Manager"
 ```
 
 **Output location:** The script prints the path of the generated PDF (relative to project root) as the final line of stdout. Use that value. Do not reconstruct it from inputs.

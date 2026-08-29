@@ -1,23 +1,17 @@
-import fs from 'fs';
 import path from 'path';
 import { mdToPdf } from 'md-to-pdf';
-import { PDFDocument } from 'pdf-lib';
 
 
-async function convertToPdf(inputPath, outputPath, authorName, title) {
+async function convertToPdf(inputPath, outputPath, header) {
 
 	// Assets live alongside the source md file in the pdf/ folder
-	const pdfDir = path.dirname(inputPath);
-	const assetsDir = path.join(pdfDir, 'assets');
-	// Read keywords from seo.txt
-	const seoContent = fs.readFileSync(path.join(assetsDir, 'seo.txt'), 'utf8');
-	const keywords = seoContent.split('\n')
-		.map(line => line.trim())
-		.filter(line => line.length > 0);
-
+	const assetsDir = path.join(path.dirname(inputPath), 'assets');
 
 	// Configure PDF options
 	const pdfOptions = {
+		dest: outputPath,
+		// Without this the PDF title falls back to the temp file's localhost URL
+		document_title: header,
 		stylesheet: [path.join(assetsDir, 'markdown.css')],
 		pdf_options: {
 			format: 'Letter',
@@ -32,32 +26,14 @@ async function convertToPdf(inputPath, outputPath, authorName, title) {
 		},
 	};
 
-	const pdf = await mdToPdf(
+	// md-to-pdf writes the file itself when dest is set
+	await mdToPdf(
 		{ path: inputPath },
 		pdfOptions
 	);
-
-	if (pdf) {
-		// Load the generated PDF
-		const pdfDoc = await PDFDocument.load(pdf.content);
-
-		// Set metadata with keywords
-		pdfDoc.setTitle(`${authorName} - ${title} Resume`);
-		pdfDoc.setAuthor(authorName);
-		pdfDoc.setKeywords(keywords);
-		pdfDoc.setCreator('md-to-pdf, pdf-lib');
-		pdfDoc.setCreationDate(new Date());
-		pdfDoc.setModificationDate(new Date());
-
-		// Save with metadata
-		const pdfBytes = await pdfDoc.save();
-		fs.writeFileSync(outputPath, pdfBytes);
-	}
-
-	return outputPath;
 }
 
-convertToPdf(process.argv[2], process.argv[3], process.argv[4], process.argv[5])
+convertToPdf(process.argv[2], process.argv[3], process.argv[4])
 	.then(() => {
 		process.exit(0);
 	})

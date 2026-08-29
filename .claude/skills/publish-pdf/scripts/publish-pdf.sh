@@ -9,10 +9,9 @@ PROJECT_ROOT="$(cd "$SCRIPT_DIR/../../../.." && pwd)"
 # pdf/ is always the working directory for compilation (assets live there)
 WORK_DIR="$PROJECT_ROOT/pdf"
 
-# Get source file path, name, and title from arguments
+# Get source file path and the resume's H1 header from arguments
 SOURCE_FILE="$1"
-NAME="$2"
-TITLE="$3"
+HEADER="$2"
 
 # Resolve relative paths against project root
 if [[ "$SOURCE_FILE" != /* ]]; then
@@ -33,8 +32,8 @@ else
     OUTPUT_DIR="$WORK_DIR"
 fi
 
-# Final destination
-TARGET_FILE="$OUTPUT_DIR/$NAME - $TITLE.pdf"
+# Final destination. The header's pipe separator is not a legal filename character
+TARGET_FILE="$OUTPUT_DIR/${HEADER// | / - }.pdf"
 
 # Temp filenames inside pdf/ for compilation (assets resolve relative to pdf/)
 # --dry-run: just reserve a name, don't create an empty file (cp / node will write the real content)
@@ -56,7 +55,7 @@ if [ ! -d "$PROJECT_ROOT/node_modules" ]; then
 fi
 
 # Run the conversion node script: compile into pdf/ with a temp name
-node "$SCRIPT_DIR/convert-to-pdf.js" "$TEMP_MD" "$TEMP_PDF" "$NAME" "$TITLE"
+node "$SCRIPT_DIR/convert-to-pdf.js" "$TEMP_MD" "$TEMP_PDF" "$HEADER"
 RESULT=$?
 
 # Clean up temporary markdown file
