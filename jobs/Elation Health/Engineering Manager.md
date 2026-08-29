@@ -1,67 +1,66 @@
-# Engineering Manager | Product | Healthcare | 89%
+# Engineering Manager | Product | Healthcare | 59%
 
-Strong match. Player-coach EM role building AI-powered clinical tools. Stack mismatch on Python/MySQL but strong overlap on management, product delivery, AI adoption and healthcare domain.
+Comp and API/cloud/JS fit are solid, but the score leans hard on two weak spots: shipping AI/LLM product features and healthcare domain, and the team (3-5 engineers) is scoped below the Manager grade floor.
 
-- **URL:** https://www.linkedin.com/jobs/view/4400830740/
+- **URL:**
 - **Company:** Elation Health
 - **Location:** Remote (US, Canada, New Zealand)
-- **Compensation:** $150,000–$190,000/yr CAD AND USD
-- **Benefits:** not specified
+- **Employment type:** Permanent (assumed)
+- **Compensation:** $185,000-$225,000 CAD (or $170,000-$210,000 USD)
+- **Benefits:**
 - **Team size:** 3-5 engineers
+- **Grade:** Manager (from scope)
 - **Status:** Passed
 - **Progress:**
-  - 2026-04-17 Saved
-  - 2026-04-17 Passed
-
-## Red flags
-- **Below-market compensation:** $150K-$190K CAD is at the lower end given the player-coach expectations and AI focus. The USD range is acceptable but posting lists both currencies ambiguously.
+  - 2026-08-29 Saved
+  - 2026-08-29 Passed
 
 ## Qualifications
 
-### Technical (weight:39%, match:79%)
-- Building APIs using modern backend technologies
-- Interest and enthusiasm for building AI/LLM systems
-- Modern JavaScript framework experience (React or Angular)
-- AI/LLM implementation experience (OpenAI, Anthropic)
-- Python and MySQL experience
-- AWS or cloud provider experience
-- Code reviews and technical mentorship
-- Player-coach: hands-on shipping production code
+### Technical
+- Building and shipping AI/LLM-powered product features (weight:30%, match:25%)
+- Experience building APIs using modern backend technologies (weight:25%, match:100%)
+- Modern JavaScript framework experience (React, Angular) (weight:7%, match:100%)
+- Experience with LLM APIs (OpenAI, Anthropic) (weight:6%, match:50%)
+- Python (weight:5%, match:0%)
+- MySQL (weight:5%, match:50%)
+- AWS or other cloud deployment (weight:5%, match:100%)
+- Hands-on player-coach: leading code reviews, shipping features with the team (baseline)
 
-### Baseline (weight:28%, match:100%)
-- Engineering Manager title match
-- 5+ years software development experience
-- 2+ years managing a team
+### Product domain
+- US healthcare industry and health tech knowledge (weight:17%, match:50%)
 
-### Product management (weight:13%, match:100%)
-- Communicating complex technical problems to technical and non-technical stakeholders
-- Partnering with Product and UX on scope and design
-- End-to-end feature delivery from design through deployment
+### Eligibility
+- 5+ years of professional software development experience (baseline)
 
-### People management (weight:9%, match:100%)
-- Leading high-performing teams delivering quality software
+### People management
+- Track record of leading high-performing teams that deliver high-quality software (baseline)
+- Leading and coaching a team of engineers (baseline)
 
-### Product domain (weight:9%, match:75%)
-- Healthcare or health tech industry experience
+### Soft skills
+- Communicating complex technical problems to technical and non-technical partners (baseline)
 
-### Process management (weight:1%, match:75%)
-- DevOps and observability experience
+### Product management
+- Partnering with Product and UX to scope and design capabilities, aligning with business strategy (baseline)
+- Measuring value delivered and improvements to user experience (baseline)
+
+### Process management
+- DevOps/observability experience or interest in learning (baseline)
 
 ## Summary
 
-Engineering Manager role leading a small team (3-5 engineers) building AI-powered features for a clinical EHR platform. Player-coach model with hands-on coding expected. First 60 days include shipping an AI feature and partnering with Product/UX. Team owns features end-to-end from architecture through production support. Reports into a product-aligned team structure alongside PM, UX designer and QA.
+Engineering Manager leading a single product team (3-5 engineers, PM, UX and QA) building Elation's clinical SaaS platform. First 60 days center on shipping an AI-powered feature and getting familiar with the stack (Python, MySQL, React, AWS). Success at 6-12 months is player-coach delivery: leading a small engaged team, shipping end-to-end, and helping shape AI-native product direction while partnering closely with Product and UX.
 
-- **Coding:** 35% (player-coach model, expected to ship features alongside team, specific stack: Python, MySQL, React, AWS)
-- Lead and participate in code reviews
+- **Coding:** ~15-20%. "Player-coach", "hands on shipping features", "ship your first AI-powered feature" in first 60 days.
+- Lead code reviews and share knowledge with the team
 - Ship AI-powered feature improvements to production
 - Partner with Product and UX to scope and design new capabilities
-- Shape technical direction for AI-native product experiences
-- Measure value delivered to patient and physician experiences
+- Help shape technical direction for AI-native product experiences
 
 ## Company
 
-Elation Health builds a cloud-based clinical platform (EHR) for independent primary care. Founded in 2010, the platform serves 32,000 clinicians caring for millions of patients. The company focuses on helping primary care physicians deliver high-quality personalized care. 201-500 employees. Fully remote engineering team.
+Elation Health builds a SaaS clinical platform used by physicians in independent primary care. The product focuses on an intuitive, reliable experience for delivering patient care, with a current push into AI-powered tooling for doctors and patients. Engineering is fully remote, organized into small product pods (3-5 engineers, EM, PM, UX designer, QA) each owning a product area end-to-end.
 
 ## Keywords
 
-Engineering Manager, player-coach, AI, LLM, Python, MySQL, React, AWS, EHR, clinical platform, healthcare, health tech, primary care, SaaS, code reviews, system design, API, microservices, AI-native, product development, cross-functional, UX, observability, DevOps, cloud
+Engineering Manager, team leadership, coaching, code review, API development, backend, Python, MySQL, React, AWS, AI-powered features, large language models, LLM, AI integration, player-coach, cross-functional partnership, Product, UX, healthcare, health tech, clinical platform, SaaS, remote, end-to-end ownership, technical direction
