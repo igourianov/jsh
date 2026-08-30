@@ -9,7 +9,7 @@ Engineering Manager who builds teams, shapes product direction and owns delivery
 
 * **People leadership:** building and scaling remote teams, hiring, mentoring, performance management, managing contractors
 * **Technical leadership:** system design, code reviews, technical mentorship, AI tooling adoption
-* **Product delivery:** roadmap planning, SDLC ownership, OKRs, DORA metrics, cross-functional partnership with Product and UX
+* **Product delivery:** roadmap planning, SDLC ownership, OKRs, DORA/DevEx metrics, cross-functional partnership with Product and UX
 * **Process:** Agile/Scrum, capacity planning, on-call rotations, escalation triage and prioritization, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
 * **Tech stack:** Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, microservices, event-driven architecture, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
 
@@ -19,7 +19,7 @@ Engineering Manager who builds teams, shapes product direction and owns delivery
 
 [DayforceHCM](https://www.dayforce.com/). Multi-tenant HCM SaaS processing payroll and HR data for mid-market to Fortune 500 customers.
 
-* Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition.
+* Stood up a platform team of senior/staff engineers focused on monolith decomposition.
 * Led AI-assisted migration of 2,000 data grid screens from a legacy JS framework to Angular using Claude Code, automating 80% of the conversion.
 * Championed agentic workflow practices and guardrails, driving adoption across my own and adjacent teams, increasing PR throughput by over 40%.
 * Extracted a critical calculation engine from the monolith into an independently scalable microservice, reducing calc time for large clients from a day to under an hour.
