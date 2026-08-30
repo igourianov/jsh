@@ -14,9 +14,6 @@ nul
 *.pdf
 pdf/*.md
 
-# Separate git repository (published resume)
-.claude/skills/publish-gist/gist/
-
 # resume text versions
 resume/*.txt
 
