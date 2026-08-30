@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a personal job search repository for Ilia Gourianov, a Software Engineering Manager with over 20 years of IT experience (14 years as a developer, 8 years as a manager). The repository contains resume materials, cover letters, interview preparation documents, and job search resources.
+This is Ilia Gourianov's personal job search repository: resume materials, cover letters, interview preparation documents and job search resources.
+
+`resume/resume.md` is the single source of truth for career facts (titles, dates, tenure, scope, tech). Never restate them here or infer them from memory. Read the resume.
 
 
 ## Language Rules
