@@ -254,7 +254,7 @@ node scripts/job.mjs sync --apply
 Output only:
 ```
 Match: {X}% | {One-line take}
-`jobs-active/{sanitized company}/{sanitized title}.md`
+`jobs/{sanitized company}/{sanitized title}.md`
 
 Gaps ({100 - match} pts lost of 100):
 - {N} pts: {qualification} (weight {W}%, match {M}%)
