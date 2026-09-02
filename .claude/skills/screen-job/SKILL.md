@@ -89,7 +89,6 @@ Step 7 assigns one tier per item, so a bundle spanning both tiers takes a single
 - Split qualifications with examples into required core + optional examples. "Backend experience (e.g. Java, Python, Go)" → required "backend development experience" + optional "Java or Python or Go".
 - Convert responsibilities into qualifications. "Champion AI tool adoption" → "AI tooling experience".
 - Degree requirements assume "X degree OR equivalent experience in the corresponding role". CS degree => software developer experience. Bachelor => 5+ years equivalent. Master's => 8+ years equivalent.
-- If daily coding is expected (Coding % ≥ 10%), double the weight of the core Technical language/framework qualification.
 
 **Implicit qualifications** (add even if not listed):
 - Seniority, only when the grade sits above the level the candidate has held. Phrase it as what the grade demands (e.g. `second-line leadership, managing managers across multiple teams`) and weight it as a hard requirement. A grade at or below their level emits nothing: being over-qualified is not a gap.
