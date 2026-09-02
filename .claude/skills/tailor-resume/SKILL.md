@@ -42,7 +42,7 @@ Competencies top-level bullets, the inline list inside each one, the tech stack 
 
 ### Use the JD's vocabulary
 
-ATS filters match strings, not meaning, so `React.js` in the posting does not hit `ReactJS` in the resume. Walk `## Keywords` from the screen file plus anything named in the JD, technical or not, and for each one:
+ATS filters match strings, not meaning, so `React.js` in the posting does not hit `ReactJS` in the resume. Walk `## Keywords` from the screen file plus anything named in the JD, technical or not, and for each one. The screen file's baseline/scored split is a match-scoring device, not a filter here: a keyword being baseline (generic EM boilerplate) is not a reason to skip it. Apply the same implies-it test below regardless of tier.
 
 - **The resume already says it, in other words.** Rewrite the resume's wording into the JD's exact form: spelling, casing, punctuation, word order (`ReactJS` → `React.js`); carry both where the JD abbreviates (`Kubernetes (K8s)`). Same for prose, not just technology tokens. Facts, numbers and outcomes stay intact, only the wording changes.
 - **The resume does not say it, but implies it.** A synonym or direct implication of something present: add it beside its source. Prefer competencies and the tech stack; use an experience bullet when it belongs to a specific accomplishment.
