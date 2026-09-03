@@ -9,13 +9,14 @@ Tech stack overlap (Node.js, React, relational DBs, AWS) drives the score; the p
 - **Benefits:** Not stated
 - **Team size:** Not stated
 
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-03-20 Saved
   - 2026-03-20 Applied
   - 2026-04-04 Ghosted
   - 2026-08-05 Saved
   - 2026-08-05 Applied
+  - 2026-09-03 Ghosted
 
 ## Red flags
 

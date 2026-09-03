@@ -8,10 +8,11 @@ Right grade for the role, but the score is carried by two real gaps: no track re
 - **Compensation:** CA$211,200 - CA$234,600 base + bonus + benefits
 - **Benefits:** Benefits from Day 1, RRSP/401K matching, flexible PTO, lifestyle/wellness spending account, parental & caregiver leaves, fertility & adoption support, EAP, learning programs
 - **Team size:** ~50 engineers, 10-11 managers and senior managers reporting in
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-08-10 Saved
   - 2026-08-10 Applied
+  - 2026-09-03 Ghosted
 
 ## Qualifications
 

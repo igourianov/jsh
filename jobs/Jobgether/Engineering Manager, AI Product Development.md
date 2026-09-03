@@ -9,9 +9,10 @@ Strong Manager-scope fit for a hands-on, AI-enabled product EM role; the gap is 
 - **Compensation:** Not stated (estimated $160,000-$190,000 CAD for a Manager-scope full-stack/AI product role)
 - **Benefits:** Not stated (generic language only: "competitive salary", "career advancement", "flexible working arrangements")
 - **Team size:** Not stated
-- **Status:** Saved
+- **Status:** Applied
 - **Progress:**
   - 2026-08-24 Saved
+  - 2026-08-24 Applied
 
 ## Qualifications
 

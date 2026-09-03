@@ -8,10 +8,11 @@ Strong match on the generic EM/technical fundamentals; the real gap is depth in 
 - **Compensation:** Not stated (estimated)
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-08-04 Saved
   - 2026-08-04 Applied
+  - 2026-09-03 Ghosted
 
 ## Qualifications
 

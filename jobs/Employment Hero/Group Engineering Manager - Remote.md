@@ -8,12 +8,13 @@ Manager-of-managers title/experience is the main gap; strong fit on agentic tool
 - **Compensation:** $200,000-$260,000 CAD (estimated)
 - **Benefits:** ESOP (employee share options), generous parental leave, subsidised egg freezing, home office allowance, learning & development budget, annual global gathering
 - **Team size:** Cohort of Engineering Managers and Engineers across HR and Payroll domains (count not stated)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-05-15 Saved
   - 2026-07-14 Applied
   - 2026-08-06 Saved
   - 2026-08-06 Applied
+  - 2026-09-03 Ghosted
 
 ## Qualifications
 
