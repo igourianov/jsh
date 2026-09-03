@@ -6,10 +6,11 @@
 - **Benefits:** Medical, Vision, Dental, 401(k), Paid maternity/paternity leave, Disability insurance, Floating holidays, Quarterly wellness day
 - **Team size:** Not specified
 
-- **Status:** Rejected
+- **Status:** Failed
 - **Progress:**
   - 2026-03-16 Saved
-  - 2026-03-20 Rejected
+  - 2026-03-18 Recruiter screen: date approximate, see interview-notes.md
+  - 2026-03-20 Failed
 
 ## Qualifications
 

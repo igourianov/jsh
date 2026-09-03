@@ -10,9 +10,10 @@ Match is thin, driven by two scored qualifications (both domain fit), so it's vo
 - **Benefits:** Medical/dental/vision, retirement contributions with 100% immediate vesting, quarterly wellness days, country holidays plus birthday off, home office stipend, annual professional development budget, quarterly well-being stipend, paid parental leave, employee referral bonus
 - **Team size:** Not stated
 - **Grade:** Manager (from title)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-09-03 Saved
+  - 2026-09-03 Passed
 
 ## Qualifications
 

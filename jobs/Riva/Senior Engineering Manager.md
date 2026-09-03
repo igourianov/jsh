@@ -12,10 +12,12 @@
 - **Tech stack:** C#/.NET Core/.NET 8, Vue.js, REST, GraphQL, AWS (EC2, VPC, ECS/EKS, Lambda, RDS, CloudWatch), Docker, Kubernetes, Terraform, CloudFormation, Octopus Deploy
 - **Team size:** 15+
 
-- **Status:** Rejected
+- **Status:** Failed
 - **Progress:**
   - 2026-02-03 Saved
-  - 2026-03-11 Rejected
+  - 2026-02-13 Recruiter screen
+  - 2026-02-25 Hiring manager: VP Engineering interview
+  - 2026-03-11 Failed
 
 ## Gaps
 - **AWS Experience:** Candidate's primary cloud experience is Azure (Kubernetes/AKS, Terraform). Job requires AWS-backed environments (EC2, VPC, ECS/EKS, Lambda, RDS, CloudWatch).

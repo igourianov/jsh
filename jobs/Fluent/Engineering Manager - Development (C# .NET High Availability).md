@@ -10,10 +10,11 @@
 - **Benefits:** Health, dental, vision, 401(k) with match, pre-tax savings, unlimited vacation
 - **Team size:** Multiple teams (Core platform, SDK, specialized engineers)
 
-- **Status:** Rejected
+- **Status:** Withdrew
 - **Progress:**
   - 2026-03-15 Saved
-  - 2026-03-17 Rejected
+  - 2026-03-17 Contacted: recruiter reviewed application, scheduled call
+  - 2026-03-20 Withdrew
 
 ## Qualifications
 

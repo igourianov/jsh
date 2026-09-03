@@ -12,10 +12,11 @@
 - **Tech stack:** Golang, AWS (DynamoDB, RDS, EKS, Lambda, Kinesis), Kubernetes, Elasticsearch/OpenSearch, Kafka, Terraform/Pulumi, OAuth 2.0, OIDC, JWT, SAML, RBAC
 - **Team size:** 8-12 engineers
 
-- **Status:** Rejected
+- **Status:** Failed
 - **Progress:**
   - 2026-02-03 Saved
-  - 2026-02-23 Rejected
+  - 2026-02-04 Recruiter screen
+  - 2026-02-23 Failed
 
 ## Gaps
 - **Tech stack:** Golang not in candidate's experience (C#/.NET background)
