@@ -10,10 +10,11 @@ Second-line scope (managing engineering managers) is a real stretch above the ca
 - **Benefits:** Not stated
 - **Team size:** Not stated (posting describes managing teams and engineering managers)
 - **Grade:** Director (from scope)
-- **Status:** Applied
+- **Status:** Rejected
 - **Progress:**
   - 2026-09-03 Saved
   - 2026-09-03 Applied: asked 220k CAD base on application form
+  - 2026-09-06 Rejected
 
 ## Qualifications
 
