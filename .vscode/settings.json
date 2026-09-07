@@ -5,5 +5,13 @@
 	"explorer.autoRevealExclude": {
 		"**/node_modules": true,
 		"jobs/**": true
-	}
+	},
+	"terminal.integrated.profiles.windows": {
+		"Claude job screener": {
+			"path": "pwsh.exe",
+			"args": ["-NoExit", "-Command", "claude --agent job-screener"],
+			"icon": "briefcase"
+		}
+	},
+	"terminal.integrated.defaultProfile.windows": "Claude job screener"
 }
