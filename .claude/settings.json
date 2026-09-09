@@ -6,9 +6,8 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node \"D:/Projects/JobSearch/scripts/job.mjs\" ghost --apply --once",
+            "command": "node \"D:/Projects/JobSearch/scripts/job.mjs\" ghost --apply --once --quiet",
             "timeout": 30,
-            "async": true,
             "statusMessage": "Sweeping for ghosted applications"
           }
         ]

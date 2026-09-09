@@ -187,7 +187,7 @@ Status is the furthest rank reached in the current cycle, or the terminal entry 
 - Any round, outcome or outreach: log it with the stage and the date it happened.
 - Recruiter reaches out to book a call: that is `Contacted`, dated the day they reached out. Put the booking in the note. Log the round itself on the day it takes place, with its notes.
 - A note goes after a colon: `2026-07-09 Applied: asked $180K CAD on application form`. Use it sparingly; anything longer than a clause belongs under the entry's `###` heading in `## Log`.
-- Ghost sweep is a query, not a judgment call: `node scripts/job.mjs ghost` lists anything silent past 21 days, `--apply` marks them. `--once` exits without sweeping if the same mode already ran today, which is how the SessionStart hook avoids re-sweeping on every launch. Last-run dates live in the gitignored `.job-state.json`.
+- Ghost sweep is a query, not a judgment call: `node scripts/job.mjs ghost` lists anything silent past 21 days, `--apply` marks them. `--once` exits without sweeping if the same mode already ran today, which is how the SessionStart hook avoids re-sweeping on every launch. Last-run dates live in the gitignored `.job-state.json`. `--quiet` prints nothing when the sweep found nothing, so a caller can treat any output as the news itself. The SessionStart hook runs it bare and lets stdout speak; the script knows nothing about hooks.
 - Blacklisting a company: add an entry to `jobs/black-list.md` with the reason. Do not touch Status.
 - Never move company folders. The state machine tracks state, the filesystem does not.
 
