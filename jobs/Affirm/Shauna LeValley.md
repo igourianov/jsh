@@ -1,7 +1,7 @@
 # Shauna LeValley
 
 Senior Technical Recruiter, Affirm Inc.
-Role: Manager, Software Engineering (Infra Foundations)
+Roles: Manager, Software Engineering (Infra Foundations); Manager, Software Engineering (Reliability Platform)
 
 ## Thread
 
@@ -36,3 +36,20 @@ I'd rather be upfront than take up your time on a call. That said, I'd be glad t
 
 Best,
 Ilia
+
+---
+
+**Shauna LeValley - 2026-09-09, LinkedIn**
+
+Hi Ilia, I appreciate your response. We have an EM opening for our Reliability Platform team. https://job-boards.greenhouse.io/affirm/jobs/7765112003 . Our big focus right now is around AI workflows. Would you want to chat about this opportunity?
+
+---
+
+**Ilia - 2026-09-09, LinkedIn (draft)**
+
+Hi Shauna,
+
+This one looks much closer to my background. I've booked time with you for Thursday the 17th.
+
+Looking forward to it!
+
