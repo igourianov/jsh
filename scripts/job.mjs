@@ -6,7 +6,7 @@
 //
 //   node scripts/job.mjs log <file> <stage> [--date D] [--note "..."]
 //   node scripts/job.mjs check [path]
-//   node scripts/job.mjs ghost [--apply] [--once] [--quiet]
+//   node scripts/job.mjs ghost [--apply] [--once]
 //   node scripts/job.mjs sync [--apply]
 //   node scripts/job.mjs list [--open] [--stale] [--stage X] [--status X]
 //   node scripts/job.mjs migrate [--apply] [--report FILE]
@@ -58,8 +58,8 @@ const today = () => {
 const isDate = (s) => /^\d{4}-\d{2}-\d{2}$/.test(s);
 const days = (a, b) => Math.round((Date.parse(b) - Date.parse(a)) / 86400000);
 
-// Last-run dates, keyed by command and mode. A missing or corrupt file just means
-// "never ran": the state is a convenience for --once, never a source of truth.
+// A missing or corrupt file just means "never ran".
+// This is a scheduling convenience, never a source of truth about the records.
 const readState = () => {
   try {
     return JSON.parse(fs.readFileSync(STATE, 'utf8'));
@@ -552,15 +552,10 @@ function cmdList(args) {
 
 function cmdGhost(args) {
   const apply = args.includes('--apply');
-  // --once makes the sweep safe to fire on every session start: a dry run and an
-  // --apply run are tracked separately, since a report today does not mean the
-  // records were marked.
-  const key = apply ? 'ghost:apply' : 'ghost';
-  // --quiet says nothing when there is nothing to say, so an automated caller can
-  // treat any output as the news itself.
-  const quiet = args.includes('--quiet');
-  if (args.includes('--once') && readState()[key] === today()) {
-    if (!quiet) console.log(`ghost sweep already ran today (${key})`);
+  // --once is the scheduled path. A manual sweep must not consume its daily slot.
+  const once = args.includes('--once');
+  if (once && readState().ghost === today()) {
+    console.log('ghost sweep already ran today');
     return 0;
   }
 
@@ -575,8 +570,7 @@ function cmdGhost(args) {
     hits.push(`${age}d silent  ${path.relative(JOBS, f)}`);
     if (apply) write(rec, [...rec.log, { date: today(), stage: 'Ghosted', note: '' }]);
   }
-  stampRun(key);
-  if (quiet && !hits.length) return 0;
+  if (once) stampRun('ghost');
 
   for (const line of hits) console.log(line);
   console.log(`\n${hits.length} record(s) silent over ${GHOST_DAYS} days${apply ? ', marked Ghosted' : ' (dry run, pass --apply)'}`);
@@ -969,7 +963,7 @@ function usage() {
   console.log(`usage:
   job.mjs log <file> <stage> [--date YYYY-MM-DD] [--note "..."]
   job.mjs check [path]
-  job.mjs ghost [--apply] [--once] [--quiet]
+  job.mjs ghost [--apply] [--once]
   job.mjs sync [--apply]
   job.mjs list [--open] [--stale] [--stage X] [--status X]
   job.mjs migrate [--apply] [--report FILE]
