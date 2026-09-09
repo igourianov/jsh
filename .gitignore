@@ -19,3 +19,6 @@ resume/*.txt
 
 # Active job junctions (directory junctions to jobs/ subfolders)
 jobs-active/*/
+
+# job.mjs last-run dates (--once)
+.job-state.json

@@ -1,6 +1,19 @@
 {
   "cleanupPeriodDays": 1,
   "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"D:/Projects/JobSearch/scripts/job.mjs\" ghost --apply --once",
+            "timeout": 30,
+            "async": true,
+            "statusMessage": "Sweeping for ghosted applications"
+          }
+        ]
+      }
+    ],
     "PostToolUse": [
       {
         "matcher": "Edit|Write|MultiEdit",

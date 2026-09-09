@@ -6,7 +6,7 @@
 //
 //   node scripts/job.mjs log <file> <stage> [--date D] [--note "..."]
 //   node scripts/job.mjs check [path]
-//   node scripts/job.mjs ghost [--apply]
+//   node scripts/job.mjs ghost [--apply] [--once]
 //   node scripts/job.mjs sync [--apply]
 //   node scripts/job.mjs list [--open] [--stale] [--stage X] [--status X]
 //   node scripts/job.mjs migrate [--apply] [--report FILE]
@@ -19,6 +19,7 @@ const ROOT = path.resolve(new URL('..', import.meta.url).pathname.replace(/^\/([
 const JOBS = path.join(ROOT, 'jobs');
 const ACTIVE = path.join(ROOT, 'jobs-active');
 const GHOST_DAYS = 21; // "no response in over 3 weeks"
+const STATE = path.join(ROOT, '.job-state.json'); // last-run dates, gitignored
 
 // ---------------------------------------------------------------- vocabulary
 
@@ -56,6 +57,22 @@ const today = () => {
 };
 const isDate = (s) => /^\d{4}-\d{2}-\d{2}$/.test(s);
 const days = (a, b) => Math.round((Date.parse(b) - Date.parse(a)) / 86400000);
+
+// Last-run dates, keyed by command and mode. A missing or corrupt file just means
+// "never ran": the state is a convenience for --once, never a source of truth.
+const readState = () => {
+  try {
+    return JSON.parse(fs.readFileSync(STATE, 'utf8'));
+  } catch {
+    return {};
+  }
+};
+
+function stampRun(key) {
+  const state = readState();
+  state[key] = today();
+  fs.writeFileSync(STATE, JSON.stringify(state, null, 2) + '\n');
+}
 
 function walk(dir, out = []) {
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -535,6 +552,15 @@ function cmdList(args) {
 
 function cmdGhost(args) {
   const apply = args.includes('--apply');
+  // --once makes the sweep safe to fire on every session start: a dry run and an
+  // --apply run are tracked separately, since a report today does not mean the
+  // records were marked.
+  const key = apply ? 'ghost:apply' : 'ghost';
+  if (args.includes('--once') && readState()[key] === today()) {
+    console.log(`ghost sweep already ran today (${key})`);
+    return 0;
+  }
+
   let n = 0;
   for (const f of screeningFiles()) {
     const rec = parse(f);
@@ -547,6 +573,7 @@ function cmdGhost(args) {
     console.log(`${age}d silent  ${path.relative(JOBS, f)}`);
     if (apply) write(rec, [...rec.log, { date: today(), stage: 'Ghosted', note: '' }]);
   }
+  stampRun(key);
   console.log(`\n${n} record(s) silent over ${GHOST_DAYS} days${apply ? ', marked Ghosted' : ' (dry run, pass --apply)'}`);
   return 0;
 }
@@ -937,7 +964,7 @@ function usage() {
   console.log(`usage:
   job.mjs log <file> <stage> [--date YYYY-MM-DD] [--note "..."]
   job.mjs check [path]
-  job.mjs ghost [--apply]
+  job.mjs ghost [--apply] [--once]
   job.mjs sync [--apply]
   job.mjs list [--open] [--stale] [--stage X] [--status X]
   job.mjs migrate [--apply] [--report FILE]
