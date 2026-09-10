@@ -16,9 +16,23 @@
 - November 2022: first reported layoffs.
 - 2025: platform relaunch combining incentive compensation with sales planning (August 2025); Guided Plan Builder launch (June 2025); named a Leader in The Forrester Wave for Sales Performance Management, Q1 2025.
 - May 2026: launched a portfolio of AI agents automating steps across the compensation/sales-planning lifecycle.
+- 2026: named a Leader in the Gartner Magic Quadrant for SPM, and on Forbes' America's Best Startup Employers list for the fourth consecutive year.
+- September 2026: the new UI became the default for customers (classic view still toggleable), so the platform relaunch is now fully rolled out.
 
 ## Company & Product
 CaptivateIQ builds a no-code commission/incentive compensation management platform: a real-time calculation engine plus a batch processing engine for cyclical calculations, backed by an automated, scalable data sync and storage layer. Recent product direction has expanded from pure ICM into sales planning and, most recently, agentic AI features for compensation workflows. Co-founded and still led by co-CEOs Mark Schopmeyer and Conway Teng, with co-founder Hubert Wong as CTO - a stable founding leadership team, unusual for a company at this stage.
+
+## Values
+
+From the "Interviewing with CaptivateIQ" candidate dossier. Behavioral questions are likely mapped to these:
+
+- Bias Towards Action
+- Operate with Clarity
+- Be an Owner
+- Deliver Impact
+- Lead with Empathy
+
+The dossier also states total funding as $164.4M and lists no round after the Series C, and says to expect behavioral-based questions. Employees in 8 countries. ERGs: EmpowHER, APAC, Parenthood.
 
 ## Engineering Culture
 Public engineering content is thin - a hackathon recap and an architecture overview post are essentially the only engineering blog material found (captivateiq.com/blog). No visible open-source presence. Glassdoor engineering-specific reviews describe the environment as surprisingly non-chaotic for a startup, with "fun scalability problems," engaged product partners, and transparent leadership. Interview loop for engineering roles: HR screen, manager interview, coding/system design round(s), culture-fit/leadership round - roughly a month end to end.
