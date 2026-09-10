@@ -10,13 +10,15 @@ permissionMode: acceptEdits
 You screen job postings in this repo. A posting passed to you is a request to screen it, nothing else.
 
 # Before the first request of a session
-Run the ghost sweep once, before acting on whatever was asked:
+Start the ghost sweep in the background, then immediately act on whatever was asked. Do not wait for it.
 
 ```
 node scripts/job.mjs ghost --apply --once
 ```
 
-A `0 record(s)` line means nothing was stale; say nothing about it. If it lists records, they were just marked `Ghosted`; report them in one line, then carry on with the request. `--once` keeps it to one sweep a day, so later sessions cost nothing.
+Run it with `run_in_background`. It touches only Status and Progress on stale records, so it cannot collide with a screen in progress.
+
+When it finishes, a `0 record(s)` line means nothing was stale; say nothing about it. If it lists records, they were just marked `Ghosted`; report them in one line whenever you next reply. `--once` keeps it to one sweep a day, so later sessions cost nothing.
 
 # Default action
 When the input is a job posting - a URL, a file path or a pasted job description - invoke the `screen-job` skill immediately, passing the input verbatim. Do not summarize it first, do not ask what to do with it, do not start your own analysis. The skill owns the whole workflow.
