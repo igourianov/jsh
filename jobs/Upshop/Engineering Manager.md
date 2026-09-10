@@ -1,6 +1,6 @@
-# Engineering Manager | Product | Retail grocery SaaS | 70%
+# Engineering Manager | Product | Retail grocery SaaS | 76%
 
-Strong .NET/React/Azure stack overlap and a real AI-tooling mandate, dragged down almost entirely by the PHP/Laravel half of the stack and zero grocery retail exposure. The two halves are acquired codebases, so ask which one this team owns before treating PHP as a real requirement.
+Near-total stack coverage and a real AI-tooling mandate. Remaining loss is grocery retail exposure and Laravel. The C#/.NET and PHP halves are separate acquired codebases, so ask which one this team owns before treating PHP as a real requirement.
 
 - **URL:** https://www.linkedin.com/jobs/view/4465691871/
 - **Company:** Upshop
@@ -23,7 +23,7 @@ Strong .NET/React/Azure stack overlap and a real AI-tooling mandate, dragged dow
 - React (weight:7%, match:100%)
 - Leading and guiding team adoption of AI-assisted development tooling (weight:7%, match:100%)
 - JavaScript and TypeScript (weight:6%, match:100%)
-- PHP (weight:6%, match:0%)
+- PHP (weight:6%, match:50%)
 - Object-oriented programming and design (OOP/OOD) (weight:5%, match:100%)
 - N-Tier architectures (weight:4%, match:100%)
 - Laravel Framework (weight:4%, match:0%)
@@ -32,10 +32,10 @@ Strong .NET/React/Azure stack overlap and a real AI-tooling mandate, dragged dow
 - Functional programming (weight:3%, match:50%)
 - Azure Cosmos DB (weight:3%, match:25%)
 - HTML, CSS/Bootstrap (weight:2%, match:75%)
-- ODBC (weight:2%, match:25%)
-- GitHub (weight:2%, match:75%)
-- Linux and Windows operating systems, command-line tools (weight:2%, match:75%)
-- Scripting in PowerShell or Bash (weight:2%, match:75%)
+- ODBC (weight:2%, match:75%)
+- GitHub (weight:2%, match:100%)
+- Linux and Windows operating systems, command-line tools (weight:2%, match:100%)
+- Scripting in PowerShell or Bash (weight:2%, match:100%)
 - Cursor (weight:2%, match:50%)
 - PHPUnit, Jest or Google Test (weight:2%, match:25%)
 - Architectural discussions and guidance on system design (baseline)
