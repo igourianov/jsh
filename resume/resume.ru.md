@@ -11,7 +11,7 @@
 * **Техническое руководство:** проектирование систем, ревью кода, техническое наставничество, внедрение AI-инструментов
 * **Доставка продукта:** планирование дорожной карты, ответственность за SDLC, OKR, метрики DORA/DevEx, межфункциональное партнерство с Product и UX
 * **Процессы:** AI SDLC, Agile/Scrum, планирование мощностей, дежурные ротации, триаж и приоритизация эскалаций, blameless-постмортемы, балансировка потоков работ (роадмап/технический долг/операционка), SOC 2, GDPR
-* **Технологии:** Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, микросервисы, event-driven архитектура, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
+* **Технологии:** Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, Node.js, ReactJS, HTML/CSS, Java, PHP, PowerShell, Bash, SQL Server, EntityFramework, Dapper, ODBC, Redis, ElasticSearch, Kafka, микросервисы, event-driven архитектура, REST APIs, Kubernetes (AKS), Docker, Terraform, AWS/Azure, Prometheus+Grafana, CI/CD, Azure DevOps, Git, GitHub, Jira, NUnit/xUnit, Selenium
 
 # Опыт работы
 

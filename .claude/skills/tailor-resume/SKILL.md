@@ -21,7 +21,7 @@ Read `resume/context.md` for the candidate facts the resume does not carry: the 
 
 ## Step 2: Tailor
 
-One pass, three kinds of edit. Anything not covered below stays identical to the base.
+One pass, four kinds of edit. Anything not covered below stays identical to the base.
 
 ### Frame seniority
 
@@ -40,6 +40,8 @@ Choosing which scope fact opens an entry is the whole mechanism. Never state a s
 
 Competencies top-level bullets, the inline list inside each one, the tech stack list, and the bullets within each experience entry. Ordering is the main tool for emphasis. You may drop a bullet that is irrelevant to the role. You may never add one.
 
+The tech stack is the exception: it is grouped by kind, not by relevance, and stays that way. Reorder the groups against each other and the items inside a group, never interleave them.
+
 ### Use the JD's vocabulary
 
 ATS filters match strings, not meaning, so `React.js` in the posting does not hit `ReactJS` in the resume. Walk `## Keywords` from the screen file plus anything named in the JD, technical or not, and for each one. The screen file's baseline/scored split is a match-scoring device, not a filter here: a keyword being baseline (generic EM boilerplate) is not a reason to skip it. Apply the same implies-it test below regardless of tier.
@@ -47,6 +49,21 @@ ATS filters match strings, not meaning, so `React.js` in the posting does not hi
 - **The resume already says it, in other words.** Rewrite the resume's wording into the JD's exact form: spelling, casing, punctuation, word order (`ReactJS` → `React.js`); carry both where the JD abbreviates (`Kubernetes (K8s)`). Same for prose, not just technology tokens. Facts, numbers and outcomes stay intact, only the wording changes.
 - **The resume does not say it, but implies it.** A synonym or direct implication of something present: add it beside its source. Prefer competencies and the tech stack; use an experience bullet when it belongs to a specific accomplishment.
 - **The resume has no basis for it.** Leave it out. Do not add it anywhere, in any phrasing. A keyword the filter misses costs less than a claim an interviewer catches. Report it under `Not addressed` instead.
+
+### Prune the tech stack
+
+The base **Tech stack** is a superset of everything the candidate has real working knowledge of, so a large part of it is noise for any one posting. Run this last, after the vocabulary pass, so an item the keyword walk just rewrote or added is judged on its final wording.
+
+It is one line, ordered in unlabelled groups by kind: AI tooling, languages and frameworks, data, architecture, cloud and infrastructure, delivery tooling, testing. Dropping items must leave that grouping intact. A group emptied by the prune disappears with its last item; it is never backfilled from another group.
+
+Keep an item only when the posting names it or directly implies it. Drop everything else. Implication is one step, never a chain: a .NET posting implies C# and ASP.NET MVC, an Azure posting implies AKS and Azure DevOps, a posting asking for containers implies Docker and Kubernetes. A posting silent about databases implies neither SQL Server nor EntityFramework.
+
+Two things override the drop:
+
+- **An item an experience bullet rests on stays.** The Angular migration bullet names Claude Code, the calc-engine bullet rests on microservices. Cutting the stack entry while the accomplishment stands reads as an oversight.
+- **Stack breadth is itself a signal for platform, modernization and polyglot postings.** Where the JD asks for range rather than a named stack, prune only what actively misleads.
+
+Nothing outside the **Tech stack** bullet is pruned by this step. Competencies prose and experience bullets are governed by the ordering rules above.
 
 ### Never
 
@@ -62,6 +79,7 @@ Check the draft, fix what fails, then write it to `jobs/{Company}/resume.md`, ov
 - Every claim, number and scope statement traces to a base resume line.
 - Every keyword is either a rewrite of a base resume token or a synonym of one.
 - No JD technology the resume genuinely lacks appears anywhere.
+- Every surviving tech stack item is named or implied by the posting, or backs a kept experience bullet.
 
 ### Response
 
@@ -70,6 +88,7 @@ Check the draft, fix what fails, then write it to `jobs/{Company}/resume.md`, ov
 
 - Framed as: {target level, and the scope facts now leading}
 - Keywords: {renamed: A -> B, ...} {added: comma-separated list}
+- Stack dropped: {tech stack items cut, comma-separated}
 - Not addressed: {requirements no honest edit could cover, one line each}
 ```
 
