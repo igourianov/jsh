@@ -10,6 +10,11 @@
 		"Claude job screener": {
 			"path": "pwsh.exe",
 			"args": ["-NoExit", "-Command", "claude --agent job-screener"],
+			"env": {
+				"CLAUDE_CODE_DISABLE_AUTO_MEMORY": "1",
+				"CLAUDE_CODE_DISABLE_FEEDBACK_SURVEY": "1",
+				"CLAUDE_CODE_USE_POWERSHELL_TOOL": "1"
+			},
 			"icon": "briefcase"
 		}
 	},
