@@ -15,6 +15,7 @@ Thin match: only three job-specific asks drive the number. Domain fit is partial
   - 2026-08-25 Saved
   - 2026-08-25 Applied
   - 2026-09-10 Contacted: Fred Croson sent self-scheduling link for next interview
+  - 2026-09-11 Contacted: Fred rescheduled the screen to 1:30pm ET
 
 ## Qualifications
 
@@ -116,3 +117,7 @@ The funding read: $164-168M total raised is lean and capital-efficient for a $1.
 - 30 minutes only, and the confirmation still names no stages beyond this one. Ask about the rest of the loop.
 - Entirely automated: self-scheduling tool (mloop.in), template outreach, template confirmation. No human touch so far.
 - 16 days from application to outreach.
+
+### 2026-09-11 Contacted
+
+- Fred asked to reschedule. Moved to **2026-09-15, 1:30-2:00pm ET**.

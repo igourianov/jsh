@@ -64,3 +64,34 @@ Confirming for TUesday the 15th.
 
 Looking forward to speaking with you!
 
+---
+
+**Fred Croson <fred.croson@captivateiq.com> - 2026-09-11**
+
+Subject: Quick follow up from Fred Croson.
+
+Hello Illia,
+
+I'm really looking forward to our conversation about the Sr. Engineering Manager position for ICM.
+
+It looks like the time you selected automatically booked over an existing meeting on my calendar. Would you be open to shifting our chat 30 minutes later than your original time? Alternatively, I am also free to meet today at 2:30 PM or 3:30 PM EST.
+
+Please let me know if any of those options work for you, and I'll send an updated invitation.
+
+Best regards,
+
+Fred Croson
+
+---
+
+**Draft reply - 2026-09-11**
+
+Hi Fred,
+
+1:30 PM ET on the 15th works for me. Send the updated invite and I'll accept.
+
+Your note offers 2:30 or 3:30 PM "today", but it arrived after 6 PM, so I assume those were meant for the 15th as well? If I've misread and you need a different day, let me know.
+
+Best,
+Ilia
+
