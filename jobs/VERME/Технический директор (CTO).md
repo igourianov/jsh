@@ -1,68 +1,130 @@
-# Technical Director (CTO) | Product | HR-Tech
+# Технический директор | Product | HR Tech, gig-экономика | 47%
 
+Director-уровень: жёсткое требование 3+ лет на позиции CTO/Director совпадает лишь на 25%, как и рост команды с ~20 до 60+. Монолит→микросервисы, платформенные команды и HR Tech закрыты полностью, но AI/ML в ядре продукта и управление DS-командами на нуле. Плюс офис или гибрид в Москве.
 
-### Match: 85%
-
-- **URL:** https://hh.ru/vacancy/130053014
-- **Company:** Verme (ООО Верме)
-- **Location:** Remote/Hybrid (Moscow)
-- **Compensation:** Not specified
-- **Benefits:** 31 days PTO, IT company tax advantages, labor contract from day one
-- **Coding:** 0%
-- **Tech stack:** Backend (REST/GraphQL), microservices, mobile (iOS/Android), databases
-- **Team size:** Backend, Mobile, QA, DevOps teams (not specified)
-
-- **Status:** Rejected
+- **Company:** VERME (ООО Верме)
+- **Location:** Москва (м. Белорусская), офис или гибрид
+- **Employment type:** Permanent
+- **Compensation:** Не указана. Оценка 600–900 тыс. ₽/мес gross (estimated)
+- **Benefits:** Оформление по ТК с первого дня, ежегодный оплачиваемый отпуск, бадди при адаптации, внутренние комьюнити
+- **Team size:** ~20 инженеров, рост до 60+
+- **Grade:** Director (from scope)
+- **Status:** Passed
 - **Progress:**
   - 2026-02-02 Saved
   - 2026-02-09 Rejected
+  - 2026-09-11 Saved
+  - 2026-09-11 Passed
 
-## Gaps
+## Red flags
+- **Location mismatch:** Работа в офисе в пешей доступности от м. Белорусская или гибрид. Удалённый формат не предусмотрен.
 
-- **Mobile Development:** No iOS/Android architectural experience listed in resume
-- **Matching Algorithms:** No specific experience with matching algorithms, rating systems, or fraud prevention
+## Qualifications
 
-## Alignment
+### Technical
+- Переход от монолита к микросервисной архитектуре или построение high-load распределённой системы с нуля (weight:7%, match:100%)
+- Внедрение AI/ML в ядро продукта (weight:7%, match:0%)
+- Построение и владение инфраструктурной платформой (weight:2%, match:50%)
+- Go, Python или Java (бэкенд) (weight:2%, match:50%)
+- Соответствие ФЗ-152 (weight:2%, match:50%)
+- Соответствие 422-ФЗ (weight:2%, match:0%)
+- Мэтчинг, динамическое ценообразование или скоринг (weight:2%, match:0%)
+- MLOps (weight:2%, match:0%)
+- Микросервисы (weight:2%, match:100%)
+- Event-driven архитектура (weight:2%, match:100%)
+- CQRS (weight:2%, match:25%)
+- Кэширование (weight:2%, match:100%)
+- Очереди сообщений (weight:1%, match:100%)
+- Шардирование БД (weight:1%, match:25%)
+- Репликация БД (weight:1%, match:25%)
+- Выбор между SQL и NoSQL (weight:1%, match:50%)
+- Оптимизация запросов (weight:1%, match:50%)
+- Kubernetes (weight:1%, match:100%)
+- Docker (weight:1%, match:100%)
+- Kafka (weight:1%, match:100%)
+- Redis (weight:1%, match:100%)
+- PostgreSQL или ClickHouse (weight:1%, match:50%)
+- Feature store (weight:1%, match:0%)
+- Model serving (weight:1%, match:0%)
+- Мониторинг дрейфа моделей (weight:1%, match:0%)
+- Соответствие 289-ФЗ (weight:1%, match:0%)
+- Архитектура под кратный рост нагрузки (2–3x в год) (baseline)
+- Архитектура high-load распределённых систем (baseline)
+- Защита данных, аутентификация, авторизация (baseline)
+- Принятие технических решений (baseline)
 
-- **HR-Tech Domain:** 10 years at Dayforce HCM, direct experience in HR-Tech SaaS platform
-- **Leadership Scale:** Managed 25+ engineers across multiple cross-functional teams
-- **Architecture:** Backend architecture, REST APIs, microservices, databases - all align with requirements
-- **High-load Products:** Experience scaling enterprise SaaS platform serving Fortune 500 clients
-- **Process Management:** SDLC, CI/CD, code review processes implemented and optimized
+### People management
+- Масштабирование команды разработки с ~20 до 60+ инженеров (weight:7%, match:25%)
+- Управление командами DS/AI (дата-сайентисты, ML-инженеры) (weight:5%, match:0%)
+- Построение карьерных треков (weight:2%, match:50%)
+- Найм (baseline)
+- Онбординг (baseline)
+- Менторство (baseline)
+- Выращивание тимлидов (baseline)
+- Развитие инженерной культуры (baseline)
+- Построение продуктовой структуры разработки: кросс-функциональные команды с PM, аналитиками, дизайнерами и QA (baseline)
+
+### Process management
+- Обеспечение отказоустойчивости платформы с SLA ≥ 99.9% (SLA/SLO) (weight:5%, match:50%)
+- Disaster recovery (weight:2%, match:25%)
+- Developer experience как зона ответственности (weight:2%, match:75%)
+- Трансформация процессов разработки на уровне организации (weight:2%, match:75%)
+- Внедрение AI для повышения производительности команд (автогенерация кода, AI-ревью, автотесты) (weight:1%, match:100%)
+- CI/CD (baseline)
+- Observability, мониторинг, alerting (baseline)
+- Agile, Scrum (baseline)
+
+### Product domain
+- HR Tech (weight:5%, match:100%)
+- Gig-экономика или маркетплейсы (weight:2%, match:0%)
+- Интеграция с платформами СМЗ и ФНС (weight:1%, match:0%)
+- Интеграция с WFM/ERP клиентов (weight:1%, match:50%)
+- Интеграция с банками (weight:1%, match:25%)
+
+### Eligibility
+- 3+ года на позиции CTO, Director of Engineering или Head of Technology: руководство руководителями нескольких команд (weight:9%, match:25%)
+- 7+ лет в разработке (baseline)
+- Управление инженерными командами от 50+ человек (baseline)
+
+### Engineering domain
+- Создание платформенных команд: общие сервисы и архитектура для других команд (weight:5%, match:100%)
+- Продуктовая разработка: Uber-платформа для самозанятых исполнителей (baseline)
+
+### Product management
+- Коммуникация технических решений инвесторам (weight:1%, match:25%)
+- Технологическая стратегия на 2–3 года (baseline)
+- Продуктовое мышление: технологии как инструмент решения бизнес-задач (baseline)
+- Коммуникация с CEO и ключевыми клиентами (baseline)
+- Ориентация на результат: uptime, скорость релизов (baseline)
+- OKR (baseline)
+
+### Soft skills
+- Публикации и доклады на профильных конференциях (HighLoad++, TechLead Conf, AI Journey) (weight:1%, match:0%)
 
 ## Summary
 
-Technical leadership role overseeing backend, mobile, and integration architecture for an HR-Tech platform. Responsible for technology strategy, team leadership, and platform scalability.
+Технический директор платформы «Моя смена», Uber-платформы для привлечения самозанятых исполнителей по всей России. Задача: построить технологическую платформу, выдерживающую рост нагрузки в 2–3 раза в год при SLA ≥ 99.9%, встроить AI/ML в ядро продукта (мэтчинг, динамическое ценообразование, скоринг, автоматизация) и масштабировать разработку с ~20 до 60+ инженеров. Разработчики работают в кросс-функциональных продуктовых командах под руководством Product Manager, плюс отдельные платформенные команды и команды DS/AI. Роль включает технологическую стратегию на 2–3 года, выращивание тимлидов и коммуникацию с CEO, инвесторами и ключевыми клиентами.
 
-- Formulate and execute product technical strategy aligned with business goals
-- Lead engineering team (backend, mobile, QA, DevOps)
-- Make critical technology decisions regarding stack, architecture, and scaling
-- Ensure platform stability, security, and resilience
-- Develop APIs for mobile apps and partners
-- Manage integrations with payment systems and external HR/accounting platforms
-- Establish development processes (SDLC, code review, CI/CD, monitoring)
-
-## Required Qualifications
-
-- 3-5 years as CTO, Head of Engineering, or Tech Lead
-- Experience with high-load digital products
-- Deep backend architecture knowledge (REST/GraphQL, microservices, databases)
-- API design and development expertise
-- Mobile development (iOS/Android) architectural understanding
-- Third-party service integration experience
-- Team management and process optimization skills
-- Data-driven technical decision-making ability
-- Cross-functional collaboration experience
-- Information security knowledge for digital products
-- Understanding of matching algorithms, rating systems, and fraud prevention
-
-## Optional Qualifications
-
-- Marketplace or HR-tech background
-- Product launch or scaling experience
-- Fintech service experience
-- Team building expertise
+- **Coding:** 0%
+- Построить отказоустойчивую high-load платформу под кратный рост нагрузки с SLA ≥ 99.9%
+- Интегрировать AI/ML в ядро продукта: мэтчинг, динамическое ценообразование, скоринг, автоматизация
+- Выстроить продуктовую структуру разработки с кросс-функциональными командами под руководством PM
+- Создать платформенные команды: developer experience, инфраструктура, архитектура, общие сервисы
+- Масштабировать команду разработки с ~20 до 60+ инженеров: найм, онбординг, карьерные треки
+- Сформировать технологическую стратегию на 2–3 года
+- Обеспечить защиту данных и соответствие ФЗ-152 и 422-ФЗ
+- Внедрять новые практики и трансформировать процессы (Agile, Scrum, OKR)
 
 ## Company
 
-Verme is an HR-Tech platform focused on improving linear personnel efficiency. The company employs 400+ experts in developing and implementing HR-Tech solutions. Has IT accreditation status in Russia.
+VERME: HR-Tech компания (400+ сотрудников), разрабатывает и внедряет решения для повышения эффективности линейного персонала. Клиенты в основном крупный ритейл и сервис: М.Видео, Эльдорадо, Леруа Мерлен, Пятёрочка, Перекрёсток, Магнит, Ашан, ВкусВилл, Азбука вкуса, Детский мир, МТС, Мегафон, СДЭК, Пулково и другие. «Моя смена» — Uber-платформа, через которую компании привлекают самозанятых исполнителей на смены по всей России.
+
+## Keywords
+
+CTO, технический директор, high-load, распределённые системы, микросервисы, монолит, event-driven, CQRS, кэширование, очереди, шардирование, репликация, SQL, NoSQL, оптимизация запросов, Go, Python, Java, Kubernetes, Docker, Kafka, Redis, PostgreSQL, ClickHouse, CI/CD, DevOps, SRE, observability, мониторинг, alerting, disaster recovery, SLA, SLO, AI/ML, MLOps, feature store, model serving, дрейф моделей, мэтчинг, динамическое ценообразование, скоринг, Data Science, ML-инженеры, платформенные команды, developer experience, кросс-функциональные команды, Product Manager, найм, онбординг, менторство, карьерные треки, тимлиды, технологическая стратегия, Agile, Scrum, OKR, ФЗ-152, 422-ФЗ, 289-ФЗ, самозанятые, СМЗ, ФНС, WFM, ERP, gig-экономика, маркетплейс, HR Tech, HighLoad++
+
+## Log
+
+### 2026-09-11 Saved
+
+- Повторная публикация роли CTO, теперь явно под платформу «Моя смена». Предыдущая вакансия (https://hh.ru/vacancy/130053014) закрыта отказом 2026-02-09.
