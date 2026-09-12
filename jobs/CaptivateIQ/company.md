@@ -11,16 +11,17 @@
 - Funding has been flat since the 2022 Series C ($100M, $1.25B valuation) - no new raise reported through mid-2026, worth probing runway/profitability in interviews.
 
 ## Milestones
-- Founded 2017, San Francisco.
-- Reached unicorn status in 2022 (5 years after founding) with $100M Series C at $1.25B valuation.
+- Founded 2017, San Francisco, by Mark Schopmeyer, Conway Teng and Hubert Wong - three sales operations professionals, not engineers by background.
+- Went through Y Combinator in 2018; landed its first paying customer the same year.
+- Reached unicorn status in 2022 (5 years after founding) with $100M Series C at $1.25B valuation, led by ICONIQ Growth, Accel and Sequoia, with Sapphire joining as a new investor (announced 2022-01-26). Total raised to date: $164.6M.
 - November 2022: first reported layoffs.
-- 2025: platform relaunch combining incentive compensation with sales planning (August 2025); Guided Plan Builder launch (June 2025); named a Leader in The Forrester Wave for Sales Performance Management, Q1 2025.
+- 2025: platform relaunch combining incentive compensation with sales planning (August 2025); Guided Plan Builder launch (June 2025); named a Leader in The Forrester Wave: Sales Performance Management Solutions For Incentive Compensation, Q1 2025 (published 2025-03-11) - top marks across 12 criteria including plan creation/modeling, source data integrations and advanced AI capabilities; Forrester specifically called out SmartGrid (spreadsheet-based UI) for fast time-to-value.
 - May 2026: launched a portfolio of AI agents automating steps across the compensation/sales-planning lifecycle.
 - 2026: named a Leader in the Gartner Magic Quadrant for SPM, and on Forbes' America's Best Startup Employers list for the fourth consecutive year.
 - September 2026: the new UI became the default for customers (classic view still toggleable), so the platform relaunch is now fully rolled out.
 
 ## Company & Product
-CaptivateIQ builds a no-code commission/incentive compensation management platform: a real-time calculation engine plus a batch processing engine for cyclical calculations, backed by an automated, scalable data sync and storage layer. Recent product direction has expanded from pure ICM into sales planning and, most recently, agentic AI features for compensation workflows. Co-founded and still led by co-CEOs Mark Schopmeyer and Conway Teng, with co-founder Hubert Wong as CTO - a stable founding leadership team, unusual for a company at this stage.
+CaptivateIQ builds a no-code commission/incentive compensation management platform: a real-time calculation engine plus a batch processing engine for cyclical calculations, backed by an automated, scalable data sync and storage layer. Recent product direction has expanded from pure ICM into sales planning and, most recently, agentic AI features for compensation workflows. Co-founded and still led by co-CEOs Mark Schopmeyer and Conway Teng, with co-founder Hubert Wong as CTO - a stable founding leadership team, unusual for a company at this stage. Serves 1,000+ customers globally (Amplitude, Gong and Hopin cited as reference customers); Gong reported processing monthly commission payouts 60x faster on the platform. Stated mission: help companies "save money, hit business targets, while also preparing for future growth" by aligning compensation with revenue outcomes.
 
 ## Values
 
@@ -60,9 +61,19 @@ Raised $168M total; last round was the $100M Series C (Jan 2022) at $1.25B valua
 - [Unify: CaptivateIQ Headcount](https://www.unifygtm.com/insights-headcount/captivateiq)
 - [CaptivateIQ Blog: Compensation Technology Architecture](https://www.captivateiq.com/blog/compensation-technology-architecture)
 - [CaptivateIQ Blog: Hackathon Recap](https://www.captivateiq.com/blog/captivatiq-hackathon-recap)
+- [CaptivateIQ Blog: Series C Announcement](https://www.captivateiq.com/blog/series-c)
+- [CaptivateIQ Blog: Named ICM Leader (Forrester Wave Q1 2025)](https://www.captivateiq.com/blog/captivateiq-named-icm-leader)
 - [Glassdoor: CaptivateIQ Reviews](https://www.glassdoor.com/Reviews/CaptivateIQ-Reviews-E2963980.htm)
 - [Glassdoor: Recent Layoffs, Unsure of Future](https://www.glassdoor.com/Reviews/Employee-Review-CaptivateIQ-E2963980-RVW72073340.htm)
 - [Glassdoor: Used to be great, going downhill](https://www.glassdoor.com/Reviews/Employee-Review-CaptivateIQ-E2963980-RVW87079278.htm)
 - [Glassdoor: Software Engineer Reviews](https://www.glassdoor.com/Reviews/CaptivateIQ-Software-Engineer-Reviews-EI_IE2963980.0,11_KO12,29.htm)
 - [Built In: CaptivateIQ Careers, Perks + Culture](https://builtin.com/company/captivateiq)
 - [CaptivateIQ: About Us](https://www.captivateiq.com/about-us)
+
+### Unverified (blocked bot access, not yet confirmed)
+- [Glassdoor: Best Place to Work award](https://www.glassdoor.com/Overview/Working-at-CaptivateIQ-EI_IE2963980.11,22.htm) - 403
+- [Comparably: Best Company award](https://www.comparably.com/companies/captivateiq) - 403
+- [G2 Reviews](https://www.g2.com/products/captivateiq/reviews) - 403
+- [TrustRadius Top Rated](https://www.trustradius.com/products/captivateiq/reviews) - 403
+- [Sequoia Benefits (px.sequoia.com)](https://px.sequoia.com/captivateiq) - JS-rendered, no benefits detail retrieved
+- [YC Top Companies by Valuation](https://www.ycombinator.com/topcompanies/valuation) - listing not visible in fetch, CaptivateIQ presence unconfirmed
