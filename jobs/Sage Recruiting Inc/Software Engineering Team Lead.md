@@ -10,9 +10,10 @@ Scoped under my level: 4 reports growing to ~8 at 60-70% coding, paid as a team 
 - **Benefits:** Bonus, RRSP match, 3 weeks paid vacation, extended health, dental, life insurance
 - **Team size:** 4, expected to double
 - **Grade:** Manager (from scope)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-09-14 Saved
+  - 2026-09-14 Passed
 
 ## Red flags
 - **Below-market compensation:** $150K base max plus assumed 10% bonus is ~$165K total, below the $180K floor. Base under $160K.
