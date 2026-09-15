@@ -9,10 +9,11 @@ Java/Ruby carry no evidence and AWS is secondary to your Azure background, so th
 - **Compensation:** Not stated
 - **Benefits:** Not stated
 - **Team size:** Not stated
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-08-24 Saved
   - 2026-08-24 Applied
+  - 2026-09-15 Ghosted
 
 ## Red flags
 - **Employment type mismatch:** Posted as "Contract-to-Hire," not permanent salaried employment.
