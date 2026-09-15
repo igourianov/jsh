@@ -9,10 +9,11 @@ Strong fit on AI-adoption leadership, cloud and title/level match; the medical i
 - **Compensation:** $108,500 - $225,200 CAD/year (Canada)
 - **Benefits:** Not specified
 - **Team size:** 20+ engineers across multiple teams, directly or via leads/managers
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-08-24 Saved
   - 2026-08-24 Applied
+  - 2026-09-15 Ghosted
 
 ## Qualifications
 
