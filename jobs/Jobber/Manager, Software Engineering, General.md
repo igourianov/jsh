@@ -9,10 +9,11 @@ Strong overall fit; the two things that actually move the number are Rails/React
 - **Compensation:** $169,200 - $199,100 - $228,900 CAD
 - **Benefits:** Extended health benefits (fully paid premiums), RRSP/TFSA/FHSA matching, stock options, talent development/coaching program
 - **Team size:** Not specified
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-08-24 Saved
   - 2026-08-24 Applied
+  - 2026-09-15 Ghosted
 
 ## Qualifications
 
