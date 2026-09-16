@@ -65,11 +65,18 @@ Extract the following from the job posting:
 
 The grade is the role's real level: what the job is, as opposed to what the posting calls it. It is the only seniority signal that scores here, and the one `tailor-resume` frames against.
 
-Read it off the scope and responsibilities the posting describes. Reporting structure decides it on its own, whatever the title says: managers or leads reporting in is Director, direct reports with no layer between is Manager, no direct reports is Technical Lead. Team size and number of teams separate the rest. The `## Grades` sections define all three.
+Read it off the scope and responsibilities the posting describes, never off the title. No direct reports is Technical Lead. Direct reports with no layer in between is Manager. Beyond that, span and mandate decide, and the `## Grades` table defines all four.
+
+A layer of team leads reporting in is **not** a Director signal. It is ordinary Senior Manager shape. Senior Manager and Director are the pair that gets confused, and two questions separate them:
+
+- Does the role still own delivery across its teams, or does it own an organization and reach delivery through the managers who own it?
+- Does the mandate point at execution (shipping, quality, process, modernization) or at strategy (org design, headcount planning, budget ownership, long-range direction)?
+
+Multiple teams, directly or through leads, with delivery still on the role, is Senior Manager. So is one team plus an outsized mandate beyond it, such as a special project. Pure second line with managers owning delivery and a strategic mandate is Director.
 
 Only when the posting describes no scope at all, fall back to `## Title mapping`.
 
-Record it in the `Grade` field with the route you took: `Manager (from scope)` or `Manager (from title)`. Step 9 needs the difference, and `tailor-resume` reads the grade instead of re-deriving it.
+Record it in the `Grade` field with the route you took: `Senior Manager (from scope)` or `Manager (from title)`. Step 9 needs the difference, and `tailor-resume` reads the grade instead of re-deriving it.
 
 ## Step 6: Extract Qualifications
 
@@ -204,7 +211,9 @@ Scattered gaps against the baseline are how postings get written and mean nothin
 The title and the grade disagree. Only possible when Step 5 graded from scope: a title-fallback grade cannot contradict the title it came from. Flag either direction:
 
 - **Title above grade.** Director, Head of or VP over one small team. Common at seed and Series A. The title will not travel to the next employer, and comp usually tracks the scope rather than the label.
-- **Title below grade.** Manager-of-managers or multi-team scope under an EM title. Under-titled, and a leveling argument to have before an offer.
+- **Title below grade.** Plain Engineering Manager over multiple teams, or any EM title over a pure second-line org with managers reporting in. Under-titled, and a leveling argument to have before an offer.
+
+Only flag a gap of a full grade. A Senior EM title over multiple teams and a layer of team leads is the normal shape of that title, not a mismatch, and neither is a Director title over a genuine second-line org.
 
 When a whole category is absent rather than under-scoped, that is Mislabeled role instead.
 

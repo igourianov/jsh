@@ -123,7 +123,23 @@ The generic entries elsewhere in this file cover the same ground at every engine
 
 ## Grades
 
-Three grades, defined by scope. Titles map onto them loosely, see Title mapping.
+Four grades, defined by span and by what the role is accountable for. Titles map onto them loosely, see Title mapping.
+
+| Grade | Span | Accountable for |
+|---|---|---|
+| Technical Lead | One team, no direct reports | The code |
+| Manager | One or two teams, direct reports, no layer in between | The team's delivery |
+| Senior Manager | Multiple teams, directly or through team leads. Or one team plus an outsized org mandate | Delivery across a group, hands still on the teams |
+| Director | Pure second line, everything reaching them through a management layer | The org: strategy, structure, headcount |
+
+**Senior Manager and Director are the pair that gets confused.** Reporting structure alone does not separate them, because a Senior Manager routinely has team leads in between. Two things do:
+
+- **What the role runs.** Senior Manager runs teams, whether directly or through leads, and stays operationally close to their delivery. Director runs an organization and reaches delivery only through the managers who own it.
+- **Where the mandate points.** Senior Manager's is execution across a group: shipping, quality, process, modernization. Director's is strategic: org design, headcount planning, budget ownership, multi-year direction.
+
+A single-team scope also reaches Senior Manager when the role carries outsized influence beyond the team, such as owning a special project or an initiative that cuts across the org. Span is not the only route in.
+
+Grade on substance, never on the layer's title. Team leads reporting in is ordinary Senior Manager shape and says nothing on its own; managers who own their teams' delivery reporting in, with the role's own mandate sitting above delivery, is Director.
 
 ### Technical Lead
 
@@ -149,14 +165,38 @@ One to two teams, direct reports, no management layer in between.
   - excludes: 10+
   - below: under 4
 - 5 to 15 engineers as direct reports
-  - excludes: 16+, three or more teams, any layer of managers between
+  - excludes: 16+, three or more teams, any lead or manager layer in between (that is second line, see Senior Manager)
   - below: fewer than 5, or no direct reports
 - Hands-on technical work: code review, design docs, occasional contribution
   - excludes: a stated coding percentage above 30%, or on-call as an individual contributor
 
+### Senior Manager
+
+Multiple teams, run directly or through team leads. Or one team plus a mandate reaching beyond it. Operational rather than strategic: the role still owns delivery.
+
+- 5 to 8 years of engineering management
+  - excludes: 10+
+  - below: under 4
+- 8 to 12 years of software engineering
+- 12 to 30 engineers across two to four teams
+  - excludes: 30+, five or more teams, sub-orgs, managers owning their teams' delivery reporting in
+  - below: a single team with no mandate beyond it
+- Leading through team leads: 1:1s with leads, skip-levels with engineers
+- Career development and growth of engineers, directly or through their leads
+- Delivery ownership across the group: roadmap, quality, process, modernization
+- Outsized influence beyond own teams: a special project, a cross-org initiative, a mandate other teams adopt
+- Taking part in budget and compensation planning
+  - excludes: owning the budget, vendor and contractor management
+- Limited hands-on work: architecture guidance and code review, not production contribution
+  - excludes: a stated coding percentage above 20%
+
+Inherits all of `## Qualifications`. Nothing drops at this grade: career development and team culture are still core here and only become job-specific at Director.
+
+Thinly evidenced. Authored to close the gap the corpus left between Manager and Director, not derived from it. The headcount and tenure bounds are the weakest part and should be revisited once records accumulate under it.
+
 ### Director
 
-Multiple teams with managers or leads reporting in.
+Pure second line. Managers own their teams' delivery and the role owns the organization: strategy, structure, headcount. Reaches the engineers only through that layer.
 
 - 8+ years of engineering management
   - below: under 6
@@ -165,6 +205,7 @@ Multiple teams with managers or leads reporting in.
   - excludes: 60+, multiple sub-orgs, directors reporting in
   - below: under 20, or a single team
 - Managing managers, second-line leadership
+  - excludes: team leads rather than managers in that layer, which is Senior Manager shape
 - Organizational design, headcount planning, team topology, reorgs
 - Budget ownership, vendor and contractor management
 - Multi-team strategy and long-range planning
@@ -183,7 +224,7 @@ Team size bound is provisional. Few postings at this grade state one.
 | Title | Assumed grade | Notes |
 |---|---|---|
 | Engineering Manager, Software Engineering Manager, Software Development Manager | Manager | |
-| Senior Engineering Manager, Senior Manager Engineering | Manager | Title inflation is the norm here, not the exception. Most such postings describe a team of 12 or fewer. |
+| Senior Engineering Manager, Senior Manager Engineering, Group Engineering Manager | Manager | Title inflation is the norm here, not the exception. Most such postings describe a team of 12 or fewer. A posting that *does* state a lead or manager layer is second line and grades Senior Manager by title, which is this table not being read at all. |
 | Director of Engineering, Director of Software Engineering, Senior Director | Director | |
 | Head of Engineering, VP of Engineering, CTO | Director | Strongest inflation signal, especially at seed and Series A. At a company under 50 people, take Manager instead. |
 | Engineering Team Lead, Lead Software Engineer, Staff Software Engineer | Technical Lead | |
@@ -200,4 +241,6 @@ Entries were selected by how often a concept recurred across postings at each gr
 
 The two domain axes get opposite treatment because the corpus distributions are opposite. Engineering domain is concentrated: a single value covers more than half of all postings, so a default exists and can be treated as noise. Product domain is dispersed across dozens of verticals with no value above a tenth of the corpus, so no default exists and every domain carries signal.
 
-Manager grade rests on real corpus volume. Director is thin on team size. Technical Lead is authored from almost nothing and needs replacing as records accumulate.
+Manager grade rests on real corpus volume. Director is thin on team size. Technical Lead and Senior Manager are authored from almost nothing and need replacing as records accumulate.
+
+Senior Manager added 2026-09-16. The original scheme sent any lead layer straight to Director, which graded an ordinary Senior EM job over four team leads as a Director and then flagged its own title as a mismatch. A lead layer is normal Senior Manager shape and carries no Director signal on its own. What separates the two is whether the role still owns delivery or owns the organization. Records screened before this date may carry a Director grade that would now read Senior Manager; they are not migrated.

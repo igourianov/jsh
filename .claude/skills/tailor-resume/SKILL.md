@@ -31,7 +31,8 @@ Two signals, two jobs. The **title** is what the company calls the role and it s
 
 **Body, from the grade.** Read the screen file's `Grade` field. Files predating it carry no grade, so fall back to the `Team size` field and the scope in `## Summary`. The grade decides which scope facts lead: headcount, number of teams, whether leads or managers report in, breadth of influence. The base resume states these at several levels, so match the posting's. An inflated title over a small team gets the title's label and the small team's facts, not both at full volume.
 
-- **Grade is Director:** lead with the largest scope the base resume supports, and say it in the summary paragraph too, not only down in the entries.
+- **Grade is Director:** lead with the largest scope the base resume supports, and say it in the summary paragraph too, not only down in the entries. Org-level facts carry the entry: headcount, structure, developing managers, breadth of mandate.
+- **Grade is Senior Manager:** lead with multi-team span and the leads in between, not with org structure and not with single-team delivery. Delivery stays on the facts: teams shipping, quality, modernization, the cross-team initiatives owned. Keep one hands-on signal, since the grade still expects technical closeness. Drop the bullets whose only point is org-level breadth.
 - **Grade is Manager or Technical Lead:** lead with single-team, hands-on, direct-delivery facts. Downplay multi-team and manager-of-managers scope: move it below, or drop the bullet whose only point is org-level breadth. Overshooting the stated scope reads as a mis-level and costs the screen.
 
 Choosing which scope fact opens an entry is the whole mechanism. Never state a scope larger than the base resume gives it, and never reframe a historic title: company, title and dates stay verbatim, always.
