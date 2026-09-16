@@ -120,3 +120,16 @@ CEO: https://www.linkedin.com/in/stephanezanoni/
 Talk soon!
 
 Steph
+
+---
+
+*Draft, LinkedIn DM, 2026-09-16, re: https://www.linkedin.com/jobs/view/4467104351/*
+
+Hi Stef,
+
+I just saw you advertising for a Sr. EM, Backend & Platform role. Is this the same role/client we connected on earlier this year? It seems fairly similar, but I wanted to check with you to be sure.
+
+I'm still looking. Would love to work with you again if there's an opportunity there.
+
+Best,
+Ilia
