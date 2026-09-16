@@ -10,7 +10,7 @@ Screen job: $ARGUMENTS
 Read these before Step 2. They are the authority for every candidate fact and every grading rule this skill uses, so never substitute a remembered value for one.
 
 - `resume/context.md` - the candidate: discipline, target titles, location and commute limits, acceptable employment types, compensation floor and how to value an unstated bonus or equity, resume language.
-- `roles/engineering-leader.md` - the grading vocabulary: qualification categories, the baseline whitelist, grade definitions by scope, and the grade to assume from a title when the posting states no scope.
+- `roles/engineering-leader.md` - the grading vocabulary: qualification categories, the baseline whitelist, how a grade section combines with it, grade definitions by scope, and the two title columns (what a title claims, and the grade to assume from it when the posting states no scope).
 - `jobs/black-list.md` - companies and recruiters to avoid.
 
 The base resume is read later, in Step 8: which one depends on the posting's language.
@@ -53,8 +53,8 @@ Extract the following from the job posting:
 - **Compensation:**
   - Salary range (if stated, otherwise estimate with "(estimated)")
   - Benefits: dental, vision, health, RRSP/401k match, stock options, equity, bonuses, etc.
-- **Coding %** - Specifically writing production code (0-60%)
-  - 0% signals: broad tech options with "or"/"such as", "leverage experience" language, no core programming language (Java, React, Python, etc.) specified
+- **Coding %** - Specifically writing production code. Take the posting's own number where it states one, however high. Where it states none, estimate only from prose that speaks to hands-on work, and write unstated when there is no such prose. Silence is not 0%: a posting that never mentions the role's own hands-on work has not said it is zero, and recording a number there invents the one signal the grade bounds are read against.
+  - 0% signals: technology named only in passing, as breadth rather than as work. Options joined by "or"/"such as", "leverage experience" framing.
   - \>0% signals: specific required language, "writing code", "implementing features"
 - **Summary** - Succinct overview of the role only (not the company). No corporate fluff. 300 words max.
 - **Responsibilities** - Key duties and expectations for the role
@@ -65,20 +65,15 @@ Extract the following from the job posting:
 
 The grade is the role's real level: what the job is, as opposed to what the posting calls it. It is the only seniority signal that scores here, and the one `tailor-resume` frames against.
 
-Read it off the scope and responsibilities the posting describes, never off the title. No direct reports is Technical Lead. Direct reports with no layer in between is Manager. Beyond that, span and mandate decide, and the `## Grades` table defines all four.
+Read it off the scope and responsibilities the posting describes, never off the title. `## Grades` defines all four and separates the pairs that get confused; take the grade from there rather than from an impression of the span.
 
-A layer of team leads reporting in is **not** a Director signal. It is ordinary Senior Manager shape. Senior Manager and Director are the pair that gets confused, and two questions separate them:
-
-- Does the role still own delivery across its teams, or does it own an organization and reach delivery through the managers who own it?
-- Does the mandate point at execution (shipping, quality, process, modernization) or at strategy (org design, headcount planning, budget ownership, long-range direction)?
-
-Multiple teams, directly or through leads, with delivery still on the role, is Senior Manager. So is one team plus an outsized mandate beyond it, such as a special project. Pure second line with managers owning delivery and a strategic mandate is Director.
-
-Only when the posting describes no scope at all, fall back to `## Title mapping`.
+Only when the posting describes no scope at all, fall back to the `Fallback grade` column of `## Title mapping`. The `Claims` column is not read here: it exists for Step 9.
 
 Record it in the `Grade` field with the route you took: `Senior Manager (from scope)` or `Manager (from title)`. Step 9 needs the difference, and `tailor-resume` reads the grade instead of re-deriving it.
 
 ## Step 6: Extract Qualifications
+
+Read the base resume for the posting's language, falling back to English. It is the source of the candidate's own grade, which the seniority rule below needs before anything is evaluated.
 
 Qualifications are rules for evaluating the candidate against the job. Extract them from required qualifications, preferred/nice-to-have qualifications, and responsibilities sections of the posting. Each qualification gets a weight reflecting its importance to the role.
 
@@ -98,7 +93,7 @@ Step 7 assigns one tier per item, so a bundle spanning both tiers takes a single
 - Degree requirements assume "X degree OR equivalent experience in the corresponding role". CS degree => software developer experience. Bachelor => 5+ years equivalent. Master's => 8+ years equivalent.
 
 **Implicit qualifications** (add even if not listed):
-- Seniority, only when the grade sits above the level the candidate has held. Phrase it as what the grade demands (e.g. `second-line leadership, managing managers across multiple teams`) and weight it as a hard requirement. A grade at or below their level emits nothing: being over-qualified is not a gap.
+- Seniority, only when the posting's grade sits above the highest grade the resume evidences. Grade the resume the same way Step 5 grades the posting, off scope rather than off past titles. Phrase the qualification as what the grade demands (e.g. `second-line leadership, managing managers across multiple teams`) and weight it as a hard requirement. A grade at or below the candidate's emits nothing: being over-qualified is not a gap.
 - Industry/domain experience if a domain is mentioned in the posting. Weight=10% if implied, 20% if explicitly required.
 - French language for Quebec-based roles, companies headquartered in Quebec, or postings that include a French translation of the job description.
 
@@ -108,7 +103,7 @@ Step 7 assigns one tier per item, so a bundle spanning both tiers takes a single
 
 Every EM posting asks for the same fifteen things. Scoring those buries the handful of requirements that actually distinguish this job. This step separates them.
 
-Classify each qualification against the baseline whitelist: its `## Qualifications` entries plus the grade section from Step 5 (Director inherits Manager, Manager inherits nothing, Technical Lead is a side branch that uses only the entries its section names).
+Classify each qualification against the baseline whitelist: its `## Qualifications` entries plus the grade section from Step 5, combined as **How a grade section is read** under `## Grades` says. Grades do not inherit from each other, so never carry a bound from one grade section into another.
 
 - **`baseline`** - covered by an entry.
 - **`scored`** - not covered.
@@ -129,8 +124,6 @@ A qualification is `scored` when it falls outside an entry that otherwise resemb
 Hold the classified list. Nothing is written or scored until Step 8, which takes the whole set in one payload.
 
 ## Step 8: Evaluate Match
-
-Read the base resume for the posting's language. Fall back to English.
 
 **Approach:** Assume in-house recruiter role. Be critical, but don't invent non-existent gaps. Evaluate against qualifications as transformed in Step 6, not the original posting text. Do not speculate about unstated preferences or ATS behavior.
 
@@ -208,7 +201,7 @@ One whole baseline category thoroughly absent while the others are detailed. An 
 Scattered gaps against the baseline are how postings get written and mean nothing. Only flag a category that is systematically missing.
 
 ### Title/grade mismatch
-The title and the grade disagree. Only possible when Step 5 graded from scope: a title-fallback grade cannot contradict the title it came from. Flag either direction:
+The grade disagrees with what the title claims, per the `Claims` column of `## Title mapping`. Only possible when Step 5 graded from scope. A grade taken from the fallback column is never flagged, including where that column deliberately deflates the title. Flag either direction:
 
 - **Title above grade.** Director, Head of or VP over one small team. Common at seed and Series A. The title will not travel to the next employer, and comp usually tracks the scope rather than the label.
 - **Title below grade.** Plain Engineering Manager over multiple teams, or any EM title over a pure second-line org with managers reporting in. Under-titled, and a leveling argument to have before an offer.

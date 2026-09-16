@@ -78,7 +78,7 @@ Two things it cannot tell you:
 
 ### Screening baseline
 
-`roles/engineering-leader.md` is a closed whitelist of leadership boilerplate, keyed to a grade (Technical Lead, Manager, Director). `screen-job` splits every extracted qualification against it, and the two tiers read differently:
+`roles/engineering-leader.md` is a closed whitelist of leadership boilerplate, keyed to a grade (Technical Lead, Manager, Senior Manager, Director). `screen-job` splits every extracted qualification against it, and the two tiers read differently:
 
 - `(baseline)` - boilerplate. No weight, no match value, excluded from the number. Kept in the file for reference and for `tailor-resume`.
 - `(weight:X%, match:Y%)` - job-specific. Weights are renormalized across these alone, so they sum to 100 and are the entire match.

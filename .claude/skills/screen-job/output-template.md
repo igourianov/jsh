@@ -28,7 +28,7 @@
 
 {role summary}
 
-- **Coding:** {X}% {explain if above 0%}
+- **Coding:** {X}% {explain if above 0%} | unstated
 - {responsibility 1}
 - {responsibility 2}
 

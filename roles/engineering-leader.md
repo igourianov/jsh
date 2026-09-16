@@ -141,6 +141,11 @@ A single-team scope also reaches Senior Manager when the role carries outsized i
 
 Grade on substance, never on the layer's title. Team leads reporting in is ordinary Senior Manager shape and says nothing on its own; managers who own their teams' delivery reporting in, with the role's own mandate sitting above delivery, is Director.
 
+**How a grade section is read.** Grades never inherit from each other. Each section is complete for its grade, and its bounds replace rather than extend the bounds another grade states: Manager's 5 to 15 engineers says nothing about Director.
+
+- Technical Lead is a side branch. Its section names the `## Qualifications` entries that are baseline at that grade; everything else in that section is job-specific.
+- Manager, Senior Manager and Director each use their own section plus all of `## Qualifications`, minus whatever their section explicitly drops.
+
 ### Technical Lead
 
 Technical leadership without formal reporting lines.
@@ -213,23 +218,37 @@ Pure second line. Managers own their teams' delivery and the role owns the organ
   - excludes: building security tooling, or a named regime as a core requirement
 - Distributed systems and scale as a stated context
 
-Two expectations **drop** at this grade and become job-specific when a posting states them: hands-on coding, and career development of individual engineers.
+Two expectations **drop** at this grade and become job-specific when a posting states them: career development of individual engineers, which is otherwise baseline under `## Qualifications`, and hands-on coding, which has no baseline entry at this grade at all.
 
 Team size bound is provisional. Few postings at this grade state one.
 
 ## Title mapping
 
-**Fallback only.** Used when the posting describes no scope. Where scope is stated it decides the grade and this table is not read, so no row here refers to team size or reporting structure.
+Two different questions, two columns, never used together:
 
-| Title | Assumed grade | Notes |
-|---|---|---|
-| Engineering Manager, Software Engineering Manager, Software Development Manager | Manager | |
-| Senior Engineering Manager, Senior Manager Engineering, Group Engineering Manager | Manager | Title inflation is the norm here, not the exception. Most such postings describe a team of 12 or fewer. A posting that *does* state a lead or manager layer is second line and grades Senior Manager by title, which is this table not being read at all. |
-| Director of Engineering, Director of Software Engineering, Senior Director | Director | |
-| Head of Engineering, VP of Engineering, CTO | Director | Strongest inflation signal, especially at seed and Series A. At a company under 50 people, take Manager instead. |
-| Engineering Team Lead, Lead Software Engineer, Staff Software Engineer | Technical Lead | |
+- **Claims** - the grade the title asserts, at face value. Read it whenever a title has to be compared against a grade, such as detecting a title/grade mismatch. It is what the title says, not a judgment about the job.
+- **Fallback grade** - the grade to assume when the posting describes no scope at all. Where scope is stated it decides the grade and this column is not read, so no row refers to team size or reporting structure. It discounts for inflation, which is why it can sit below the claim.
+
+| Title | Claims | Fallback grade | Notes |
+|---|---|---|---|
+| Engineering Manager, Software Engineering Manager, Software Development Manager | Manager | Manager | |
+| Senior Engineering Manager, Senior Manager Engineering, Group Engineering Manager | Senior Manager | Manager | Title inflation is the norm here, not the exception. Most such postings describe a team of 12 or fewer, so the scopeless fallback deflates a grade. That deflation is the table working as intended and is never a mismatch. |
+| Director of Engineering, Director of Software Engineering, Senior Director | Director | Director | |
+| Head of Engineering, VP of Engineering, CTO | Director | Director | Strongest inflation signal, especially at seed and Series A. At a company under 50 people, take Manager as the fallback instead. |
+| Engineering Team Lead, Lead Software Engineer, Staff Software Engineer | Technical Lead | Technical Lead | |
 
 Inflation runs one direction. A small company gives a large title for a small job. Deflation is rare: a Director title at a 2000-person company usually means a Director job.
+
+## Resume framing
+
+Which scope facts lead when a resume is tailored for a posting at this grade. `tailor-resume` reads the grade off the screening file and takes the row; it never re-derives the grade and never states a scope the base resume does not support. An inflated title over a small team gets the title's label and the small team's facts, not both at full volume.
+
+| Grade | What leads |
+|---|---|
+| Technical Lead | Single team, hands-on, direct delivery. Drop the bullet whose only point is org-level breadth. |
+| Manager | Single team, hands-on, direct delivery. Multi-team and manager-of-managers scope moves below, or the bullet goes. Overshooting the stated scope reads as a mis-level and costs the screen. |
+| Senior Manager | Multi-team span and the leads in between, not org structure and not single-team delivery. Delivery stays on the facts: teams shipping, quality, modernization, cross-team initiatives owned. Keep one hands-on signal. Drop bullets whose only point is org-level breadth. |
+| Director | The largest scope the base resume supports, in the summary paragraph as well as the entries. Org-level facts carry each entry: headcount, structure, developing managers, breadth of mandate. |
 
 ## Maintenance
 
