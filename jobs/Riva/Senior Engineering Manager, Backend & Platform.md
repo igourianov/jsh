@@ -1,6 +1,6 @@
-# Senior Engineering Manager | Backend / Platform | Enterprise data sync (CRM & communications integration) | 77%
+# Senior Engineering Manager | Backend / Platform | Enterprise data sync (CRM & communications integration) | 76%
 
-Posted anonymously through Sage Recruiting, but it is Riva, where I already interviewed and failed in March 2026. Technically the strongest fit in a while (C#/.NET, multi-tenancy, microservices, AI adoption all land) and this is broader scope than the role I lost, but reapplying to the same VP five months after a no is the real question, not the match number. Grade is Director by reporting structure, 18 people is just under that bar and it carries a Senior EM title.
+Posted anonymously through Sage Recruiting, but it is Riva, where I already interviewed and failed in March 2026. Technically the strongest fit in a while (C#/.NET, multi-tenancy, microservices, AI adoption all land) and this is broader scope than the role I lost, but reapplying to the same VP five months after a no is the real question, not the match number. Scope and title agree for once: four teams through team leads with delivery still on the role is exactly what a Senior EM is.
 
 - **URL:** https://www.linkedin.com/jobs/view/4467104351/
 - **Company:** Riva (posted by Sage Recruiting Inc. without naming the client)
@@ -9,59 +9,44 @@ Posted anonymously through Sage Recruiting, but it is Riva, where I already inte
 - **Compensation:** $170K-200K CAD base + bonus
 - **Benefits:** Bonus, RRSP match, 4 weeks vacation, extended health, dental, life insurance, professional development allowance
 - **Team size:** 18 (4 Team Leads + 14 engineers across 4 teams)
-- **Grade:** Director (from scope)
+- **Grade:** Senior Manager (from scope)
 - **Status:** Saved
 - **Progress:**
   - 2026-09-16 Saved
 
 ## Red flags
-- **Title/grade mismatch:** Title below grade. Four Team Leads and their teams reporting in is second-line leadership, carried under a "Senior Engineering Manager" title. Worth a levelling conversation before an offer.
 - **Prior rejection:** Riva rejected me on 2026-03-11 after the VP Engineering interview (`Senior Engineering Manager.md` in this folder). Same recruiter firm, same VP the role reports to.
 
 ## Qualifications
 
 ### Technical
-- C#/.NET fluency sufficient to guide architecture decisions (weight:11%, match:100%)
-- High-throughput, high-reliability data movement: concurrency, retries, fault tolerance, eventual consistency, job orchestration (weight:9%, match:75%)
-- Multi-tenant SaaS architecture (weight:6%, match:100%)
-- Microservices architecture (weight:6%, match:100%)
+- C#/.NET fluency sufficient to guide architecture decisions (weight:13%, match:100%)
+- Distributed backend systems for high-throughput data movement: concurrency, retries, fault tolerance, eventual consistency, job orchestration (weight:10%, match:75%)
+- Multi-tenant SaaS architecture (weight:7%, match:100%)
+- Microservices architecture (weight:7%, match:100%)
 - Modern API design: REST or GraphQL (weight:5%, match:75%)
 - Leading practical AI adoption across multiple teams (weight:5%, match:100%)
 - FinOps principles and cloud cost ownership (weight:5%, match:25%)
 - Event-driven architecture (weight:3%, match:100%)
 - AWS: EC2, ECS, EKS, Lambda, RDS (weight:3%, match:50%)
-- Infrastructure as code: Terraform or CloudFormation (weight:2%, match:100%)
-- Background in data engineering, ML/AI infrastructure or DevOps tooling (weight:2%, match:50%)
+- Infrastructure as code: Terraform or CloudFormation (weight:3%, match:100%)
+- Background in data engineering, ML/AI infrastructure or DevOps tooling (weight:3%, match:50%)
 - Architecture oversight and design guidance for the teams (baseline)
 - Legacy modernization and technical debt roadmap (baseline)
 - Cloud-native SaaS environment (baseline)
-- Distributed backend systems as a stated context (baseline)
 
 ### Product domain
 - Enterprise data synchronization and integration between communication tools and CRMs (weight:8%, match:25%)
 - Salesforce, Outlook/Exchange or CRM integration platforms (weight:3%, match:0%)
 
-### People management
-- Career development and development planning for engineers (weight:8%, match:100%)
-- Scaling an organization through rapid growth or post-product-market-fit (weight:2%, match:100%)
-- Managing team leads and their teams, second-line leadership (baseline)
-- 1:1s and skip-levels (baseline)
-- Performance management (baseline)
-- Coaching and mentoring engineers (baseline)
-- Partnering with HR on recruiting and hiring (baseline)
-- Leading remote-first, globally distributed teams (baseline)
-- Building and growing high-performing teams (baseline)
-- Team culture, morale and eNPS, earning trust with a tenured team (baseline)
-- Compensation planning with leadership (baseline)
+### Eligibility
+- Career spent in structured, mid-sized-or-larger engineering organizations rather than small startups (weight:5%, match:100%)
+- Canadian citizenship, permanent residency or valid Canadian work permit (weight:3%, match:100%)
+- 10+ years of overall experience (baseline)
+- 2-3+ years managing two or more teams at once (baseline)
 
 ### Engineering domain
 - Backend and platform engineering: leading teams that own the platform underpinning the product (weight:8%, match:75%)
-
-### Eligibility
-- Career spent in structured, mid-sized-or-larger engineering organizations rather than small startups (weight:5%, match:100%)
-- Canadian citizenship, permanent residency or valid Canadian work permit (weight:2%, match:100%)
-- 10+ years of overall experience (baseline)
-- 2-3+ years managing two or more teams at once (baseline)
 
 ### Process management
 - SOC 2 and GDPR compliance ownership (weight:5%, match:75%)
@@ -72,10 +57,21 @@ Posted anonymously through Sage Recruiting, but it is Riva, where I already inte
 - CI/CD (baseline)
 - Raising code quality standards and code review (baseline)
 
+### People management
+- Scaling an organization through rapid growth or post-product-market-fit (weight:2%, match:100%)
+- Leading through team leads: 1:1s with leads, skip-levels with engineers (baseline)
+- Career development and development planning for engineers (baseline)
+- Performance management (baseline)
+- Coaching and mentoring engineers (baseline)
+- Partnering with HR on recruiting and hiring (baseline)
+- Leading remote-first, globally distributed teams (baseline)
+- Building and growing high-performing teams (baseline)
+- Team culture, morale and eNPS, earning trust with a tenured team (baseline)
+- Taking part in budget and compensation planning (baseline)
+
 ### Product management
 - Partnering with Product on staffing, roadmap planning and execution (baseline)
-- Technical roadmap ownership for own scope (baseline)
-- Budget ownership and planning (baseline)
+- Technical roadmap ownership across the teams (baseline)
 
 ## Summary
 
@@ -115,3 +111,4 @@ Engineering Manager, Senior Engineering Manager, manager of managers, second-lin
 - This is a broader mandate than the role I lost: 4 teams / 18 people through 4 Team Leads, versus one team owning the Outlook integration piece. Lines up with the reorg Sean Doran described ("too many small teams", "expects 2 EMs under him") having gone further than planned.
 - Comp ceiling moved from $195K to $200K base.
 - Open concerns from last time still stand: VP seemed loose technically, slow .NET 8 migration, and market position against AI-native productivity tools.
+- Re-graded from Director to Senior Manager on 2026-09-16 after the grading scheme was corrected. The old rule sent any lead layer to Director, which also produced a bogus title/grade mismatch flag on this record. Match moved 77% to 76%: career development became baseline at this grade, where Director had dropped it into the score.
