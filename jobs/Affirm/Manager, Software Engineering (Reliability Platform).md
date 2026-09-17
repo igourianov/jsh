@@ -2,6 +2,7 @@
 
 Best content fit of the three Affirm reqs (internal platforms 75%, AI-assisted workflows 100%) and the number carries Platform/SRE domain weight that matched at 50%, but the score is moot: it's Remote US and unavailable without work authorization, and the 2+ year leadership bar puts it under your level anyway.
 
+- **URL:** https://job-boards.greenhouse.io/affirm/jobs/7765112003
 - **Company:** Affirm
 - **Location:** Remote (US only)
 - **Employment type:** Permanent (assumed)
