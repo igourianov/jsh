@@ -14,6 +14,7 @@ Best content fit of the three Affirm reqs (internal platforms 75%, AI-assisted w
 - **Progress:**
   - 2026-09-09 Saved
   - 2026-09-09 Contacted: Shauna LeValley surfaced this req after I passed on Infra Foundations; recruiter screen booked for 2026-09-17
+  - 2026-09-17 Follow-up: Shauna no-showed the screen she booked; emailed her 7 min into the slot
 
 ## Red flags
 
@@ -107,4 +108,14 @@ reliability engineering, site reliability engineering, SRE, production engineeri
 
 - Shauna surfaced this req herself after I passed on Infra Foundations, and led with "our big focus right now is around AI workflows"
 - Recruiter screen booked for 2026-09-17 via her scheduling link
-- Raised the Remote US posting and my lack of US work authorization in the reply, so it gets resolved before the call rather than on it
+- Did not raise the Remote US posting or my lack of US work authorization in the reply. It goes on the call, not ahead of it
+
+### 2026-09-17 Follow-up
+
+- Shauna no-showed the recruiter screen she booked via her own scheduling link. No cancellation, no reschedule notice, no apology
+- Emailed her 7 minutes into the slot: "I'm waiting on the call. Let me know if you need to reschedule." Deliberately short and unbothered
+- Dropped off at the 10 minute mark. It was a 30 minute booking, so a third of it was already gone with no contact and no explanation
+- She sourced me twice and surfaced this req unprompted, then missed the call she set up. Responsive while sourcing, unreliable once booked
+- Matches the Glassdoor signal of ~52% positive interview experience and an inconsistently run loop
+- Confidence: low, and excitement lower. The role was already blocked on Remote US and levelled under my scope
+- Outbound, so the ghost clock still runs from 2026-09-09 and goes stale 2026-09-30

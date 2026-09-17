@@ -45,11 +45,21 @@ Hi Ilia, I appreciate your response. We have an EM opening for our Reliability P
 
 ---
 
-**Ilia - 2026-09-09, LinkedIn (draft)**
+**Ilia - 2026-09-09, LinkedIn**
 
 Hi Shauna,
 
 This one looks much closer to my background. I've booked time with you for Thursday the 17th.
 
 Looking forward to it!
+
+---
+
+**Ilia - 2026-09-17, email**
+
+Sent 7 minutes into the scheduled call slot. Shauna no-showed.
+
+Hi Shauna,
+
+I'm waiting on the call. Let me know if you need to reschedule.
 
