@@ -5,6 +5,7 @@
 - Profitable, no plans to raise more funding (Fred Croson, recruiter screen 2026-09-15)
 - Tech stack: Python/Django (Fred Croson, recruiter screen 2026-09-15)
 - Canadian hires are employed through Deel (EOR) (Fred Croson, recruiter screen 2026-09-15)
+- Engineering org is mid-transformation with an AI focus (Mike Saffitz, hiring manager round 2026-09-18)
 
 ## Key Contacts
 

@@ -17,6 +17,7 @@ Thin match: only three job-specific asks drive the number. Domain fit is partial
   - 2026-09-10 Contacted: Fred Croson sent self-scheduling link for next interview
   - 2026-09-11 Contacted: Fred rescheduled the screen to 1:30pm ET
   - 2026-09-15 Recruiter screen: advanced to hiring manager round, NDA to sign first
+  - 2026-09-18 Hiring manager
 
 ## Qualifications
 
@@ -77,7 +78,6 @@ Engineering Manager, incentive compensation management, ICM, sales performance m
 - Fred framed seniority as influence on product and tech direction rather than people scope. What does that look like concretely: who owns the roadmap for the surface, and where does this EM's call override Product's?
 - Recruiter framing points to no coding. How involved is the EM in architecture and design review, given the loop has a system design round?
 - What levels are the 8 engineers, and how is the team split across US and Canadian timezones?
-- Is this a backfill or new headcount? If backfill, what happened to the previous manager?
 - Mike joined ~3 months ago, likely into the Director of Engineering, ICM role I passed on in June. Confirm, and ask what he has changed so far and what he was brought in to fix.
 - What does the Incentive Compensation Operations surface own concretely: payouts, statements, inquiries, reporting. Which of those are the team's, and which belong elsewhere?
 
@@ -94,7 +94,6 @@ Engineering Manager, incentive compensation management, ICM, sales performance m
 
 - There have been several rounds of layoffs since Nov 2022. What has the picture been over the last 12 months, and has engineering been affected?
 - The ICM/SPM category has been consolidating and CaptivateIQ is one of the last independents at scale. Is the plan to stay independent? An acquirer with an overlapping comp surface does not need two EMs on it.
-- What is the headcount plan for this team over the next year? A company optimizing to profitability does not grow teams, and if the answer is "hold steady" then the hiring and growing-engineers half of this job, my strongest material, is not really the job.
 
 **Equity**
 - What is the equity component: size, strike, refresh policy, and current 409A against the 2022 $1.25B mark?
@@ -135,4 +134,15 @@ Engineering Manager, incentive compensation management, ICM, sales performance m
 - Seniority ("Sr.") comes from influence on product and tech direction, not from a larger people scope. Consistent with a single team of 8 and no managers under the role
 - Reports to Mike Saffitz, Sr. Director. https://www.linkedin.com/in/msaffitz/
 - Remaining loop: hiring manager (Mike), technical (system design), senior leadership/fit
+- Confidence: positive
+
+### 2026-09-18 Hiring manager
+
+- Interviewer: Mike Saffitz (Sr. Director)
+- Very engaged conversation, ran 15 minutes over
+- No commitment to a next step, they will get back to me
+- Team: 8 engineers today, poised to grow to 10-12
+- Org is in the midst of a transformation with an AI focus
+- Previous manager of the team moved to another role within the org, so this is a backfill with no sign of a bad exit
+- Strongly aligned with Mike on the role of AI and its weak spots
 - Confidence: positive
