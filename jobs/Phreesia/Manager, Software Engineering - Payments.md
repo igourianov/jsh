@@ -10,9 +10,10 @@ Stack is a near-exact fit (.NET, SQL Server, Azure/AWS, Redis, AI adoption), but
 - **Benefits:** Comprehensive Total Rewards package (unspecified details)
 - **Team size:** Not specified. Distributed team of engineers, QA and SDETs
 - **Grade:** Manager (from scope)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-09-18 Saved
+  - 2026-09-19 Passed
 
 ## Red flags
 - **Below-market compensation:** CAD $145,000-$170,000 total cash, below the 180K total floor even at the top of the band.
