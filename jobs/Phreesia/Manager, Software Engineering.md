@@ -8,13 +8,14 @@ Strong technical and web stack fit (.NET, React, healthcare industry background)
 - **Compensation:** CAD $145,000–$170,000 total cash
 - **Benefits:** Comprehensive Total Rewards package (unspecified details)
 - **Team size:** Not specified
-- **Status:** Rejected
+- **Status:** Failed
 - **Progress:**
   - 2026-07-17 Saved
   - 2026-07-17 Applied
   - 2026-07-28 Contacted: recruiter screen booked for 2026-08-03
   - 2026-07-31 Saved
-  - 2026-08-11 Rejected
+  - 2026-08-03 Recruiter screen
+  - 2026-08-11 Failed
 
 ## Qualifications
 
@@ -85,3 +86,9 @@ Engineering Manager, VoiceAI, Voice AI, LLM, agentic development, AI-assisted de
 1. How did the May 2026 restructuring (~220 roles cut) affect the VoiceAI team specifically, and is the team still growing or backfilling?
 2. What does team structure look like: team size, reporting line, mix of employees vs. contractors?
 3. What's the state of the current Voice AI/LLM production system: greenfield, actively shipping, or early-stage?
+
+## Log
+
+### 2026-08-03 Recruiter screen
+
+- Call took place. No details recorded at the time and none recalled.
