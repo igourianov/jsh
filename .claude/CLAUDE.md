@@ -33,6 +33,10 @@ This is Ilia Gourianov's personal job search repository: resume materials, cover
 - `recruiters/{recruiter_name}.md` - communication threads with individual recruiters extracted from email or LinkedIn messages, but not yet linked to a specific job posting.
 - `archive/` - Archived cover letters, interview questions, and other historical materials
 
+## Screening a posting
+
+A posting with no instructions attached is a request to screen it. A URL, a file path or a pasted job description all count. Invoke the `screen-job` skill immediately, passing the input verbatim. Do not summarize it first, do not ask what to do with it, do not start your own analysis. The skill owns the whole workflow, and the response is only what its `## Response` section specifies.
+
 ## Job posting notes
 
 Whenever I make statements about the application process, the job, an interview or the company, save them. Which file depends on scope.
