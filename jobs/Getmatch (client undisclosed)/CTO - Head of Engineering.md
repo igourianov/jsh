@@ -10,10 +10,11 @@
 - **Benefits:** ДМС, компенсация спорта, рабочий Mac
 - **Team size:** Не указано
 - **Grade:** Director (from title)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-08-30 Saved
   - 2026-08-30 Applied
+  - 2026-09-21 Ghosted
 
 ## Qualifications
 
