@@ -10,10 +10,11 @@ Strong domain match (HCM/Talent tech is a direct hit) but the number leans on th
 - **Benefits:** Medical, dental, life, AD&D, disability insurance; retirement plan; PTO; paid parental leave; wellness programs; remote/WFH stipends; L&D budget
 - **Team size:** 50+ engineers
 - **Grade:** Director (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-08-30 Saved
   - 2026-08-30 Applied
+  - 2026-09-21 Ghosted
 
 ## Qualifications
 
