@@ -10,9 +10,10 @@ Posted anonymously through Sage Recruiting, but it is Riva, where I already inte
 - **Benefits:** Bonus, RRSP match, 4 weeks vacation, extended health, dental, life insurance, professional development allowance
 - **Team size:** 18 (4 Team Leads + 14 engineers across 4 teams)
 - **Grade:** Senior Manager (from scope)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-09-16 Saved
+  - 2026-09-22 Passed
 
 ## Red flags
 - **Prior rejection:** Riva rejected me on 2026-03-11 after the VP Engineering interview (`Senior Engineering Manager.md` in this folder). Same recruiter firm, same VP the role reports to.
@@ -112,3 +113,7 @@ Engineering Manager, Senior Engineering Manager, manager of managers, second-lin
 - Comp ceiling moved from $195K to $200K base.
 - Open concerns from last time still stand: VP seemed loose technically, slow .NET 8 migration, and market position against AI-native productivity tools.
 - Re-graded from Director to Senior Manager on 2026-09-16 after the grading scheme was corrected. The old rule sent any lead layer to Director, which also produced a bogus title/grade mismatch flag on this record. Match moved 77% to 76%: career development became baseline at this grade, where Director had dropped it into the score.
+
+### 2026-09-22 Passed
+
+- Same role and same VP Engineering hiring manager as the February 2026 rejection. Passing rather than reapplying: the leadership style mismatch that killed it last time is unchanged.
