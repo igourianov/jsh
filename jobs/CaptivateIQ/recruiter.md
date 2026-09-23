@@ -95,3 +95,15 @@ Your note offers 2:30 or 3:30 PM "today", but it arrived after 6 PM, so I assume
 Best,
 Ilia
 
+---
+
+**Sent - 2026-09-23**
+
+Subject: Re: Sr. Engineering Manager - Incentive Compensation Ops
+
+Hi Fred,
+
+Following up on my interview with Mike on 2026-09-18. I'd like to close the loop on my candidacy. Is it still relevant on your side?
+
+Best,
+Ilia

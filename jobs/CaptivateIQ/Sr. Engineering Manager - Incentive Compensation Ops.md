@@ -18,6 +18,7 @@ Thin match: only three job-specific asks drive the number. Domain fit is partial
   - 2026-09-11 Contacted: Fred rescheduled the screen to 1:30pm ET
   - 2026-09-15 Recruiter screen: advanced to hiring manager round, NDA to sign first
   - 2026-09-18 Hiring manager
+  - 2026-09-23 Follow-up: emailed Fred to close the loop on candidacy
 
 ## Qualifications
 
