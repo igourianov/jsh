@@ -10,10 +10,11 @@ Thin signal: only 2 job-specific qualifications drove the number (tech stack mat
 - **Benefits:** Medical/dental/vision (US employees), 401(k) match (US employees), unlimited PTO, async-first culture, meaningful equity
 - **Team size:** Not specified
 - **Grade:** Manager (from title)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-02 Saved
   - 2026-09-02 Applied
+  - 2026-09-24 Ghosted
 
 ## Qualifications
 
