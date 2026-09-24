@@ -10,7 +10,7 @@ Thin match: only three job-specific asks drive the number. Domain fit is partial
 - **Benefits:** 100% medical/dental/vision for FTE (~75% for dependents), flexible vacation + quarterly mental health days, professional development and caretaking stipends, work anniversary bonuses, 401(k) (US-only), Apple hardware
 - **Team size:** 8 (US and Canada)
 - **Grade:** Manager (from title)
-- **Status:** Active
+- **Status:** Failed
 - **Progress:**
   - 2026-08-25 Saved
   - 2026-08-25 Applied
@@ -19,6 +19,7 @@ Thin match: only three job-specific asks drive the number. Domain fit is partial
   - 2026-09-15 Recruiter screen: advanced to hiring manager round, NDA to sign first
   - 2026-09-18 Hiring manager
   - 2026-09-23 Follow-up: emailed Fred to close the loop on candidacy
+  - 2026-09-23 Failed: Fred Croson emailed rejection after hiring manager round
 
 ## Qualifications
 
@@ -147,3 +148,9 @@ Engineering Manager, incentive compensation management, ICM, sales performance m
 - Previous manager of the team moved to another role within the org, so this is a backfill with no sign of a bad exit
 - Strongly aligned with Mike on the role of AI and its weak spots
 - Confidence: positive
+
+### 2026-09-23 Failed
+
+- Fred Croson emailed: not moving forward with candidacy at this time. No reason given.
+- Offered to keep in touch about future openings.
+- Rejection was expected. The hiring manager round with Mike closed on "we'll get back to you" with no concrete next step.

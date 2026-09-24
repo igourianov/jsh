@@ -107,3 +107,28 @@ Following up on my interview with Mike on 2026-09-18. I'd like to close the loop
 
 Best,
 Ilia
+
+---
+
+**Received - 2026-09-23**
+
+Hi Ilia,
+
+Thank you for taking the time out of your schedule to catch up with us. Unfortunately, we have made the decision not to move forward in the process with your candidacy at this time.
+
+That being said, we'd like to keep you informed of new opportunities as our team continues to grow. Best of luck with your current search, and please keep in touch!
+
+Thanks again,
+Frederic Croson
+
+---
+
+**Sent - 2026-09-23**
+
+Hi Fred,
+
+Thanks for the update.
+
+If there is any feedback you're able to provide that would help me on my journey, that would be much appreciated.
+
+Best of luck to yourself and CaptivateIQ.
