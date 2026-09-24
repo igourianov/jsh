@@ -8,3 +8,4 @@ Companies not to apply to again.
 | Realistic Recruiting LLC (Mike Peditto) | Toxic behavior |
 | Calyptus (Dianmarie Schoombie) | Screening call focused on promoting their platform rather than the role; unprepared to answer basic questions about the client; onboarded candidate onto platform without explicit consent |
 | Cority | No feedback given after rejection; interviewed twice with no result |
+| TalentsToday | Suspected scam |
