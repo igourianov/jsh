@@ -26,10 +26,10 @@ Engineering Manager who builds teams, shapes product direction and owns delivery
 * Built core platform services enabling other teams to transition to a microservices architecture.
 * Eliminated 12-hour global maintenance windows by driving a zero-downtime deployment strategy.
 
-### Engineering Manager, Product @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Aug 2016 \- Aug 2022
+### Sr. Engineering Manager, Product @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Aug 2016 \- Aug 2022
 
-* Built the Talent Management suite from zero to 1,000+ enterprise customers.
-* Scaled from one team to three cross-functional product teams (8-12 devs+QA each), managing up to 25 engineers directly and via technical leads. Designed the engineering interview process and hired 20+ engineers.
+* Built the Talent Management suite across 3 product teams from zero to 1,000+ enterprise customers.
+* Scaled from one team to three cross-functional teams (8-12 devs+QA each), managing up to 25 engineers directly and via technical leads. Designed the engineering interview process and hired 20+ engineers.
 * Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
 * Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
 * Reduced customer-reported defects by 52% by improving testing processes and expanding automated test coverage.
