@@ -10,10 +10,11 @@ Thin, generic posting with almost nothing job-specific beyond the fulfillment do
 - **Benefits:** New-hire equity grant, annual equity refresh, comprehensive benefits, flexible-first work with in-person events
 - **Team size:** Not specified
 - **Grade:** Manager (from title)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-03 Saved
   - 2026-09-03 Applied
+  - 2026-09-25 Ghosted
 
 ## Red flags
 - **Vague job description:** Only one scored qualification emerged from the entire posting; everything else is boilerplate EM duties with no team size, tech stack, or org structure given. The stated compensation range ("$1–$2 USD") is nonsensical, consistent with a low-effort, possibly auto-generated listing.
