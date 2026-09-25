@@ -10,10 +10,11 @@ Strong domain fit (built platform services at Dayforce that other teams built on
 - **Benefits:** 100% covered medical/dental/vision with dependents, pension contribution, 16 weeks paid parental leave, health & wellness stipend, remote workspace/internet/cellphone stipend, flexible hours, 21 vacation days, 80 hours sick leave, 11 paid holidays
 - **Team size:** Not stated
 - **Grade:** Manager (from title)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-03 Saved
   - 2026-09-03 Applied
+  - 2026-09-25 Ghosted
 
 ## Qualifications
 
