@@ -1,41 +1,41 @@
 # Ilia Gourianov | Engineering Manager
 
 [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
-Fort Erie, ON, Canada
+Ontario, Canada | Remote
 
-Engineering Manager who has built several high-performing engineering teams and products from zero to general availability, including healthcare industry web applications. Technical leader who stays hands-on in architecture decisions and code reviews, championing AI-assisted development tool adoption across teams. Deep expertise in multi-tenant enterprise SaaS and regulated, compliance-driven industries (SOC 2, GDPR).
+Engineering Manager who builds teams, shapes product direction and owns delivery. Technical leader who stays hands-on in the codebase, from architecture to code review, championing AI-assisted development. Deep expertise in multi-tenant enterprise SaaS and regulated industries.
 
 # Competencies
 
-* **People leadership:** hiring, recruitment, onboarding, performance management and career development, mentoring, scaling teams, leading remote teams
-* **Technical leadership:** system design (scalability, reliability), code reviews, relational database design, AI tooling adoption, technical mentorship
-* **Product delivery:** cross-functional partnership with Product, UX, QA and Architecture, roadmap planning, backlog management, OKRs, SDLC ownership, DORA metrics, data-driven decision-making
-* **Process:** Agile/Scrum, balancing feature/technical debt/ops work streams, capacity planning, on-call rotations, blameless postmortems, SOC 2, GDPR
-* **Tech stack:** Claude Code, C#, OOP, .NET Core, ASP.NET MVC, JavaScript/TypeScript, ReactJS, Node.js, REST APIs, SQL Server, EntityFramework, Dapper, AWS/Azure, Kubernetes (AKS), Docker, Terraform, Redis, ElasticSearch, Kafka, Prometheus+Grafana, microservices, event-driven architecture, CI/CD, Azure DevOps, Git, HTML/CSS, NUnit/xUnit, Selenium
+* **Technical leadership:** system design, code reviews, technical mentorship, AI-assisted development tools adoption
+* **People leadership:** building and scaling remote teams, recruiting, hiring and onboarding, mentoring, performance management, managing contractors
+* **Product delivery:** cross-functional partnership with Product and UX, roadmap planning, estimation and forecasting, breaking requirements into user stories, SDLC ownership, OKRs, DORA/DevEx metrics
+* **Process:** Agile/Scrum, AI SDLC, balancing feature/technical debt/ops work streams, capacity planning, on-call rotations, escalation triage and prioritization, blameless postmortems, SOC 2, GDPR
+* **Tech stack:** Claude Code, C\#, .NET Core, ASP.NET MVC, JavaScript/TypeScript, ReactJS, Angular, HTML/CSS, Java, PHP, SQL Server (relational databases), Redis, ElasticSearch, microservices, REST APIs, AWS/Azure, CI/CD (continuous delivery), GitHub, NUnit/xUnit, Selenium
 
 # Experience
 
-### Engineering Manager, Transformation @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Jan 2022 \- Oct 2025
+### Engineering Manager, Modernization @ [Dayforce](https://www.linkedin.com/company/dayforce/) | Aug 2022 \- Oct 2025
 
-[DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment processing sensitive data at scale.
+[DayforceHCM](https://www.dayforce.com/). Multi-tenant HCM SaaS processing payroll and HR data for mid-market to Fortune 500 customers.
 
-* Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
-* Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition and core platform services.
-* Extracted a critical calculation engine from the monolith into an independently scalable microservice.
+* Led AI-assisted migration of 2,000 data grid screens from a legacy JS framework to Angular using Claude Code, automating 80% of the conversion.
+* Championed agentic workflow practices and guardrails, driving adoption of AI-assisted development tools across my own and adjacent teams, increasing PR throughput by over 40%.
+* Extracted a critical calculation engine from the monolith into an independently scalable microservice, reducing calc time for large clients from a day to under an hour.
+* Eliminated 12-hour global maintenance windows by driving a zero-downtime deployment strategy.
 * Built core platform services enabling other teams to transition to a microservices architecture.
-* Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services.
+* Stood up a platform team of senior/staff engineers focused on monolith decomposition.
 
-### Engineering Manager, Product @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Jan 2022
+### Engineering Manager, Product @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Aug 2016 \- Aug 2022
 
-* Scaled from one team to three high-performing cross-functional product teams (8-12 devs+QA each, 30+ engineers total). Designed the engineering interview process and hired 20+ engineers. Managed up to 25 engineers directly and via technical leads.
+* Built the Talent Management suite from zero to 1,000+ enterprise customers.
+* Reduced customer-reported defects by 52% by improving testing processes and expanding automated test coverage.
+* Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 30% and enabling teams to ship independently.
+* Scaled from one team to three cross-functional product teams (8-12 devs+QA each), managing up to 25 engineers directly and via technical leads. Designed the engineering interview process and onboarding, and hired 20+ engineers.
 * Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
 * Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
-* Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
-* Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
-* Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 90% and enabling teams to ship independently.
-* Identified and documented eligible R&D projects for SR&ED tax credit claims, recovering up to $300K annually.
 
-### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
+### Lead Developer @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Mar 2013 \- Aug 2016
 
 * Led technical design and delivery of a greenfield ATS (Applicant Tracking System), establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
 * Led remediation of SOC 2 audit findings, implementing access controls, audit logging and change management processes for the team's codebase.
@@ -46,7 +46,7 @@ Engineering Manager who has built several high-performing engineering teams and 
 
 Digital agency providing marketing services for healthcare industry.
 
-* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda
-* Contributed to a proprietary CMS powering client-facing marketing sites
-* Contributed to an internal work tracking system used across the agency
-* Contributed to an internal web framework including a custom ORM
+* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda.
+* Contributed to a proprietary CMS powering client-facing marketing sites.
+* Contributed to an internal work tracking system used across the agency.
+* Contributed to an internal web framework including a custom ORM.
