@@ -10,9 +10,10 @@ Data science and analytics team, not product engineering: the number carries 16%
 - **Benefits:** Annual bonus or commission, bi-annual compensation reviews, USD 2,000 learning budget, 40 days leave including public holidays, wellness platform, twice-yearly in-person sprints, international travel for company events
 - **Team size:** Unstated (one squad of People Data Scientists, Software Engineers and UX Designers)
 - **Grade:** Manager (from scope)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-09-25 Saved
+  - 2026-09-25 Passed
 
 ## Qualifications
 
