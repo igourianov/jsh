@@ -10,10 +10,11 @@ Strong domain fit (platform-building for other teams, prior fintech-adjacent reg
 - **Benefits:** Health, dental, vision, life insurance; group RRSP with employer match; 20 vacation days + 4 wellness days; unlimited sick/mental health days; 90 days/year working abroad
 - **Team size:** ~8 direct reports (full-stack developers)
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-04 Saved
   - 2026-09-04 Applied
+  - 2026-09-26 Ghosted
 
 ## Red flags
 - **Title/grade mismatch:** Title is "Senior Manager" but the described scope (one team, ~8 direct reports, no managers/leads reporting in) is Manager grade. Title above grade.
