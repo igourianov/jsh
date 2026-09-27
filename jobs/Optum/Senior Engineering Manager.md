@@ -10,12 +10,13 @@ Cloud, AI adoption and the Senior Manager scope match, but data-platform scale i
 - **Benefits:** Not specified
 - **Team size:** 20+ engineers across multiple teams, directly or via leads/managers
 - **Grade:** Senior Manager (from scope)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-08-24 Saved
   - 2026-08-24 Applied
   - 2026-09-15 Ghosted
   - 2026-09-24 Saved: rescreened, new posting URL
+  - 2026-09-27 Passed
 
 ## Qualifications
 
