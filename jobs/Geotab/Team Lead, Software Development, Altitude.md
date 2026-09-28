@@ -10,9 +10,10 @@ Manager-grade role wearing a Team Lead title (direct reports, hiring-adjacent co
 - **Benefits:** Medical and dental benefits, retirement savings program, home office reimbursement, baby bonus & parental leave top-up, online learning, EV purchase incentive
 - **Team size:** Not stated (small cross-functional team, including a direct-report UX designer)
 - **Grade:** Manager (from scope)
-- **Status:** Saved
+- **Status:** Passed
 - **Progress:**
   - 2026-09-28 Saved
+  - 2026-09-28 Passed
 
 ## Red flags
 
@@ -82,3 +83,9 @@ software development team lead, engineering leadership, people management, coach
 ## Log
 
 ### 2026-09-28 Saved
+
+### 2026-09-28 Passed
+
+- Comp is $104,400-$135,700 CAD base, no bonus or equity, well below the 180-200k floor
+- Hybrid in Oakville, past the Toronto commute line
+- Either blocker alone kills it; not worth pursuing regardless of content fit
