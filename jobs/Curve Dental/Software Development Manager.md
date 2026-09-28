@@ -10,13 +10,14 @@ Stack and domain line up closely, only AWS depth (Azure background) and AI/ML pr
 - **Benefits:** Not stated
 - **Team size:** Not stated
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Rejected
 - **Progress:**
   - 2026-07-07 Saved
   - 2026-07-07 Applied
   - 2026-07-09 Rejected
   - 2026-09-25 Saved
   - 2026-09-25 Applied
+  - 2026-09-28 Rejected
 
 ## Qualifications
 
