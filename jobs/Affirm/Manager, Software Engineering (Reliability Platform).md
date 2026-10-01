@@ -10,11 +10,12 @@ Best content fit of the three Affirm reqs (internal platforms 75%, AI-assisted w
 - **Benefits:** 100% subsidized medical, dental and vision for employee and dependents; equity rewards; monthly stipends for tech, wellness, food, lifestyle and family forming; ESPP; vacation and holidays
 - **Team size:** Not stated (one team)
 - **Grade:** Manager (from scope)
-- **Status:** Active
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-09 Saved
   - 2026-09-09 Contacted: Shauna LeValley surfaced this req after I passed on Infra Foundations; recruiter screen booked for 2026-09-17
   - 2026-09-17 Follow-up: Shauna no-showed the screen she booked; emailed her 7 min into the slot
+  - 2026-10-01 Ghosted
 
 ## Red flags
 
