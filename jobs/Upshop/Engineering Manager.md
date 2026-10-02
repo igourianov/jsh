@@ -10,10 +10,11 @@ Near-total stack coverage and a real AI-tooling mandate. Remaining loss is groce
 - **Benefits:** Not stated
 - **Team size:** Not stated
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-10 Saved
   - 2026-09-10 Applied
+  - 2026-10-02 Ghosted
 
 ## Qualifications
 
