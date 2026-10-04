@@ -10,10 +10,11 @@ Strong fit on the leadership and AI-adoption side, but the number rests on a 19%
 - **Benefits:** Not stated
 - **Team size:** Not stated; multiple teams
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-11 Saved
   - 2026-09-11 Applied
+  - 2026-10-04 Ghosted
 
 ## Qualifications
 
