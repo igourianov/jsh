@@ -15,6 +15,8 @@
 - **2022** - Avoided layoffs during tech downturn, gave employee raises
 - **2025 (May)** - Hit $1.8B valuation via $500M+ secondary deal (TCV, JMI Equity, Tidemark Management buying shares from existing investors and employees)
 - **2025** - Ranked #308 on Deloitte Technology Fast 500, #15 on Deloitte Canada Enterprise Industry Leaders
+- **2026 (March)** - First public acquisition: Ginger Desk (Vancouver), virtual assistants for clinic administration
+- **2026** - Silver Stevie Award for customer service (third Stevie win)
 - **2026** - 200,000+ practitioners across 50,000 clinics in Canada, U.S. and U.K.
 
 ## Company & Product
@@ -24,7 +26,7 @@ Target market is small and medium-sized multi-discipline health clinics. Pricing
 
 The product competes with SimplePractice (more mental health focused) and other clinic management tools. Jane differentiates through its interdisciplinary clinic support and strong customer satisfaction (high Capterra ratings).
 
-Currently investing in AI features including an "AI scribe" that generates clinical notes during patient visits.
+Currently investing in AI. The AI Scribe generates chart notes from in-person and live telehealth sessions. As of 2026-09 it supports recording straight from the chart and highlight-to-edit on drafts. Other 2026 releases: Clinic Financing for Canadian clinics, secure practitioner-to-patient messaging, mobile client app now in the US. The company states it uses AI to support its team rather than cut headcount.
 
 ## Engineering Culture
 Ruby on Rails monolith on the backend, with React and Vue.js on the frontend. The engineering org has doubled in size recently.
@@ -59,7 +61,7 @@ Ruby on Rails monolith on the backend, with React and Vue.js on the frontend. Th
 - **AI:** Building AI scribe features, internal AI tooling with MCP
 
 ## Team Health
-- **Glassdoor:** 4.0/5 (185 reviews), 71% recommend to a friend
+- **Glassdoor:** 4.1/5 (202 reviews). Software Engineer 4.3/5 (17 reviews), Software Developer 4.3/5 (16 reviews). Recommend-to-friend figure (71%) is from an older snapshot.
 - **Work-Life Balance:** 3.7/5
 - **Culture & Values:** 3.9/5
 - **Career Opportunities:** 3.8/5
@@ -69,12 +71,13 @@ Ruby on Rails monolith on the backend, with React and Vue.js on the frontend. Th
 - People are genuinely thoughtful and customer-obsessed. "Delightful place to work" is a recurring phrase.
 - Remote-first culture is well-supported with in-person retreats and departmental get-togethers.
 - Company has been hiring experienced engineers and engineering leaders to raise the technical bar.
+- Recent engineer reviews: transparent leadership, strong compensation and perks. Concerns: unclear promotion bar between levels, slightly dated tech, frequent reorganizations during growth.
 - Growing pains from rapid scaling are felt across the org. Management frameworks are being introduced to bring consistency.
 
 ## Business Stability
 **Strong.** Jane is bootstrapped, profitable, and approaching $100M ARR with only ~$10M in primary funding ever raised. The $1.8B valuation secondary deal in 2025 provided liquidity for employees and early investors without diluting founder control. No VC board seats or pressure to grow unsustainably.
 
-The healthcare practice management market is stable and growing. Jane's word-of-mouth growth and high customer retention suggest strong product-market fit. No layoffs in company history.
+The healthcare practice management market is stable and growing. Jane's word-of-mouth growth and high customer retention suggest strong product-market fit. No layoffs in company history. The March 2026 Ginger Desk acquisition shows the company now uses its cash for M&A.
 
 ## Red Flags
 - Tech debt is a recurring theme. Multiple Glassdoor reviews mention it as a significant challenge.
@@ -90,6 +93,10 @@ None of these are dealbreakers. They are typical scale-up growing pains, and the
 - [About Jane](https://jane.app/about)
 - [Jane Software - Crunchbase](https://www.crunchbase.com/organization/jane-software-inc)
 - [Jane Software Hits $1.8B Valuation - Techcouver](https://techcouver.com/2025/05/26/jane-software-hits-billion-valuation-secondary-deal/)
+- [Jane App Glassdoor Software Engineer Reviews](https://www.glassdoor.ca/Reviews/Jane-App-Software-Engineer-Reviews-EI_IE1791178.0,8_KO9,26.htm)
+- [Jane Product Updates](https://jane.app/blog)
+- [Jane Stevie Award 2026](https://www.prnewswire.com/news-releases/jane-app-recognized-with-2026-silver-stevie-award-for-outstanding-customer-service-in-software-technology-302734851.html)
+- [Jane Software - PitchBook](https://pitchbook.com/profiles/company/173128-51)
 - [Jane App Glassdoor Reviews](https://www.glassdoor.com/Reviews/Jane-App-Reviews-E1791178.htm)
 - [Jane App GitHub](https://github.com/janeapp)
 - [Jane App Tech Stack - Himalayas](https://himalayas.app/companies/jane-app/tech-stack)
