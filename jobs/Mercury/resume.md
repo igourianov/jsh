@@ -1,52 +1,52 @@
 # Ilia Gourianov | Engineering Manager
 
 [ilia.gourianov@gmail.com](mailto:ilia.gourianov@gmail.com) | [647-235-1188](tel:+16472351188) | [linkedin.com/in/ilia-gourianov](https://www.linkedin.com/in/ilia-gourianov/) | [github.com/igourianov](https://github.com/igourianov) \
-Fort Erie, ON, Canada
+Ontario, Canada | Remote
 
-Engineering Manager who has built several high-performing full-stack product teams and shipped products from zero to general availability. Technical leader who drives architectural decisions across monolithic and microservice systems, stays hands-on in code reviews, and champions AI-augmented development with Claude Code. Strong product ownership mindset with deep cross-functional partnership across Product, UX and Architecture in multi-tenant enterprise SaaS.
+Engineering Manager who builds teams, shapes product direction and owns delivery. Technical leader who stays hands-on in the codebase, from architecture to code review, championing AI-assisted development with guardrails. Deep expertise in multi-tenant enterprise SaaS and regulated industries.
 
 # Competencies
 
-* **Technical leadership:** system design, architectural decisions, monolith decomposition, microservices, event-driven and streaming architectures, code reviews, technical mentorship, AI tooling adoption
-* **Tech stack:** Claude Code, AI-augmented development, C\#, .NET Core, ASP.NET MVC, Node.js, JavaScript/TypeScript, ReactJS, HTML/CSS, SQL Server, EntityFramework, Dapper, Redis, ElasticSearch, Kafka, Kubernetes (AKS), Docker, Terraform, Prometheus+Grafana, microservices, event-driven architecture, AWS/Azure, CI/CD, Azure DevOps, Git, REST APIs, NUnit/xUnit, Selenium
-* **Product delivery:** product ownership, roadmap planning, OKRs, SDLC ownership, DORA metrics, data-driven decision-making, cross-functional partnership with Product, UX and Architecture
-* **People leadership:** hiring, mentorship, performance management, scaling teams, career development, team culture, leading remote teams
-* **Process:** Agile/Scrum, capacity planning, on-call rotations, blameless postmortems, balancing feature/debt/ops work streams, SOC 2, GDPR
+* **People leadership:** hiring, mentoring, coaching and feedback, performance management, building and scaling remote teams, vendor management, managing contractors
+* **Process:** high-availability systems, on-call rotations, escalation triage and prioritization, blameless postmortems, operational reliability, balancing feature/debt/ops work streams, AI SDLC, Agile/Scrum, capacity planning, SOC 2, GDPR
+* **Technical leadership:** system design, domain-driven design, enterprise architecture, code reviews, technical mentorship, AI tooling adoption
+* **Product delivery:** roadmap planning, OKRs, SDLC ownership, DORA/DevEx metrics, cross-functional partnership with Product, Design (UX), Compliance and Operations
+* **Tech stack:** Claude Code, JavaScript/TypeScript, microservices
 
 # Experience
 
-### Engineering Manager, Transformation @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Jan 2022 \- Oct 2025
+### Engineering Manager, Modernization @ [Dayforce](https://www.linkedin.com/company/dayforce/) | Aug 2022 \- Oct 2025
 
-[DayforceHCM](https://www.dayforce.com/). Global enterprise-scale multi-tenant SaaS platform serving mid-market to Fortune 500 companies. High-availability, compliance-driven environment processing sensitive data at scale.
+[DayforceHCM](https://www.dayforce.com/). Multi-tenant HCM SaaS processing payroll and HR data for mid-market to Fortune 500 customers.
 
-* Led AI-assisted migration of the frontend codebase from a legacy JS framework to Angular using Claude Code, achieving 80% automated transformation and accelerating the modernization timeline.
-* Extracted a critical calculation engine from the monolith into an independently scalable microservice.
+* Stood up a platform team of senior/staff engineers focused on monolith decomposition.
+* Championed AI-assisted development practices and guardrails (agentic workflows), driving adoption across my own and adjacent teams, increasing PR throughput by over 40%.
+* Eliminated 12-hour global maintenance windows by driving a zero-downtime deployment strategy.
+* Extracted a critical calculation engine from the monolith into an independently scalable microservice, reducing calc time for large clients from a day to under an hour.
+* Led AI-assisted migration of 2,000 data grid screens from a legacy JS framework to Angular using Claude Code, automating 80% of the conversion.
 * Built core platform services enabling other teams to transition to a microservices architecture.
-* Stood up a platform team of 5 senior/staff engineers focused on monolith decomposition and core platform services.
-* Eliminated 12-hour global maintenance windows by driving zero-downtime deployment strategy for core platform services.
 
-### Engineering Manager, Product @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Nov 2015 \- Jan 2022
+### Sr. Engineering Manager, Product @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Aug 2016 \- Aug 2022
 
-* Built the Talent Management suite from zero to 1,000+ enterprise customers, contributing to DayforceHCM's recognition as a Gartner Leaders Quadrant recipient in Cloud HCM Suites.
-* Scaled from one team to three high-performing cross-functional product teams (8-12 devs+QA each, 30+ engineers total). Designed the engineering interview process and hired 20+ engineers. Managed up to 25 engineers directly and via technical leads.
+* Reduced customer-reported defects by 52% by improving testing processes and expanding automated test coverage.
+* Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 30% and enabling teams to ship independently.
+* Scaled from one team to three cross-functional teams (8-12 devs+QA each), managing up to 25 engineers directly and via technical leads. Designed the engineering interview process and hired 20+ engineers.
 * Promoted 12 engineers across levels and developed 2 senior ICs into engineering managers now leading their own teams.
 * Achieved zero voluntary attrition for 6 consecutive years across teams of 25+ engineers, including through COVID remote transition. Consistently scored highest eNPS in the product organization for 5 years.
-* Reduced customer-reported defects by 72% by improving testing processes and expanding automated test coverage.
-* Redesigned branching and deployment process to eliminate cross-team environment conflicts, reducing deployment failures by 90% and enabling teams to ship independently.
-* Identified and documented eligible R&D projects for SR&ED tax credit claims, recovering up to $300K annually.
+* Built the Talent Management suite across 3 product teams from zero to 1,000+ enterprise customers.
 
-### Lead Developer @ [Ceridian Inc / Dayforce](https://www.linkedin.com/company/dayforce/) | Mar 2013 \- Nov 2015
+### Lead Developer @ [Ceridian](https://www.linkedin.com/company/ceridian/) | Mar 2013 \- Aug 2016
 
-* Led technical design and delivery of a greenfield ATS (Applicant Tracking System), establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
-* Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts.
 * Led remediation of SOC 2 audit findings, implementing access controls, audit logging and change management processes for the team's codebase.
+* Redesigned database schema upgrade process, cutting deployment time from 8+ hours to 30 minutes and eliminating 90% of merge conflicts.
+* Led technical design and delivery of a greenfield ATS (Applicant Tracking System), establishing the company's entry into HRTech and creating architectural patterns adopted across future HR products.
 * Optimized localization data architecture, enabling zero-downtime language updates and reducing internationalization time-to-market from weeks to hours.
 
 ### Software Developer @ [Klick Health](https://www.linkedin.com/company/klick-health/) | Sept 2005 \- Mar 2013
 
 Digital agency providing marketing services for healthcare industry.
 
-* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda
-* Contributed to a proprietary CMS powering client-facing marketing sites
-* Contributed to an internal work tracking system used across the agency
-* Contributed to an internal web framework including a custom ORM
+* Delivered 20+ marketing web applications for healthcare industry leaders including Pfizer, AstraZeneca and Takeda.
+* Contributed to a proprietary CMS powering client-facing marketing sites.
+* Contributed to an internal work tracking system used across the agency.
+* Contributed to an internal web framework including a custom ORM.
