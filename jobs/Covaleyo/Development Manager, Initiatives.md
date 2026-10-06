@@ -10,10 +10,11 @@ Strong fit on AI-first development: product initiatives team built fast with age
 - **Benefits:** Not stated
 - **Team size:** Not stated ("lean" offshore team)
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-14 Saved
   - 2026-09-14 Applied
+  - 2026-10-06 Ghosted
 
 ## Red flags
 - **Below-market compensation:** Base CAD $135-165K on Workday ($130-150K on LinkedIn) with no bonus or equity mentioned, under the $180K floor even at the top of the range and below market for an EM role in Canada.
