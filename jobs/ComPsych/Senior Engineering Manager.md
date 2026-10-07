@@ -10,10 +10,11 @@ Director-scope org under an SEM title: the number carries a hard manager-of-mana
 - **Benefits:** PTO, medical, dental, vision, 401(k) with match, EAP, wellness program
 - **Team size:** Multiple teams with managers or leads, size not stated
 - **Grade:** Director (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-15 Saved
   - 2026-09-15 Applied
+  - 2026-10-07 Ghosted
 
 ## Red flags
 - **Title/grade mismatch:** Title below grade. Senior Engineering Manager title over a multi-team org with managers or leads reporting in, accountable for mentoring other managers. Director scope under an SEM label; a leveling conversation to have before an offer.
