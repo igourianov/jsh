@@ -10,13 +10,14 @@ Process and developer-velocity ownership is a full match; the score is held down
 - **Benefits:** Home office support, annual company retreats, remote-first flexible work
 - **Team size:** Not specified (mixed-level team, direct reports)
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-06-25 Saved
   - 2026-06-25 Applied
   - 2026-06-30 Rejected
   - 2026-09-16 Saved
   - 2026-09-16 Applied
+  - 2026-10-08 Ghosted
 
 ## Qualifications
 
