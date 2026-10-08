@@ -10,10 +10,11 @@ Near-perfect stack and mandate overlap: C#/.NET, monolith decomposition, SQL Ser
 - **Benefits:** 28 calendar days vacation, 7 wellness days, $5K referral bonuses, 50% training/conference reimbursement, English lesson discounts, up to $1,000/yr health support where no corporate medical insurance exists, up to $1,000/3yr home-office reimbursement, gamified peer recognition
 - **Team size:** Not stated
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-16 Saved
   - 2026-09-16 Applied
+  - 2026-10-08 Ghosted
 
 ## Red flags
 - **Title/grade mismatch:** Title below grade. "Lead Software Engineer" sits over a role with direct reports, 1:1s, performance reviews, objective evaluations and career development ownership. That is a manager requisition under an IC title. Leveling and comp will track the title, not the scope, and the title does not travel to the next employer.
