@@ -10,10 +10,11 @@ Second-line role at your grade with comp well above floor and a zero-to-one mand
 - **Benefits:** comprehensive benefits package (details on company site)
 - **Team size:** ~15 engineers and 3 engineering managers
 - **Grade:** Senior Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-17 Saved
   - 2026-09-17 Applied
+  - 2026-10-09 Ghosted
 
 ## Qualifications
 
