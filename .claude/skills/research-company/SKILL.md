@@ -10,6 +10,8 @@ Research company: $ARGUMENTS
 
 Company name provided as $ARGUMENTS.
 
+Warn user if the company is a recruiting agency, not the actual hiring company, before conducting online search.
+
 ## Research Approach
 
 Use WebSearch and WebFetch to gather information from:
