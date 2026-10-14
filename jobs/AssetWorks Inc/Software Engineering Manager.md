@@ -1,0 +1,81 @@
+# Software Engineering Manager | Product | Fleet and asset management, public sector | 82%
+
+Near-exact stack and AI mandate match (C#/.NET, Angular, Claude Code, agentic workflow); only gap is fleet and government domain experience.
+
+- **URL:** https://www.linkedin.com/jobs/view/4479567924/
+- **Company:** AssetWorks Inc
+- **Location:** Remote (United States or Canada)
+- **Employment type:** Permanent (assumed)
+- **Compensation:** Not stated (estimated)
+- **Benefits:** Not stated
+- **Team size:** 5-8
+- **Grade:** Manager (from scope)
+- **Status:** Applied
+- **Progress:**
+  - 2026-10-14 Saved
+  - 2026-10-14 Applied
+
+## Qualifications
+
+### Technical
+- Driving the move from spec-driven to agent-driven development, measuring impact on throughput and quality (weight:21%, match:100%)
+- C# and .NET (weight:17%, match:100%)
+- Hands-on experience with Claude and GitHub Copilot (weight:11%, match:75%)
+- Setting the standard for responsible, secure AI use (weight:9%, match:75%)
+- Spec-driven development (weight:9%, match:75%)
+- Angular or React (weight:9%, match:100%)
+- Oracle or Microsoft SQL Server (weight:6%, match:100%)
+- TypeScript (weight:4%, match:100%)
+- Design and pull request reviews (baseline)
+- 10-30% hands-on coding on prototypes, spikes and unblocking the team (baseline)
+- Legacy product modernization (baseline)
+
+### Product domain
+- Fleet and asset management software for government agencies (weight:14%, match:25%)
+
+### Eligibility
+- 7+ years in software engineering, including 2+ years managing or leading engineers (baseline)
+
+### Engineering domain
+- Product engineering on a mature, business-critical product (baseline)
+
+### People management
+- Coaching and growing a team of 5-8 engineers (baseline)
+- Hiring, goal-setting and performance reviews, including hard conversations (baseline)
+- Career development and career planning (baseline)
+
+### Product management
+- Owning delivery of the product roadmap (baseline)
+- Capacity planning and risk management (baseline)
+- Trade-offs between scope, quality and team health (baseline)
+- Partnering with Product Management to shape priorities and turn requirements into specs and designs (baseline)
+- Working with Documentation, Customer Care, Architecture and DevOps to ship releases and resolve customer issues (baseline)
+
+### Process management
+- Process improvements for higher-quality, more predictable releases (baseline)
+- Leading Agile teams (Scrum, Kanban, SAFe) (baseline)
+
+### Education
+- Bachelor's in CS or equivalent practical experience (baseline)
+
+## Summary
+
+Development Manager leading a team of 5-8 engineers modernizing a mature fleet and asset management product on Angular and .NET. Reports to the Director of Engineering. The team is AI-first: over 80% of code is already AI-generated through spec-driven development with Claude and GitHub Copilot. The mandate is to move the team to an agent-driven workflow and prove the results. Owns people, delivery and team health while staying hands-on.
+
+- **Coding:** 10-30% (stated by the posting): prototypes, spikes and unblocking the team
+- Lead, coach and grow 5-8 engineers: hiring, goal-setting, performance reviews, career development
+- Own delivery of the product roadmap: capacity, risk, trade-offs between scope, quality and team health
+- Own process improvements for higher-quality, more predictable releases
+- Drive the move from spec-driven to agent-driven development and measure impact on throughput and quality
+- Set the standard for responsible, secure AI use
+- Review designs and pull requests
+- Partner with Product Management to turn requirements into specs and designs
+- Work with Documentation, Customer Care, Architecture and DevOps to ship releases and resolve customer issues
+
+## Company
+
+AssetWorks builds fleet and asset management software for cities, counties and state and federal agencies, covering capital and operating expenditure control, asset availability and uptime, and regulatory risk. A US corporation and portfolio company of Volaris Group, part of Constellation Software (TSX: CSU), which buys and holds software businesses long term.
+
+## Keywords
+
+Development Manager, Software Engineering Manager, engineering management, people management, hiring, coaching, performance reviews, career development, roadmap, delivery, capacity planning, risk management, Agile, Scrum, Kanban, SAFe, AI-assisted development, agentic workflow, spec-driven development, Claude, GitHub Copilot, responsible AI, Angular, React, TypeScript, C#, .NET, Oracle, Microsoft SQL Server, code review, design review, process improvement, release quality, fleet management, asset management, public sector, government, SaaS, Volaris, Constellation Software
