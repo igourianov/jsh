@@ -10,10 +10,11 @@ Near-exact stack and AI mandate match (C#/.NET, Angular, Claude Code, agentic wo
 - **Benefits:** Not stated
 - **Team size:** 5-8
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Active
 - **Progress:**
   - 2026-10-14 Saved
   - 2026-10-14 Applied
+  - 2026-10-15 Contacted: talent acquisition asked for comp expectations, work authorization and interest
 
 ## Qualifications
 
