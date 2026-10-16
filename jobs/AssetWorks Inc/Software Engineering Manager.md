@@ -15,6 +15,7 @@ Near-exact stack and AI mandate match (C#/.NET, Angular, Claude Code, agentic wo
   - 2026-10-14 Saved
   - 2026-10-14 Applied
   - 2026-10-15 Contacted: talent acquisition asked for comp expectations, work authorization and interest
+  - 2026-10-16 Contacted: recruiter gave comp range 170-175k CAD base, ~200k with bonus, proposed call next Wednesday 14:00 ET
 
 ## Qualifications
 
@@ -80,3 +81,12 @@ AssetWorks builds fleet and asset management software for cities, counties and s
 ## Keywords
 
 Development Manager, Software Engineering Manager, engineering management, people management, hiring, coaching, performance reviews, career development, roadmap, delivery, capacity planning, risk management, Agile, Scrum, Kanban, SAFe, AI-assisted development, agentic workflow, spec-driven development, Claude, GitHub Copilot, responsible AI, Angular, React, TypeScript, C#, .NET, Oracle, Microsoft SQL Server, code review, design review, process improvement, release quality, fleet management, asset management, public sector, government, SaaS, Volaris, Constellation Software
+
+## Log
+
+### 2026-10-16 Contacted
+
+- Interviewer: Ihab Benlamkaddem (Talent Acquisition Specialist)
+- Comp: $170-175k CAD base, bonus brings it close to $200k. Below the $200k base I stated
+- Proposed call: next Wednesday (2026-10-21) 14:00 ET, calendar hold pending my confirmation
+- Recruiter asked whether I am comfortable with the range before setting up next steps

@@ -42,3 +42,31 @@ Happy to set up a call.
 
 Best,
 Ilia
+
+---
+
+**Ihab Benlamkaddem - 2026-10-16, email**
+
+Hello,
+
+Thanks for getting back to me. Regarding comp; our base is closer to 170-175k CAD with bonus getting you closer to 200k. if you are comfortable with this then I am happy to set up next steps.
+
+I'd enjoy the opportunity to chat further about your experience and the role. I have time available next Wednesday at 2 PM ET. If that works for your schedule, let me know and I'll send a calendar hold your way.
+
+Looking forward to our conversation!
+
+Best,
+Ihab
+
+---
+
+**Ilia - 2026-10-16, email**
+
+Hi Ihab,
+
+Thanks for sharing the range. I'm comfortable with it, so let's move forward.
+
+Wednesday at 2 PM ET works for me. Please send the calendar hold.
+
+Best,
+Ilia
