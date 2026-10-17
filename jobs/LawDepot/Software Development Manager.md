@@ -10,10 +10,11 @@ Strong AI leadership and .NET stack fit, but scoped as a Manager role below your
 - **Benefits:** Health/dental, Health Care Spending / Personal Spending Account, company share plan, paid vacation + personal days, LinkedIn Learning + training budget, 37.5h week with banked hours
 - **Team size:** Not stated (Software Developers and Scrum Masters across two teams)
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-25 Saved
   - 2026-09-25 Applied: asked 180K CAD on application form
+  - 2026-10-17 Ghosted
 
 ## Qualifications
 
