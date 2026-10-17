@@ -10,10 +10,11 @@ Strong fit: the platform domain matches and the stack overlaps heavily; the gaps
 - **Benefits:** Performance-based bonuses, comprehensive benefits package
 - **Team size:** Not stated (backend and full-stack engineers)
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-25 Saved
   - 2026-09-25 Applied
+  - 2026-10-17 Ghosted
 
 ## Qualifications
 
