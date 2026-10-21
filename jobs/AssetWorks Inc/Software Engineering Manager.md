@@ -17,6 +17,7 @@ Near-exact stack and AI mandate match (C#/.NET, Angular, Claude Code, agentic wo
   - 2026-10-15 Contacted: talent acquisition asked for comp expectations, work authorization and interest
   - 2026-10-16 Contacted: recruiter gave comp range 170-175k CAD base, ~200k with bonus, proposed call next Wednesday 14:00 ET
   - 2026-10-21 Contacted: sent screening questionnaire to complete before the call
+  - 2026-10-21 Recruiter screen
 
 ## Qualifications
 
@@ -98,3 +99,10 @@ Development Manager, Software Engineering Manager, engineering management, peopl
 - Sent a six-question written questionnaire at 11:46, about two hours before the 14:00 ET call. Asked to complete it before the call
 - Process observation: short notice for a written task, comes across as either rude or disorganized
 - Replied with answers by email before the call. Thread is in `Ihab Benlamkaddem.md`
+
+### 2026-10-21 Recruiter screen
+
+- Interviewer: Ihab Benlamkaddem (Talent Acquisition Specialist)
+- Call at 14:00 ET. No new information about the role or company
+- Next steps: recruiter to get back to me by early next week
+- Confidence: hopeful for the next phase
