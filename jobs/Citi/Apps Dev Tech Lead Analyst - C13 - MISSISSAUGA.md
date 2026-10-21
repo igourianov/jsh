@@ -10,10 +10,11 @@ Scoped as a Technical Lead, below your level, so the 79% reflects fit to a hands
 - **Benefits:** Not stated
 - **Team size:** unstated
 - **Grade:** Technical Lead (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-29 Saved
   - 2026-09-29 Applied
+  - 2026-10-21 Ghosted
 
 ## Red flags
 - **Below-market compensation:** Top of range is $170,800 with no bonus or equity stated, under the 180k CAD base target. Even with an assumed 10% bonus the top reaches about 188k, but only at the very top of the band.
