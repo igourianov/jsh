@@ -10,10 +10,11 @@ The number carries a 22% second-line leadership requirement, which the resume co
 - **Benefits:** Annual bonus, employer-funded benefits from day one, health account, 4 weeks vacation, DC pension with employer matching, parental and compassionate leave top-up, wellness programs, personal health days, flexible work arrangements
 - **Team size:** Not stated
 - **Grade:** Director (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-30 Saved
   - 2026-09-30 Applied
+  - 2026-10-22 Ghosted
 
 ## Qualifications
 
