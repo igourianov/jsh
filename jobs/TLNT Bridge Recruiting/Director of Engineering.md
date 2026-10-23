@@ -10,10 +10,11 @@ Operational lead of a 15+ engineer org, scoped as Senior Manager under a Directo
 - **Benefits:** Equity, comprehensive benefits
 - **Team size:** 15+ engineers, growing to 20+
 - **Grade:** Senior Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-09-30 Saved
   - 2026-09-30 Applied
+  - 2026-10-22 Ghosted
 
 ## Qualifications
 
