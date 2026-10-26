@@ -10,10 +10,11 @@ High number, but only five job-specific qualifications drive it and two of them 
 - **Benefits:** Not stated
 - **Team size:** Not stated
 - **Grade:** Manager (from title)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-10-04 Saved
   - 2026-10-04 Applied
+  - 2026-10-26 Ghosted
 
 ## Qualifications
 
