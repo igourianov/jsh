@@ -18,6 +18,7 @@ Near-exact stack and AI mandate match (C#/.NET, Angular, Claude Code, agentic wo
   - 2026-10-16 Contacted: recruiter gave comp range 170-175k CAD base, ~200k with bonus, proposed call next Wednesday 14:00 ET
   - 2026-10-21 Contacted: sent screening questionnaire to complete before the call
   - 2026-10-21 Recruiter screen
+  - 2026-10-26 Contacted: invited to hiring manager round with Director of Engineering, booked for 2026-10-29 12:00 ET
 
 ## Qualifications
 
@@ -106,3 +107,10 @@ Development Manager, Software Engineering Manager, engineering management, peopl
 - Call at 14:00 ET. No new information about the role or company
 - Next steps: recruiter to get back to me by early next week
 - Confidence: hopeful for the next phase
+
+### 2026-10-26 Contacted
+
+- Interviewer: Ihab Benlamkaddem (Talent Acquisition Specialist)
+- Recruiter confirmed moving me forward after the screen, with the "impressive candidature" wording
+- Next round: Thursday 2026-10-29 12:00 ET on Teams with Mike Bauer (Director of Engineering). Likely the hiring manager, since the role reports to the Director of Engineering
+- Process observation: recruiter got back on the stated timeline (early next week). Invite arrived with three days notice

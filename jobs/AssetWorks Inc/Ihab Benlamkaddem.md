@@ -123,3 +123,31 @@ This role seems like a great fit: modernizing a mature SaaS product on .NET stac
 
 Best,
 Ilia
+
+---
+
+**Ihab Benlamkaddem - 2026-10-26, email**
+
+Hi Ilia,
+
+Thank you for your time and interest in speaking to our team regarding the role of Software Development Manager. Your candidature has been impressive, and we would like to take it forward to the next step in the hiring process. We have the next round interview scheduled for:
+
+Thursday October 29th 12Pm Eastern time.
+
+This round of interview will be with:
+
+Mike Bauer
+Director of Engineering
+
+Microsoft Teams meeting
+Join: https://teams.microsoft.com/meet/3255560124823824?p=D13R13e0WfGzu8DJLP
+
+---
+
+**Ilia - 2026-10-26, email**
+
+Hi Ihab,
+
+I've accepted the meeting invite you sent, thank you.
+
+Looking forward to chatting with Mike.
