@@ -86,14 +86,15 @@ Leading engineers without a reporting line, such as a project group or the team 
 
 ## Grades
 
-Four grades, defined by the reach of the role's technical accountability. Reach is what separates them: every grade codes, designs and mentors, and what grows is how far the decisions travel.
+Three grades, defined by the reach of the role's technical accountability. Reach is what separates them: every grade codes, designs and mentors, and what grows is how far the decisions travel.
 
 | Grade | Reach | Accountable for |
 |---|---|---|
 | Technical Lead | One team | The team's code and technical approach |
 | Staff | One team or a cluster of up to three, or one critical technical area | Direction and delivery of a project or area that crosses teams |
 | Principal | An organization: a department, a multi-team workstream, a product line | The organization's architecture and technical direction. Escalation point for its hardest problems |
-| Distinguished | The company, sometimes the industry | Company-wide technical strategy and the direction other Principals work within |
+
+Principal is the top grade. Distinguished, Fellow and similar titles grade as Principal: few companies have a real level above it, and outside large companies those titles are mostly inflation. A posting that does carry company-wide reach still grades Principal, and that reach scores as job-specific through the `excludes:` on its entries.
 
 **Staff and Principal are the pair that gets confused.** Both cross team boundaries. Two things separate them:
 
@@ -139,28 +140,12 @@ An organization's technical direction, held hands-on.
 	- excludes: company-wide technical vision
 	- below: a single team with no reach beyond it
 - Escalation point for the organization's hardest technical problems and decisions
+	- excludes: escalation point across the company
 - Technical roadmap for the organization, set with its engineering leadership
 - Finding reuse and removing duplication across teams
 - Mentoring Staff and Senior engineers
 - Hands-on work: prototypes, critical-path implementation, code review
 	- excludes: a stated coding share above 70%
-
-### Distinguished
-
-Company-wide technical direction. Titles at this grade include Distinguished Engineer, Fellow and Executive IC.
-
-- 12+ years of software engineering
-	- excludes: any tenure stated at a named IC level
-	- below: under 10
-- Company-wide technical vision and strategy
-	- below: a single organization
-- Escalation point for architectural decisions across the company
-- Mentoring Principal and Staff engineers
-- Representing the company externally: conferences, standards bodies, open source
-- Hands-on work: prototypes and reference implementations
-	- excludes: a stated coding share above 40%
-
-Drops `Technical direction and decision-making for own scope` and `Technical strategy and roadmap input for own scope`. The company-wide entries above replace both.
 
 ## Title mapping
 
@@ -169,7 +154,7 @@ Drops `Technical direction and decision-making for own scope` and `Technical str
 | Tech Lead, Lead Software Engineer, Engineering Team Lead | Technical Lead | Technical Lead | |
 | Staff Engineer, Senior Staff Engineer | Staff | Staff | |
 | Principal Engineer, Senior Principal Engineer, Software Architect | Principal | Staff | Inflated at small companies and agencies. Without stated scope, assume Staff. |
-| Distinguished Engineer, Fellow, Executive IC | Distinguished | Principal | At a company under 200 engineers, take Staff as the fallback instead. |
+| Distinguished Engineer, Fellow, Executive IC | Principal | Principal | Synonyms of Principal on this track, never a mismatch on their own. At a company under 200 engineers, take Staff as the fallback instead. |
 
 A Senior Engineer posting sits below Technical Lead and is not graded here.
 
@@ -194,8 +179,7 @@ Every row shares two rules:
 |---|---|
 | Technical Lead | Systems built personally, hands-on delivery, technical outcomes with numbers. |
 | Staff | Technical work with reach beyond one team: migrations, extractions, practices other teams adopted. Hands-on signal in every entry where the base supports it. |
-| Principal | Architecture owned across an organization: platform services others build on, decomposition of a shared system, standards adopted across teams. Hands-on signal stays visible but second. |
-| Distinguished | The widest technical reach the base resume supports, in the summary as well as the entries. Company-wide adoption, cross-org technical direction, external representation if any. |
+| Principal | Architecture owned across an organization: platform services others build on, decomposition of a shared system, standards adopted across teams. Where the posting reaches company-wide, the widest reach the base resume supports leads, in the summary as well as the entries. Hands-on signal stays visible but second. |
 
 ## Sources
 
@@ -205,6 +189,8 @@ Two entries are baseline on purpose:
 
 - **Distributed systems and backend/API design.** Nearly every IC posting in the corpus asks for both in generic form.
 - **Influence without authority at Staff and above.** It is the defining skill of the track, so scoring it measures nothing.
+
+Distinguished folded into Principal 2026-10-27. Only one posting in the corpus sat on a real ladder with a level above Principal; the rest used the title over Principal-sized or smaller reach. A separate grade would rest on no evidence.
 
 AI is the one area kept narrow on purpose. Using AI tools is boilerplate in 2026 IC postings, but agentic practice, agent orchestration, evals and building LLM features are not shared across the corpus and stay scored, even where they are routine in AI-native postings.
 

@@ -20,7 +20,7 @@ This is Ilia Gourianov's personal job search repository: resume materials, cover
 - `roles/` - Role files and the category vocabulary they share. See Role files.
 	- `roles/qualification-categories.md` - Qualification categories, shared by every role file and every screening file.
 	- `roles/engineering-leader.md` - Baseline qualification profile: what every engineering leadership posting asks. Used by screen-job to filter boilerplate out before matching against the resume, so only job-specific factors are scored. See Screening baseline.
-	- `roles/principal-engineer.md` - The same for senior individual contributor postings: Technical Lead, Staff, Principal, Distinguished.
+	- `roles/principal-engineer.md` - The same for senior individual contributor postings: Technical Lead, Staff, Principal.
 - `pdf/` - output folder for generated resume PDFs
 - `scripts/job.mjs` - Job application state machine. Only writer of Status and Progress. See Status Tracking.
 - `jobs/` - All company folders. Permanent location, files never move.
@@ -85,7 +85,7 @@ Two things it cannot tell you:
 
 ### Screening baseline
 
-Each role file is a closed whitelist of boilerplate for one track, keyed to a grade: `roles/engineering-leader.md` for roles with direct reports (Manager, Senior Manager, Director), `roles/principal-engineer.md` for roles without (Technical Lead, Staff, Principal, Distinguished). `screen-job` picks one per posting and splits every extracted qualification against it, and the two tiers read differently:
+Each role file is a closed whitelist of boilerplate for one track, keyed to a grade: `roles/engineering-leader.md` for roles with direct reports (Manager, Senior Manager, Director), `roles/principal-engineer.md` for roles without (Technical Lead, Staff, Principal). `screen-job` picks one per posting and splits every extracted qualification against it, and the two tiers read differently:
 
 - `(baseline)` - boilerplate. No weight, no match value, excluded from the number. Kept in the file for reference and for `tailor-resume`.
 - `(weight:X%, match:Y%)` - job-specific. Weights are renormalized across these alone, so they sum to 100 and are the entire match.
