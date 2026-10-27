@@ -96,11 +96,10 @@ The generic entries elsewhere in this file cover the same ground at every engine
 
 ## Grades
 
-Four grades, defined by span and by what the role is accountable for. Titles map onto them loosely, see Title mapping.
+Three grades, defined by span and by what the role is accountable for. Titles map onto them loosely, see Title mapping.
 
 | Grade | Span | Accountable for |
 |---|---|---|
-| Technical Lead | One team, no direct reports | The code |
 | Manager | One or two teams, direct reports, no layer in between | The team's delivery |
 | Senior Manager | Multiple teams, directly or through team leads. Or one team plus an outsized org mandate | Delivery across a group, hands still on the teams |
 | Director | Pure second line, everything reaching them through a management layer | The org: strategy, structure, headcount |
@@ -113,19 +112,6 @@ Four grades, defined by span and by what the role is accountable for. Titles map
 A single-team scope also reaches Senior Manager when the role carries outsized influence beyond the team, such as owning a special project or an initiative that cuts across the org. Span is not the only route in.
 
 Grade on substance, never on the layer's title. Team leads reporting in is ordinary Senior Manager shape and says nothing on its own; managers who own their teams' delivery reporting in, with the role's own mandate sitting above delivery, is Director.
-
-### Technical Lead
-
-Technical leadership without formal reporting lines.
-
-- Technical leadership of a team, no direct reports
-- Hands-on production coding as the primary activity
-- Code ownership, code review, design documents
-- Mentoring engineers on technical craft
-
-From `## Qualifications`, only these apply: coaching and mentoring, delivery and execution, cross-functional partnership, quality, incident response, architecture and system design, technical direction, communication. Everything else in that section is job-specific at this grade.
-
-Thinly evidenced. Authored, not derived from the corpus.
 
 ### Manager
 
@@ -198,7 +184,6 @@ Team size bound is provisional. Few postings at this grade state one.
 | Senior Engineering Manager, Senior Manager Engineering, Group Engineering Manager | Senior Manager | Manager | Title inflation is the norm here, not the exception. Most such postings describe a team of 12 or fewer, so the scopeless fallback deflates a grade. That deflation is the table working as intended and is never a mismatch. |
 | Director of Engineering, Director of Software Engineering, Senior Director | Director | Director | |
 | Head of Engineering, VP of Engineering, CTO | Director | Director | Strongest inflation signal, especially at seed and Series A. At a company under 50 people, take Manager as the fallback instead. |
-| Engineering Team Lead, Lead Software Engineer, Staff Software Engineer | Technical Lead | Technical Lead | |
 
 Inflation runs one direction. A small company gives a large title for a small job. Deflation is rare: a Director title at a 2000-person company usually means a Director job.
 
@@ -208,7 +193,6 @@ Which scope facts lead when a resume is tailored for a posting at this grade. An
 
 | Grade | What leads |
 |---|---|
-| Technical Lead | Single team, hands-on, direct delivery. Drop the bullet whose only point is org-level breadth. |
 | Manager | Single team, hands-on, direct delivery. Multi-team and manager-of-managers scope moves below, or the bullet goes. Overshooting the stated scope reads as a mis-level and costs the screen. |
 | Senior Manager | Multi-team span and the leads in between, not org structure and not single-team delivery. Delivery stays on the facts: teams shipping, quality, modernization, cross-team initiatives owned. Keep one hands-on signal. Drop bullets whose only point is org-level breadth. |
 | Director | The largest scope the base resume supports, in the summary paragraph as well as the entries. Org-level facts carry each entry: headcount, structure, developing managers, breadth of mandate. |
@@ -219,6 +203,8 @@ Seeded 2026-07-31 from 285 screening files with parseable `## Qualifications` se
 
 The two domain axes get opposite treatment because the corpus distributions are opposite. Engineering domain is concentrated: a single value covers more than half of all postings, so a default exists and can be treated as noise. Product domain is dispersed across dozens of verticals with no value above a tenth of the corpus, so no default exists and every domain carries signal.
 
-Manager grade rests on real corpus volume. Director is thin on team size. Technical Lead and Senior Manager are authored from almost nothing and need replacing as records accumulate.
+Manager grade rests on real corpus volume. Director is thin on team size. Senior Manager is authored from almost nothing and needs replacing as records accumulate.
+
+Technical Lead removed 2026-10-27. A role with no direct reports is outside this file and graded on the individual contributor track. Records screened before this date carry a Technical Lead grade under the old definition; they are not migrated.
 
 Senior Manager added 2026-09-16. The original scheme sent any lead layer straight to Director, which graded an ordinary Senior EM job over four team leads as a Director and then flagged its own title as a mismatch. A lead layer is normal Senior Manager shape and carries no Director signal on its own. What separates the two is whether the role still owns delivery or owns the organization. Records screened before this date may carry a Director grade that would now read Senior Manager; they are not migrated.

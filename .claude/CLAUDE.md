@@ -85,7 +85,7 @@ Two things it cannot tell you:
 
 ### Screening baseline
 
-`roles/engineering-leader.md` is a closed whitelist of leadership boilerplate, keyed to a grade (Technical Lead, Manager, Senior Manager, Director). `screen-job` splits every extracted qualification against it, and the two tiers read differently:
+Each role file is a closed whitelist of boilerplate for one track, keyed to a grade: `roles/engineering-leader.md` for roles with direct reports (Manager, Senior Manager, Director), `roles/principal-engineer.md` for roles without (Technical Lead, Staff, Principal, Distinguished). `screen-job` picks one per posting and splits every extracted qualification against it, and the two tiers read differently:
 
 - `(baseline)` - boilerplate. No weight, no match value, excluded from the number. Kept in the file for reference and for `tailor-resume`.
 - `(weight:X%, match:Y%)` - job-specific. Weights are renormalized across these alone, so they sum to 100 and are the entire match.
@@ -103,7 +103,9 @@ Both tiers live under one `###` heading per category. Categories are never split
 
 ### Role files
 
-A role file under `roles/` is the baseline whitelist for one track. Each file holds only its own content: the baseline premise, `## Qualifications`, `## Grades`, `## Title mapping`, `## Resume framing` and `## Sources`. Role files never refer to each other. The category vocabulary lives in `roles/qualification-categories.md`, and the format and maintenance rules below.
+A role file under `roles/` is the baseline whitelist for one track. Each file holds only its own content: the baseline premise, `## Qualifications`, `## Grades`, `## Title mapping`, `## Resume framing` and `## Sources`, plus any section only its track needs. Role files never refer to each other.
+
+Grade names are unique across role files, so a screening file's `Grade` field alone identifies the role file it was graded against. The category vocabulary lives in `roles/qualification-categories.md`, and the format and maintenance rules below.
 
 **Format.**
 

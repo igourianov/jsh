@@ -9,7 +9,7 @@
 - **Compensation:** {Salary range}
 - **Benefits:** {Benefits}
 - **Team size:** {number of reports}
-- **Grade:** {Technical Lead | Manager | Senior Manager | Director} ({from scope | from title})
+- **Grade:** {Manager | Senior Manager | Director | Technical Lead | Staff | Principal | Distinguished} ({from scope | from title})
 - **Status:** Saved
 - **Progress:**
   - {current date: yyyy-MM-dd} Saved

@@ -30,7 +30,7 @@ Remote only. On-site and hybrid roles are a red flag: Toronto is borderline comm
 
 Discipline is software engineering. Postings in other engineering disciplines (civil, industrial, electrical, etc) are not a match.
 
-Targeting EM, Senior EM and Director roles.
+Targeting EM, Senior EM and Director roles on the management track, and Staff and Principal roles on the individual contributor track. Technical Lead and Distinguished are outside the target.
 
 Title the candidate presents as, by the title the posting carries:
 
@@ -38,6 +38,7 @@ Title the candidate presents as, by the title the posting carries:
 |---|---|---|
 | Engineering Manager, Software Engineering Manager, Software Development Manager | Engineering Manager | Руководитель разработки |
 | Senior/Group/Principal EM, Director, Head of, VP | Engineering Leader | Технический директор |
+| Staff, Principal or Distinguished Engineer, Software Architect | Software Architect | Архитектор ПО |
 
 The second row is level-neutral: it never overstates, so use it when the level is unclear.
 

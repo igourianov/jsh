@@ -5,7 +5,7 @@
 //   [{ "category": "...", "text": "...", "weight": 10, "tier": "scored", "match_value": 75 },
 //    { "category": "...", "text": "...", "tier": "baseline" }]
 //
-//   tier "baseline" - matched an entry in roles/engineering-leader.md. Carried
+//   tier "baseline" - matched an entry in the posting's role file. Carried
 //                     into the output file for reference. No weight, no
 //                     match_value. Never scored.
 //   tier "scored"   - job-specific. Weight is relative and gets normalized to

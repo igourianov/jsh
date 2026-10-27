@@ -171,7 +171,7 @@ Drops `Technical direction and decision-making for own scope` and `Technical str
 | Principal Engineer, Senior Principal Engineer, Software Architect | Principal | Staff | Inflated at small companies and agencies. Without stated scope, assume Staff. |
 | Distinguished Engineer, Fellow, Executive IC | Distinguished | Principal | At a company under 200 engineers, take Staff as the fallback instead. |
 
-A Senior Engineer posting sits below Technical Lead and is outside both tracks.
+A Senior Engineer posting sits below Technical Lead and is not graded here.
 
 ## Seniority across tracks
 

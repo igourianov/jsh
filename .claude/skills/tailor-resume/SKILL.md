@@ -14,7 +14,7 @@ Re-emphasize the base resume for one posting. Everything in the output traces ba
 - `jobs/{Company}/{Job Title}.md` - the screen file. `## Qualifications`, `## Keywords` and `## Summary` carry the signal; the `Grade` and `Title` fields drive Step 2.
 - `jobs/{Company}/company.md` and `jobs/{Company}/notes.md`, if they exist. Source of company vocabulary only; they never add a fact to the resume.
 - Raw JD text already in the conversation, if any. Do not fetch URLs on the skill's own initiative.
-- `roles/engineering-leader.md` - `## Resume framing` only. It says what leads at the screen file's grade. The rest of the file is `screen-job`'s.
+- The role file whose `## Grades` defines the screen file's grade: `roles/engineering-leader.md` or `roles/principal-engineer.md`. Grade names are unique across them. `## Resume framing` only: it says what leads at that grade. The rest of the file is `screen-job`'s.
 
 ### Candidate context
 
@@ -30,7 +30,7 @@ Two signals, two jobs. The **title** is what the company calls the role and it s
 
 **Header, from the title.** Set it to the one the title table gives for the posting's normalized title, in the resume's language. Where the title is ambiguous or absent, take the row marked level-neutral. That table is the only constraint: never coin a title outside it, however the posting words its own.
 
-**Body, from the grade.** Read the screen file's `Grade` field and take its row from `## Resume framing` in `roles/engineering-leader.md`. That row decides which scope facts lead: headcount, number of teams, whether leads or managers report in, breadth of influence. The base resume states these at several levels, so match the posting's.
+**Body, from the grade.** Read the screen file's `Grade` field and take its row from `## Resume framing` in that role file. That row decides which scope facts lead: headcount, number of teams, whether leads or managers report in, breadth of influence, reach of technical work. The base resume states these at several levels, so match the posting's.
 
 Never re-derive the grade here. Files predating the field carry no grade, and only then fall back to the screen file's `Team size` field and the scope in `## Summary`.
 
