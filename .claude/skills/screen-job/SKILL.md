@@ -10,7 +10,8 @@ Screen job: $ARGUMENTS
 Read these before Step 2. They are the authority for every candidate fact and every grading rule this skill uses, so never substitute a remembered value for one.
 
 - `resume/context.md` - the candidate: discipline, target titles, location and commute limits, acceptable employment types, compensation floor and how to value an unstated bonus or equity, resume language.
-- `roles/engineering-leader.md` - the grading vocabulary: qualification categories, the baseline whitelist, how a grade section combines with it, grade definitions by scope, and the two title columns (what a title claims, and the grade to assume from it when the posting states no scope).
+- `roles/engineering-leader.md` - the role file: the baseline whitelist, grade definitions by scope, and title mapping. How a role file is read is under Role files in the project CLAUDE.md.
+- `roles/qualification-categories.md` - the qualification category vocabulary.
 - `jobs/black-list.md` - companies and recruiters to avoid.
 
 The base resume is read later, in Step 8: which one depends on the posting's language.
@@ -97,13 +98,13 @@ Step 7 assigns one tier per item, so a bundle spanning both tiers takes a single
 - Industry/domain experience if a domain is mentioned in the posting. Weight=10% if implied, 20% if explicitly required.
 - French language for Quebec-based roles, companies headquartered in Quebec, or postings that include a French translation of the job description.
 
-**Categories:** use the category vocabulary. If a qualification fits none of them, create a new category with an appropriate name. If it fits more than one, split it between those categories instead of picking the best one.
+**Categories:** use the vocabulary in `roles/qualification-categories.md`. If a qualification fits none of them, create a new category with an appropriate name. If it fits more than one, split it between those categories instead of picking the best one.
 
 ## Step 7: Classify Against the Baseline
 
 Every EM posting asks for the same fifteen things. Scoring those buries the handful of requirements that actually distinguish this job. This step separates them.
 
-Classify each qualification against the baseline whitelist: its `## Qualifications` entries plus the grade section from Step 5, combined as **How a grade section is read** under `## Grades` says. Grades do not inherit from each other, so never carry a bound from one grade section into another.
+Classify each qualification against the baseline whitelist: its `## Qualifications` entries plus the grade section from Step 5, combined as **How a grade section is read** under Role files in the project CLAUDE.md says. Grades do not inherit from each other, so never carry a bound from one grade section into another.
 
 - **`baseline`** - covered by an entry.
 - **`scored`** - not covered.

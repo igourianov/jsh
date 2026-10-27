@@ -17,7 +17,10 @@ This is Ilia Gourianov's personal job search repository: resume materials, cover
 ## Key Files
 
 - `resume/` - Base resume (source of truth) and context
-- `roles/engineering-leader.md` - Baseline qualification profile: what every engineering leadership posting asks. Used by screen-job to filter boilerplate out before matching against the resume, so only job-specific factors are scored. See Screening baseline.
+- `roles/` - Role files and the category vocabulary they share. See Role files.
+	- `roles/qualification-categories.md` - Qualification categories, shared by every role file and every screening file.
+	- `roles/engineering-leader.md` - Baseline qualification profile: what every engineering leadership posting asks. Used by screen-job to filter boilerplate out before matching against the resume, so only job-specific factors are scored. See Screening baseline.
+	- `roles/principal-engineer.md` - The same for senior individual contributor postings: Technical Lead, Staff, Principal, Distinguished.
 - `pdf/` - output folder for generated resume PDFs
 - `scripts/job.mjs` - Job application state machine. Only writer of Status and Progress. See Status Tracking.
 - `jobs/` - All company folders. Permanent location, files never move.
@@ -97,6 +100,31 @@ Both tiers live under one `###` heading per category. Categories are never split
 - `## Interview Process` - The published or reported loop, when it applies to the company rather than one role.
 - `## Impressions` - Overall gut-feel summary of the company.
 - `## Lessons` - What to do differently next time. Survives the application it came from.
+
+### Role files
+
+A role file under `roles/` is the baseline whitelist for one track. Each file holds only its own content: the baseline premise, `## Qualifications`, `## Grades`, `## Title mapping`, `## Resume framing` and `## Sources`. Role files never refer to each other. The category vocabulary lives in `roles/qualification-categories.md`, and the format and maintenance rules below.
+
+**Format.**
+
+- Each bullet is one entry; its text is what the entry covers.
+- `excludes:` lists what falls **outside** the entry despite resembling it, either by exceeding a bound (`16+ engineers` against an entry covering 5 to 15) or by being more specific than the generic the entry covers (`Kubernetes` against an entry covering cloud environments in general).
+- `below:` marks an ask that is under-scoped for the grade.
+- Numeric bounds are the only numbers in a role file and they are hard.
+- No named language, framework, database, cloud, platform, protocol, API style or architectural pattern appears in a baseline entry.
+- `## Qualifications` entries are baseline at every grade unless a grade section says otherwise. Baseline entries for Eligibility facts (years, span, tenure) live under `## Grades`, not under `## Qualifications`.
+- **How a grade section is read.** Grades never inherit from each other. Each section is complete for its grade, and its bounds replace rather than extend the bounds another grade states: Manager's 5 to 15 engineers says nothing about Director. A grade uses its own section plus all of `## Qualifications`, minus whatever its section explicitly drops. A section that instead names the only `## Qualifications` entries that apply to it overrides that default.
+- **`## Title mapping`** answers two different questions in two columns, never used together:
+	- **Claims** - the grade the title asserts, at face value. Read it whenever a title has to be compared against a grade, such as detecting a title/grade mismatch. It is what the title says, not a judgment about the job.
+	- **Fallback grade** - the grade to assume when the posting describes no scope at all. Where scope is stated it decides the grade and this column is not read, so no row refers to team size or reporting structure. It discounts for inflation, which is why it can sit below the claim.
+- **`## Resume framing`** has one row per grade saying which facts lead. `tailor-resume` reads the grade off the screening file and takes the row; it never re-derives the grade and never states a scope the base resume does not support.
+
+**Maintenance.**
+
+- Edit a role file only from observed recurrence: when the same qualification keeps classifying as job-specific across unrelated postings. Every entry added lowers all future match scores, so an entry that has not earned its place by repetition is a permanent tax on the numbers.
+- Entries are selected by how often a concept recurs across postings at a grade, measured on qualifications as extracted by `screen-job` rather than on raw posting text. That makes them evidence of what is boilerplate, not a neutral measurement of what employers ask for. Frequency data is deliberately not carried in role files. It is reproducible from the corpus when a file needs revising.
+- Record where a file's content came from, and any change that alters how existing records would grade, under its `## Sources`.
+- Records screened before a role file change are not migrated.
 
 ### Interview prep
 

@@ -1,20 +1,16 @@
 # Principal Engineer
 
-Baseline qualification profile for senior individual contributor roles: what a posting shares with every other posting at the same grade. The IC counterpart of `roles/engineering-leader.md`, read the same way and by the same rules.
+Baseline qualification profile for senior individual contributor roles: what a posting shares with every other posting at the same grade.
 
 **The baseline is a Staff engineer on a product team.** Someone who designs and builds customer-facing systems hands-on, leads their technical direction without formal authority, and *consumes* the platform, infrastructure and tooling that other teams build. Every entry covers the consuming side of its capability, whether or not an `excludes:` line spells it out.
 
-Legend, numeric bounds and the category vocabulary are those of `roles/engineering-leader.md`. Its `## Categories` table applies here unchanged.
-
 ## Track
 
-This file grades a role whose accountability is technical: its own code, designs and technical direction, with no direct reports. A role with direct reports goes to `roles/engineering-leader.md` whatever its title, so a "Principal Engineer / VP of Engineering" with a team reporting in is graded there.
+This file grades a role whose accountability is technical: its own code, designs and technical direction, with no direct reports. A role with direct reports is outside this file whatever its title, so a "Principal Engineer / VP of Engineering" with a team reporting in is not graded here.
 
 Leading engineers without a reporting line, such as a project group or the team a tech lead steers, stays on this track.
 
 ## Qualifications
-
-Baseline at every grade unless a grade section says otherwise.
 
 ### Technical
 
@@ -35,8 +31,6 @@ Baseline at every grade unless a grade section says otherwise.
 	- excludes: building LLM features or agents into a product, tool use, MCP, evals, owning an AI platform
 - Meeting security and compliance requirements for own services: secure coding, working within SOC 2, GDPR or similar
 	- excludes: owning the security or compliance program, building security tooling, a named regime as a core requirement
-
-No named language, framework, database, cloud, protocol, API style or architectural pattern appears anywhere in this file.
 
 ### Process management
 
@@ -108,8 +102,6 @@ Four grades, defined by the reach of the role's technical accountability. Reach 
 
 Grade on substance, never on the title. Title inflation at small companies is the norm: a Principal at a company of a few dozen engineers is usually Staff in reach, because an organization above the team does not exist yet.
 
-**How a grade section is read.** Same as `roles/engineering-leader.md`: grades never inherit from each other, and each grade uses its own section plus all of `## Qualifications`, minus whatever its section explicitly drops.
-
 ### Technical Lead
 
 Technical leadership of one team, no direct reports.
@@ -172,8 +164,6 @@ Drops `Technical direction and decision-making for own scope` and `Technical str
 
 ## Title mapping
 
-Same two columns as `roles/engineering-leader.md`, read the same way: **Claims** for title/grade mismatch, **Fallback grade** only when the posting states no scope.
-
 | Title | Claims | Fallback grade | Notes |
 |---|---|---|---|
 | Tech Lead, Lead Software Engineer, Engineering Team Lead | Technical Lead | Technical Lead | |
@@ -193,7 +183,7 @@ A Senior Engineer posting sits below Technical Lead and is outside both tracks.
 
 ## Resume framing
 
-Which facts lead when a resume is tailored for a posting on this track. `tailor-resume` reads the grade off the screening file and takes the row; it never re-derives the grade and never states a scope the base resume does not support.
+Which facts lead when a resume is tailored for a posting on this track.
 
 Every row shares two rules:
 
@@ -207,16 +197,14 @@ Every row shares two rules:
 | Principal | Architecture owned across an organization: platform services others build on, decomposition of a shared system, standards adopted across teams. Hands-on signal stays visible but second. |
 | Distinguished | The widest technical reach the base resume supports, in the summary as well as the entries. Company-wide adoption, cross-org technical direction, external representation if any. |
 
-## Maintenance
-
-Same rule as `roles/engineering-leader.md`: edit only from observed recurrence. Every entry added lowers all future match scores.
+## Sources
 
 Seeded 2026-10-27 from 9 IC screening files (Staff, Principal, Senior Principal, Distinguished, Executive IC and Founding Engineer titles) and from public career ladders: Will Larson's Staff archetypes, Tanya Reilly's *The Staff Engineer's Path*, the GitLab handbook job families and the Levels.fyi level framework. The corpus is too thin to derive from, so this file is authored and the screens were used to check that each baseline entry recurs.
 
-Two departures from the leader baseline are deliberate:
+Two entries are baseline on purpose:
 
-- **Distributed systems and backend/API design are baseline.** Nearly every IC posting in the corpus asks for both in generic form, where the leader baseline only reaches distributed systems at Director grade.
-- **Influence without authority is baseline at Staff and above.** It is the defining skill of the track, so scoring it measures nothing.
+- **Distributed systems and backend/API design.** Nearly every IC posting in the corpus asks for both in generic form.
+- **Influence without authority at Staff and above.** It is the defining skill of the track, so scoring it measures nothing.
 
 AI is the one area kept narrow on purpose. Using AI tools is boilerplate in 2026 IC postings, but agentic practice, agent orchestration, evals and building LLM features are not shared across the corpus and stay scored, even where they are routine in AI-native postings.
 
