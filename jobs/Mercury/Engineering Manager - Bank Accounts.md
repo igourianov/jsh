@@ -10,10 +10,11 @@ Right-sized Manager role leading 4-8 senior engineers; the number is carried mos
 - **Benefits:** Equity (stock options/RSUs), benefits package
 - **Team size:** 4-8
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Ghosted
 - **Progress:**
   - 2026-10-06 Saved
   - 2026-10-06 Applied
+  - 2026-10-28 Ghosted
 
 ## Qualifications
 
