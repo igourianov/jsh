@@ -19,6 +19,7 @@ Near-exact stack and AI mandate match (C#/.NET, Angular, Claude Code, agentic wo
   - 2026-10-21 Contacted: sent screening questionnaire to complete before the call
   - 2026-10-21 Recruiter screen
   - 2026-10-26 Contacted: invited to hiring manager round with Director of Engineering, booked for 2026-10-29 12:00 ET
+  - 2026-10-29 Hiring manager
 
 ## Qualifications
 
@@ -114,3 +115,11 @@ Development Manager, Software Engineering Manager, engineering management, peopl
 - Recruiter confirmed moving me forward after the screen, with the "impressive candidature" wording
 - Next round: Thursday 2026-10-29 12:00 ET on Teams with Mike Bauer (Director of Engineering). Likely the hiring manager, since the role reports to the Director of Engineering
 - Process observation: recruiter got back on the stated timeline (early next week). Invite arrived with three days notice
+
+### 2026-10-29 Hiring manager
+
+- Interviewer: Mike Bauer (Director of Engineering)
+- Role is on a product team building new features
+- Very legacy codebase (ASP.NET Web Forms). Conflicts with the posting's Angular and .NET modernization framing
+- Closing was noncommittal ("if we get to the next stage"). Reads as likely already decided to reject
+- Confidence: low
