@@ -10,10 +10,11 @@ Strong fit: you built and scaled a payroll calculation engine at Dayforce, so do
 - **Benefits:** Competitive salary, benefits and equity
 - **Team size:** 0
 - **Grade:** Staff (from scope)
-- **Status:** Applied
+- **Status:** Rejected
 - **Progress:**
   - 2026-10-29 Saved
   - 2026-10-29 Applied
+  - 2026-10-29 Rejected
 
 ## Qualifications
 
