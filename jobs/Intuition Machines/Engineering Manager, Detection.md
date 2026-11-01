@@ -1,63 +1,69 @@
-# Engineering Manager | Product/Security | Cybersecurity/AI-ML | 66%
+# Engineering Manager | Security/ML | Cybersecurity | 37%
 
-Solid people-management and technical fit, but limited security/ML domain overlap drags the score down.
+Management and stack fit are solid, but the number is carrying a security/ML engineering domain (25% match) and a fraud detection domain with no direct experience. The 2+ years of management asked is under-scoped for a Manager, and the role is a contract.
 
 - **URL:** https://www.linkedin.com/jobs/view/4443508000/
 - **Company:** Intuition Machines
-- **Location:** Remote
+- **Location:** Remote (Canada)
+- **Employment type:** Contract
 - **Compensation:** Not stated
 - **Benefits:** Fully remote, flexible working hours
 - **Team size:** Not stated
+- **Grade:** Manager (from title)
 - **Status:** Passed
 - **Progress:**
   - 2026-07-21 Saved
   - 2026-07-21 Passed
+  - 2026-11-01 Saved
+  - 2026-11-01 Passed: contract role, security/ML domain with no direct experience
 
 ## Red flags
-- **Contract role:** Posting is tagged as Contract rather than full-time/permanent.
+- **Employment type mismatch:** Posting is tagged as Contract. The candidate targets permanent salaried employment.
 
 ## Qualifications
 
-### Technical (weight:31%, match:56%)
-- Extensive experience with TypeScript or Python
-- Familiarity with Rust, Go, or C++
-- Understanding of distributed systems and scaled operations (millions of requests per second)
-- Familiarity with Kubernetes and Docker
-- Participate in code and architecture design, contribute to feature development, code reviews
-- Experience with edge workers (Cloudflare Workers, Fastly Edge Compute, Akamai Serverless)
-- Production-level applications with Rust and/or Golang
+### Technical
+- TypeScript or Python (weight:17%, match:75%)
+- Distributed systems and scaled operations, applications handling millions of requests per second (weight:16%, match:50%)
+- Kubernetes and Docker (weight:9%, match:100%)
+- Rust or Go or C++ (weight:5%, match:25%)
+- Edge workers (Cloudflare Workers, Fastly Edge Compute, Akamai Serverless Compute) (weight:3%, match:0%)
+- Production applications in Rust or Go (weight:3%, match:0%)
+- Participation in code and architecture design, code review, feature development (baseline)
 
-### Baseline (weight:26%, match:100%)
-- Engineering Manager title match
-- 8+ years professional software engineering experience
-- 2+ years leading or managing engineering teams
+### Product domain
+- Fraud, abuse and automation detection, security products (weight:23%, match:0%)
+- Machine learning products, working with scientists (weight:12%, match:25%)
 
-### Product domain (weight:24%, match:13%)
-- Security products / fraud and abuse detection domain experience
-- Machine learning products familiarity
+### Engineering domain
+- Detection engineering: tools, infrastructure and features for a security and ML product (weight:12%, match:25%)
 
-### People management (weight:14%, match:100%)
-- Manage, grow and support a team of experienced engineers
-- Mentor and guide engineers to grow in skill and knowledge
-- Demonstrated leadership building a high-performing, highly engaged team, preferably geo-distributed
+### Eligibility
+- 8+ years of software engineering (baseline)
 
-### Product management (weight:5%, match:90%)
-- Cross-functional collaboration with engineers, scientists, stakeholders and domain experts
+### People management
+- Manage, grow and support a team of experienced engineers (baseline)
+- Mentor and guide engineers (baseline)
+- Build a high-performing, highly engaged engineering team (baseline)
+- Lead geo-distributed teams (baseline)
+
+### Product management
+- Cross-functional work with engineers, scientists, stakeholders and domain experts (baseline)
 
 ## Summary
 
-Engineering Manager role leading the Detection team, which builds tools, infrastructure and ML-driven features for fraud and abuse identification within hCaptcha's security suite. Responsibilities span team management, mentorship, cross-functional work with engineers/scientists/stakeholders, and staying hands-on in code/architecture reviews. Small-team, high-agency, rapid-iteration culture.
+Engineering Manager leading the Detection team, which builds tools, infrastructure and ML-driven features for fraud and abuse identification in the hCaptcha security suite. Manages a team of experienced engineers, works with engineers and scientists, mentors and stays involved in code and architecture design. Small-team, high-agency, rapid-iteration culture. Team size is not stated. Asks for only 2+ years of management, which is under-scoped for the grade.
 
-- **Coding:** 20% (specific languages required, "contribute to feature development" and code/architecture reviews expected)
+- **Coding:** 20% (named languages required, "contribute to feature development" and peer reviews expected)
 - Manage, grow and support a team of experienced engineers
-- Work with engineers, scientists and stakeholders on fraud/automation detection solutions
+- Work with engineers, scientists and stakeholders on fraud and automation detection solutions
 - Mentor and guide engineers
-- Participate in code and architecture design, contribute to feature development, peer reviews
+- Participate in code and architecture design, contribute to feature development, maintain quality via peer reviews
 
 ## Company
 
-Intuition Machines builds enterprise security products using AI/ML, best known for the hCaptcha security suite protecting hundreds of millions of users. The company helps large enterprises build and scale AI/ML solutions focused on fraud and abuse detection. Fully distributed team, flat organization, small teams, rapid iteration.
+Intuition Machines builds enterprise security products using AI/ML, best known for the hCaptcha security suite protecting hundreds of millions of users. It also helps large enterprises build and scale AI/ML solutions focused on fraud and abuse. Fully distributed team, flat organization, small teams, rapid iteration.
 
 ## Keywords
 
-fraud detection, abuse detection, machine learning, distributed systems, TypeScript, Python, Rust, Go, C++, Kubernetes, Docker, edge computing, Cloudflare Workers, Fastly Edge Compute, Akamai Serverless, hCaptcha, security, code review, architecture design, mentorship, team leadership, geo-distributed teams, high-agency, rapid iteration, scaled operations
+fraud detection, abuse detection, machine learning, distributed systems, TypeScript, Python, Rust, Go, C++, Kubernetes, Docker, edge computing, Cloudflare Workers, Fastly Edge Compute, Akamai Serverless Compute, hCaptcha, security, code review, architecture design, mentorship, team leadership, geo-distributed teams, high-agency, rapid iteration, scaled operations
