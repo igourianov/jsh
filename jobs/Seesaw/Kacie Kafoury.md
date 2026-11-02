@@ -26,13 +26,37 @@ Talent Acquisition Manager @ Seesaw
 
 ---
 
-## 2026-11-02 Reply (draft, not sent)
+## 2026-11-02 Reply
 
 Hi Kacie,
 
 Thanks for reaching out. This role looks like a strong match to my experience. The platform work, the data residency project and the modernization effort are close to what I've been doing at Dayforce.
 
 I'd be glad to connect. Let me know what times work for you this week or next and I'll fit around them.
+
+Best,
+Ilia
+
+---
+
+## 2026-11-02 LinkedIn
+
+Hi Ilia,
+
+Thanks so much for getting back to me! I'm glad the role lines up with the work you've been doing lately and that you'd like to learn more. Would you be free to connect Wednesday at or after 2PM Eastern? If not, Thursday between 1PM and 4PM Eastern also works for me.
+
+Thanks,
+Kacie
+
+I forgot to ask, could you please share your email address with me? I will reply back with a link to join a google meet call :)
+
+---
+
+## 2026-11-02 Reply (draft, not sent)
+
+Hi Kacie,
+
+Wednesday at 2PM Eastern works for me. My email is ilia.gourianov@gmail.com.
 
 Best,
 Ilia
