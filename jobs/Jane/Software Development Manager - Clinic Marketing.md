@@ -10,11 +10,12 @@ Manager-grade role below your Senior Manager level, so no seniority gap; the zer
 - **Benefits:** comprehensive benefits package (details on company site)
 - **Team size:** not specified
 - **Grade:** Manager (from scope)
-- **Status:** Ghosted
+- **Status:** Rejected
 - **Progress:**
   - 2026-10-05 Saved
   - 2026-10-05 Applied
   - 2026-10-27 Ghosted
+  - 2026-11-02 Rejected
 
 ## Qualifications
 
