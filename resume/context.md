@@ -36,8 +36,8 @@ Title the candidate presents as, by the title the posting carries:
 
 | Posting title | English | Russian |
 |---|---|---|
-| Engineering Manager, Software Engineering Manager, Software Development Manager | Engineering Manager | Руководитель разработки |
-| Senior/Group/Principal EM, Director, Head of, VP | Engineering Leader | Технический директор |
+| Engineering Manager, Software Engineering Manager, Software Development Manager, Senior EM | Engineering Manager | Руководитель разработки |
+| Group/Principal EM, Director, Head of, VP | Engineering Leader | Технический директор |
 | Staff, Principal or Distinguished Engineer, Software Architect | Software Architect | Архитектор ПО |
 
 The second row is level-neutral: it never overstates, so use it when the level is unclear.
