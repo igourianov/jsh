@@ -92,3 +92,4 @@ Engineering Manager, Core Systems, platform engineering, distributed systems, ba
 - Product used by 25M teachers, students and families.
 - Data residency project is concrete, which supports the multi-region and data-residency match.
 - Still to ask: compensation, team size and levels, reporting line, coding expectation, on-call.
+- Recruiter screen booked for 2026-11-04 14:00-14:30 ET with Kacie on Google Meet. The calendar invite link is wrong, use the link from her email.

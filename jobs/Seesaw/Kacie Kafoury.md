@@ -60,3 +60,35 @@ Wednesday at 2PM Eastern works for me. My email is ilia.gourianov@gmail.com.
 
 Best,
 Ilia
+
+---
+
+## 2026-11-02 Email
+
+Hi Ilia,
+
+You're all set. Looking forward to chatting with you!
+
+Date/Time: Nov 4, 2026 2:00pm-2:30pm (GMT-05:00) Eastern Time (US & Canada)
+Interviewers: Kacie Kafoury
+Google Meet: https://meet.google.com/wmj-wmou-zth
+
+This will be a relaxed, two-way conversation. I'll share more about Seesaw and the role, and I'd love to hear about your background and what you're looking for in your next step. No prep required, just come as you are!
+
+The link in your calendar invite is incorrect. Please use the google meet link above to join your interview instead.
+
+Please confirm that you have received this email so I know you'll be joining!
+
+Warmly,
+Kacie
+
+---
+
+## 2026-11-02 Reply (draft, not sent)
+
+Hi Kacie,
+
+Thanks for sending this over. Confirming I received it and will join on Nov 4 at 2:00pm Eastern using the Google Meet link in your email.
+
+Best,
+Ilia
