@@ -1,68 +1,99 @@
-# Senior Engineering Manager | Platform / DevOps / Security | API-first SaaS | 72%
+# Senior Engineering Manager | Platform, Integrations | Undisclosed | 65%
 
-Strong leadership and SaaS fit, but the role skews infra/SRE/security and the JD is generic across multiple possible functions.
+Platform and Integrations, two teams under the CTO. Match carries 28% platform domain weight (75%) and the largest gaps are the integrations and public API side and hands-on Java/Python/Go.
 
-- **URL:** https://www.linkedin.com/jobs/view/4421723807/
+- **URL:** https://www.linkedin.com/jobs/view/4486041095/
 - **Company:** Jobgether (on behalf of undisclosed partner)
 - **Location:** Remote (Canada)
-- **Compensation:** Not stated, est. 180-220k CAD (estimated)
-- **Benefits:** Fully remote, high autonomy, executive exposure, career growth
-- **Team size:** Multiple teams / workstreams (not specified)
-- **Status:** Passed
+- **Employment type:** Permanent (assumed)
+- **Compensation:** Not stated, est. 180-200k CAD (estimated)
+- **Benefits:** Fully remote, $50 monthly gym and wellness stipend, flexible PTO, six weeks paid paternity leave, home office equipment support
+- **Team size:** Two teams (size not stated; experience asked at 10-15 people)
+- **Grade:** Manager (from scope)
+- **Status:** Applied
 - **Progress:**
   - 2026-05-29 Saved
   - 2026-05-29 Passed
-
-## Red flags
-- **Vague job description:** The role is undefined across functions, "Define and drive the long-term technical vision for infrastructure, cloud platform, security, IT, or compliance domains depending on the assigned function." Generic aggregated posting that could map to several different roles or companies.
+  - 2026-11-03 Saved
+  - 2026-11-03 Applied
 
 ## Qualifications
 
-### Technical (weight:29.4%, match:50%)
-- Cloud infrastructure, platform engineering, security, IT operations, or compliance domain expertise
-- DevOps and cloud technologies: AWS, Kubernetes, Terraform, CI/CD, GitOps, SRE principles
-- Define architectural direction, evaluate technical trade-offs
-- Identify tech debt and infrastructure risks, implement improvement plans
+### Technical
+- Hands-on programming in Java or Python or Go (weight:14%, match:50%)
+- Kubernetes (weight:9%, match:75%)
+- Event-driven systems (weight:6%, match:75%)
+- Messaging technologies: RabbitMQ or Kafka (weight:4%, match:75%)
+- Datadog (weight:3%, match:25%)
+- Metabase (weight:3%, match:0%)
+- Architecture, system design, API contracts, scalability trade-offs (baseline)
+- Technical debt management, balancing speed, maintainability and quality (baseline)
+- Cloud platforms (baseline)
+- Hands-on code review and contribution when required (baseline)
 
-### Baseline (weight:18.2%, match:90%)
-- Senior Engineering Manager role
-- 5-7+ years engineering management, leading multiple teams or large technical functions
+### Engineering domain
+- Leading Platform engineering teams: engineering infrastructure, developer tooling, CI/CD and observability platforms, identity systems, reliability (weight:28%, match:75%)
 
-### People management (weight:16.2%, match:100%)
-- Managing performance, hiring, career development, organizational planning
-- Mentor engineering managers and senior engineers, succession planning, leadership development
+### Product domain
+- Leading an integrations team: public APIs, partner integrations, webhooks (weight:17%, match:50%)
+- Leading engineering teams in startups or high-growth environments (weight:4%, match:50%)
 
-### Process management (weight:13.2%, match:60%)
-- Reliability, performance, incident response, automation, operational excellence
-- Large-scale infrastructure, cloud cost optimization, security operations, compliance frameworks (SOC 2, GDPR, HIPAA, ISO 27001)
+### Eligibility
+- Advanced English proficiency (weight:4%, match:100%)
+- Knowledge of Russian (weight:4%, match:100%)
+- 5+ years of software development as an individual contributor (baseline)
+- 3+ years managing engineering teams of approximately 10-15 people (baseline)
+- Managing two teams simultaneously (baseline)
 
-### Product domain (weight:10.2%, match:55%)
-- High-growth SaaS, API-first or distributed technology organizations
-- Infrastructure / platform / security domain experience
+### People management
+- Headcount planning (weight:4%, match:75%)
+- Managing engineers with different specializations and levels (baseline)
+- One-on-ones, coaching, feedback, performance reviews (baseline)
+- Recruiting, interviewing and onboarding engineers (baseline)
+- Career progression, development plans, delegation of ownership (baseline)
+- Building a culture of accountability, learning and constructive feedback (baseline)
+- Leading remote, distributed teams (baseline)
 
-### Product management (weight:7.2%, match:90%)
-- Roadmap planning, budgeting, staffing strategy
-- Cross-functional collaboration with product, finance and stakeholders
+### Product management
+- Product ownership: gathering requirements from product teams and external partners (baseline)
+- Roadmap ownership, stakeholder prioritization, scope trade-offs (baseline)
+- Delivering large-scale projects (baseline)
+- Communicating roadmaps, priorities, dependencies and risks to stakeholders (baseline)
+- Coordinating with other engineering squads (baseline)
+- Technical vision and roadmap for own teams (baseline)
+- Identifying high-value initiatives, data-driven prioritization (baseline)
 
-### Soft skills (weight:5.1%, match:90%)
-- Communication and stakeholder management, translating technical concepts into business impact
+### Process management
+- Agile and Lean practices (baseline)
+- Improving delivery processes, introducing engineering practices (baseline)
+- Quality standards: PR reviews, test coverage, rollback plans, monitoring, alerting (baseline)
+- Production incident reviews and root cause analysis (baseline)
+- CI/CD and monitoring, working with DevOps (baseline)
+- Engineering productivity and delivery velocity metrics (baseline)
+
+### Soft skills
+- Communication, setting expectations (baseline)
+- Decision-making and creating clarity under ambiguity (baseline)
 
 ## Summary
 
-Senior engineering leadership role at an undisclosed partner company, sourced through Jobgether's AI matching platform. The leader owns multiple engineering teams or workstreams across one of several possible functions (infrastructure, cloud platform, security, IT, or compliance), with significant autonomy and direct exposure to executive leadership. Focus is on scalability, reliability and security for systems supporting billions of API requests annually. Responsibilities span technical vision, operational excellence, mentoring engineering managers, and roadmap/budget/staffing ownership in a remote-first, globally distributed culture.
+Lead the Platform and Integrations engineering teams of a software platform company, reporting to the CTO. Act as product owner for both teams, own technical roadmaps and quality standards, and stay hands-on in architecture and occasional code. Responsible for engineering infrastructure, developer tooling, CI/CD, observability, identity systems and third-party integrations. Includes people management, headcount planning and hiring for both teams.
 
-- **Coding:** 0% - broad tech options with "or"/"such as" framing, "leverage experience" language, no specific required programming language.
-- Lead and oversee multiple engineering teams or workstreams ensuring delivery, operational health and strategic alignment
-- Define and drive long-term technical vision for the assigned infrastructure/security/platform/compliance domain
-- Mentor and develop engineering managers and senior engineers through coaching and succession planning
-- Establish scalable practices for reliability, performance, incident response, automation and operational excellence
-- Own roadmap planning, budgeting and staffing strategy with high autonomy
-- Drive architectural decisions and proactively address technical debt and infrastructure risk
+- **Coding:** 10% (estimated). Writing and reviewing code in Java, Python or Go "when required", with a stated continued interest in coding.
+- Act as product owner for Platform and Integrations: gather requirements from product teams and partners, build roadmaps and milestones
+- Define technical vision and own roadmaps for both teams, including strategic technical debt
+- Contribute to system design, API contracts and architecture decisions
+- Work with Infrastructure and DevOps on cloud, Kubernetes, CI/CD, monitoring and reliability
+- Take part in incident reviews and root cause analyses
+- Set engineering quality standards: PR reviews, test coverage, rollback plans, monitoring, alerting
+- Lead and develop two teams: 1:1s, coaching, performance reviews, career progression
+- Manage headcount planning, recruitment, interviewing and onboarding
+- Introduce and improve management and engineering practices
 
 ## Company
 
-Jobgether is a career navigation platform for senior professionals in the remote job market, using an AI-powered matching process to shortlist candidates against a role's core requirements before sharing the shortlist with the actual hiring employer. The final decision and interview process are managed by the partner company's internal team. This particular posting is on behalf of an undisclosed partner described as a globally distributed, highly technical, high-growth organization operating large-scale, API-first infrastructure (billions of API requests annually) with a remote-first culture. The actual employer, team size, compensation and specific domain are not disclosed in the posting.
+Jobgether is a remote job platform based in Brussels, Belgium, listing this role on behalf of an undisclosed partner company. Applications are reviewed by an AI-powered matching process and a shortlist is passed to the hiring company, which manages interviews and decisions. The partner is a small (LinkedIn: 11-50 employees) remote-first company with a growing software platform, listed under Internet Marketplace Platforms.
 
 ## Keywords
 
-Engineering Manager, Senior Engineering Manager, platform engineering, cloud infrastructure, DevOps, SRE, AWS, Kubernetes, Terraform, CI/CD, GitOps, incident response, operational excellence, reliability, security operations, compliance, SOC 2, GDPR, HIPAA, ISO 27001, cloud cost optimization, architecture, technical roadmap, API-first, SaaS, distributed teams, stakeholder management, hiring, career development, succession planning, budgeting, automation
+Senior Engineering Manager, Platform Engineering, Integrations, Engineering Management, People Management, Product Ownership, Roadmap, Java, Python, Go, Kubernetes, Cloud, CI/CD, DevOps, SRE, Observability, Monitoring, Datadog, Metabase, Identity Systems, Developer Tooling, Public APIs, Partner Integrations, Webhooks, Event-driven, RabbitMQ, Kafka, Lean, Agile, Technical Debt, Incident Management, Root Cause Analysis, Headcount Planning, Recruiting, Onboarding, Performance Reviews, Remote, Distributed Teams, Startup, High-growth, Marketplace
