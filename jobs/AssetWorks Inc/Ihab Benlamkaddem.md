@@ -151,3 +151,20 @@ Hi Ihab,
 I've accepted the meeting invite you sent, thank you.
 
 Looking forward to chatting with Mike.
+
+---
+
+**Ilia - 2026-11-04, email**
+
+Subject: Following up on Software Development Manager
+
+Hi Ihab,
+
+I hope you're doing well. I spoke with Mike on 2026-10-29 and haven't heard back since. Am I still being considered for the EM role?
+
+If the team has decided to go another way, I'd appreciate any feedback you can share on my interviews that would help me going forward.
+
+Thanks again for your time.
+
+Best,
+Ilia

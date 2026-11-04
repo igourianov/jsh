@@ -20,6 +20,7 @@ Near-exact stack and AI mandate match (C#/.NET, Angular, Claude Code, agentic wo
   - 2026-10-21 Recruiter screen
   - 2026-10-26 Contacted: invited to hiring manager round with Director of Engineering, booked for 2026-10-29 12:00 ET
   - 2026-10-29 Hiring manager
+  - 2026-11-04 Follow-up: asked recruiter if still considered, requested feedback
 
 ## Qualifications
 
