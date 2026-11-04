@@ -168,3 +168,18 @@ Thanks again for your time.
 
 Best,
 Ilia
+
+---
+
+**Ihab Benlamkaddem - 2026-11-04, email**
+
+Hi Ilia,
+
+Thank you for taking the time to speak with me and for your interest in the Software Development Manager at AssetWorks.
+
+After careful consideration, we have decided to move forward with other candidates whose experience more closely aligns with our current needs. I sincerely appreciate the time you invested in the process and enjoyed learning more about your background.
+
+I wish you all the best in your job search and future endeavors. Thank you again for your interest in AssetWorks.
+
+Kind regards,
+Ihab

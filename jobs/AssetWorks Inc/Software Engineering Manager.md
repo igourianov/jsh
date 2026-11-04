@@ -10,7 +10,7 @@ Near-exact stack and AI mandate match (C#/.NET, Angular, Claude Code, agentic wo
 - **Benefits:** Not stated
 - **Team size:** 5-8
 - **Grade:** Manager (from scope)
-- **Status:** Active
+- **Status:** Failed
 - **Progress:**
   - 2026-10-14 Saved
   - 2026-10-14 Applied
@@ -21,6 +21,7 @@ Near-exact stack and AI mandate match (C#/.NET, Angular, Claude Code, agentic wo
   - 2026-10-26 Contacted: invited to hiring manager round with Director of Engineering, booked for 2026-10-29 12:00 ET
   - 2026-10-29 Hiring manager
   - 2026-11-04 Follow-up: asked recruiter if still considered, requested feedback
+  - 2026-11-04 Failed: declined after hiring manager round, no feedback given
 
 ## Qualifications
 
@@ -124,3 +125,9 @@ Development Manager, Software Engineering Manager, engineering management, peopl
 - Very legacy codebase (ASP.NET Web Forms). Conflicts with the posting's Angular and .NET modernization framing
 - Closing was noncommittal ("if we get to the next stage"). Reads as likely already decided to reject
 - Confidence: low
+
+### 2026-11-04 Failed
+
+- Rejection email from Ihab Benlamkaddem at 13:40, six days after the hiring manager round and shortly after my follow-up the same day
+- Reason given: moving forward with candidates whose experience "more closely aligns with our current needs". Generic template wording, no feedback on my interviews despite the request
+- Matches the prediction after the Mike Bauer round: noncommittal close, likely already decided
