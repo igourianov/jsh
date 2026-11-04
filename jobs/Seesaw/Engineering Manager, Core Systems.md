@@ -14,6 +14,7 @@ Platform role scoped to your level, and the number carries 28% domain weight tha
 - **Progress:**
   - 2026-11-02 Saved
   - 2026-11-02 Contacted: recruiter reached out on LinkedIn with the JD, asked for a quick chat
+  - 2026-11-04 Recruiter screen
 
 ## Qualifications
 
@@ -93,3 +94,11 @@ Engineering Manager, Core Systems, platform engineering, distributed systems, ba
 - Data residency project is concrete, which supports the multi-region and data-residency match.
 - Still to ask: compensation, team size and levels, reporting line, coding expectation, on-call.
 - Recruiter screen booked for 2026-11-04 14:00-14:30 ET with Kacie on Google Meet. The calendar invite link is wrong, use the link from her email.
+
+### 2026-11-04 Recruiter screen
+
+- Interviewer: Kacie Kafoury (Talent Acquisition Manager)
+- Compensation range: 185-275k CAD/year. Agreed with Kacie that I would land closer to the top of the range
+- Team: 1 data engineer, 1 automation engineer and 2 developers; all in North America
+- Next step: interview with the director, probably the week after next as next week is a company event
+
