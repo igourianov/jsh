@@ -1,74 +1,98 @@
-# Engineering Manager | Backend/Platform Services | Restaurant/Food Tech SaaS | 86%
+# Engineering Manager | Backend Services | Restaurant Tech SaaS | 67%
 
-Strong leadership and backend-platform fit; main gap is no Python/Go/Ruby and no food-tech/marketplace domain.
+Backend services domain carries 24% of the number and matches at 75%, the rest of the gap is no restaurant domain and no Python, Go or Ruby. Base of $150-175k CAD sits below your floor with no bonus or equity stated.
 
-- **URL:** https://www.linkedin.com/jobs/view/4433860752/
+- **URL:** https://www.linkedin.com/jobs/view/4487743385/
 - **Company:** Slice
-- **Location:** Remote (Ontario, Canada)
-- **Compensation:** Not stated (estimated 160-200K CAD base)
-- **Benefits:** Medical, dental, vision; flexible hours; generous PTO; employee well-being allowance; maternity/paternity schemes (vary by location)
-- **Team size:** Not stated (reports to an Engineering Director)
-- **Status:** Rejected
+- **Location:** Remote (Canada)
+- **Employment type:** Permanent (assumed)
+- **Compensation:** $150-175k CAD base
+- **Benefits:** Medical, dental, vision; flexible hours; generous time off; well-being allowance; maternity and paternity schemes. No bonus or equity stated.
+- **Team size:** Not stated
+- **Grade:** Manager (from scope)
+- **Status:** Applied
 - **Progress:**
   - 2026-06-26 Saved
   - 2026-06-26 Applied
   - 2026-07-24 Applied
   - 2026-07-30 Rejected
+  - 2026-11-05 Saved
+  - 2026-11-05 Applied
+
+## Red flags
+- **Below-market compensation:** $150-175k CAD base with no bonus or equity stated. Floor is $180k total, or $160k base only when bonus or equity lifts it to $180k+.
 
 ## Qualifications
 
-### Technical (weight:30%, match:80%)
-- Technical judgment across backend services, APIs, distributed systems, cloud infrastructure, production operations
-- Python, Go, Ruby or comparable backend technologies
-- Lead technical direction and architecture decisions
-- Service migrations, reliability, security, performance
-- AWS, observability, databases, production operations
+### Technical
+- Distributed systems (weight:13%, match:75%)
+- Python or Go or Ruby, or comparable backend technologies (weight:13%, match:50%)
+- AWS (weight:13%, match:75%)
+- Asynchronous workflows (weight:8%, match:75%)
+- Databases (weight:7%, match:100%)
+- Service performance (weight:6%, match:100%)
+- Architecture and engineering decision guidance across owned services (baseline)
+- Cloud infrastructure (baseline)
+- Service migrations (baseline)
+- Security (baseline)
+- Balancing speed, reliability, simplicity and long-term system health (baseline)
+- Using customer feedback, product data and operational metrics to evaluate team decisions (baseline)
 
-### People management (weight:20.6%, match:100%)
-- Managing high-performing engineering teams
-- Hire and retain outstanding engineers
-- Coach engineers across levels, develop future leaders, reward strong performance, address underperformance
+### Engineering domain
+- Backend services engineering: team builds backend systems, APIs and integrations that power the platform (weight:24%, match:75%)
+- Building and operating customer-facing software (baseline)
 
-### Product management (weight:18.8%, match:90%)
-- Own customer and business outcomes; define success through measurable value
-- Partner cross-functionally with Product, Design, Data, Operations
-- Turn complex, ambiguous problems into clear direction
-- Record of improving customer outcomes and engineering effectiveness
+### Product domain
+- Restaurant and food-tech SaaS (weight:16%, match:25%)
 
-### Product domain (weight:9.4%, match:50%)
-- Building and operating customer-facing software or platforms
-- Restaurant/food tech or SMB B2B SaaS marketplace domain
+### People management
+- Managing high-performing engineering teams (baseline)
+- Hiring and retaining engineers, including from unconventional backgrounds (baseline)
+- Coaching engineers across experience levels (baseline)
+- Recognizing future leaders and rewarding strong performance (baseline)
+- Addressing underperformance (baseline)
+- Leading distributed teams across the US, Canada, UK and North Macedonia (baseline)
 
-### Baseline (weight:9.2%, match:100%)
-- Engineering Manager role (normalized title) matching recent experience
+### Product management
+- Owning customer and business outcomes (baseline)
+- Partnering with Product, Design, Data and Operations (baseline)
+- Identifying the problems most worth solving (baseline)
+- Delivering improvements to customers frequently without sacrificing quality (baseline)
+- Relationships with other engineering, product and business leaders (baseline)
 
-### Process management (weight:6.4%, match:100%)
-- Raise execution standards; frequent valuable delivery, lightweight mechanisms, reduce ceremony
-- Use operational metrics, incidents, product data to evaluate decisions
+### Process management
+- Production ownership and operations (baseline)
+- Reliability (baseline)
+- Observability (baseline)
+- Reducing unnecessary ceremony, lightweight process, making risk visible (baseline)
 
-### Soft skills (weight:5.4%, match:75%)
-- Clear, direct communication across technical and non-technical audiences
-- Founder-minded, low ego, high standards, personal accountability
+### Soft skills
+- Turning ambiguous problems into clear direction (baseline)
+- Communication with technical and non-technical audiences, including written decisions (baseline)
+- Influence through judgment and results, surfacing and resolving disagreement (baseline)
 
 ## Summary
 
-Engineering Manager for Slice's Services org, owning the backend systems, APIs, integrations and operational capabilities that power the platform. Framed as a high-agency, hands-on-but-not-bottleneck leadership role: identify the most valuable problems, turn ambiguity into clear direction and build a team that delivers measurable customer/business outcomes rather than shipped projects. Reports to an Engineering Director; collaborates with other managers and technical leaders. Team is distributed across US, Canada, UK and North Macedonia with heavy emphasis on async communication and written decisions.
+Engineering Manager for Slice's Services teams, which build the backend systems, APIs, integrations and operational capabilities behind the platform. Reports to an Engineering Director. The team is distributed across the US, Canada, UK and North Macedonia. Services are converging on Python, with parts in Go and Ruby. The posting asks for a manager who stays close to the technology, owns customer outcomes with Product, Design, Data and Operations, and holds the team accountable for production.
 
-- **Coding:** 5% - Strong technical judgment expected (architecture, reliability, migrations), and Python/Go/Ruby are named, but the role is explicitly "not coordination-only" management with no daily-coding expectation. Languages framed as "leading teams working with" plus "or comparable backend technologies".
-- Own customer and business outcomes; partner with Product, Design, Data and Operations to pick the highest-value problems
-- Lead technical direction across owned services; balance speed, reliability, simplicity and long-term system health
+- **Coding:** unstated. The posting says to stay close to the technology and the details, but never mentions writing code.
+- Own customer and business outcomes with Product, Design, Data and Operations
+- Guide architecture and engineering decisions across the team's services
+- Lead teams working on Python, Go and Ruby services, APIs, distributed systems, asynchronous workflows, databases, AWS, observability and production operations
+- Drive service migrations, reliability, security and performance
 - Build a high-agency team with clear decision boundaries and production ownership
-- Raise execution standards via frequent delivery, reduced ceremony and lightweight mechanisms
-- Hire, coach, develop and retain engineers; address underperformance promptly
-- Lead and influence across Slice engineering, product and business leadership
+- Raise execution standards: frequent delivery, low ceremony, visible risk
+- Hire, coach and retain engineers, and address underperformance
+- Build relationships with engineering, product and business leaders across Slice
+- Hiring process: 30 min intro, 60 min with an Engineering Director, two leadership and technical interviews with future peers and team members, conversation with the Head of RnD, offer
 
 ## Company
 
-Slice provides technology, infrastructure and scale advantages to local pizzerias, helping independent shops compete with major franchises without losing independence. Founded by Ilir Sela out of his family's pizzerias, the platform now supports tens of thousands of restaurants with ordering technology, services and collective purchasing power, plus consumer-facing ordering experiences. Technology, Information and Internet sector; 501-1,000 employees. Pan-Atlantic footprint across US, Canada, UK and North Macedonia. Backend services are converging on Python, with parts of the ecosystem in Go and Ruby on AWS. Core values: "We're doers, Nail the basics, Better together, We're Pan Atlantic, Build in Public, It's a pizza Party."
+Slice provides technology, marketing, buying power and support to more than 15,000 independent restaurants, mostly pizzerias, covering online ordering, marketing and order management. Founded by Ilir Sela in his family's pizzerias. 501-1000 employees.
 
 ## Keywords
 
-Engineering Manager, backend services, APIs, distributed systems, asynchronous workflows, microservices, service migrations, reliability, security, performance, Python, Go, Ruby, AWS, observability, databases, production operations, cloud infrastructure, system design, architecture, people management, hiring, coaching, performance management, cross-functional, Product, Design, Data, Operations, customer outcomes, SaaS, platform, incidents, operational metrics, remote, async communication
+Engineering Manager, backend services, APIs, distributed systems, asynchronous workflows, Python, Go, Ruby, AWS, databases, observability, production operations, service migrations, reliability, security, performance, microservices, people management, hiring, coaching, performance management, distributed teams, cross-functional, customer outcomes, technical leadership, architecture, SaaS, restaurant tech
 
 ## Log
 
