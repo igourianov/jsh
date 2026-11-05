@@ -92,3 +92,26 @@ Thanks for sending this over. Confirming I received it and will join on Nov 4 at
 
 Best,
 Ilia
+
+---
+
+## 2026-11-05 Email
+
+Subject: Next Step, Meet the Hiring Manager
+
+Hi Ilia,
+
+Shared team levels: one IC2, two IC3s and one IC4 (IC2 typically 2-5 years, IC3 5-8 years, IC4 8+ years). Next step is a 45-minute Google Meet with Dan Everson, hiring manager. Asked for at least five dates and times over the week of 2026-11-23 to 2026-11-27, between 09:30 and 17:00 Pacific. Availability is submitted through a link in the email. Next steps after the call with Dan are still being finalized.
+
+Kacie
+
+---
+
+## 2026-11-05 Reply (draft, not sent)
+
+Hi Kacie,
+
+Thanks for the details on the team levels and the interview process overview. I've submitted my availability for the week of the 23rd. Looking forward to meeting Dan.
+
+Best,
+Ilia

@@ -15,6 +15,7 @@ Platform role scoped to your level, and the number carries 28% domain weight tha
   - 2026-11-02 Saved
   - 2026-11-02 Contacted: recruiter reached out on LinkedIn with the JD, asked for a quick chat
   - 2026-11-04 Recruiter screen
+  - 2026-11-05 Contacted: recruiter asked for availability for hiring manager call, week of 11-23
 
 ## Qualifications
 
@@ -102,3 +103,20 @@ Engineering Manager, Core Systems, platform engineering, distributed systems, ba
 - Team: 1 data engineer, 1 automation engineer and 2 developers; all in North America
 - Next step: interview with the director, probably the week after next as next week is a company event
 
+
+### 2026-11-05 Contacted
+
+- Recruiter: Kacie Kafoury. Email asking for at least five availability slots for a 45-minute Google Meet with Dan Everson (hiring manager), week of 2026-11-23 to 2026-11-27, 09:30-17:00 PT. Company all-hands is the week before, Dan is on vacation the week after.
+- Team levels: one IC2 (2-5 years), two IC3 (5-8 years), one IC4 (8+ years). Contradicts the posting's "senior and staff engineers" framing. Team is junior to mid, no staff-level engineer.
+- Team composition from the recruiter screen (1 data engineer, 1 automation engineer, 2 developers) maps to these four levels.
+- Kacie said next steps after the Dan call are still being finalized.
+- Recruiter screen note said "director"; the email calls Dan the hiring manager. Ask who he reports to.
+- Strong response speed: invitation one day after the screen.
+- Full interview loop, sent by Kacie in a separate email (screenshot):
+  1. Recruiter screen, Kacie K., 30 min (done)
+  2. HM screen, Dan E., 45 min. Seesaw overview (Core Systems and all engineering), career narrative, platform experience
+  3. Execution and prioritization, interaction with product teams, Daniel M., 45 min
+  4. Leadership and culture, Kosh T., 45 min
+  5. Systems thinking and design, Dan E., 45 min
+  6. Management style, team panel, 45 min
+- Six steps in total, so five more rounds after the recruiter screen. Dan interviews twice (steps 2 and 5).
