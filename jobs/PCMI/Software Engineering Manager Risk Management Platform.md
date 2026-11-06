@@ -10,10 +10,11 @@ Stack-driven number (.NET, T-SQL, Angular, Azure), with the warranty domain as t
 - **Benefits:** Comprehensive benefits package, professional development, employee events, wellness programs, employee discount programs. No bonus or equity stated.
 - **Team size:** unstated
 - **Grade:** Manager (from scope)
-- **Status:** Applied
+- **Status:** Rejected
 - **Progress:**
   - 2026-11-04 Saved
   - 2026-11-04 Applied
+  - 2026-11-06 Rejected
 
 ## Red flags
 - **Below-market compensation:** Base of $150-160k CAD is below the $180k floor. No bonus or equity is mentioned, so nothing brings the total up. Even valuing an unstated 10% bonus it reaches only $165-176k.

@@ -10,10 +10,11 @@ Strong stack fit (C#, Angular, TypeScript, Azure, AI SDLC), but base is $150-160
 - **Benefits:** Comprehensive benefits package, coverage from first day, professional development, wellness programs, employee discounts. No bonus or equity stated.
 - **Team size:** unstated
 - **Grade:** Manager (from title)
-- **Status:** Applied
+- **Status:** Rejected
 - **Progress:**
   - 2026-11-04 Saved
   - 2026-11-04 Applied
+  - 2026-11-06 Rejected
 
 ## Red flags
 - **Below-market compensation:** Base of $150-160k CAD is below the $180k floor. No bonus or equity is mentioned, so nothing brings the total up. Even valuing an unstated 10% bonus it reaches only $165-176k.
