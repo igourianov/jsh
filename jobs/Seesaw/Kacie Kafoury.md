@@ -115,3 +115,27 @@ Thanks for the details on the team levels and the interview process overview. I'
 
 Best,
 Ilia
+
+---
+
+## 2026-11-11 Email
+
+Hi Ilia,
+
+Can you please share your availability for next week? We'd like to introduce you to our EVP of Engineering, Kosh T., to keep the interview process moving while Dan is out of the office.
+
+Thanks,
+Kacie
+
+---
+
+## 2026-11-11 Reply
+
+Hi Kacie,
+
+Thanks for keeping the process moving. Happy to meet Kosh.
+
+I'm available around noon (EST) on Monday, Tuesday, Thursday and Friday. Let me know if those times don't work, as I can be flexible.
+
+Best,
+Ilia

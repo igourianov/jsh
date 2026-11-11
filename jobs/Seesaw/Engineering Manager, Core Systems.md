@@ -16,6 +16,7 @@ Platform role scoped to your level, and the number carries 28% domain weight tha
   - 2026-11-02 Contacted: recruiter reached out on LinkedIn with the JD, asked for a quick chat
   - 2026-11-04 Recruiter screen
   - 2026-11-05 Contacted: recruiter asked for availability for hiring manager call, week of 11-23
+  - 2026-11-11 Contacted: recruiter asked for availability next week for a call with Kosh T. (EVP of Engineering), Dan out of office
 
 ## Qualifications
 
@@ -120,3 +121,8 @@ Engineering Manager, Core Systems, platform engineering, distributed systems, ba
   5. Systems thinking and design, Dan E., 45 min
   6. Management style, team panel, 45 min
 - Six steps in total, so five more rounds after the recruiter screen. Dan interviews twice (steps 2 and 5).
+
+### 2026-11-11 Contacted
+
+- Recruiter: Kacie Kafoury. Email asking for availability next week (2026-11-16 to 2026-11-20) for a call with Kosh T., EVP of Engineering, to keep the process moving while Dan is out of office.
+- Kosh T. is the step 4 interviewer (Leadership and culture) in the loop. Treated as an informal get-to-know conversation, not a formal loop step.
