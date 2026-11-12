@@ -139,3 +139,31 @@ I'm available around noon (EST) on Monday, Tuesday, Thursday and Friday. Let me 
 
 Best,
 Ilia
+
+---
+
+## 2026-11-12 Email
+
+Hi Ilia,
+
+I apologize, but Kosh is fully booked at noon EST this week. Here are a few alternative times that work for him:
+
+- Tuesday the 17th at 4:00 PM EST
+- Wednesday the 18th at 2:00 PM EST
+- Thursday the 19th at 4:00 PM EST
+
+Would any of these options work for you?
+
+Thanks so much,
+Kacie
+
+---
+
+## 2026-11-12 Reply
+
+Hi Kacie,
+
+I will take the Tuesday slot, thank you.
+
+Best,
+Ilia
