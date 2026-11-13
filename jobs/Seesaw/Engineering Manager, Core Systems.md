@@ -126,3 +126,6 @@ Engineering Manager, Core Systems, platform engineering, distributed systems, ba
 
 - Recruiter: Kacie Kafoury. Email asking for availability next week (2026-11-16 to 2026-11-20) for a call with Kosh T., EVP of Engineering, to keep the process moving while Dan is out of office.
 - Kosh T. is the step 4 interviewer (Leadership and culture) in the loop. Treated as an informal get-to-know conversation, not a formal loop step.
+- 2026-11-12: Kacie clarified that Kosh is taking over step 2 (hiring manager interview) from Dan, not an informal chat. Topics: Seesaw overview (Core Systems and all of engineering), career narrative, platform experience.
+- Call slot taken: Tuesday 2026-11-17 16:00 EST.
+- Kosh T. LinkedIn: https://www.linkedin.com/in/koshalt/. Engineer in 2021, then rapid rise through EM, Senior EM and Director to EVP.

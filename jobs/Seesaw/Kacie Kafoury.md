@@ -167,3 +167,29 @@ I will take the Tuesday slot, thank you.
 
 Best,
 Ilia
+
+---
+
+## 2026-11-12 Email
+
+Hi Ilia,
+
+That's great. Thank you! To give you more context on the conversation, Kosh will be taking over the "hiring manager interview" for Dan. He'll cover topics like an overview of Seesaw (the Core Systems team and all of engineering), your career narrative, and platform experience.
+
+Looking forward to hearing how the conversation goes.
+
+Best,
+Kacie
+
+---
+
+## 2026-11-12 Reply (draft, not sent)
+
+Hi Kacie,
+
+Thanks for the context and sending over Kosh's LinkedIn. Confirmed for Tuesday 4pm.
+
+Looking forward to meeting Kosh.
+
+Best,
+Ilia
